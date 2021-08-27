@@ -1,0 +1,2859 @@
+
+==Monsters==
+
+===Le Locle===
+
+====Bush Lancer====
+
+|*   Location |+7 Saint-Croix Forest |
+|*   Item     |+7  [[Leathery Tail]], [[Beast Flesh]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        0 |        0 |        2 |         0 |          1 |
+
+%
+
+====Crybaby====
+
+|*   Location |+7 Grimsel Fortress |
+|*   Item     |+7 [[Beast Flesh]], [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |        1 |        0 |         1 |          0 |
+
+%
+
+====Pain Beetle====
+
+|*   Location |+7 Grimsel Fortress |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |        1 |        0 |        0 |         0 |          2 |
+
+%
+
+====Ripple Frog====
+
+|*   Location |+7 Balstar Channel |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        0 |        0 |        0 |         0 |          1 |
+
+%
+
+====Ripple Frog 2====
+
+|*   Location |+7  Balstar Channel |
+|*   Item     |+7 [[Clear Gelatin]], [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         2 |        0 |        0 |        0 |         0 |          1 |
+
+This one calls allies.
+
+%
+
+====Rolling Thorn====
+
+|*   Location |+7 Saint-Croix Forest |
+|*   Item     |+7 Prickly Seed |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        1 |        2 |        0 |         1 |          0 |
+
+%
+
+====Rude Cosmos====
+
+|*   Location |+7 Saint-Croix Forest |
+|*   Item     |+7 [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        0 |        2 |         0 |          0 |
+
+%
+
+====Shining Pom====
+
+|*   Location |+7 Saint-Croix Forest, with [[Bush Lancer]] groups |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |        10 |       10 |       10 |       10 |        10 |         10 |
+
+%
+
+====Sticky Slug====
+
+|*   Location |+7 Balstar Channel |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         1 |        0 |        1 |        1 |         1 |          0 |
+
+This version only appears in the very first tutorial battle.
+
+%
+
+====Sticky Slug 2====
+
+|*   Location |+7 Balstar Channel |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         1 |        0 |        1 |        1 |         1 |          0 |
+
+%
+
+====Jaeger====
+
+|*   Location |+7 Training Grounds - Lodge |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        6 |        6 |        1 |         1 |          1 |
+
+%
+
+====Jaeger 2====
+
+|*   Location |+7 Grimsel Fortress |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         0 |        0 |        0 |        0 |        10 |          0 |
+
+%
+
+====Jaeger Woman====
+
+|*   Location |+7 Saint-Croix Forest |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        9 |        1 |        1 |         1 |          8 |
+
+%
+
+====Kurt====
+
+|*   Location |+7 Balstar Channel |
+|*   Item     |+7 [[Heaven's Eye]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        20 |        20 |       20 |       20 |       20 |        20 |         20 |
+
+===Ruan 1===
+
+====Baby Gourd Boars====
+
+|*   Location |+7  Sapphirl Tower, Aurian Causeway |
+|*   Item     |+7 [[Beast Flesh]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         0 |        0 |        0 |        0 |         0 |          5 |
+
+%
+
+====Ballbat====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*   Item     |+7 [[Tender Poultry]], [[Bird Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |        2 |        0 |        0 |         2 |          5 |
+
+%
+
+====Boiled Egger R====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Olive Oil]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        3 |        0 |        2 |         0 |          0 |
+
+%
+
+====Corn Mover====
+
+|*   Location |+7 Aurian Causeway, Vista Forest Rd, Sapphirl Tower |
+|*   Item     |+7 [[Azelia Fruit]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         0 |        0 |        1 |        0 |         5 |          1 |
+
+%
+
+====Crocodark====
+
+|*   Location |+7 Gull Seaside Way |
+|*   Item     |+7 [[Fish Fillet]], [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |        0 |        0 |        0 |         0 |          3 |
+
+%
+
+====Dust Geist====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        5 |        0 |         0 |          0 |
+
+%
+
+====Flying Moth====
+
+|*   Location |+7 Vista Forest Rd, Aurian Causeway |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        4 |        3 |         0 |          3 |
+
+%
+
+====Flying Shirmp====
+
+|*   Location |+7 Manoria Byroad, Gull Seaside Way |
+|*   Item     |+7 [[Monster Carapace]], [[Shrimplet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        5 |        0 |         3 |          0 |
+
+%
+
+====Gourd Boar====
+
+|*   Location |+7 Aurian Causeway |
+|*   Item     |+7 [[Lucky Fang]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         0 |        0 |        0 |        1 |         5 |          0 |
+
+%
+
+====Hammerhead====
+
+|*   Location |+7 Gull Seaside Way, Manoria Byroad |
+|*   Item     |+7 [[Polychaete]], [[Fish Fillet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |        4 |        0 |         0 |          3 |
+
+%
+
+====Helmet Crab====
+
+|*   Location |+7 Sapphirl Tower - 2F, Sapphirl Tower - 5F, Sapphirl Tower - 4F |
+|*   Item     |+7 [[Curative Horn]], [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         5 |        0 |        0 |        1 |         2 |          0 |
+
+====Hyurstamper====
+
+|*   Location |+7 Gull Seaside Way, Manoria Byroad |
+|*   Item     |+7 [[Monster Carapace]], [[Polychaete]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         3 |        0 |        1 |        1 |         0 |          1 |
+
+====Introllmuumuu====
+
+|*   Location |+7 Gull Seaside Way, Manoria Byroad |
+|*   Item     |+7 [[Prickly Seed]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        1 |        4 |        1 |         2 |          2 |
+
+====Jabba====
+
+|*   Location |+7 Manoria Byroad |
+|*   Item     |+7 [[EP 2]], [[Polychaete]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         1 |        5 |        2 |        4 |         7 |          7 |
+
+====Mars Shell====
+
+|*   Location |+7 Gull Seaside Way |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        2 |        0 |         4 |          0 |
+
+====Mini Egger====
+
+|*   Location |+7 Krone Trail, Ancient Dragon's Dwelling |
+|*   Item     |+7 [[Olive Oil]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        0 |        0 |         3 |          0 |
+
+====Mint Pom====
+
+|*   Location |+7 Sapphirl Tower - 3F, Sapphirl Tower - 2F, Sapphirl Tower - 4F |
+|*   Item     |+7 [[Leathery Tail]], [[Firefly Fungus]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         3 |        0 |        1 |        0 |         0 |          2 |
+
+====Moth Fliers====
+
+|*   Location |+7 Vista Forest Rd, Aurian Causeway |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        6 |        0 |         0 |          6 |
+
+====Night Nautilus====
+
+|*   Location |+7 Gull Seaside WAy |
+|*   Item     |+7 [[Evade 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         1 |        0 |        0 |        0 |         5 |          0 |
+
+====Puppet Fragger====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*   Item     |+7 [[Smelling Salts]], [[Purging Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         2 |        1 |        2 |        0 |         0 |          2 |
+
+====Red Hammerhead====
+
+|*   Location |+7 Gull Seaside Way |
+|*   Item     |+7 [[Shrimplet]], [[Fish Fillet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        1 |        2 |        3 |         3 |          5 |
+
+====Roadrunner====
+
+|*   Location |+7 Aurian Causeway |
+|*   Item     |+7 [[Tender Poultry]], [[Bird Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         1 |        7 |        6 |        2 |         0 |          0 |
+
+====Sasa Panda====
+
+|*   Location |+7 Sapphirl Tower, Aurian Causeway |
+|*   Item     |+7 [[Laundry Pole+]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         2 |        1 |        1 |        1 |         1 |          5 |
+
+====Seahorse Demon====
+
+|*   Location |+7 Sapphirl Tower - 2F, Sapphirl Tower - 3F, Sapphirl Tower - 4F |
+|*   Item     |+7 [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        0 |        0 |        0 |         3 |          3 |
+
+====Shining Pom 2====
+
+|*   Location |+7 Sapphirl Tower - 2F, Sapphirl Tower - 3F, Old Schoolhouse - Basement |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        15 |        15 |       15 |       15 |       15 |        15 |         15 |
+
+====Stove Plant====
+
+|*   Location |+7 Gull Seaside Way, Manoria Byroad |
+|*   Item     |+7 [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        0 |        3 |         0 |          0 |
+
+====Wrap Spider====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*   Item     |+7 [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        3 |         3 |          3 |
+
+===Ruan 2===
+
+====Ash Saber====
+
+|*   Location |+7 Aurian Causeway |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         8 |        7 |        6 |        7 |         8 |          9 |
+
+%
+
+====Cobalt Saber====
+
+|*   Location |+7 Gull Seaside Way |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         7 |        8 |        9 |        8 |         7 |          6 |
+
+%
+
+====Dimension Bug 1A====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Dimension Bug 1B====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*   Item     |+7 [[Mind Orb]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Ebony Scale====
+
+|*   Location |+7 Sapphirl Tower |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |       16 |        8 |         0 |          4 |
+
+%
+
+====Ebony Scale 2====
+
+|*   Location |+7 Sapphirl Tower |
+|*   Item     |+7 [[Freeze 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |       16 |        8 |         0 |          4 |
+
+%
+
+====Hapilsag====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        0 |        0 |         0 |          2 |
+
+%
+
+====Mercury Viper====
+
+|*   Location |+7 Vista Forest Rd |
+|*   Item     |+7 Firefly Fungus |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         2 |        0 |        0 |        1 |         3 |          7 |
+
+%
+
+====Mouki====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         1 |        1 |        9 |        1 |         1 |          1 |
+
+%
+
+====Roadrunner 2====
+
+|*   Location |+7 Sapphirl Tower |
+|*   Item     |+7 [[Tender Poultry]], [[Bird Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         1 |        7 |        6 |        2 |         0 |          0 |
+
+%
+
+====Robber Trapper====
+
+|*   Location |+7 Sapphirl Tower 3F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         9 |        1 |        1 |        0 |         0 |          0 |
+
+%
+
+====Weatherseed 1====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         6 |        0 |        0 |        8 |         8 |          8 |
+
+%
+
+====Deen====
+
+|*   Location |+7 Ruan - Warehouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        10|        0 |         0 |          2 |
+
+%
+
+====Rais====
+
+|*   Location |+7 Ruan - Warehouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        8 |        0 |        0 |         0 |          2 |
+
+%
+
+====Rocco====
+
+|*   Location |+7 Ruan - Warehouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        0 |        8 |         0 |          2 |
+
+%
+
+====Storm Bringer====
+
+|*   Location |+7 Old Schoolhouse - Basement |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |       20 |       20 |       10 |        10 |         10 |
+
+%
+
+===Zeiss 1===
+
+====Armored Rabbit====
+
+|*   Location |+7 Tratt Plains Rd, Soldat Army Road, Ritter Roadway |
+|*   Item     |+7 [[Beast Flesh]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         1 |        ` |        0 |        1 |         1 |          5 |
+
+%
+
+====Bane Cobra====
+
+|*   Location |+7 Soldat Army Road, Tratt Plains Rd, Ritter Roadway |
+|*   Item     |+7 [[Firefly Fungus]], [[Beast Flesh]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        4 |        0 |        2 |         3 |          2 |
+
+%
+
+====Bubble Blower====
+
+|*   Location |+7 Kaldia Tunnel |
+|*   Item     |+7 [[Monster Carapace]], [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        0 |        0 |        0 |         3 |          2 |
+
+%
+
+====Cave Ray====
+
+|*   Location |+7 Kaldia Tunnel |
+|*   Item     |+7 [[Fish Fillet]], [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         3 |        0 |        0 |        4 |         0 |          0 |
+
+%
+
+====Damp Crawler====
+
+|*   Location |+7 Hot Springs Fountainhead, Kaldia Tunnel |
+|*   Item     |+7 [[Leathery Tail]], [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         1 |        0 |        0 |        0 |         0 |          3 |
+
+%
+
+====Faerie Epitaph====
+
+|*   Location |+7 Hot Springs Fountainhead, Kaldia Tunnel |
+|*   Item     |+7 [[Monster Carapace]], [[Shrimplet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         2 |        0 |        0 |        1 |        10 |          1 |
+
+%
+
+====Flame Velgr====
+
+|*   Location |+7 Carnelia Tower - 3F, Carnelia Tower - 4F, Carnelia Tower - 5F |
+|*   Item     |+7 [[Tender Poultry]], [[Red Pepper]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |        8 |        1 |        1 |         0 |          0 |
+
+%
+
+====Grass Hopper====
+
+|*   Location |+7 Tratt Plains Rd, Soldat Army Road |
+|*   Item     |+7 [[Dirty Carrot]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        3 |        0 |        3 |         0 |          1 |
+
+%
+
+====Hopper Chief====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Vintage Wine]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         5 |        0 |        2 |        3 |         5 |          1 |
+
+%
+
+====Jet Tortoise====
+
+|*   Location |+7 Kaldia Tunnel, Hot Springs Fountainhead |
+|*   Item     |+7 [[Monster Carapace]], [[River Snail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         3 |        0 |        0 |        2 |         0 |          0 |
+
+%
+
+====Lark Cactus====
+
+|*   Location |+7 Hot Springs Fountainhead |
+|*   Item     |+7 [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        1 |        1 |       11 |         1 |          1 |
+
+%
+
+====Mercury Viper 2====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Firefly Fungus]], [[Beast Flesh]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         2 |        0 |        0 |        1 |         3 |          7 |
+
+%
+
+====Parasite Prima====
+
+|*   Location |+7 Hot Springs Fountainhead |
+|*   Item     |+7 [[Savory Pinion]], [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         3 |        3 |        3 |        0 |         0 |          0 |
+
+%
+
+====Pumpkin Pom====
+
+|*   Location |+7 Carnelia Tower - 5F, 3F, 4F |
+|*   Item     |+7 [[Milled Flour]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        0 |        0 |        0 |         4 |          0 |
+
+%
+
+====Shining Pom 3====
+
+|*   Location |+7 Carnelia Tower - 5F, 4F, Tratt Plains Rd |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        20 |        20 |       20 |       20 |       20 |        20 |         20 |
+
+%
+
+====Spike Jellyfish====
+
+|*   Location |+7 Carnelia Tower - 5F, 4F, 3F |
+|*   Item     |+7 [[Olive Oil]], [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        2 |        0 |         0 |          3 |
+
+%
+
+====War Mantis====
+
+|*   Location |+7 Soldat Army Road, Tratt Plains Rd, Ritter Roadway |
+|*   Item     |+7 [[Prickly Seed]], [[Red Flies]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        4 |        1 |         2 |          3 |
+
+%
+
+====Ya-Kah====
+
+|*   Location |+7 Hot Springs Fountainhead, Tratt Plains Rd |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         3 |        0 |        0 |        3 |         0 |          3 |
+
+%
+
+====Creepy Sheep====
+
+|*   Location |+7 Soldat Army Road, Tratt Plains Rd |
+|*   Item     |+7 [[Leathery Tail]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |        2 |        2 |         2 |          2 |
+
+%
+
+====Pink Sheep====
+
+|*   Location |+7 Soldat Army Rd, Tratt Plains Rd, Ritter Roadway |
+|*   Item     |+7 [[Leathery Tail]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        4 |        1 |        2 |         1 |          2 |
+
+%
+
+====Sky Sheep====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Leathery Tail]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        2 |        4 |         2 |          4 |
+
+%
+
+====Baby Penguins====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Savory Pinion]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        0 |         0 |          1 |
+
+%
+
+====Blue Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Bird Egg]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        0 |        0 |        0 |         0 |          5 |
+
+%
+
+====Green Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Tender Poultry]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        0 |        4 |        4 |         0 |          2 |
+
+%
+
+====Pink Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Tender Poultry]], [[River Snail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        4 |        0 |        0 |         0 |          5 |
+
+%
+
+====Red Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Tender Poultry]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        0 |        0 |         0 |          7 |
+
+%
+
+====White Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Bird Egg]], [[Red Flies]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |        0 |        0 |        5 |         0 |          4 |
+
+%
+
+====Yellow Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Bird Egg]], [[Roe]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         2 |        0 |        0 |        0 |         0 |          5 |
+
+%
+
+====King Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[HP 3]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        6 |        6 |        2 |         2 |          2 |
+
+
+===Zeiss 2===
+
+====Abyss Worm 2====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        15 |         3 |        2 |        0 |        5 |         7 |          0 |
+
+%
+
+====Abyss Worm 3====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Poison 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        15 |         3 |        2 |        0 |        5 |         7 |          0 |
+
+%
+
+====Big Sheep====
+
+|*   Location |+7 Elmo -- from sidequest |
+|*   Item     |+7 [[Proxy Puppet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        4 |        0 |        5 |         0 |          6 |
+
+%
+
+====Bloody Saber====
+
+|*   Location |+7 Soldat Army Road |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         0 |        0 |        1 |        3 |         1 |          7 |
+
+%
+
+====Dimension Bug 2A====
+
+|*   Location |+7 Carnelia Tower - Roof |
+|*   Item     |+7 [[Power Orb]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Dimension Bug 2B====
+
+|*   Location |+7 Carnelia Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        4 |        2 |       15 |        15 |         15 |
+
+%
+
+====Divine Penguin====
+
+|*   Location |+7 Kaldia Limestone Cave |
+|*   Item     |+7 [[Confuse]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         1 |        7 |        3 |        3 |         1 |          3 |
+
+%
+
+====Fly Skipper====
+
+|*   Location |+7 Kaldia Tunnel |
+|*   Item     |+7 [[Fish Fillet]], [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         2 |        0 |        0 |        0 |         0 |          6 |
+
+%
+
+====Lt. Colonel Cid====
+
+|*   Location |+7 Leiston Fortress (sidequest) |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         0 |        0 |       20 |       10 |         0 |          0 |
+
+%
+
+====Mantrap====
+
+|*   Location |+7 Tratt Plains Rd |
+|*   Item     |+7 [[Prickly Seed]], [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         0 |        6 |        0 |        2 |         2 |          2 |
+
+%
+
+====Robber Trapper 2====
+
+|*   Location |+7 Carnelia Tower - 5F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |       11 |        1 |        1 |         1 |          1 |
+
+%
+
+====Royal Soldier====
+
+|*   Location | Leiston Fortress (sidequest) |
+
+%
+
+====Warrant Officer Belc====
+
+|*   Location | Leiston Fortress (sidequest) |
+
+%
+
+====Weatherseed 2====
+
+|*   Location |+7 Carnelia Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        6 |        4 |        8 |         8 |          8 |
+
+%
+
+====Whale Frog Male====
+
+|*   Location |+7 Kaldia Tunnel |
+|*   Item     |+7 [[Gummy Eyeball]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         3 |        0 |        0 |        3 |         0 |          0 |
+
+%
+
+====Whale Frog Female====
+
+|*   Location |+7 Kaldia Tunnel |
+|*   Item     |+7 [[Gummy Eyeball]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         3 |        0 |        9 |        3 |         0 |          0 |
+
+%
+
+====Abyss Worm====
+
+|*   Location |+7 Hot Springs Fountainhead |
+|*   Item     |+7 [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        11 |         3 |        2 |        0 |        5 |         7 |          0 |
+
+%
+
+===Grancel===
+
+====Attack Doberman====
+
+|*   Location |+7 Grancel - Port |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         3 |        3 |        0 |        1 |         0 |          1 |
+
+%
+
+====Black Sheep====
+
+|*   Location |+7 Grancel Sewers - N Block |
+|*   Item     |+7 [[Beast Flesh]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        0 |        0 |         9 |          2 |
+
+%
+
+====Boiled Egger O====
+
+|*   Location |+7 Grancel Sewers - All Blocks |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         3 |        1 |        0 |        0 |         1 |          2 |
+
+%
+
+
+====Bone Fish====
+
+|*   Location |+7 Grancel Sewers - N, E Block |
+|*   Item     |+7 [[Curative Horn]], [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        0 |        1 |        3 |         2 |          2 |
+
+%
+
+
+====Dinedile====
+
+|*   Location |+7 Erbe Scenic Route |
+|*   Item     |+7 [[Fish Fillet]], [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         1 |        2 |        2 |        1 |         1 |          5 |
+
+%
+
+====Flame Plant====
+
+|*   Location |+7 Royal Avenue |
+|*   Item     |+7 [[Prickly Seed]], [[Red Flies]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        7 |        0 |        3 |         0 |          3 |
+
+%
+
+====Great Moth====
+
+|*   Location |+7 Grancel Sewers - All Blocks |
+|*   Item     |+7 [[Savory Pinion]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         1 |        0 |        4 |        0 |         2 |          2 |
+
+%
+
+====Hell Mars====
+
+|*   Location |+7 Royal Avenue, Erbe Scenic Route |
+|*   Item     |+7 [[Tender Poultry]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        3 |        0 |         2 |          2 |
+
+%
+
+====Hillside Bee====
+
+|*   Location |+7 Erbe Scenic Route, Royal Avenue |
+|*   Item     |+7 [[Savory Pinion]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |        0 |        5 |        2 |         0 |          3 |
+
+%
+
+====Mad Snail====
+
+|*   Location |+7 Grancel Sewers - All Blocks |
+|*   Item     |+7 [[Monster Carapace]], [[River Snail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         5 |        0 |        0 |        1 |         0 |          3 |
+
+%
+
+====Marsh Chupacabra====
+
+|*   Location |+7 Royal Avenue |
+|*   Item     |+7 [[Prickly Seed]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        1 |        5 |        1 |         0 |          1 |
+
+%
+
+====Pink Sheep====
+
+|*   Location |+7 Grancel Sewers - N Block |
+|*   Item     |+7 ??? |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        0 |         0 |          0 |
+
+%
+
+====Primera====
+
+|*   Location |+7 Royal Avenue |
+|*   Item     |+7 [[Bird Egg]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        2 |        2 |         3 |          4 |
+
+%
+
+====Scissor Hands====
+
+|*   Location |+7 Grancel Sewers - W, E Block |
+|*   Item     |+7 [[Juicy Bone]], [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         2 |        - |        0 |        0 |         3 |          2 |
+
+%
+
+====Sharkodile====
+
+|*   Location |+7 Erbe Scenic Route |
+|*   Item     |+7 [[Fish Fillet]], [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         5 |        1 |        1 |        5 |         0 |          0 |
+
+%
+
+====Shining Pom 4====
+
+|*   Location |+7 Grancel Sewers - N, W Block, Erbe Scenic Route |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        25 |        25 |       25 |       25 |       25 |        25 |         25 |
+
+%
+
+====Special Ops Soldier 1====
+
+|*   Location |+7 Grancel - Port |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       13 |         0 |          0 |
+
+%
+
+====Special Ops Soldier 2====
+
+|*   Location |+7 Grancel - Port |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        * |        8 |        0 |         0 |          0 |
+
+%
+
+====War Bat====
+
+|*   Location |+7 Erbe Scenic Route, Royal Avenue |
+|*   Item     |+7 [[Beast Flesh]], [[Roe]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         0 |        2 |        4 |        0 |         2 |          0 |
+
+%
+
+====Big Cactus====
+
+|*   Location |+7 Erbe Scenic Route |
+|*   Item     |+7 [[Seal 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        4 |        4 |       30 |         4 |          4 |
+
+%
+
+====Cronocider====
+
+|*   Location |+7 Erbe Scenic Route |
+|*   Item     |+7 [[Curative Horn]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         0 |        0 |        0 |        1 |        11 |          1 |
+
+%
+
+====Cryon Bit====
+
+|*   Location |+7 Grand Arena |
+|*   Item     |+7 [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        0 |        2 |        0 |         0 |          2 |
+
+%
+
+====Evil Stream====
+
+|*   Location |+7 Grancel Sewers - W Block |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |        12 |        0 |       15 |        0 |         0 |          0 |
+
+%
+
+====Evil Stream 2====
+
+|*   Location |+7 Grancel Sewers - W Block |
+|*   Item     |+7 [[Death]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |        12 |        0 |       15 |        0 |         0 |          0 |
+
+%
+
+====Flame Velgr 2====
+
+|*   Location |+7 Royal Avenue |
+|*   Item     |+7 [[Tender Poultry]], [[Red Pepper]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |        8 |        1 |        1 |         0 |          0 |
+
+%
+
+====Gundoll====
+
+|*   Location |+7 Grancel Sewers - W Block (access via E Block) |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        3 |        3 |        4 |         4 |          4 |
+
+%
+
+====Lark Cactus 2====
+
+|*   Location |+7 Erbe Scenic Route |
+|*   Item     |+7 [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       20 |         2 |          2 |
+
+%
+
+====Mad Tree====
+
+|*   Location |+7 Grancel Sewers - W Block |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        0 |        0 |        0 |         0 |          0 |
+
+%
+
+====Master Cryon====
+
+|*   Location |+7 Grand Arena |
+|*   Item     |+7 [[Fish Fillet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         8 |        0 |        8 |        1 |         0 |          2 |
+
+%
+
+====Orgueille====
+
+|*   Location |+7 Grancel - Port |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |       40 |        0 |       15 |        15 |         15 |
+
+%
+
+====Kanone====
+
+|*   Location |+7 Grancel - Port |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        5 |        5 |       10 |         5 |          3 |
+
+
+===Rolent===
+
+====Alraune====
+
+|*   Location |+7 Mistwald, Perzel Farm |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         3 |        0 |        3 |        1 |         1 |          0 |
+
+%
+
+====Coral Shell====
+
+|*   Location |+7 Esmelas Tower - 3F, 4F |
+|*   Item     |+7 [[Mosnter Carapace]], [[River Snail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        0 |        7 |        0 |         0 |          0 |
+
+%
+
+====Crop Muncher====
+
+|*   Location |+7 Malga Trail |
+|*   Item     |+7 [[Leathery Tail]], [[Red Flies]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         5 |        0 |        0 |        0 |         5 |          0 |
+
+%
+
+====Death Specular 1====
+
+|*   Location |+7 Mistwald |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |        3 |        0 |        1 |         0 |          0 |
+
+%
+
+====Dirty Rat====
+
+|*   Location |+7 Rolent Sewers |
+|*   Item     |+7 [[Juicy Bone]], [[Curative Horn]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         0 |        4 |        0 |        0 |         4 |          0 |
+
+%
+
+====Fly Skipper 2====
+
+|*   Location |+7 Esmelas Tower 2F, 3F, 4F |
+|*   Item     |+7 [[Fish Fillet]], [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        8 |        4 |         0 |          4 |
+
+%
+
+====Flying Feline====
+
+|*   Location |+7 Malga Trail, Milch Main Road |
+|*   Item     |+7 [[Beast Flesh]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        6 |        0 |        0 |         0 |          2 |
+
+%
+
+====Forest Mist====
+
+|*   Location |+7 Mistwald |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        7 |        0 |         0 |          0 |
+
+%
+
+====Giant Crop Muncher====
+
+|*   Location |+7 Malga Trail |
+|*   Item     |+7 [[Flaky Potato]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        9 |        0 |        9 |         0 |          0 |
+
+%
+
+====Killer Crab====
+
+|*   Location |+7 Malga Mine |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         5 |        0 |        5 |        0 |         0 |          0 |
+
+%
+
+====Killer Hornet====
+
+|*   Location |+7 Mistwald |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         0 |        6 |        0 |        0 |         0 |          0 |
+
+%
+
+====Lily Mover====
+
+|*   Location |+7 Malga Trail, Milch Main Road |
+|*   Item     |+7 [[Prickly Seed]], [[Roe]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         0 |        3 |        0 |        2 |         0 |          4 |
+
+%
+
+====Mantrap 2====
+
+|*   Location |+7 Milch Main Road |
+|*   Item     |+7 [[Prickly Seed]], [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         0 |        6 |        0 |        2 |         2 |          2 |
+
+%
+
+====Mars Sparrow====
+
+|*   Location |+7 Milch Main Road, Elize Highway |
+|*   Item     |+7 [[Tender Poultry]], [[Bird Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        8 |        0 |        2 |         0 |          3 |
+
+%
+
+====Moth Cluster====
+
+|*   Location |+7 Rolent Sewers |
+|*   Item     |+7 [[Crisp Onion]], [[Polychaete]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        8 |        0 |         0 |          8 |
+
+%
+
+====Picorn====
+
+|*   Location |+7 Milch Main Road, Mistwald |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         6 |        0 |        6 |        0 |         0 |          9 |
+
+%
+
+====Pine Plant====
+
+|*   Location |+7 Elize Highway |
+|*   Item     |+7 [[Dirty Carrot]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        2 |        6 |         2 |          2 |
+
+%
+
+====Pom====
+
+|*   Location |+7 Esmelas Tower - 3F, 4F, 5F |
+|*   Item     |+7 [[Milled Flour]], [[Dumplings]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |        0 |        6 |        0 |         0 |          1 |
+
+%
+
+====Red Insectos====
+
+|*   Location |+7 Elize Highway, Malga Trail, Milch Main Road |
+|*   Item     |+7 [[Savory Pinion]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |        5 |        0 |        0 |         0 |          5 |
+
+%
+
+====Rhinocider====
+
+|*   Location |+7 Elize Highway |
+|*   Item     |+7 [[Lucky Fang]], [[Curative Horn]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        6 |        0 |        3 |         2 |          3 |
+
+%
+
+====Shining Pom 5====
+
+|*   Location |+7 Esmelas Tower 4F, 5F |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        30 |        30 |       30 |       30 |       30 |        30 |         30 |
+
+%
+
+====Robber Trapper 3====
+
+|*   Location |+7 Esmelas Tower - 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        0 |       10 |        0 |         0 |          4 |
+
+%
+
+====Armored Hydra====
+
+|*   Location |+7 Malga Mine |
+|*   Item     |+7 [[Topaz Gem]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        15 |         7 |        7 |       17 |        1 |         2 |          1 |
+
+%
+
+====Death Specular 2====
+
+|*   Location |+7 Milch Main Road |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         0 |        3 |        0 |        1 |         0 |          0 |
+
+%
+
+====Devil Spear 1====
+
+|*   Location |+7 Milch Main Road |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         2 |        0 |       20 |        0 |         0 |          0 |
+
+%
+
+====Devil Spear 2====
+
+|*   Location |+7 Milch Main Road |
+|*   Item     |+7 [[Confuse 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         2 |        0 |       20 |        0 |         0 |          0 |
+
+%
+
+====Dimension Bug 3A====
+
+|*   Location |+7 Esmelas Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] x2 |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        4 |       15 |        15 |         15 |
+
+%
+
+====Dimension Bug 3B====
+
+|*   Location |+7 Esmelas Tower - Roof |
+|*   Item     |+7 [[Soul Orb]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Giantfoot====
+
+|*   Location |+7 Milch Main Road |
+|*   Item     |+7 [[Beast Flesh]], [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        3 |        3 |         3 |          4 |
+
+%
+
+====Mouki 2====
+
+|*   Location |+7 Rolent Sewers |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         1 |        1 |        9 |        1 |         1 |          1`|
+
+%
+
+====Thunder Quake====
+
+|*   Location |+7 Esmelas Tower |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        0 |       16 |        8 |         0 |          4 |
+
+%
+
+====Weatherseed 3====
+
+|*   Location |+7 Esmelas Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        4 |        6 |        8 |         8 |          8 |
+
+%
+
+====Wisdom====
+
+|*   Location |+7 Elize Highway |
+|*   Item     |+7 [[Skull Pendant]], [[HP 4]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        7 |        4 |         4 |          4 |
+
+%
+
+====Jubokko====
+
+|*   Location |+7 Mistwald |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        14 |        0 |       15 |        1 |         0 |          0 |
+
+%
+
+====Zaqqum====
+
+|*   Location |+7 Mistwald |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        8 |        2 |         7 |          7 |
+
+===Bose 1===
+
+====Amber Turtle====
+
+|*   Location |+7 Amberl Tower - 4F, 5F |
+|*   Item     |+7 [[Clear Gelatin]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         0 |        2 |        0 |        2 |         7 |          2 |
+
+%
+
+====Blade Fang====
+
+|*   Location |+7 Ancient Dragon's Dwelling |
+|*   Item     |+7 [[Lucky Fang]], [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        0 |        0 |        0 |         0 |          5 |
+
+%
+
+====Boiled Egger G====
+
+|*   Location |+7 Krone Trail, West Bose Highway, New Ansel Path |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |       12 |        0 |         0 |          0 |
+
+%
+
+====Boiled Egger R 2====
+
+|*   Location |+7 Krone Trail, Ancient Dragon's Dwelling |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |       12 |        0 |        0 |         0 |          0 |
+
+%
+
+====Chupacabra====
+
+|*   Location |+7 Ravennue Trail |
+|*   Item     |+7 [[Royal Leaf]], [[Frog]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         0 |        9 |        0 |        0 |         0 |          0 |
+
+%
+
+====Cryon Bit 2====
+
+|*   Location |+7 Ancient Dragon's Dwelling, Nebel Valley |
+|*   Item     |+7 [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         4 |        0 |        2 |        0 |         0 |          2 |
+
+%
+
+====Dust Geist 2====
+
+|*   Location |+7 New Ansel Path |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        2 |        0 |        0 |         0 |          0 |
+
+%
+
+====Elder Owl====
+
+|*   Location |+7 Sky Bandit Stronghold |
+|*   Item     |+7 [[Tender Poultry]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |        0 |       10 |        0 |         0 |          0 |
+
+%
+
+====Ghost Epitaph====
+
+|*   Location |+7 Ancient Dragon's Dwelling |
+|*   Item     |+7 [[Curative Horn]], [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        0 |        0 |        5 |         5 |          5 |
+
+%
+
+====Giantfoot 2====
+
+|*   Location |+7 Nebel Valley |
+|*   Item     |+7 [[Beast Flesh]], [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        0 |        3 |         3 |          4 |
+
+%
+
+====Gold Rat====
+
+|*   Location |+7 Sky Bandit Stronghold |
+|*   Item     |+7 [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        0 |         7 |          7 |
+
+%
+
+====Green Insectos====
+
+|*   Location |+7 Amberl Tower - 2F, 3F |
+|*   Item     |+7 [[Savory Pinion]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         0 |        0 |        0 |        0 |         0 |          8 |
+
+%
+
+====Halo Mole====
+
+|*   Location |+7 West Bose Highway, New Ansel Path, East Bose Highway |
+|*   Item     |+7 [[Dumplings]], [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         5 |        0 |        0 |        3 |         3 |          3 |
+
+%
+
+====Hresvelgr====
+
+|*   Location |+7 Eisen Road |
+|*   Item     |+7 [[Tender Poultry]], [[Roe]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        8 |        0 |         4 |          4 |
+
+%
+
+====Ice Pecker====
+
+|*   Location |+7 Nebel Valley |
+|*   Item     |+7 [[Lighter]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        10 |        0 |        8 |        0 |         0 |          0 |
+
+%
+
+====King Scorpion====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         0 |        9 |        0 |        3 |         0 |          2 |
+
+%
+
+====Mad Roper====
+
+|*   Location |+7 East Bose Highway, West Bose Highway |
+|*   Item     |+7 [[Clear Gelatin]], [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         5 |        0 |        8 |        0 |         4 |          0 |
+
+%
+
+====Master Cryon 2====
+
+|*   Location |+7 Ancient Dragon's Dwelling, Nebel Valley |
+|*   Item     |+7 [[Fish Fillet]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         8 |        0 |        8 |        1 |         0 |          2 |
+
+%
+
+====Mushroom Snake====
+
+|*   Location |+7 West Bose Highway, East Bose Highway |
+|*   Item     |+7 [[Beast Flesh]], [[Firefly Fungus]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        8 |        2 |        0 |         0 |          7 |
+
+%
+
+====Octobone====
+
+|*   Location |+7 Ancient Dragon's Dwelling |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |        10 |        2 |        4 |        0 |         0 |          0 |
+
+%
+
+====Queen Scorpion====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         4 |        8 |        0 |        0 |         5 |          0 |
+
+%
+
+====Rimera====
+
+|*   Location |+7 Eisen Road |
+|*   Item     |+7 [[Tender Poultry]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        2 |        5 |        2 |         2 |          2 |
+
+%
+
+====Rock Pecker====
+
+|*   Location |+7 New Ansel Path, Ravennue Trail, West Bose Highway |
+|*   Item     |+7 [[Bird Egg]], [[Earthworm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |        3 |        3 |        4 |         4 |          0 |
+
+%
+
+====Roly-Poly====
+
+|*   Location |+7 Ravennue Trail |
+|*   Item     |+7 [[Leathery Tail]], [[Curative Horn]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         0 |        5 |        0 |        0 |         4 |          4 |
+
+Drache has a cat with this name. She's fat.
+%
+
+====Shining Pom 6====
+
+|*   Location |+7 Amberl Tower - 3F |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        35 |        35 |       35 |       35 |       35 |        35 |         35 |
+
+%
+
+====Snow Mantis====
+
+|*   Location |+7 Nebel Valley |
+|*   Item     |+7 [[Tri-Colored Rice]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         7 |        0 |        0 |        5 |         5 |          0 |
+
+%
+
+====Violet Pom====
+
+|*   Location |+7 Amberl Tower - 2F, 4F, 5F |
+|*   Item     |+7 [[Milled Flour]], [[Firefly Fungus]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         0 |        0 |        0 |        0 |         5 |          3 |
+
+%
+
+====White Insectos====
+
+|*   Location |+7 Nebel Valley |
+|*   Item     |+7 [[Kibbled Salt]], [[River Bug]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         6 |        0 |        5 |        0 |         0 |          5 |
+
+%
+
+====Wisdom 2====
+
+|*   Location |+7 New Ansel Path, East Bose Highway |
+|*   Item     |+7 [[Skull Pendant]], [[HP 4]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        0 |        7 |        4 |         4 |          4 |
+
+===Bose 2===
+
+====Blade Fang 2====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Lucky Fang]], [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        0 |        0 |        0 |         0 |          5 |
+
+%
+
+====Broken Piece====
+
+|*   Location |+7 New Ansel Path |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       10 |        10 |         10 |
+
+%
+
+====Dimension Bug 4A====
+
+|*   Location |+7 Amberl Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]], [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Dimension Bug 4B====
+
+|*   Location |+7 Amberl Tower - Roof |
+|*   Item     |+7 [[Shield Orb]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Fate Spinner====
+
+|*   Location |+7 Ravennue Trail |
+|*   Item     |+7 [[Lucky Fang]], [[Curative Horn]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         4 |        6 |        0 |        2 |         2 |          2 |
+
+%
+
+====Ghost Epitaph 2====
+
+|*   Location |+7 Nebel Valley |
+|*   Item     |+7 [[Curative Horn]], [[Juicy Bone]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        0 |        0 |        5 |         5 |          5 |
+
+%
+
+====Guard Minion====
+
+|*   Location |+7 New Ansel Path |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        6 |        6 |        0 |         0 |          0 |
+
+%
+
+====Octobone 2====
+
+|*   Location |+7 Amberl Tower - Roof |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         3 |        1 |        2 |        0 |         0 |          0 |
+
+%
+
+====Red Fang====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |       1 0 |        0 |        0 |        0 |        10 |          5 |
+
+%
+
+====Red Fang 2====
+
+|*   Location |+7 Krone Trail |
+|*   Item     |+7 [[Mute 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |       1 0 |        0 |        0 |        0 |        10 |          5 |
+
+%
+
+====Robber Trapper 4====
+
+|*   Location |+7 Amberl Tower - 4F, 5F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        12 |         0 |        5 |        0 |        0 |         0 |          5 |
+
+%
+
+====Royal Army Officer====
+
+|*   Location |+7 Sky Bandit Stronghold |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        0 |         0 |          9 |
+
+%
+
+====Royal Army Soldier====
+
+|*   Location |+7 Sky Bandit Stronghold |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        9 |         3 |          2 |
+
+%
+
+====S-Series Doom====
+
+|*   Location |+7 New Ansel Path |
+|*   Item     |+7 [[EP Charge III]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        7 |        7 |        2 |         4 |          2 |
+
+%
+
+====S-Series Doom 2====
+
+|*   Location |+7 New Ansel Path |
+|*   Item     |+7 [[Strike 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        7 |        7 |        2 |         4 |          2 |
+
+%
+
+====Special Ops Soldier====
+
+|*   Location |+7 Abandoned Mine |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        4 |        8 |         2 |          2 |
+
+%
+
+====Special Ops Soldier 2====
+
+|*   Location |+7 Abandoned Mine |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |         2 |        2 |        4 |        4 |         1 |          1 |
+
+%
+
+====Weatherseed 4====
+
+|*   Location |+7 Amberl Tower - Roof |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         4 |        0 |        0 |        8 |         8 |          8 |
+
+%
+
+====Mueller====
+
+|*   Location |+7 Sky Bandit Stronghold |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         9 |        9 |        9 |        0 |         7 |          7 |
+
+%
+
+====Ragnard====
+
+|*   Location |+7 Ancient Dragon's Dwelling |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       30 |        30 |         30 |
+
+%
+
+===Altered Space===
+
+; CHECK AMBERL M-A SERIES
+
+====Broken Piece A====
+
+|*   Location |+7 Amberl - Altered Space 2, 3, 4 |
+|*   Item     |+7 [[Teara Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         0 |        0 |        0 |        3 |         3 |          3 |
+
+%
+
+====Broken Piece B====
+
+|*   Location |+7 Sapphirl - Altered Space 3, 4, 5 |
+|*   Item     |+7 [[Teara Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         9 |        0 |        0 |        3 |         3 |          3 |
+
+%
+
+====Broken Piece C====
+
+|*   Location |+7 Carnelia - Altered Space 3, 4, 5 |
+|*   Item     |+7 [[Teara Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        9 |        0 |        3 |         3 |          3 |
+
+%
+
+====Broken Piece J====
+
+|*   Location |+7 Esmelas - Altered Space 2, 4, 5 |
+|*   Item     |+7 [[Teara Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        9 |        3 |         3 |          3 |
+
+%
+
+====D-A Series Doom====
+
+|*   Location |+7 Amberl - Altered Space 2, 3, 4 |
+|*   Item     |+7 [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        15 |         0 |        1 |        1 |        3 |         3 |          3 |
+
+%
+
+====D-B Series Doom====
+
+|*   Location |+7 Sapphirl - Altered Space 3, 4 |
+|*   Item     |+7 [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |        15 |        0 |        1 |        3 |         3 |          3 |
+
+%
+
+====Guard Minion A====
+
+|*   Location |+7 Amberl - Altered Space 2, 3, 4 |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         4 |        4 |        4 |        0 |         0 |          0 |
+
+%
+
+====Guard Minion B====
+
+|*   Location |+7 Sapphirl - Altered Space 3, 4, 5 |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         6 |        4 |        4 |        0 |         0 |          0 |
+
+%
+
+====Guard Minion C====
+
+|*   Location |+7 Carnelia - Altered Space 3, 4, 5 |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        6 |        4 |        0 |         0 |          0 |
+
+%
+
+====Guard Minion J====
+
+|*   Location |+7 Esmelas - Altered Space 2, 3, 5 |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        4 |        6 |        0 |         0 |          0 |
+
+%
+
+====Gundoll A====
+
+|*   Location |+7 Amberl - Altered Space 1, 4 |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        20 |         0 |        0 |        0 |        5 |         5 |          0 |
+
+%
+
+====Gundoll B====
+
+|*   Location |+7 Sapphirl - Altered Space 1, 3, 4 |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        20 |        0 |        0 |        5 |         0 |          5 |
+
+%
+
+====Gundoll C====
+
+|*   Location |+7 Carnelia - Altered Space 3 |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |       20 |        0 |        - |         5 |          5 |
+
+%
+
+====M-A Series Doom====
+
+|*   Location |+7 Amberl - Altered Space 2 |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         2 |        2 |        0 |        5 |         5 |          5 |
+
+%
+
+====M-B Series Doom====
+
+|*   Location |+7 Sapphirl - Altered Space 2, 3, 4 |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |        10 |        0 |        2 |        0 |         0 |         15 |
+
+%
+
+====M-C Series Doom====
+
+|*   Location |+7 Carnelia - Altered Space 3, 4, 5 |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |       10 |        2 |        0 |        15 |          0 |
+
+%
+
+====M-J Series Doom====
+
+|*   Location |+7 Esmelas - Altered Space 5 |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        2 |        2 |        0 |        15 |          0 |
+
+%
+
+====Photon Judge A====
+
+|*   Location |+7 Amberl - Altered Space 4 |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         6 |        6 |        4 |        4 |         6 |          2 |
+
+%
+
+====Photon Judge J====
+
+|*   Location |+7 Esmelas - Altered Space 3 |
+|*   Item     |+7 [[EP Charge II]], [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         6 |        6 |       10 |        6 |         4 |          2 |
+
+%
+
+====S-A Series Doom====
+
+|*   Location |+7 Amberl - Altered Space 2, 4 |
+|*   Item     |+7 [[EP Charge]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         2 |        2 |        0 |        4 |         4 |          4 |
+
+%
+
+====S-C Series Doom====
+
+|*   Location |+7 Carnelia - Altered Space 2, 5 |
+|*   Item     |+7 [[EP Charge]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         0 |        5 |        2 |        4 |         4 |          4 |
+
+%
+
+====S-J Series Doom====
+
+|*   Location |+7 Esmelas - Altered Space 2, 3, 5 |
+|*   Item     |+7 [[EP Charge]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         2 |        2 |        5 |        4 |         4 |          4 |
+
+%
+
+====Shining Pom 7====
+
+|*   Location |+7 Amberl - Altered Space 4, Esmelas - Altered Space 5 |
+|*   Item     |+7  |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        40 |        40 |       40 |       40 |       40 |        40 |         40 |
+
+%
+
+===Liber Ark===
+
+====Armored Compe====
+
+|*   Location |+7 Axis Pillar - 4F, 5F, 6F |
+|*   Item     |+7 [[EP Charge II]], [[EP Charge]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        25 |         2 |       15 |        3 |        1 |         3 |          7 |
+
+%
+
+====Artiball====
+
+|*   Location |+7 Axis Pillar - 4F, 6F |
+|*   Item     |+7 [[Tender Poultry]], [[Bird Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        12 |        32 |        0 |        8 |        5 |         7 |          2 |
+
+%
+
+====Bearmarith====
+
+|*   Location |+7 Residential Block - Cradle |
+|*   Item     |+7 [[Beast Flesh]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        7 |        0 |        0 |         8 |          2 |
+
+%
+
+====Bone Legger====
+
+|*   Location |+7 Industrial Block - Factoria, Residential Block - Cradle |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         1 |       15 |        2 |        1 |         1 |         10 |
+
+%
+
+====Brute Angler====
+
+|*   Location |+7 Liber Ark Tunnels - 2, 3 |
+|*   Item     |+7 [[Fish Fillet]], [[Fish Egg]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |        12 |        5 |       12 |        2 |         0 |          0 |
+
+%
+
+====D-G Diver====
+
+|*   Location |+7 Axis Pillar - 2F, 6F |
+|*   Item     |+7 [[Tearal Balm]], [[Teara Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |       30 |        3 |        4 |         0 |          3 |
+
+%
+
+====Dark Lamp====
+
+|*   Location |+7 Liber Ark Tunnels - 1, 2, 3 |
+|*   Item     |+7 [[Lucky Fang]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        0 |        0 |        9 |         2 |          5 |
+
+%
+
+====Dark Zone====
+
+|*   Location |+7 Axis Pillar 1F, 6F |
+|*   Item     |+7 [[Juicy Bone]], [[Curia Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         5 |        5 |       20 |       10 |         3 |          2 |
+
+%
+
+====Dimension Bug 5====
+
+|*   Location |+7 Axis Pillar - 3F, 4F, 5F |
+|*   Item     |+7 [[Monster Carapace]], [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        2 |       15 |        15 |         15 |
+
+%
+
+====Ebony Scale 3====
+
+|*   Location |+7 Liber Ark Tunnels 2, 3 |
+|*   Item     |+7 [[Curative Horn]], [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        15 |        0 |       17 |        4 |         5 |          2 |
+
+%
+
+====Estrian Quatre====
+
+|*   Location |+7 Axis Pillar - 2F, 3F, 5F |
+|*   Item     |+7 [[Monster Carapace]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        9 |        9 |        4 |        10 |          4 |
+
+%
+
+====Fortune Coin====
+
+|*   Location |+7 Axis Pillar = 4F, 5F, 6F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         9 |        9 |        9 |        0 |         0 |          0 |
+
+%
+
+====Kailash Gray====
+
+|*   Location |+7 Liber Ark Tunnels - 3 |
+|*   Item     |+7 [[Prickly Seed]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        19 |         4 |       19 |        4 |        0 |         0 |          0 |
+
+%
+
+====Kemoshy====
+
+|*   Location |+7  Industrial Block - Factoria, Residential Block - Cradle |
+|*   Item     |+7 [[Savory Pinion]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         5 |        4 |        9 |        9 |         0 |          0 |
+
+%
+
+====Knuckle Spider====
+
+|*   Location |+7 Axis Pillar - 4F, 5F, 6F |
+|*   Item     |+7 [[Leathery Tail]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        16 |         8 |        0 |        0 |        0 |         0 |          8 |
+
+%
+
+====Phenomenon====
+
+|*   Location |+7 Liber Ark Tunnels 1, 2, 3 |
+|*   Item     |+7 [[Clear Gelatin]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        11 |         0 |       11 |       11 |        1 |         3 |          4 |
+
+%
+
+====Shining Pom 8====
+
+|*   Location |+7 Liber Ark Tunnels - 3 |
+|*   Item     |+7 [[T-Anklet]], [[Crest Charm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        45 |        45 |       45 |       45 |       45 |        45 |         45 |
+
+%
+
+====Weatherseed 5====
+
+|*   Location |+7 Liber Ark Tunnels 1, 2, 3 |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        4 |        4 |        7 |         7 |          7 |
+
+%
+
+====Weatherseed 6====
+
+|*   Location |+7 Axis Pillar - 3F, 4F, 5F |
+|*   Item     |+7 [[Gummy Eyeball]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        5 |        5 |        8 |         8 |          8 |
+
+%
+
+====Master Trapper====
+
+|*   Location |+7 Core Sector - Themelios, Axis Pillar - 4F, 6F |
+|*   Item     |+7 [[Celestial Balm]], [[Reviving Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         3 |        4 |        3 |       12 |        12 |         12 |
+
+===Ouroboros 1===
+
+====Blade Cougar====
+
+|*   Location |+7 Ritter Roadway, Academy - Clubhouse, Boys' Dormitory |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |       12 |        2 |        4 |         8 |          4 |
+
+%
+
+====Enhanced Jaeger 1====
+
+|*   Location |+7 Industrial Block - Factoria, Grancel - South Block, Academy - Clubhouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        0 |        0 |        0 |         2 |          4 |
+
+%
+
+====Enhanced Jaeger 2====
+
+|*   Location |+7 Industrial Block - Factoria, Grancel - South Block, Academy - Clubhouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        8 |        8 |        4 |         2 |          0 |
+
+%
+
+====Enhanced Jaeger 3====
+
+|*   Location |+7 Glorious - Deck |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        0 |        0 |        0 |         2 |          4 |
+
+%
+
+====Port Seeker 1====
+
+|*   Location |+7 Glorious - Stern 1F, 2F, Forecastle 1F |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        7 |         8 |          7 |
+
+%
+
+====Steel Cougar 1====
+
+|*   Location |+7 Jenis Royal Academy |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        5 |         5 |          5 |
+
+%
+
+====Steel Cougar 2====
+
+|*   Location |+7 Industrial Block - Factoria |
+|*   Item     |+7 [[EP Charge III]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       10 |        10 |         10 |
+
+%
+
+====Vanguard 1====
+
+|*   Location |+7 Glorious - Hangar, Stern 1F, 2F |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         3 |        3 |        3 |        3 |         3 |          3 |
+
+%
+
+====Vanguard 2====
+
+|*   Location |+7 Grancel - North, South Block, Elize Highway |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |        5 |        5 |        5 |         5 |          5 |
+
+%
+
+====Vogel 235 1====
+
+|*   Location |+7 Glorious - Hangar, Stern 1F, Stern 2F |
+|*   Item     |+7 [[Insulating Tape]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |        5 |        0 |        5 |         0 |          5 |
+
+%
+
+====Vogel 235 2====
+
+|*   Location |+7 Grancel Castle, Grancel - North, South Block |
+|*   Item     |+7 [[Insulating Tape]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         0 |        6 |        0 |        6 |         0 |          6 |
+
+%
+
+====Vogel 570 1====
+
+|*   Location |+7 Glorious - Stern 2F, 1F, Forecastle 1F |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         6 |        0 |        6 |        0 |         6 |          0 |
+
+%
+
+====Vogel 570 2====
+
+|*   Location |+7 Academy - Schoolhouse |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         7 |        0 |        7 |        0 |         7 |          0 |
+
+%
+
+====Balancing Clown 1====
+
+|*   Location |+7 Gull Seaside Way |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         2 |        1 |       11 |        1 |         2 |          3 |
+
+%
+
+====Balancing Clown 2====
+
+|*   Location |+7 Gull Seaside Way |
+|*   Item     |+7 [[Sleep 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         2 |        1 |       11 |        1 |         2 |          3 |
+
+%
+
+====Blade Cougar 2====
+
+|*   Location |+7 Ritter Roadway |
+|*   Item     |+7 ??? |
+
+%
+
+====Vanguard 3====
+
+|*   Location |+7 Elize Highway |
+|*   Item     |+7 [[Petrify 2]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         4 |         4 |        4 |        4 |        4 |         4 |          4 |
+
+%
+
+====Vogel 235 3====
+
+|*   Location |+7 Abandoned Mine |
+|*   Item     |+7 [[Insulating Tape]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         0 |        6 |        0 |        6 |         0 |          6 |
+
+%
+
+====Vogel 570 3====
+
+|*   Location |+7 Abandoned Mine |
+|*   Item     |+7 [[Tearal Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         6 |        0 |        6 |        0 |         6 |          0 |
+
+%
+
+====Port Seeker 2====
+
+|*   Location |+7 Gurune Gate |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        8 |         8 |          8 |
+
+%
+
+====Grant====
+
+|*   Location |+7 Laboratory 1F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         0 |        8 |       10 |        0 |         0 |          0 |
+
+%
+
+====Carna====
+
+|*   Location |+7 Laboratory 2F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         0 |       10 |        4 |        0 |         0 |          8 |
+
+%
+
+====Analace====
+
+|*   Location |+7 Laboratory 3F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         1 |        11 |        0 |        0 |        8 |         0 |          8 |
+
+%
+
+====Doppelganger====
+
+|*   Location |+7 Laboratory 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       15 |        10 |         10 |
+
+%
+
+====Jaeger Gilbert 1====
+
+|*   Location |+7 Glorious - Deck |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        7 |        7 |        0 |         0 |          0 |
+
+%
+
+====Jaeger Gilbert 2====
+
+|*   Location |+7 Academy - Old Schoolhouse |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        8 |        8 |        0 |         0 |          0 |
+
+%
+
+====Pale Apache 1====
+
+|*   Location |+7 Glorious - Hangar |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        6 |        6 |        6 |         6 |          6 |
+
+%
+
+====Balancing Clown 3====
+
+|*   Location |+7 Esmelas Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |        5 |        5 |        0 |         0 |          0 |
+
+%
+
+====Bleublanc (Enforcer X)====
+
+EAT YOUR MASK
+
+|*   Location |+7 Esmelas Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         0 |        0 |       20 |       10 |         0 |          0 |
+
+%
+
+====Steel Cougar 3====
+
+|*   Location |+7 Carnelia Tower - Roof |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        5 |         5 |          5 |
+
+%
+
+
+====Walter (Enforcer VIII)====
+
+|*   Location |+7 Carnelia Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        10 |       15 |        0 |        5 |        10 |          0 |
+
+%
+
+====Alraune 2====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         2 |         2 |        2 |        4 |        0 |         0 |          0 |
+
+%
+
+====Jubokko 2====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        14 |        0 |       14 |        1 |         0 |          0 |
+
+%
+
+====Zaqqum 2====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        8 |        2 |         7 |          7 |
+
+%
+
+====Luciola (Enforcer VI)====
+
+|*   Location |+7 Sapphirl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |        5 |        5 |        0 |         0 |         20 |
+
+%
+
+====Vogel 911 EX====
+
+|*   Location |+7 Elize Highway, Gull Seaside Way, Amberl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        5 |         5 |          5 |
+
+%
+
+====Renne (Enforcer XV)====
+
+|*   Location |+7 Amberl Tower - Roof |
+
+%
+
+====Pater-Mater====
+
+|*   Location |+7 Amberl Tower - Roof |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |        10 |       10 |       10 |       30 |        30 |         30 |
+
+%
+
+====Pale Apache 2====
+
+|*   Location |+7 Grancel Castle |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         8 |         8 |        8 |        8 |        8 |         8 |          8 |
+
+===Ouroboros 2===
+
+====Leor Gun-EZ====
+
+|*   Location |+7 Glorious - Stern 2F, Residential Block - Cradle |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         7 |         7 |        7 |        7 |        7 |         7 |          7 |
+
+%
+
+====Port Seeker 3====
+
+|*   Location |+7 Glorious - Stern 2F |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       12 |        18 |         12 |
+
+%
+
+====Vanguard 4====
+
+|*   Location |+7 Glorious - Stern 2F |
+|*   Item     |+7 [[Tear All Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         6 |         6 |        6 |        6 |        6 |         6 |          6 |
+
+%
+
+====Vogel 235 4====
+
+|*   Location |+7 Glorious - Stern 1F, 2f, Residential Block - Cradle |
+|*   Item     |+7 [[Insulating Tape]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |         0 |       10 |        0 |       10 |         0 |         10 |
+
+%
+
+====Vogel 570 4====
+
+|*   Location |+7 Glorious - Stern 2F |
+|*   Item     |+7 ??? |
+
+%
+
+====Pale Apache 3====
+
+|*   Location |+7 Glorious - Deck |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         9 |        9 |        9 |        9 |         9 |          9 |
+
+%
+
+====Spindoll====
+
+|*   Location |+7 Glorious - Deck |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         9 |        9 |        9 |        9 |         9 |          9 |
+
+%
+
+====New Gilbert====
+
+|*   Location |+7 Glorious - Stern 1F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        10 |        10 |       10 |       10 |        0 |         0 |          0 |
+
+%
+
+====Riot Arms====
+
+|*   Location |+7 Glorious - Stern 1F |
+|*   Item     |+7 [[Celestial Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       25 |        25 |         25 |
+
+%
+
+====Riot Claw====
+
+|*   Location |+7 Central Tower-Axis Pillar |
+|*   Item     |+7 [[Celestial Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       25 |        25 |         25 |
+
+%
+
+====Solid Seeker====
+
+|*   Location |+7 Central Tower-Axis Pillar |
+|*   Item     |+7 [[EP Charge II]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       12 |        18 |         12 |
+
+%
+
+====Balancing Clown 4====
+
+|*   Location |+7 Axis Pillar - 2F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         3 |         2 |        1 |       11 |        1 |         2 |          3 |
+
+%
+
+====Bleublanc (Enforcer X) 2====
+
+|*   Location |+7 Axis Pillar - 2F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        19 |         0 |        0 |       29 |       19 |         2 |          1 |
+
+%
+
+====Shadow Cougar====
+
+|*   Location |+7 Axis Pillar 3F |
+|*   Item     |+7 [[EP Charge III]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       10 |        10 |         10 |
+
+%
+
+====Walter (Enforcer VIII) 2====
+
+|*   Location |+7 Axis Pillar 3 |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         19|       29 |        0 |        7 |        15 |          0 |
+
+%
+
+====Alraune 3====
+
+|*   Location |+7 Axis Pillar - 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |        3 |         3 |          0 |
+
+%
+
+====Jubokko 3====
+
+|*   Location |+7 Axis Pillar - 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |        14 |        0 |       14 |        1 |         0 |          0 |
+
+%
+
+====Zaqqum 3====
+
+|*   Location |+7 Axis Pillar - 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         8 |        0 |        8 |        2 |         7 |          7 |
+
+%
+
+====Luciola (Enforcer VI) 2====
+
+|*   Location |+7 Axis Pillar - 4F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         9 |         9 |        9 |        9 |        5 |         0 |         29 |
+
+%
+
+====Renne (Enforcer XV) 2====
+
+|*   Location |+7 Axis Pillar - 5f |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        11 |         2 |        2 |        7 |        7 |         7 |         29 |
+
+%
+
+====Pater-Mater 2====
+
+|*   Location |+7 Axis Pillar - 5F |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |        11 |        11 |       11 |       11 |       39 |        39 |         39 |
+
+%
+
+====Riot Saber====
+
+|*   Location |+7 Axis Pillar - Pinnacle |
+|*   Item     |+7 [[Celestial Balm]] |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         0 |         0 |        0 |        0 |       25 |        25 |         25 |
+
+%
+
+====Loewe (Enforcer II)====
+
+|*   Location |+7 Axis Pillar - Pinnacle |
+|*   Item     |+7 [[Zeram Capsule]], [[Gladiator Belt]] |
+
+%
+
+====T.M. Dragion====
+
+|*   Location |+7 Axis Pillar - Elevator Shaft |
+
+%
+
+====Combat Shell====
+
+|*   Location |+7 Final Area |
+|*-2 Sepith   | ''Earth'' | ''Water'' | ''Fire'' | ''Wind'' | ''Time'' | ''Space'' | ''Mirage'' |
+              |         5 |         5 |        5 |        5 |        5 |         5 |          5 |
+
+%
+
+====Weissmann====
+
+Doesn't it feel good to finally smash his face in?
+
+%
+
+====Greed Looperr 1====
+
+|*   Location |+7 Core Sector - Themelios |
+
+%
+
+====Greed Looperr 2====
+
+|*   Location |+7 Core Sector - Themelios |
+
+%
+
+====Alpha Omega====
+
+|*   Location |+7 Core Sector - Altered Space |
+
+%
+
+====Angel Weissman====
+
+|*   Location |+7 Core Sector - Altered Space |
+
+Drop dead already! (Ugh, finally, done with the monster list.)
+
++
++
++
++

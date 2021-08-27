@@ -1,0 +1,340 @@
+;format:gf-markup
+
+* It's done, at long last.
++
+* Copyright 2017
+* Berserker Blade
+* Chloe B. / Drache the Dork
++
+* ''Contact''
+** Email: drachenmeister13@gmail.com / Suikofreak@gmail.com
+** GameFAQs PM: Drache_the_Dork (must have underscores) / Berserker_Blade
+
+=-----=
+This faq is based on the Steam version of Trails in the Sky: SC. If you are playing the PSP, Vita, or Japanese PS3 HD version, or
+whatever, you are more than welcome to read this FAQ. Just ignore all the steam achievements that's mentioned throughout the FAQ.
+=-=
+
+==Legal==
+
+All trademarks are property of their respective owners. No section of this guide can be used or
+rehosted without our permission. If you do, we'll send Schera's drunken whip after you.
+
+; The old copyright notice doesn't work. This is just as strict.
+
+The following sites are authorized to host this guide:
+
+* GameFAQs (www.gamefaqs.com)
+* Neoseeker (www.neoseeker.com)
+* Supercheats (www.supercheats.com)
+
++
++
++
++
+
+==Gameplay==
+
+====Controls====
+''NOTE: IF YOU'RE PLAYING THE PC VERSION, THE CONTROLS ARE DIFFERENT DEPENDING ON YOUR SET-UP''
+
+====Field Controls====
+
+|c+2 ''PSP Controls''                               |
+|*Button                    |*Function              |
+| X                          | Confirm              |
+| O                          | Cancel               |
+| Hold O                     | Speed up dialogue    |
+| Triangle                   | Shortcut Menu        |
+| Square                     | Enemy Info           |
+| L                          | Rotate camera        |
+| R                          | Rotate Camera        |
+| Start                      | Menu                 |
+| Select                     | Local Map            |
+
+|*Shops             |*Description                   |
+|Weapon             | Sells Weapons and Armors      |
+|Item               | Sell Items and Accessories    |
+|Guild              | Gives you sidequests          |
+|Bar                | Sells Food Items              |
+|Orbal Factory      | Sells Quartz and Modify slots |
+
+====Battle Commands====
+
+|c+2 ''PSP Controls''                               |
+|*Button                    |*Function              |
+| X                          | Confirm              |
+| O                          | Cancel               |
+| Hold O                     | Speed up dialogue    |
+| Triangle                   | Shortcut Menu        |
+| Square                     | Enemy Info           |
+| L                          | Rotate camera        |
+| R                          | Rotate Camera        |
+| Start                      | Menu                 |
+| Select                     | Local Map            |
+
+|*Status Effect        |*Description                                         |
+| Poison               | Gradually depletes health                           |
+| Knock-Out            | Ally is incapacitated                               |
+| Sleep                | Cannot act until the ally is attacked               |
+| Seal                 | Cannot use attack command, use crafts and S-Crafts  |
+| Stone                | Cannot act in battle; KO if attacked                |
+| Freeze               | Cannot act in battle; health is gradually taken away|
+| Faint                | Cannot act in one turn                              |
+| Mute                 | Ally cannot use arts                                |
+| Confuse              | Ally will attack other allies or foes               |
+| Blind                | DEX and AGL down                                    |
+
+
+==Battle System==
+
+In Trails in the Sky, the battle system is similar to SRPGs. You are in a gridline battlefield fighting enemies.
+However, the pacing is still Turn-based at heart. So, there's no need to place your movement towards your enemy and
+fight. In SC, not much has changed aside from one additional game mechanic.
+
+===Turn Order (Bonus Icons)===
+If you look at your left, it indicates the order of the turns in battle. Occasionally, you'll see a bonus
+icon right next to the ally or the enemy. These bonus icons will give you or your opponent an edge during
+that turn. Also, you can bypass the turn order by using S-Break. The following below are 6 possible bonus icons.
+
+|* Name             |* Effect                                              |
+| Heal HP           | Recovers 10% or 50% of HP                            |
+| Charge EP         | Recovers 10% or 50% of EP                            |
+| CP UP             | Recovers 10% or 50% of CP                            |
+| STR UP            | Increases Physical or Magic attack by 10% or 50%     |
+| Crtical           | All Attack, Magic or Recovery effects increases 1.5X |
+| Sepith UP         | Steals Sepith from Target                            |
+
+===Craft and S-Break===
+
+====CP (Craft Points)====
+All characters possess CP. From the beginning of the battle, you start out with zero CP. The only way to
+gain CP is to successfully attack or recieve damage from your opponent. Once you have gotten a sufficent
+amount of CP, you can use those to use your Craft or even S-Craft at your disposal. You can accumulate
+your CP and save it for later.
+
+====Chain Craft====
+This is the only new addition for SC. Basically, you can have 2-4 people attack your opponent in one turn.
+In order to use chain craft, select Chain and choose your allies to assist you. You and your selected ally
+must be in close proximity as well as your opponent. If you did it correctly, you can unleash 2-4 hits in
+one turn. The only drawback is that your chosen ally will take the turn as well. So, use chain craft
+wisely.
+
+====Craft====
+It's the character's special moves. They can be learned as they gain levels. All craft ablities take up
+CP.
+
+====S-Craft====
+Think of it as this game's equivalent of Limit Break. Anytime you reach 100 CP, you can unleash their
+powerful attack. But, there's a much more effective use for it....
+
+====S-Break====
+As stated earlier, you can use S-Break for cutting the next person's turn. But, you have to accumulate
+a minimum of 100 CP to use it. When you do accumulate 100 CP, the orb on the HUD will glow red. Anyway,
+during someone's turn, you can toggle left or right and press "X". However, it's perferable if you use
+the shortcut command by pressing triangle and press the directional buttons on the d-pad. Once you
+activate S-Break, you will unleash your S-Craft anywhere on the battlefield. This can be useful for
+killing off those pesky enemies with "Self-Destruct" ability. Finally, if you have 200 CP, you
+can dish out even more damage.
+
+===Orbal Quartz===
+
+====Sepith====
+Each enemies drop sepith after you defeat them. You can save those up for Quartz or even sell it for
+money.
+
+====Quartz====
+Since sepith comes in various forms, you can use those to make Quartz. For the most part, each of the
+quartz can increase your parameters. Also, each time you equip a quartz, you gain arts. However, there's
+a specific way on how to gain more arts.
+
+====Slots and lines====
+At the start of the game, there will be some slot closures and it's up to you to open those slots. To unlock
+those slots, you must have the adequate amount of Sepiths. Please note that the slots have a specific trait.
+For example, if you look at Joshua's slots, there are some slot that's Time Elemental only. Obviously, you
+can only equip Time-Elemental quartz on that slot.
+
+For all playable characters, they each have a central slot. Whatever quartz is in the central slot, they
+will govern the elemental values. There are some characters who have only possess a single line while some have
+various lines that branches out. The lines will add the overall elemental values equipped on each end. For those
+who only has a single line can add more elemental values. With that, you'll have access to higher level arts.
+
+
+===Bracers Guild===
+
+This is practically the bulk of the game. All quests start out in the guild. By doing those quests, you are
+rewarded with money, items and etc. Also, BP (Bracer Points) will be added on your overall tally. The more BP you
+have, the higher your rank will be. Finally, if you have made the right decisions during the dialogue or you have
+been proactive towards certain missions, you can gain extra BP. This will be extra useful especially if you are
+going for the perfect score...
+
+===Misc===
+
+====Cooking====
+Even though Estelle is not the best cook out there, she can still pull of those dishes in a pinch. To obtain those
+dishes, you must first eat the food to gain the recipe. Once you have the recipe, be sure to have the right ingredients
+and cook it. For the most part, it recovers HP, EP or CP with some temporary increase in parameters. So, don't neglect
+it!
+
+====Fishing====
+If you remember that one-time minigame from FC, then you'll be happy to hear that it is a full-fledged minigame in SC.
+Cast your rod into water and wait for the right time to reel your catch.
+
+==Tips and Tricks==
+
+Like all the other games out there, here are some tricks of the trade for you to survive this game.
+
+1)--u--'''''Multiple saves is a must'''''--u--
+
+For the completionist people out there, this is mandatory. There's a bunch of hidden quests waiting to be uncovered. Even the most minor
+implication during your major quest could screw you over for the rest of the game. So, every time you are about attempt something significant, make sure
+you make another save file before moving on.
+
+(P.S. If you make an oopsie the game does keep a small amount of autosaves.)
+
+2)--u--'''''Relax and decide your next move'''''--u--
+
+I know what you did there. You have done something that cost you extra BP and chances are your last save is over 5 hours long. Regardless your outcome,
+there's always an option: either go back to your last save file and work from there or you decide to move on. If you decided to do the latter, there's always
+New Game+. You can always make up the lost BP from the last playthough.
+
+3)--u--'''''Take the time to explore around'''''--u--
+
+If you decide to get BP honestly, I suggest you look around and talk to NPC before the next major mission. Many of the hidden items and quest all happen
+within the small time frame. Also, Rushing through the game can work against you for the same reason.
+
+4)--u--'''''The Bracer Notebook is your bible'''''--u--
+
+Seriously, the contents inside his really comprehensive. It has all the notes you need such as your quest progress, Arts and quartz elemental
+values. It even has most of the basic stuff covered in the manual. If there's something you want to know, it's likely inside
+the Bracer's Notebook. Don't be afraid to look up something once in a while.
+
+===Orbal Arts===
+
+====Earth====
+
+|* Name            |* Earth |* Water |* Fire |* Wind |* Time |* Space |* Mirage |* Range   |* EP |* Effect |
+|* Stone Hammer    | 1      | 0      | 0     | 0     | 0     | 0      | 0       | Single   | 10  | Attack |
+|* Earth Guard     | 2      | 0      | 0     | 0     | 0     | 0      | 0       | Single   | 10  | Support / Immunity|
+|* Crest           | 2      | 1      | 0     | 0     | 0     | 1      | 1       | Single   | 15  | Support / DEF +25% |
+|* Petrify Breath  | 3      | 0      | 0     | 0     | 0     | 0      | 0       | Single   |  30 | Attack / Petrify 20% |
+|* Stone Impact    | 3      | 0      | 0     | 0     | 0     | 2      | 0       | Area (M) |  40 | Attack |
+|* Earth Lance     | 5      | 0      | 0     | 0     | 0     | 0      | 0       | Single   |  20 | Attack |
+|* Petrify Cloud   | 5      | 0      | 0     | 3     | 0     | 0      | 0       | Area (M) |  60 | Attack / Petrify 20% |
+|* La Crest        | 5      | 3      | 0     | 0     | 0     | 3      | 3       | Area (M) |  40 | Support / DEF +25%|
+|* Petrosphere     | 6      | 0      | 0     | 0     | 4     | 4      | 0       | Area (S) |  40 | Support / MOV -4|
+|* Titanic Roar    | 8      | 0      | 0     | 0     | 0     | 4      | 0       | All      |  70 | Attack |
+|* Earth Wall      | 8      | 0      | 0     | 0     | 0     | 4      | 0       | Area (S) |  75 | Support / Immunity |
+|* Atlas Hammer    | 10     | 0      | 6     | 0     | 0     | 0      | 0       | Area (S) |  80 | Attack |
+|* Geo Catastrophe | 14     | 0      | 0     | 0     | 0     | 12     | 0       | All      | 160 | Attack |
+|* Gaia Shield     | 16     | 0      | 0     | 0     | 0     | 15     | 0       | All      | 220 | Support / Immunity |
+
+====Water====
+
+|* Name            |* Earth |* Water |* Fire |* Wind |* Time |* Space |* Mirage |* Range   |* EP |* Effect |
+|*                 | 0      | 0      | 0     | 0     | 0     | 0      | 0       |          |     | |
+|*                 | 0      | 0      | 0     | 0     | 0     | 0      | 0       |          |     | |
+
+===Playable Characters===
+''NOTE: Work in progress! Characters who appeared in FC will continue to be analyzed to see any gameplay changes.''
+
+====Estelle Bright====
+'''She is the daughter of the legendary Bracer Cassius Bright. Because of her jovial
+personality, she'll perservere even if the odds are against her.'''
+
+Estelle is one of the characters that's available for entire game for obvious reasons. She is a versatile character,
+and her orbment slots can use every elements available. As far
+as orbal arts combination goes, she's can insert several mid-level magics in one line. However, putting some of the demanding
+arts such as Titanic Roar, Volcanic Rave and etc. in one line could be difficult. Her crafts are pretty diverse overall.
+
+Her versatility does not end in magic spells. Her crafts have a diverse moveset and are useful in various situations.
+For example, she has morale to raise her allies stats in battle.
+Also, she learns a crowd control attack early on in the game as well as a skill that interupts the foe's spell casting.
+Her S-Craft such as Barrage and Pummel are useful against a single opponent. It is recommended to use it
+against bosses. Her only drawback is that specialized characters such as Olivier, Kloe or Agate
+overshadow her versatile abilities. Other than that, she's a well-rounded character due to being the protagonist.
+She has a lot of tools in her disposal and has flexible orbal moveset.
+
+====Anelace Elfead====
+'''A young woman who is a senior bracer. Although she is a few years older than Estelle, she has a bubbly personality and
+a weakness for cute objects.'''
+
+Like Estelle, Anelace is a well-rounded character. She has a wide variety of crafts she can use in the battlefield. For example,
+she can use fallen leaves to knockback her opponent for a few turns. She can also use Petal Dance to give her a great strength
+buff with the cost of her defense. Her art usage is servicable at best because she has three lines on her orbment slots. She
+can do basic arts, but that's as far as she can go. You may have to rely more on her crafts than her arts. She could be a great
+person to have as a group, but she only appears on the prologue! So, don't get too attached with her.
+
+====Agate Crosner====
+'''A young, burly Bracer who wields a broad sword. He tends to look down on Junior Bracers.'''
+
+In contrast to FC, you have the option to choose him or Scherazard at the start of chapter I. He's definitely a great asset
+to the group because of his exceptional strength and his unique moveset. For instance, he is the only character who can raise his CP
+with the cost of his max HP. If he does not have enough CP, he can use Wild Rage 2 for the first turn and use S-break after he uses Wild Rage.
+He has some attacks such as Draguna Edge and Flame Edge to deal damage against a group of foes. It also helps that Draguna Edge
+has a much wider line compared to the other character's line attack. He also has Sprial Edge which inflicts AT delay to a single
+foe. But his S-Craft is exceptionally useful. Regardless if it's a single attack (Beat Down) or a group attack (Final Break) the
+damage will be devastating. However his raw power does come with a price. He has one the worst magic defense in the game.
+His arts are very limited due to having multiple branches on his orbal quartz. So, you are pretty much going to use
+his Orbal Slots for raising his parameters. Overall, you going to use Agate as your frontline attacker. With Wild Rage 2, you are
+going to use his S-Craft frequently.
+
+====Scherazard Harvey====
+'''Nicknamed "The Silver Streak", she is former disiple of the legendary Bracer. Though she is
+an intelligent person and uses Tarot Cards for divinity purposes, she is a heavy drinker'''
+
+Like Agate, Scherazard can be used as early as Chapter I. She specializes on wind arts and deals mid-range
+She can certainly deal damage. Her whip is medium range; meaning that her range is far enough to prevent
+her from getting hit from self destruct. Her moveset are okay to use. Her first craft can deal damage to a small
+group of foes. Her bind whip is useful because she has the ability to mute spell casters. Finally, her
+Heaven's Kiss can increase her allies speed. For the most part, she is average. She's really useful
+early game. But once late game comes in, she is pretty much outclassed by her other peers.
+
+====Kevin Graham====
+'''He is a priest from a far away land. Under his gentle smile, his reasons of coming to Liberl is currently unknown'''
+
+Similar to Olivier, Kevin uses a long-range weapon. His main element is time, which allows him to use time arts at its
+highest potential. Interestingly, he has two lines but one of them only has one orbal slot. Use slot 2 for any stat
+enhancement. You want to focus on line one because this is where you'll want to increase magic capabilities. This will
+allow him to use any high level arts. Although his crafts are limited, they serve a different purpose. For example, his
+Sacrifical Arrow can redistribute his CP to other party members within range. Also, his S-Craft is not like the other
+characters. For example, his Grail Sphere grants immunity to incoming attacks for one turn. This is extremely useful
+for battles because you can withstand a catastrophic attack. If you have 200 CP, you are immune to damage until the enemy attacks
+you twice. His only drawback is lousy move stat and strength. Other than that, Kevin is a great character to use.
+
+====Olivier Lenheim====
+''' Coming from an Eberonian background, he travels south to play music for the citizens of Liberl.
+With his charismatic personality, he tends to hit on anyone he sees.'''
+
+His defining personality is his charisma; although it won't help much in battle. Anyway, he's one of the few characters
+that uses long range weapon. Also, his main element is mirage, which is a neutral element. Having mirage will enable him
+to configure several magic combination. Because he only has a single line in his orbal slot setup, he has access to
+the high level arts. Having a neutral element along with a flexible orbal configuration benefits Olivier's playstyle.
+
+His crafts on the other hand also useful as well. His Quick Draw has the ability to hit the target where you wanted it.
+Because of his range, his Snipe Shoot can easily take out the spell casters. Finally, his Happy Trigger can cure
+people within range. Although it's minimal, his CP consumption is really low. He only has one S-Craft in the game and
+the damage is mediocre. His weaknesses is are low HP, low Defense and limited movement.
+Ironically, Olivier has the lowest magical defense in the game considering him possessing one of the highest Magic Attack power in the game.
+Overall, Oliver is another effective character to use. You really can't go wrong with diverse arts as well as utilitarian
+moveset. Plus with his range, he can be a threat in the battlefield.
+
+
+====Kloe Rinz====
+'''A second year student in Jenis Academy. She is a very sweet young woman who have a mutual understanding
+with her pet Gryfalcon, Sieg.'''
+
+She specializes on healing magic as evidenced by her water affinity. Also, she does possess a single line orbal
+slot. However, her customization is somewhat limited because three of her orbal slots are Water only. Therefore, she needs to rely
+on water arts to be useful. Her craft is minimal at best becayse she only has two regular crafts and one S-craft at her disposal. She has
+Kaempfer (Impose) which debuffs the foe's STR and DEF andSturm  (Encroach) which interupts the person's spell casting time. But compared to the other
+characters, her Encroach needs to hit up close in order to be effective. Finally, her Radiant Plash has the largest healing range out of
+everyone. It's already great on its own considering the amount of HP it restores plus it also revives allies as well. If you use it at 200 EP, not only it
+does more recovery, it gives out free Defense buff. Overall, despite of Kloe's restrictive orbal customization, her usefulness certainly lies with
+her healing powers. Also, having the highest EP as well as high magic attack power, she can be the magical powerhouse of the group.
+
+
++
++
++
++

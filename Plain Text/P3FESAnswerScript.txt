@@ -1,0 +1,2469 @@
+           _______ _                                                 
+          |__   __| |              /\                                
+             | |  | |__   ___     /  \   _ __  _____      _____ _ __ 
+             | |  | '_ \ / _ \   / /\ \ | '_ \/ __\ \ /\ / / _ \ '__|
+             | |  | | | |  __/  / ____ \| | | \__ \\ V  V /  __/ |   
+             |_|  |_| |_|\___| /_/    \_\_| |_|___/ \_/\_/ \___|_|   
+                          _____           _       _   
+                         / ____|         (_)     | |  
+                        | (___   ___ _ __ _ _ __ | |_ 
+                         \___ \ / __| '__| | '_ \| __|
+                         ____) | (__| |  | | |_) | |_ 
+                        |_____/ \___|_|  |_| .__/ \__|
+                                           | |        
+                                           |_|        
+
+
+                                Persona 3 FES
+                              The Answer Script
+                           Drache the Dork/Chloe B.
+                                 Version 1.12
+
+
+FULL-GAME SPOILERS, NOOBS.
+
+Though it should go without saying...
+
+Version history:
+
+1.0  - Script completely written.
+1.1  - Added a website to list of sites hosting this script, changed the search
+       codes, fixed many errors, added quotes for the ??? fight, changed some
+       formatting.
+1.11 - Name change, legal change, email change.
+_______________________________________________________________________________
+
+                         T A B L E  O F  C O N T E N T S
+_______________________________________________________________________________
+
+How to use the table of contents: Basically, you see that search code, or the
+brackets with all the numbers and letters in them? Copy and paste the code next
+to the section you need it into the Find dialogue box (CTRL + F).
+
+Keep in mind, however, that you can also put the title in the Find Box for the
+same results, just not the numbers to the left.
+
+ 1.) Introduction                                                         [10]
+
+ 2.) Answer Script                                                        [20]
+          2.01) The Beginning.............................................[2a]
+          2.02) Metis' Entrance...........................................[2b]
+          2.03) The Velvet Room...........................................[2c]
+          2.04) A Rude Awakening..........................................[2d]
+          2.05) The Abyss of Time.........................................[2e]
+          2.06) Door 1: Malebolge - Paulownia Mall........................[2f]
+          2.07) Door 2: Cocytus - Ken's Past..............................[2g]
+          2.08) Door 3: Caina - Akihiko's Past............................[2h]
+          2.09) Door 4: Antenora - Junpei's Past..........................[2i]
+          2.10) Door 5: Ptolomea - Mitsuru's Past.........................[2j]
+          2.11) Door 6: Judecca - Yukari's Past...........................[2k]
+          2.12) Door 7: Empyrean - Aigis' Dream...........................[2l]
+          2.13) Door 7: Empyrean - Key of Time............................[2m]
+          2.14) Conflicting Decisions.....................................[2n]
+          2.15) The Fighting Starts - Akihiko and Ken.....................[2o]
+          2.16) The Second Battle- Junpei and Koromaru....................[2p]
+          2.17) The Third Battle - Yukari and Mitsuru and Aigis' Choice...[2q]
+          2.18) Back to the Battle with Nyx - His Fate....................[2r]
+          2.19) After the Defeat of Erebus................................[2s]
+          2.20) The Last Trip to the Velvet Room..........................[2t]
+          2.21) The End - A Real Human....................................[2u]
+
+ 3.) Ending stuff                                                         [30]
+         10.01) Thanks....................................................[3a]
+         10.02) Legal.....................................................[3b]
+
+_______________________________________________________________________________
+
+ I N T R O D U C T I O N                                                [0100]
+_______________________________________________________________________________
+
+First of all, I would like to give a huge thanks to omegaevolution of youtube
+for uploading all of FES and making this very easy for me.
+
+Second, noobs, get out. MEGA-ASS GAME-RUINING WHOLE-GAME SPOILERS GATHER HERE.
+
+I don't even know why I bother with the warning =/ You should know better.
+
+Well people, that's it. Nothing special about a script. Moving along now...
+
+_______________________________________________________________________________
+
+ T H E  A N S W E R  S C R I P T                                          [20]
+_______________________________________________________________________________
+
+I think this part is very straightforward. I kept it true to the script. Also,
+note that I will not include Fuuka's random dialog before each boss fight. I
+don't care, and you shouldn't either. Additionally, I'll describe what happens
+in normal cutscenes to give you a general idea of what's happening, but not in
+anime cutscenes. It's just too much - go to youtube, or something.
+
+===============================================================================
+ The beginning                                                            [2a]
+===============================================================================
+
+                               -- Anime Cutscene --
+
+   Aigis: This ordeal... It may be that we brought it upon ourselves. The fact
+          that a future exists, and being able to access it are very different
+          things. We did not understand such an obvious and natural principle
+          yet. Indeed, we understood very little. We knew nothing about using
+          the key to open the path to the future.
+
+                              -- Normal Cutscene --
+
+> Some time before the incident...
+> March 31st, 2010, 1:30 PM...
+
+Fuuka is calling Yukari.
+
+  Yukari: Hello?
+   Fuuka: Ah, Yukari-chan! It's me... Um, are you coming today...?
+  Yukari: Oh, uh... didn't you see the message I left you on the board? I have
+          cram school today...
+   Fuuka: I know... But...
+  Yukari: I left all the stuff at the dorm, so I don't have to be there in
+          person, right?
+   Fuuka: I suppose not, but... Are you okay with that?
+  Yukari: Yeah... I'm gonna pass. Oh, sorry... Break's almost over. I gotta go.
+          Tell everyone I said hi, okay?
+
+Yukari hangs up. Fuuka walks over to the table, where Mitsuru, Junpei, Ken,
+and Koromaru are sitting.
+
+   Fuuka: Yukari-chan's not coming after all.
+     Ken: Sanada-san said he was busy at the gym, so I doubt he'll be here in
+          time either...
+  Junpei: Man, what's up with those two? The dorm's closing down today! With
+          all our memories of this place, you'd think they'd want to see it
+          off... right?
+Koromaru: *whimper*
+ Mitsuru: It can't be helped. They just see things differently. Everyone's
+          started down their own chosen path... It's a good thing.
+   Fuuka: ...You're right.
+ Mitsuru: I can hardly blame them. I seem to get busier and busier... If I
+          didn't have to reclaim these, I might not have made it either.
+  Junpei: So we finally gotta give up our Evokers... I hate to let it go, but
+          it's not like I got a use for it anymore. Lessee... Two, four...
+          Wait, how many of these are there supposed to be?
+
+The door is heard opening.
+
+  Fuuka: Aigis...
+
+Aigis enters and places an Evoker on the table.
+
+   Aigis: I believe this is all of them.
+     Ken: Huh...? You had one too, Aigis-san?
+ Mitsuru: I'd forgotten... You had his for safekeeping...
+   Fuuka: ......
+     Ken: ......
+  Junpei: H-Hey, c'mon... Don't get all gloomy again. I don't think that's the
+          way he would've wanted to see this end.
+     Ken: I'm sorry... you're right. We all said our goodbyes to him... But I
+          still wonder... Why did it happen? The doctors didn't find anything
+          wrong with him afterward... It just seemed like he fell asleep,
+          didn't it?
+   Fuuka: He must've used up all his power to protect us... at that last
+          battle.
+   Aigis: It's useless to try and guess at the reasons why. I am certain he
+          didn't blame anybody for what happened.
+  Junpei: Yeah... Ai-chan's got that right. Hey, but I'm glad to see that
+          you're still hangin' in there, Aigis. Back then, it was like he was
+          all you could think about.
+   Aigis: I'm... somewhat surprised as well. It's possible that I will not feel
+          the full impact until I am alone tomorrow at the lab.
+   Fuuka: Huh? The lab...? Are you planning to commute to school from there
+          next semester?
+   Aigis: Oh... No, I...
+ Mitsuru: Aigis is returning herself to the lab tomorrow. She... won't be
+          enrolled as a senior.
+  Junpei: Seriously?! Why? Can't she stay in school like she was before?
+   Aigis: The decision was mine. I'm sorry I didn't mention it sooner... I
+          enjoyed being with you all, but I need to find my own way of life.
+          ...Oh, but you can come visit me anytime.
+   Fuuka: Aigis...
+ Mitsuru: Think of it as a new beginning for her. Anyway... We seem to have 
+          gotten on the wrong track, but today's not meant to be a sad
+          occasion. I've ordered excellent sushi for us all. The same as
+          before, actually. We may not have been able to get everyone together,
+          but we should all eat here tonight.
+     Ken: Th-That would be great!
+  Junpei: You got THAT sushi again!? Sweet! No objections here. You're gonna
+          join us, right Aigis?
+   Aigis: Of course. I couldn't miss spending time with you all.
+
+Everyone is gathered downstairs.
+
+Newscaster: The number of Apathy Syndrome cases is down from last month, which
+            seems to mark an end to the strange illness. However, surveys show
+            that the number of people who report serious stress in everyday
+            life has not decreased. According to research carried out by the 
+            Ministry of Health and Welfare...
+
+Junpei takes out his cell to check the time.
+
+  Junpei: Whoa, when'd it get so late?
+ Mitsuru: It's almost midnight... It's hard to believe we've spent the evening
+          doing nothing. Sitting here like this reminds me of those days...
+          Perhaps that's why.
+   Fuuka: I think I can understand. I have so many memories of this lounge that
+          I find myself spending time here for no reason.
+     Ken: It's the same for me. When where here, I think about when we were
+          still fighting... It's strange... since my memories of that time are
+          more painful than happy.
+  Junpei: Well... all that stuff aside, doesn't something feel weird to you
+          guys? I'll be walkin' around, and people act like as long as they're
+          happy right now, nothing else matters. Those stupid stories Strega
+          spread around are still out there, y'know? It makes me think, "Is
+          this what we almost died to protect?"
+     Ken: Are you saying that people don't know how good they have it? You're
+          sounding like an old man...!
+  Junpei: Hey! Who asked you!?
+ Mitsuru: That's out of our hands, I'm afraid. We prevented the Fall, but we
+          can't reform society.
+  Junpei: Yeah, I guess. But still...
+Newscaster: ...And that's the weather. At the tone, the time will be midnight.
+
+Instead of hearing the tone, everyone feels something.
+
+     Ken: What was that...!?
+Koromaru: Woof! Rarf!
+   Fuuka: Midnight... It can't be-- Is it the Dark Hour again!?
+  Junpei: Nah... Everything's fine out there!
+   Aigis: Wait... The news...!
+Newscaster: Good evening.It is now March 31st. Here's a recap of the news from
+            the 30th...
+   Aigis: The 31st was yesterday, right...? Did the anchor misread the date?
+  Junpei: Sheesh... Is that all? Even they make mistakes every once in a while.
+          It's nothing.
+     Ken: Weird... My cell says it's the 31st, too...
+  Junpei: Well, looks like a false alarm.
+ Mitsuru: So far, I'd agree.
+   Fuuka: But something felt... off...
+  Junpei: *yawn* It's late... We should call it a night. What a lame finish to
+          our last day in the dorm... *sigh*
+   Aigis: Um... Would it be alright if I returned to my room? I have to prepare
+          to move tomorrow...
+   Fuuka: Sure. Good night, Aigis.
+  Junpei: Niiiiight...
+
+Aigis leaves. Mitsuru pulls out her cell.
+
+ Mitsuru: I'd best contact Yukari and Akihiko... Just in case...
+
+===============================================================================
+ Metis' Entrance                                                          [2b]
+===============================================================================
+
+> An hour later, in Aigis' room...
+
+Aigis is in her room, on her chair. The screen turns blue as she narrates.
+
+   Aigis: When I close my eyes... I remember the last moment I spent with
+          him... The day he fell asleep... We brought him back to our dorm,
+          fear beginning to well up within us. And the next morning, our fears
+          became reality, and he was lost to us. For some time after that, I
+          fell into depression, and began seeing the same dream night after
+          night... A dream where I run after him, calling his name... but can
+          never catch up. When he was alive, I promised to protect him, and I
+          made that my reason for living. That promise is gone... unfulfilled.
+          Then one day, my sadness suddenly left me, as if a prison door had
+          swung open. I stopped dreaming... and I no longer required sleep.
+
+Aigis is again seen on her chair.
+
+   Aigis: ...... It's no use. I can't sleep... Can I really continue living
+          like this...?
+
+A blue butterfly appears in Aigis' room.
+
+   Aigis: ......? A butterfly...?
+
+The butterfly lands in Aigis' hands and vanishes. The floor suddenly rumbles.
+
+   Aigis: Huh? What's going on!?
+
+A knock is heard at the door.
+
+   Fuuka: Aigis, are you awake!?
+   Aigis: Yes I am. The door is open.
+
+Fuuka runs in.
+
+   Fuuka: Aigis, we need you!
+   Aigis: Has something happened? It's not... another enemy, is it!?
+   Fuuka: It's hard to describe... The lobby floor opened up, and-- Anyway, we
+          need to hurry to the lounge!
+   Aigis: Understood!
+
+They run out of Aigis' room. Aigis begins to narrate again.
+
+   Aigis: Come to think of it, the day my dreams stopped... That must have been
+          the day when the incident actually began.
+
+Aigis is seen running in the lounge.
+
+   Aigis: Huh? What's this!?
+
+Mitsuru, Junpei, Koromaru, and Ken are shown on the ground, in front of someone
+in black and red.
+
+   Aigis: Everyone...!
+ Mitsuru: Keep your guard up, Aigis! It doesn't seem human...!
+Intruder: ......
+   Aigis: A shadow...? No, this is... It can't be... The same model as me!?
+Intruder: You're... Aigis...?
+   Aigis: ......?
+   Fuuka: Sorry I'm late! Is everyone okay!?
+ Mitsuru: Yes... for now. I need you to provide backup for Aigis.
+   Fuuka: All right.
+   Aigis: Who are you? Why are you doing this...?
+Intruder: I'm Metis. I've come to protect you.
+   Aigis: Protect me...?
+   Metis: These people pose a threat to you. That is why... they will be
+          eliminated.
+   Aigis: What are you saying!? I won't let you hurt them!
+   Metis: Then I have no choice... For your sake... I'll have to force you to
+          back down.
+
+                                -- Battle Quotes --
+
+   Metis: You must stand aside.
+   Metis: Don't resist, and I won't hurt you...!
+   Metis: Argh...
+   Metis: Please... Don't resist...
+
+                               -- Anime Cutscene --
+
+   Metis: Much stronger than expected. I have no choice.
+   Fuuka: Is this...?
+   Aigis: Is that... Orgia mode?
+   Fuuka: Aigis!
+  Junpei: No way!
+     Ken: Ah, ah...!
+ Mitsuru: Amada!
+Koromaru: Bark bark bark
+   Aigis: My body...
+   Metis: Hindrances will be removed.
+   Fuuka: No!
+   Aigis: I won't let that happen anymore!
+   Metis: What's this...?
+ Mitsuru: Don't tell me...
+  Junpei: Whoa! What the...
+   Metis: Sister...
+ Mitsuru: Aigis... Hey!
+
+===============================================================================
+ The Velvet Room                                                          [2c]
+===============================================================================
+
+> Aigis has awakened to a new power...
+> Athena has metamorphosed into Orpheus!
+
+Aigis is shown in the Velvet Room.
+
+   Aigis: I... What happened...?
+Man with a long nose: Welcome to the Velvet Room. Ah... A very rare guest
+                      indeed... Are you a simulacrum, or in fact human...?
+                      *chuckle* It seems your destiny is very similar to mine.
+   Aigis: Um... Where am I...? Who are you...?
+Man with a long nose: Ah... forgive my manners. I forgot to introduce myself.
+                      My name is Igor... and this is Elizabeth, my assistant.
+                      We reside in this Velvet Room.
+Elizabeth: Pleased to meet you.
+    Igor: This place exists between mind and matter... A room for those who
+          gave forged a contract... Yes... In awakening to the power of the
+          wild card, you are now bound to a contract. From this moment forth,
+          you are our guest in the Velvet Room.
+   Aigis: Wild card...?
+    Igor: Surely you know of which I speak. The ability to hold multiple
+          Personas and wield their powers... Until recently, a young man with
+          the same talent was our guest here.
+   Aigis: You... know of him?
+    Igor: Indeed I do. He achieved a marvelous thing... reaching the "answer to
+          life"...
+   Aigis: The "answer to life"...
+    Igor: The power you have gained is a means to obtain that answer.
+   Aigis: This answer... if I reach it... Would it mean my death...?
+    Igor: All who live journey in search of the answer, and they reach it at
+          the journey's end... If you have close ties to people you call
+          friends, remember this... "Strength of heart, when united, is barred
+          by no door..." It was the same for that young man. And that is all I
+          can tell you.
+   Aigis: ......
+    Igor: Well, I shouldn't keep you here any longer. The beginning of your
+          ordeal awaits...
+
+Aigis feels something strange.
+
+   Aigis: ......!? That feeling again...!
+    Igor: I am certain you will require our help in the future. Please, take
+          this.
+
+> Obtained Velvet Key.
+
+    Igor: It would be best if you came here of your own free will next time.
+          Until then, farewell...
+
+Aigis is narrating.
+
+   Aigis: I once made a choice to live. So much has happened to me since that
+          decision. If this power is a sign that I'm drawing closer to life...
+          ...does it mean that the answer at the end of the journey is...
+          death? I was surprised, at the time, to discover how little the
+          possibility bothered me...
+
+===============================================================================
+ A Rude Awakening                                                         [2d]
+===============================================================================
+
+Everyone is gathered in the lounge as Aigis wakes up.
+
+  Yukari: ...... Oh...
+   Aigis: ......
+Koromaru: Woof! Woof!
+   Fuuka: Aigis!
+   Aigis: I...
+  Junpei: Phew, she woke up. You really scared us, collapsing like that.
+   Aigis: Yukari-san...
+  Yukari: I came cause Mitsuru-senpai called for me just in case, and I get
+          caught up in this...? Give me a break.
+   Aigis: I'm sorry to have worried you... Hm? What's all this...?
+ Mitsuru: While I was fixing your body, I added some additional equipment. We
+          found some strange things under the floor... There was no sign that
+          you would wake up, so instead of waiting, we tried everything we
+          could...
+   Aigis: I see.
+  Junpei: It still sucks though, getting bossed around by her like that.
+   Fuuka: That strange girl said, "If you want to protect Aigis, you should put
+          that on her."
+
+Metis is shown, guarded by Ken and Akihiko.
+
+ Akihiko: Yo. Looks like you've been through a lot. No worries here,though...
+          She's been on her best behavior now.
+   Metis: ......
+     Ken: I guess she wasn't lying after all. Anyway, she can't cause any
+          trouble now. We have our Evokers this time.
+  Junpei: What do you gotta bust things up like that for? I mean, today's my
+          turn to clean the place! Hey, quit with the silent treatment and say
+          something.
+
+Metis is snoozing.
+
+   Metis: Mm... Huh...?
+  Junpei: Are you serious...? You were sleeping all this time!?
+
+Metis lifts her mask.
+
+  Yukari: ...It opened!
+   Metis: I-I...
+  Junpei: You look pretty comfy there... "I ain't afraid of no humans," huh?
+   Metis: I-It's just... I was tired after going into Orgia Mode... ...Ah.
+   Aigis: Did you cooperate with them in order to help me?
+   Metis: The reason I came here in the first place was to protect you. These
+           restraints aren't necessary. I won't attack anymore.
+   Aigis: No one is going to believe you if you don't explain why.
+   Metis: It's... It's because... I thought you wouldn't like me...
+   Aigis: ...... Let's release her. I don't know if she can be trusted, but I
+          believe she has no intention of fighting us. Besides which, if she
+          has the same parameters as I do, the chains will not hold her anyway.
+
+Metis breaks out of her chains and stands.
+
+  Junpei: Huh!? Then these friggin' nonstop shifts were for nothing...?
+   Aigis: First, tell me who you are and your purpose in being here.
+   Metis: ...I'm Metis. As you can see, you and I are practically siblings. And
+          as for my purpose... It's simply to save you, my only sister...
+          ...from this hopeless situation.
+   Aigis: Hopeless situation...? Did... something happen while I was asleep?
+          How long was I asleep, anyway...?
+   Metis: Since our battle ended, I'd say about a day and a half has passed...
+          ...Yet today is still March 31st. Tomorrow, and all the days after
+          it, will also be March 31st. At this rate, it will last forever.
+          Didn't you feel it? The moment when time skipped?
+   Aigis: Skipped...? Do you mean what we felt at midnight? Then... Are you 
+          saying that the same day is repeating itself!?
+ Akihiko: That's not all... We haven't been able to leave the dorm since this
+          morning. That makes two ways we're trapped here.
+   Aigis: No... But why?
+   Metis: The Abyss of Time below us is causing a space-time distortion.
+   Aigis: Abyss... of Time?
+ Mitsuru: It's difficult to explain... It may be easier to show you.
+   Metis: I'll lead the way. Please follow me.
+  Yukari: H-Hey! Who elected you mayor!?
+
+Everyone heads downstairs.
+
+===============================================================================
+ The Abyss of Time                                                        [2e]
+===============================================================================
+
+   Aigis: What...!
+   Metis: This is the Abyss of Time. It's an uncharted area that probably
+          spreads beneath this area like a tree's roots.
+   Aigis: How could something like this have appeared under the lounge...?
+   Metis: At first, the Abyss of Time was a small thing. Then, without warning,
+          it began to spread out, and formed a connection to your dorm.
+ Mitsuru: It's clear just by looking at it that this place was not man-made. It
+          might be the product of some dangerous power, the way Tartarus was...
+  Junpei: Sheesh... Haven't we had enough of that kinda stuff by now?
+   Metis: I'm not sure I can explain it, but the flow of time here is not
+          normal. The reason why time is skipping and why you can't leave the
+          dorm is most certainly due to that effect. The only way to survive is
+          to somehow find a way to eradicate the Abyss of Time.
+     Ken: Eradicate it? How're we supposed to do that...?
+   Metis: I've already tried the simplest, most direct way... ...Eliminating
+          all of you. The Abyss of Time connected to this dorm, as if drawn to
+          it... That, together with the way you can all perceive the time
+          skips... It seems clear to me that you have a lot to do with the
+          reason for this happening.
+ Mitsuru: So that's why you attacked? In order to eliminate us...?
+  Junpei: What the hell!? We've never even heard of this place before!
+   Metis: If there is another way, we can only find it by entering the Abyss.
+          You'll have to discover the cause and strike at its source.
+ Mitsuru: So you want us to investigate it under the assumption that we'll have
+          to fight?
+   Metis: That's why I insisted on the extra equipment to protect Aigis.
+  Yukari: Wait... is this a joke? Are you seriously telling us to go back to
+          the way things were when Tartarus was around!?
+  Junpei: Never mind that, how are we supposed to believe whatever you say and
+          Jump in there blind?
+   Metis: If you have a better plan, let's hear it. First, the basement of your
+          dorm, then the time skips, and now you can't reach the outside
+          world...
+   Fuuka: I-If we can't leave the dorm... how will we eat!? If we're stuck here
+          for long enough, and we run out of food... Are we going to... starve
+          to death!?
+  Junpei: Nooooooo!!
+   Metis: If the current situation continues, your lives may all be in danger.
+          What I'm asking you to do is the only way for you all to survive.
+   Aigis: Naturally, we all want to survive. But you first appeared to us as an
+          enemy. You must understand that we can't entrust our lives to you.
+ Akihiko: I'm not even buying your reason for being here. You say you want to
+          protect Aigis, but what's in it for you?
+   Metis: "In it"? I'm doing this because I care about her! For heaven's sake,
+          she's my only sister!
+ Mitsuru: About that... Your claim doesn't fit the facts. Aigis was the last of
+          her series, and none of her model were produced afterward. To hear
+          you talk, it sounds like you've been in this Abyss of Time from the
+          start. That bothers me. You said this is uncharted territory,
+          unconnected to the outside world. Am I correct?
+   Metis: Th-That's...
+ Akihiko: Aren't you supposed to be a weapon anyway? How do you square that
+          with attacking us to save Aigis?
+   Metis: That's... I... Um...
+  Junpei: Well? We're waiting... Hope you've got a good answer. Cause if you're
+          stringing us along, we're not gonna let you get away with it...
+   Metis: E-Enough about me! What good is any of this supposed to do you? I
+          thought I told you, there's no time to waste! Now follow me. Or are
+          you going to give up so soon? Because if you are, you should have let
+          me kill you in the first place!
+ Akihiko: What did you just say!?
+   Aigis: It may be true that we have no choice but to enter here... But if you
+          continue to act this way, we'll have to go on without you.
+   Metis: Huh...? Without... me? Haha... you can't possibly... I-I know the
+          most about the Abyss... You need me! A-And...
+  Junpei: Hey, you don't get to decide that!
+   Aigis: Fighting would put all of our lives at risk. It that's the way you
+          think of my friends, I can't go with you.
+   Metis: But...
+  Junpei: Awww, too bad. Have fun here all alone, mmmkay?
+   Metis: ......! All... alone...?
+ Akihiko: ...Maybe we should finish her off now, so she can't backstab us.
+   Fuuka: W-We don't have to go that far...
+   Metis: ...sorry... I'm sorry... I didn't mean to upset you, Aigis... I'll
+          listen to you from now on! I will... Please, don't leave me...
+   Aigis: ......
+  Junpei: C'mon, it's... it's too late to get all weepy.
+     Ken: But maybe it's true that all she wants really is to protect
+          Aigis-san...
+  Yukari: ...Well, Senpai? Do we take her along or not? *sigh* Cause if this is
+          our only choice, I just wanna hurry up and get it over with.
+ Mitsuru: Listen to me, everyone. It seems that once again, we will have to
+          investigate, and there will be battle involved. I've been thinking it
+          over... And I believe Aigis should take command. If someone with the
+          power to change Personas is in charge, we can proceed the same way as
+          before. And if you, as leader approve... I have no issue with Metis
+          accompanying us.
+   Aigis: Mitsuru-san...
+   Metis: ......
+   Aigis: If you wish to protect me, you must fight to protect us all. Hurting
+          my friends will not be tolerated. Do you promise?
+   Metis: Yes! I promise!
+ Akihiko: Hmph. This better not come back to bite us in the ass.
+  Yukari: Hey... Aigis. Since Mitsuru-senpai just mentioned it... What's up
+          with you suddenly having his power?
+   Aigis: I... really don't know. When I thought we might lose someone else, I
+          became scared, and suddenly...
+  Yukari: Metis, was it...? Do you know anything about this?
+   Metis: I just met her. How would I know? Anyway, if you already know someone
+          with that same power, why not just ask him?
+  Yukari: ......
+ Mitsuru: If we're going back into combat, this clothing won't do.
+ Akihiko: Well, you and me are still Gekkoukan students until that magic degree
+          comes in the mail.
+ Mitsuru: Sorry to trouble you, Yamagishi, but could you retrieve the armbands
+          from the command room?
+   Fuuka: Of course. Oh, and the things we found when the floor opened up...
+          I'll look into them once I have the chance. Maybe I can learn
+          something.
+
+ Mitsuru: All right, let's get back upstairs.
+
+Everyone but Aigis and Metis leaves.
+
+   Metis: Um... Aigis? I promise to listen to what you say, so... Could I...
+          call you Sister? ......
+   Aigis: ...Go right ahead.
+   Metis: Thank you... Sister!
+
+Metis runs upstairs.
+
+> The mysterious space that's appeared... the Abyss of Time.
+> Until you find the reason for its presence, you will be unable to leave the
+  dorm.
+> You must begin investigating at once...
+
+===============================================================================
+ Door 1: Malebolge - Paulownia Mall                                       [2f]
+===============================================================================
+
+   Aigis: A door...
+   Metis: It seems like we've reached the first "goal."
+ Akihiko: This place was bigger than I thought. How many more times we gotta do
+          this?
+   Metis: I don't know for sure. But judging by the Desert of Doors, I'm
+          betting it's not going to be just once or twice.
+  Yukari: Ugh... I was afraid you'd say that.
+   Metis: We're looking for the source of our troubles, so logically, it should
+          Be at the deepest level.
+     Ken: Then all we can do is keep on going forward until the end...
+ Mitsuru: It's like Tartarus all over again.
+   Fuuka: The two structures are very similar, in some ways.
+  Junpei: Not only that, we've got the friggin' Shadows wandering around... 
+          Geez... I never thought I'd have to see another one of those. But
+          hey... The Lost are all gone... So how come they're still around?
+ Akihiko: Another question that needs an answer... Though it's not like we can
+          leave until we find out.
+  Junpei: *sigh*
+ Mitsuru: Hm...? What's wrong?
+  Yukari: Ohhh, nothing... It's just... After the hell we went through, we
+          finally had some peace... I was determined to keep my eyes on the
+          future, and not look back. But now I'm being dragged back to the way
+          things used to be!
+ Mitsuru: Yukari...
+   Metis: Time doesn't flow normally here... It's no surprise you feel that
+          way. You'll find there will be many opportunities to revisit your
+          past here.
+  Yukari: What's that supposed to mean...?
+
+Metis walks to the door and opens it. The group reappears at Paulownia Mall.
+
+          Yukari: This is... Huh? Paulowinia Mall? But weren't we just
+                  inside...?
+         Akihiko: What's going on? Did we make it out somehow?
+          Junpei: I dunno... Something seems off... Isn't it kinda hot in here?
+Officer Kurosawa: You kids...?
+         Akihiko: Kurosawa-san...
+Officer Kurosawa: What're you doing out here on a weekday? Shouldn't you be in
+                  school?
+          Yukari: Oh, but it's spring break now...
+Officer Kurosawa: Spring break...? That was a couple months ago. It's June now.
+                  What's with those two in costume back there? Is there some
+                  sort of event going on...?
+          Yukari: Uh, no... It's, um...
+Officer Kurosawa: ...Well, I'll let it slide. I know you kids are a little
+                  different. But if you try to use that as an all-purpose
+                  excuse, I'll have to enforce the law. Don't forget.
+
+Kurosawa leaves.
+
+  Yukari: Geez...
+ Mitsuru: All the dates displayed here say 2009... That calendar, too. Could
+          the June he mentioned be... June of last year?
+ Akihiko: That's impossible... Are you saying this is the past? Hey, Aigis'
+          Sister! Hey! Are you listening!?
+   Aigis: Are the things here that interesting to you...?
+   Metis: N-No, not at all. It's all everyday stuff, right? This is a
+          "fountain," and that over there is a "store"...
+   Aigis: It's true that I sometimes come here to gaze at the fountain...
+   Metis: R-Really? Then you feel the same--
+   Aigis: But there is something odd about being here. For all of us, not just
+          you... Tell me, what is this place?
+   Metis: ...We came here by passing through a door, remember? Doors like that
+          are in several places throughout the Abyss of Time, and each one is
+          connected to the past.
+ Akihiko: Then... this really is last year!?
+   Metis: How else can you explain the different time and season? But it seems
+          you can't go just anywhere in the past... Only somewhere from your 
+          memories. This looks like a mall, but I don't think it's connected to
+          anyplace else either.
+  Junpei: The past...? Aw, man...
+   Metis: It's lucky we found this place. We'll be able to get supplies here.
+          We should be able to use what we can get here until the Abyss of
+          Time disappears. The reason why the door led us here may have
+          something to do with you... The doors may reflect your inner
+          thoughts.
+     Ken: She's taking this pretty well... It's all so bewildering to me.
+   Aigis: ......
+   Fuuka: Well, one thing's a relief... At least we won't starve.
+
+Aigis begins to narrate.
+
+   Aigis: ...So it was that we learned why that place was named the Abyss of
+          Time. A place where you can revisit days gone by... ...But thinking
+          back on it, it wasn't only the astonishing nature of the place that
+          surprised us... It may be that we all unconsciously saw a kind of
+          salvation...
+
+When the party goes through the door again, they appear in the lounge...
+
+   Aigis: Huh...? Is this--!?
+   Metis: Wow... I didn't think we'd emerge directly here instead of the Desert
+          of Doors... Looks like this place is fully connected to the Abyss of
+          Time now. Maybe it's because everyone was hoping to make frequent
+          resupply trips. This will certainly make it easier to go back and
+          forth.
+  Junpei: Hellooooo! We're kinda blocked back here!
+
+Aigis and Metis move aside to let Junpei and Yukari in.
+
+  Yukari: No way... This is crazy!
+ Akihiko: Hey, hurry it up! There's more of us blocked back here.
+
+> You found a means of getting supplies, but you are still trapped in the dorm.
+> What awaits you even deeper inside the labyrinth...?
+
+===============================================================================
+ Door 2: Cocytus - Ken's Past                                             [2g]
+===============================================================================
+
+After going through the door, Ken is seen at the Police Station.
+
+  Young Officer: Well, Sergeant?
+Veteran Officer: Eh, you can go. Looks like a pretty routine accident. Hey kid,
+                 sorry I took so long. Says here that your name's... Ken Amada,
+                 is that right? Ah, well, geez... Sorry about what happened to
+                 your mom. But she gave her life to save you from the collapse.
+            Ken: ......
+Veteran Officer: Anyway, I gotta take your statement. You're a witness, after
+                 all.
+            Ken: If I told you what happened... would you believe me?
+Veteran Officer: Of course I would! Helping people out is our job.
+            Ken: My mom was... murdered.
+Veteran Officer: ...What?
+            Ken: Around midnight, I got up to use the bathroom... and I heard
+                 voices by the door... I looked and saw this teenager, holding
+                 his head and yelling...
+Veteran Officer: Wait... you're saying he did it? But the whole house was
+                 crushed!
+             Ken: There was this shining kind of horse monster, and it came
+                  right out of him! It roared, and my mom and my house were--!
+Veteran Officer: Oh, a monster, huh? Haha... There's no way that actually
+                 happened. Oh, uh... I shouldn't laugh... I know sometimes
+                 after a traumatic incident like this, people can--
+            Ken: I'm not lying! And I really saw it!
+Veteran Officer: Look... it was an accident, plain and simple. A drunk driver
+                 crashed his car into your house.
+            Ken: What...? A car crash...?
+Veteran Officer: We've already found the car and what's left of the driver. We
+                 just need an account of the accident now.
+            Ken: That's a lie! You're making that up!
+Veteran Officer: I know that's what you think, but... it's true.
+Officer Outdoors: Sergeant, can you come out here?
+Veteran Officer: Be right there!
+            Ken: Wait! I really saw it!
+Veteran Officer: I'm sorry for your loss... I have to go, but well... hope
+                 things get better.
+
+The Veteran Officer goes outside.
+
+     Ken: Liar... You said you'd believe me! ..... I can't trust any adults. So
+          I'll find him myself...
+
+The scene with Ken has ended. The group is standing where the door used to be.
+
+   Metis: The door's gone... But the first door didn't disappear. It just
+          opened up to a new place...
+   Fuuka: Never mind that... That was...
+     Ken: *chuckle* That brings back memories. I thought of lots of ways to
+          search for the culprit, but I couldn't manage any of them alone. I
+          kept wondering why the culprit had special powers, and I didn't... I
+          wonder if that's what led me to start experiencing the Dark Hour
+          since that day...
+  Junpei: Ken...
+ Mitsuru: My family must have been the ones who put the "accident" cover-up in
+          place. ...I'm sorry for that.
+ Akihiko: Hey, Metis! What was that about!?
+   Metis: What was what about...? Oh, I see. Apparently, events that not
+          everyone was involved in can only be watched. That's something new...
+ Akihiko: That's not what I meant! Why did we see such a painful memory?
+   Metis: Huh...? How would I know? It's your past.
+ Akikiko: You'd better not be hiding anything.
+   Metis: How would I benefit from that? I'm only speculating, but... I think
+          the "door" reflects the mind of those who enter it. It's the same
+          reason we found a place to get supplies, and why we were able to
+          return directly back. Right now, you wish to erase the Abyss of Time
+          as soon as possible and make it out alive, right? If so, then
+          although what's inside the doors seems unrelated to our situation, we
+          see it for a reason... Maybe you should think hard about what the
+          reason might be instead of wasting time accusing me.
+ Akihiko: What did you say!?
+     Ken: It's all right. What she's saying... might be true.
+ Akihiko: Ken...
+     Ken: Actually, I've been wondering about all of that lately... Things
+          weren't perfect, but it seemed more straightforward and... pure back
+          then, when I was fighting. We don't get that kind of passion by just
+          going to school every day. Sanada-san, you've dedicated yourself to
+          boxing again recently, right? Isn't that because... you don't want to
+          lose the feeling you used to have? ...Of course, that could just be
+          my own way of seeing it.
+ Akihiko: ...... ...Maybe you're right. Maybe I do feel just like I did...
+  Yukari: Let's not talk like that. There's no use bringing up the past...
+          Don't you remember our entire reason for risking everything? If we
+          don't keep our eyes forward, it was all a waste of time.
+ Mitsuru: Yukari...
+  Yukari: ...Let's go.
+
+> For what reason did the vision of a friend's past suddenly appear...?
+> ......
+> You decided to return to the lounge.
+
+===============================================================================
+ Door 3: Caina - Akihiko's Past                                           [2h]
+===============================================================================
+
+A school hallway is shown.
+
+     Akihiko Fan #1: Akihiko-kun, wait!
+     Akihiko Fan #2: Akihiko-kun!
+        Man's Voice: Hold on a sec. You're the captain, aren't you?
+      Student Boxer: Argh, quit pushing! Practice time is over!
+School Boxing Scout: Hey you! Sanada-kun, right?
+            Akihiko: ...That's right.
+School Boxing Scout: That was an amazing bout! I've never seen a junior high
+                     fighter deliver a KO like that! I'm with the school you
+                     were up against in the finals. What do you say about
+                     enrolling with us? We'll give you a fat scholarship--
+                     you'd only have to pay half your tuition!
+      Student Boxer: Hey... you're from another school!? That's against the
+                     rules and you know it!
+            Akihiko: Sorry, but I don't see any reason to join a school that
+                     places second. ...Get outta here.
+     Akihiko Fan #2: Squeee! Akihiko-kun is so cool!
+     Akihiko Fan #1: You here that? He'd never go to your loser school!
+      Student Boxer: Come on already! Go home! ...Dammit, we can't leave until
+                     you guys do!
+            Akihiko: *sigh*
+     Female Student: *chuckle* Couldn't you have handled that a little more
+                     politely?
+
+A young Mitsuru walks in.
+
+      Female Student: I heard it gets crowded after practice, so I waited here
+                      instead. Third year, class C... Akihiko Sanada.
+             Akihiko: Whatddaya want?
+Noble Female Student: ...Aren't you going to ask who I am?
+             Akihiko: No need. Whatever you've come for, I don't want to get
+                      involved. All I want is to train and get stronger.
+Noble Female Student: It's nothing troublesome. I have a very simple request.
+             Akihiko: A request...?
+Noble Female Student: I have enemies that need defeating. They're not people, I
+                      assure you. You wouldn't be bound by the rules of boxing.
+                      No, the enemies I speak of... they're related to what
+                      you've recently been experiencing each midnight.
+             Akihiko: ......!?
+Noble Female Student: You see, I'm in the same situation. I experience the same
+                      thing you do. The difference is, I know what it means. If
+                      you come with me... I'll share what I know with you.
+             Akihiko: Who are you?
+Noble Female Student: Mitsuru Kirijo. I'm a third year, like yourself.
+             Akihiko: Kirijo...? I've heard that name before.
+             Mitsuru: You said you wanted to build your strength. What you
+                      really need is a riskier challenge.
+
+Mitsuru pulls out an Evoker.
+
+ Mitsuru: And with this... you can challenge "them."
+ Akihiko: ......
+
+The door vanishes and the present is shown again.
+
+   Metis: The door vanished this time too...
+ Akihiko: First Ken's past, and now mine... What in the world does it mean?
+     Ken: I have no idea, either...
+ Mitsuru: That really brought me back, though... We were both in junior high
+          then.
+ Akihiko: To tell the truth, I thought that girl was crazy until I first
+          summoned my Persona. What was I supposed to expect when you gave me
+          what looked like a gun five minutes after meeting me?
+ Mitsuru: All part of the plan... That was the best way I could think of to get
+          your attention. If I'd asked you to do something like "fight for
+          justice," I knew you'd never listen.
+ Akihiko: Ha! You can say that again.
+   Metis: So that was a "school"...
+   Aigis: Yes, it was. But it was only a small portion of a school.
+   Metis: Really? Then, it's actually much bigger than that?
+   Aigis: Yes. ...Have you really never been outside before?
+   Metis: Well... That's...
+   Aigis: I didn't mean to embarrass you. It's nothing to be ashamed of. 
+          Thinking back on it, they kept me from leaving the dorm at first,
+          too.
+   Metis: Do you... also go to school, Sister?
+   Aigis: I did... but after this spring, I won't be going anymore.
+   Metis: Huh? How come? All your friends go... They are your friends, right?
+          You like to be around them, don't you?
+   Aigis: Why...? It's because I... um... Well, I thought it over, and it was
+          my own decision.
+   Metis: Oh... I see.
+   Fuuka: You know... I don't think Metis is a bad person at all.
+  Yukari: No, not really bad... More like...
+  Junpei: We've been taking her so seriously up till now, but... She's just a
+          kid inside, isn't she?
+   Fuuka: *chuckle* Maybe so...
+
+> ......
+> You decided to return to the lounge.
+
+===============================================================================
+ Door 4: Antenora - Junpei's Past                                         [2i]
+===============================================================================
+
+Junpei sits on a bench at Paulownia Mall.
+
+  Junpei: *sigh* Stupid old man... How low do you have to be to get drunk on
+          cooking wine...?
+
+Koromaru walks in.
+
+  Junpei: But I guess it's just as pathetic to rush out like this every day...
+          *sigh* Maaan... What am I gonna do...? I got nowhere to go... Yo...
+          'sup, pooch? Here to join my "Nowhere To Go" after-school club?
+White Dog: Arf arf!
+  Junpei: Heheh... Sorry, pooch, I don't have any food for ya. Y'know...
+          Haven't I seen you around here before...?
+
+Two guys walk towards Junpei.
+
+Former Classmate: Hey, it's Junpei.
+          Junpei: Huh...? Oh, hey guys.
+Former Classmate: Why the long face? Are you that sad that we're in different
+                  Homerooms now?
+          Junpei: Still dumb as rocks, huh? Wait, isn't it way past your dorm
+                  curfew? What're you guys doing out so late?
+Former Classmate: Oh, we snuck out. When you get to be a junior, you learn the
+                  secret exit. Hey, we're going to Escapade, wanna come with?
+                  We're helping this guy drown his sorrows over a girl.
+Classmate's Friend: That's not true!
+Former Classmate: Heheh, don't let it get to you. That's what you get for going
+                  after someone like Yukari Takeba. Although I never expected
+                  her to hook up with the new transfer student... I guess she
+                  goes for that kinda dark side of his.
+          Junpei: Dark? He seemed like a regular dude to me...
+Former Classmate: No, I'm serious. That transfer kid? Rumor has it both his
+                  parents died when he was little. Someone got a peek at his
+                  file when Toriumi left it lying around.
+          Junpei: Man, you're so gullible... That stuff only happens in soap
+                  operas.
+Former Classmate: Hey, I said it was a rumor. C'mon, let's get going! You
+                  snooze, no booze!
+          Junpei: Booze...? Oh, uh... I think I'm gonna pass.
+Former Classmate: Huh? What's the matter? C'mon, why don'tcha live a little--
+          Junpei: I said I'm gonna pass! I just... ain't in the mood.
+Former Classmate: Well, man, looks like I'm the only one you got to console
+                  you.
+Classmate's Friend: I keep telling you, nothing happened!
+
+They walk away.
+
+   Junpei: Heh... They offered to hand out, and I turned 'em down... Things
+           Never go the way I want 'em to.
+White Dog: *whimper*
+   Junpei: Man... Is my life really as bad as it seems now...? I wish there was
+           like... something I could do to change the world... Like some
+           awesome skill that no one else has.
+White Dog: *whimper*
+   Junpei: Haha, don't gimme that. I'm sure someday... we can make some real
+           friends that'll listen to us.
+White Dog: Arf!
+
+The party is shown where the door used to be.
+
+  Junpei: Heh... All the scenes in my past, and you guys had to see that one...
+  Yukari: Junpei...
+Koromaru: Arf!
+  Junpei: Dude, I know! I was surprised to see you, too! So, you were the dog
+          from that day!
+Koromaru: Arf!
+  Junpei: Makes it seem kinda like... destiny.
+Koromaru: Arf!
+  Junpei: Looking back, that was the day Akihiko-san found me. The only place I
+          could go from there was the convenience store, and that's where I was
+          when the Dark Hour hit...
+ Akihiko: You were bawling in the dark with that awful expression. Honestly?
+          You looked worse than the Shadows.
+  Junpei: W-Well, what was I supposed to do!? That was the scariest damn
+          moment of my life, man!
+   Fuuka: *chuckle*
+  Junpei: But y'know, I had other stuff to deal with, like my old man... So
+          staying at the dorm, and fighting Shadows, and all that stuff looked
+          pretty good.
+   Metis: I see... Unlike me and my sister, other people usually have reasons
+          to "awaken"... I comprehend.
+   Aigis: I had my reasons as well. However, in my case, it happened in
+          reverse. I had the power first, and gained a reason later. Now that I
+          mention it, you're--
+   Metis: Hmm... I think I'm starting to get it. There is a reason we see what
+          we see inside the doors. Doors that have delivered on that reason
+          disappear, and those with roles still to play remain...
+   Aigis: A reason...? What kind of reason?
+   Metis: I can't say for sure... bur if we keep moving forward, I think we'll
+          start seeing it. Let's do our best, Sister.
+   Aigis: Y-You're right...
+
+Aigis begins to narrate.
+
+   Aigis: Until then, it hadn't even occurred to me to wonder about it... She's
+          so full of emotion... Nothing like me, when I woke up in July. But
+          she'd never had any chance to come into contact with others... Was
+          there a moment when she discovered her emotions, as I did? The seed
+          of my curiosity was planted as I began to wonder...
+
+> You decided to return to the lounge.
+
+===============================================================================
+ Door 5: Ptolomea - Mitsuru's Past                                        [2j]
+===============================================================================
+
+Mitsuri is with several others in Tartarus.
+
+ Guard #1: So this is the interior of Tartarus... It's only the second time
+           anyone has been here without special equipment.
+ Guard #2: ......
+Scientist: Normal weaponry is useless against Shadows. Any equipment we brought
+           would be for your peace of mind. Everyone here has had their
+           "potential" developed in our labs... That should suffice to protect
+           us. And even if you're devoured, that in itself would be valuable
+           data for us. Hahahah...
+ Guard #1: Ugh... Is anyone left in the Ergo Division who isn't a psycho? In
+           any case, Sir... Are you all right with this? I mean... bringing
+           your daughter...
+
+  Mitsuru: I don't mind at all. I myself requested to come along.
+Takeharu Kirijo: ...You heard her.
+ Guard #1: ...I see. I'm sorry to have spoken out of turn, Sir.
+ Guard #2: ......
+ Guard #1: Hey, what's wrong...?
+ Guard #2: Ngh... Agh... Aaagh! Gaaaaaaah!
+
+Guard #2 transforms into a shadow.
+
+ Guard #1: Wh-What the..!?
+Scientist: Looks like it's back to the drawing board for the artificial
+           development of "potential"...!
+ Guard #1: Sir, Miss, step aside!
+  Mitsuru: That's... a Shadow...
+ Guard #1: You little--!
+
+The guards fire at the Shadow until it swats one of them aside, leaving the
+Kirijo's unguarded.
+
+ Guard #1: Sir! Miss!
+Takeharu Kirijo: Gah...!
+  Mitsuru: Father!
+
+Penthesilea comes out of Mitsuru and kills the Shadow. She's floating.
+
+Scientist: Oh... did you see that!? Such power! It's a Persona! I was right!
+           Persona-users do exist!
+
+Mitsuru collapses.
+
+Takeharu Kirijo: Mitsuru!
+  Mitsuru: Father... I'm glad you're safe...
+Scientist: That was wonderful, Lady Mitsuru! A beautiful expression of your
+           natural potential! At last, our future seems bright!
+Takeharu Kirijo: Why are you so happy about it!? Now... Mitsuru can never
+                 escape from the destiny of atonement... She'll spend her life
+                 bound to our cursed legacy, when she should be finding her own
+                 way. What's so bright about that...?
+  Mitsuru: Don't worry, Father... I chose this for myself... I'll protect
+           you...  Father...
+Takeharu Kirijo: Mitsuru...
+
+The party is shown where the door used to be.
+
+  Yukari: Was that Senpai's...?
+ Mitsuru: Hm...? Oh... yes.
+   Fuuka: Senpai...? What's the matter?
+ Mitsuru: Ah, well.... I'm sorry, it's just that... Seeing Father before my
+          eyes, as if he were still alive, was...
+  Yukari: Senpai...
+  Junpei: Aww, but wasn't Mitsuru-senpai really cute when she was little?
+ Mitsuru: Excuse me, Iori? Are you saying that's no longer the case?
+  Junpei: Uhhh, n-no... That's not what I-- C'mon, you got it all wrong!
+   Metis: ...It's exactly as I though. Of the past events we've seen up to this
+          point... The first one seemed to be about getting ready for battle,
+          but the others... How should I put it... It feels like there's some
+          aspect they all have in common. Don't you all think so?
+ Mitsuru: Yes... Bur for now, we don't know what that might be.
+   Metis: This is the fifth door... We should be getting closer to the source
+          we're looking for...
+   Fuuka: Oh... I just remembered! There's something I have to tell you all!
+          Remember the machinery and documents Mitsuru-senpai found? I looked
+          into them, and it turns out they were things that the Chairman hid
+          when he was still alive... Most of them were from the accident 10
+          years ago, so he must have hid them so they wouldn't be destroyed.
+          Some of the notes I found seemed to be talking about the Abyss of
+          Time...
+ Akihiko: Is that true!?
+   Fuuka: We may be close to discovering what this place really is.
+     Ken: We're closing in on it...
+   Aigis: We should hurry forward.
+
+> ......
+> You decided to return to the lounge.
+
+===============================================================================
+ Door 6: Judecca - Yukari's Past                                          [2k]
+===============================================================================
+
+Yukari is sitting in a dorm.
+
+    Announcement: Attention, all students in the dormitory. The cafeteria will
+                  be closing in 30 minutes.
+          Yukari: Oh, crap... ...Forget it. *sigh*
+Female Classmate: Oh, there you are, Yukari. We went to your room to look for
+                  you.
+          Yukari: Oh... sorry. I don't think I can make it today... It'll be
+                  crowded anyway.
+Female Classmate: Hey, is that your stuff...? Have you even been to your room
+                  since we got back?
+          Yukari: Huh...? Oh, yeah... you're right.
+Female Classmate: I don't believe this! You mean you've been spaced out for
+                  hours? Are you sure you're feeling okay?
+          Yukari: Oh, no, it's nothing, really. It's just... How should I put
+                  it... It's hard to believe it's already been four years since
+                  I got here.
+
+Female Classmate: Ohh, yeah. I see what you mean. It sucks that we have to be
+                  cooped up in this dorm for three years. We should be out and
+                  having fun! This year's almost over, too... At this rate,
+                  high school will be over in a flash.
+          Yukari: ......
+Female Classmate: Well, let's not set our sights too high. We've just gotta get
+                  through this.
+
+The two girls leave.
+
+  Yukari: Things went by so fast... I knew I wouldn't find out anything about
+          Dad just by going to class... I mean, not even the police or the
+          media have found anything new... It's already been 10 year... ......
+          I wonder if I should just give up...
+
+A woman walks up to Yukari.
+
+Dorm Manager: Ah, Takeba-san! You are Takeba-san, the freshman, right?
+      Yukari: Oh... Yeah, that's me.
+Dorm Manager: I'm glad you're here. There's a letter for you. I'm very sorry
+              about this... It actually came in yesterday. But there were so
+              many transfer stamps that I couldn't tell who it was for.
+
+She hands Yukari the letter.
+
+      Yukari: What...!?
+Dorm Manager: It's from an Eiichiro Takeba. Is he a relative?
+      Yukari: B-But that can't be... Commemorating the opening of the Moonlight
+              Bridge... 10 years ago...!?
+
+Yukari runs away, leaving her things behind.
+
+Dorm Manager: Um, Takeba-san, wait! I need your signature here! And you forgot
+              your things! These are your things, aren't they? Takeba-san!
+
+The party is standing where the door used to be.
+
+ Mitsuru: You were al alone... Trying to fight the Kirijo Group's deception by
+          yourself for so long...
+  Yukari: It's not like that...
+ Mitsuru: If we're being forced to look into our pasts... It would've been nice
+          if you could have seen your father. ...I would've like to meet him.
+  Yukari: It's not that big a deal. Now's not the time to go over the past. I'm
+          tired of dealing with Shadows. We should hurry and finish this.
+ Mitsuru: ...... Yukari. Aren't you... pushing yourself a little too hard?
+  Yukari: ...... You know how Aigis has... his power? She might not realize it,
+          but... that's gotta mean she inherited something from him. I'm
+          anxious to get my own sign that I'm actually moving forward. ...I
+          made a promise with him, too.
+ Mitsuru: Yukari...
+  Yukari: Now that I've seen my past event, I know for sure. The idea we had
+          about there being something in common between all the memories we've
+          seen...
+ Akihiko: So that means... On that day we saw, did you...?
+  Yukari: Ken-kun's story, Akihiko-senpai's story... Junpei's and Koromaru's
+          too. Mitsuru-senpai's is the one that makes it the most obvious.
+  Junpei: Huh...? I'm not following you here...
+  Yukari: What we've seen is each of our reasons for awakening go our Persona.
+ Mitsuru: It fits. Fuuka awakened in front of everyone, and Aigis and Metis
+          could use it from the beginning... So there's no need to see their
+          memories. That would make the most sense.
+     Ken: But even if that's so, why would we be seeing that here? Is it
+          telling us to step back and examine our origins...? Aigis-san, what
+          do you think?
+   Aigis: I... Well...
+
+Everyone but Metis gathers in a circle and "chats" for a bit.
+
+   Metis: ......
+  Junpei: Yoooo, Aigis' Sister! Don't act like this doesn't involve you...
+          Let's hear what you think.
+   Metis: *sigh* Why...? I can't talk about the past with you all. I don't know
+          anything about it.
+   Aigis: What's the matter?
+   Metis: Nothing... I meant just what I said. You said you wouldn't leave me
+          behind... But I don't know anything about your pasts, so I'm always
+          lost during these conversations...
+  Junpei: Ahhh, I get it. You're lonely! See? You're a kid after all. Heh, now
+          I get why you got all well-behaved when we said we'd leave you
+          behind...
+   Metis: I'm NOT a kid.
+   Aigis: You may not know anything about us, but we don't know anything about
+          you either. You must have special memories known only to you...
+          ...like the memory of when you discovered your emotions.
+ Akihiko: Isn't it time you told us who you are?
+   Metis: ...... Memories... But I don't...
+
+Metis' mask closed.
+
+   Fuuka: Oh! It closed...
+  Junpei: Sheesh...
+ Mitsuru: Metis, I think you misunderstand. Not all of our pasts were
+          glamorous. To be honest, there were more painful memories than
+          pleasant ones.
+   Metis: That's clearly not true. All the things you laugh and talk about are
+          from your past.
+   Aigis: ......
+
+Aigis begins to narrate.
+
+   Aigis: She doesn't mince words... which forced us to another realization. I
+          felt, for the very first time... That the reason time stopped may in
+          fact have something to do with us...
+
+> You decided to return to the lounge.
+
+===============================================================================
+ Door 7: Empyrean - Aigis' Dream and the Key of Time                      [2l]
+===============================================================================
+
+Everyone is walking towards the last door.
+
+   Aigis: Is this... the deepest part of the Abyss of Time...?
+  Yukari: You think? It's no different than the rest of the ones we've seen...
+ Mitsuru: But that fits, logically. Which means that the Abyss' origin-- the
+          reason for the time skips-- is here...
+   Fuuka: ...Oh! There's something I had to tell you all. It was in the papers
+          about the Abyss of Time I mentioned before...
+ Akihiko: Did you find something?
+   Fuuka: If the report is correct, this place came into existence as a
+          reaction to the creation of Tartarus...
+  Junpei: A reaction...?
+   Fuuka: The gigantic tower rising so high left a gigantic hole in its place.
+          That's the Abyss.
+ Mitsuru: Does that mean they've known about this for 10 years?
+   Fuuka: They decided it would be harmless if left alone, since it would
+          probably disappear with Tartarus. But it also said that since the
+          Abyss is just a byproduct, there should be no Shadows in it...
+  Junpei: Wait a sec! There's a friggin' ton of Shadows here! And it if was
+          supposed to go poof along with Tartarus, why are we standing in it
+          now? Did they forget a decimal place or somethin'?
+   Metis: No, their logic makes sense. What was supposed to vanish is still
+          here because of some force. One side's removal caused an imbalance...
+   Fuuka: ...What could that force be?
+   Metis: Who knows? Maybe it's somewhere down here. One thing's certain,
+          though: it's deeply connected to all of you.
+  Junpei: What's up with that!? What the hell did we do to deserve this...?
+     Ken: Well, there's another door... If that's here, then maybe...
+ Akihiko: What's goin' on? Is that the big "reason" behind all this?
+   Fuuka: If we leave out Aigis, Metis, and me... Whose past is left?
+  Junpei: Hey, yeah... Who else was there that had powers like ours?
+  Yukari: Who cares? There's no use speculating with it staring us in the face.
+          We'll know once we open it.
+   Metis: Whatever that "reason" is, it's strong enough to keep the Abyss of
+          Time from disappearing... And we've come to erase that reason. We
+          could be in for a battle. We should be very prepared before entering.
+ Mitsuru: She's right. ...This appears to be our goal. Don't worry. We can do
+          this.
+
+Aigis opens the door. In it, she's sitting in a dark, empty area.
+
+   Aigis: ...... I... I... am... ......
+
+The Main Character appears behind her.
+
+   Aigis: ......! You're--!?
+
+He begins to walk away. Aigis runs after him, but he continues to slip away.
+
+   Aigis: Wait...! Please! Wait!
+
+Aigis falls over.
+
+   Aigis: Ah... No! Don't go!
+
+He vanishes entirely, and Aigis gets up.
+
+   Aigis: I promised to protect you... I dedicated my life to that purpose...
+          But... I can't fulfill that purpose anymore... There's nothing more
+          I can do... Can I continue to "live" this way...? Does my life have a
+          meaning...? ......
+
+Aigis falls back down.
+
+   Aigis: If so... I wish... I could return to being a mere machine...
+
+The party is shown standing where the door used to be.
+
+     Ken: Huh...? That's... the cause?
+  Junpei: D-Don't look at me...
+   Fuuka: But... Well... I didn't expect that we'd get to see him again...
+          Although he did have his back turned...
+ Mitsuru: ...Indeed.
+  Yukari: ......
+ Akihiko: But what's it mean? That looked like it was Aigis' memory. What kind
+          of clue is that...? Aigis didn't have to awaken to her Persona
+          abilities, right?
+  Yukari: No, she did... She awakened to the special power he had. Aigis, what
+          was that? When did it happen?
+   Aigis: ...... I... always woke up to that. It was so painful to lose him...
+          I withdrew into my room, unable to do anything... For a while, I did
+          nothing but chase after him in my dreams...
+   Fuuka: Aigis...
+   Metis: Sister...
+   Aigis: But after a while, I stopped dreaming entirely. It felt like a weight
+          on my chest lightened and fell off... That must have been... the last
+          of the dreams I had. But I don't' see what that has to do with my
+          awakening...
+   Metis: Sister... are you still in pain? The person we saw... He's the one
+          who had the same kind of power as you, isn't he...?
+   Aigis: ......
+  Yukari: *sigh* So that's the big cause of all this? That didn't explain
+          anything...
+   Metis: ...Don't you get it? What we saw was only my sister's memory, but...
+          all of you want to see him again, right? Then the answer is obvious.
+  Yukari: ...What's that supposed to mean?
+   Metis: What I said at the start was right all along... The fastest way to
+          solve this would be to eliminate all of you.
+   Fuuka: So... that means that figure we keep seeing is--
+ Mitsuru: Wait, something's wrong...!
+
+A black mist appears where the door was.
+
+  Yukari: What the...!?
+   Metis: Just as I thought... It's coming... The monster that's taken the
+          shape of your regrets.
+
+Someone who looks like the Main Character walks out.
+
+   Aigis: Is that...!?
+  Junpei: You gotta be kidding... That can't be--!
+   Metis: This is the reason for everything... From the Abyss of Time's failure
+          to disappear, to the presence of the Shadows... This... was born from
+          all of you.
+
+                              -- Battle Quotes --
+
+   Aigis: Athena...
+ Akihiko: The hell...? That's Caesar!
+  Junpei: Trismegistos... You damn copycat!
+  Yukari: Why's it using Isis...!?
+ Mitsuru: No...Artemisia!?
+     Ken: How can he use Kala-Nemi...?
+> Koromaru is furious.
+
+===============================================================================
+ Door 7: Empyrean - Key of Time                                           [2m]
+===============================================================================
+
+After the battle, everything is back to normal in the Abyss.
+
+ Akihiko: We did it...
+  Yukari: That was... the monster born from us? But it was...
+ Mitsuru: Yes... its powers and form were familiar, but it was a Shadow.
+   Metis: You are correct.
+  Junpei: Wait, but that makes no sense. Persona-users are supposed to beat
+          Shadows, right?
+   Metis: What are you talking about? Don't tell me you've been fighting them
+          this whole time without knowing... Personas and Shadows are the same
+          thing. That's why you're able to fight them in the first place. Did
+          you all think that Shadows were mysterious invaders or something?
+          Shadows are the lower parts of the psyche everyone has... Suppressed
+          human thoughts given physical form. When people are unable to face
+          their darker selves, they break loose, free from all control. But
+          sometimes, humans with special awareness can tame their Shadows...
+          Those are Persona-users.
+  Junpei: So Personas and Shadows... They're the same thing, just different
+          names?
+   Metis: If someone was able to create my sister and myself, wouldn't he have
+          had to understand this?
+ Mitsuru: ...All those people lost their lives.
+  Yukari: ......
+   Fuuka: Then... the reason for all this is our Personas?
+   Metis: The Shadows' power affects time and even space... Through your
+          Personas, your unspoken desires were manifested... You can't stand
+          to see time move on... You don't want to accept your loss of someone
+          precious... It was by each of your wishes that time stopped moving
+          forward... And as a result, you became trapped here.
+     Ken: So we trapped ourselves...? Hah... It's almost funny...
+ Akihiko: Whatever the reason was, we beat that thing. We won. That should
+          solve all this, right?
+   Metis: Yes, that is correct. If we return to the dorm, we may be able to go
+          outside.
+
+Everyone except Metis suddenly receive something glowing.
+
+  Junpei: Whoa... what's this? When did I...?
+   Aigis: Is this... a key?
+   Metis: You should be able to leave using those keys. Once you make it
+          outside, the Abyss of Time should disappear on its own.
+
+> Obtained Key of Time
+
+  Yukari: Finally... Geez... I'm glad this didn't end up taking another year.
+     Ken: But these keys... There's eight of them.
+   Metis: That's because each of you played a part in bringing this about. The
+          door probably won't open unless all eight are used at once.
+   Aigis: "Strength of heart, when united, is barred by no door..." Those
+          words...
+  Junpei: So it'll open if we're all around, is that right? Then let's get the
+          hell outta here! Uh... So are we just gonna waltz out through the
+          front door?
+   Metis: That door, or another one... There's still one closed door that
+          doesn't connect to the outside world. The main entrance, or that
+          door... It's one or the other.
+ Akihiko: A door that doesn't connect to the outside world...?
+  Yukari: Are you talking about... the door to his room? I just assumed someone
+          had locked it.
+   Metis: That door has the same feel as the doors to the past we've been going
+          through up to now.
+ Mitsuru: What do you mean by "one or the other"? If we open it, won't it just
+          connect to another past?
+   Metis: That's right. If you go through the entrance, you'll return to the
+          present. But that door leads to the past.
+   Fuuka: The past...?
+   Metis: The world of the past. You've all been there many times now. But this
+          time, the Abyss will disappear once you go through the door. You'll
+          be in the true past.
+ Akihiko: Is that true!?
+   Metis: Why would I lie about something like this? If you don't believe me,
+          then why don't you try leaving through the entrance?
+ Mitsuru: To accept the past, or to revisit it... You're saying that in the
+          end, we have to choose.
+   Aigis: ...What do you want to do?
+   Metis: I'll go along with whatever you decide, Sister. That way... I'll
+          finally be able to save you from this cursed fate... To be honest,
+          that's all I care about.
+   Aigis: "Cursed fate"...?
+   Metis: Which one are you going to choose, Sister?
+   Aigis: I... ......
+  Junpei: Uh, hey... W-Why don't we got back to the dorm first? This is way too
+          heavy to decide right here...
+ Mitsuru: ...I agree.
+
+> You decided to return to the lounge.
+
+===============================================================================
+ Conflicting Decisions                                                    [2n]
+===============================================================================
+
+Everyone returns to the lounge to find golden cracks everywhere.
+
+  Yukari: What the--!?
+  Junpei: What're all these cracks!?
+   Metis: This is bad... It's becoming unstable... It should last a little
+          longer, but we don't have much time. If the fault extends to the
+          door, we may not be able to leave even with the keys...
+ Akihiko: Tch... It's just one thing after another, isn't it?
+
+Everyone gathers around the table.
+
+  Junpei: So, uh... What's the plan? I mean... no one is seriously thinking
+          about going back to the past, right?
+  Yukari: ......
+     Ken: Um... I've been thinking... Why do you think he died? They never
+          figured out the cause of death at the hospital, right...?
+  Junpei: Well, that's...
+     Ken: Personally... I still think it's because he used all his power to
+          accomplish that miracle. In other words, we were saved because he
+          gave up his life. He gave everything for us... So it doesn't seem
+          right to undo all his work on our own...
+   Fuuka: Ken-kun...
+ Akihiko: I'm with Ken. We've all seen what kind of resolve it takes to face
+          death... That resolve, and what it brought about... There's no way
+          we can cancel that out on our own whims. Even if it hurts, we have
+          to deal with it and accept the present.
+ Mitsuru: Yukari... What about you?
+  Junpei: You're all about the here and now, right, Yuka-tan? I mean, you say
+          it all the time-- "You gotta look forward!"
+  Yukari: I... I... want to go back. To the time before the last battle... When
+          I thought about how he protected us, I kept telling myself that I
+          have to keep looking forward... That's why I started going to cram
+          school, and spending less time goofing off. But... I can't lie to
+          myself. If there's a way for him to come back... I'll take it, no
+          matter what.
+ Mitsuru: Yukari...
+ Akihiko: So... you're giving up? Are you saying you don't have the strength
+          to face reality? After all the things we've gone through, you're just
+          gonna throw in the towel in the fight against yourself?
+  Yukari: Oh yeah, you're really one to be throwing around all those
+          high-minded ideals! If you really thought something was that precious
+          to you, you'd want to protect it no matter what. Don't you
+          understand!? We can go back and fix things! Are you seriously just
+          gonna let a chance like this go!?
+ Akihiko: Then I'll ask you this... If I said I wanted you to undo your
+          father's death, would you do it? Even if there was a way to reverse
+          Shinji and Miki's death, I'd flat-out refuse. Nothing in the past was
+          a waste... You're just making excuses.
+  Yukari: ......
+   Metis: Hey... you keep mentioning "death"... Are you saying the person who
+          saved you all didn't just... leave?
+ Mitsuru: That's correct... He passed away.
+   Metis: What...? Why didn't you tell me before...?
+ Mitsuru: Why...? But... you've never met him.
+  Yukari: Anyway, what do the rest of you think?
+  Junpei: I dunno... I get second thought when I think about going back to when
+          Chidori died... But I definitely see what Akihiko-senpai is tryin' to
+          say. When you get down to it, though... I hate to say this, but I'm
+          just too scared to do that battle over.
+  Yukari: What's wrong with you!? Are you saying you're scared to die, but it's
+          okay if he does?
+  Junpei: That's not what I said! I mean, have you really thought this
+          through!? Going back to before that battle means we'd have to fight
+          Nyx again! Did you ever think about what might happen if we lose this
+          time!?
+  Yukari: It's the same thing! Either way, all it means is that you're just
+          scared! ...And you two are no better. All that talk about accepting
+          the present is because when you get down to it, you only care about
+          yourselves!
+ Akihiko: What!?
+     Ken: How can you say that!?
+  Yukari: *sigh* There's no use going around and around like this. We're never
+          gonna reach an agreement. So if no one gives in... we'll have to
+          settle this another way.
+   Fuuka: Another way...? Yukari-chan... you don't mean--!?
+  Yukari: Taking the keys by force... That'll work too, right?
+   Metis: It's true that the eight keys will merge if they're brought
+          together... even against their holders' wishes.
+   Fuuka: ......
+   Metis: But if it comes to a fight... I'll protect my sister with everything 
+          I have. These keys represent each of your strength of heart... If you
+          take my sister's... she may lose her life.
+ Mitsuru: What do you mean?
+   Metis: You're only thinking of what's best for you... The person with my
+          sister's power died of unknown causes, didn't he? Did any of you ever
+          stop to think that maybe the same thing could happen to her!? I came
+          to protect her... but I... I won't make another mistake. I'll do
+          whatever it takes to save her!
+   Aigis: Metis...
+     Ken: Aigis-san... Which door are you thinking about unlocking?
+   Aigis: I... I can't decide right now which is more important, the past or
+          the present...
+  Yukari: So you're just gonna run away? Again? Just like the day we said our
+          farewells to him, and you were the only one who didn't show up. You
+          got to hear his last words... You even made him a promise... But here
+          you are, still running. Why were you the one who inherited his power
+          when you can't even make up your mind? I'm sorry, but I'm not going
+          to lose to someone like you!
+   Fuuka: Yukari-chan... Are you really going to fight...?
+ Mitsuru: This decision hinges upon someone precious to us all... Our
+          differences can't be settled with a compromise. No matter what Aigis
+          decides... we have no choice but to fight. And I've... made my
+          decision as well. I'm going to stand with Yukari.
+  Yukari: Senpai...
+ Akihiko: You're taking her side...? Are you serious? ...... Heh... I know you
+          well enough to tell your mind's made up. All right.
+   Aigis: Everyone...!
+   Metis: ...It's decided, then. Follow me... I'll lead you to a place suitable
+          for battle. If we fight there... no one can appeal the result.
+
+Metis walks away.
+
+  Yukari: Hey--!?
+
+> ......
+> The friendship has been split...
+> How will you make your final decision...?
+
+===============================================================================
+ The Fighting Starts - Akihiko and Ken                                    [2o]
+===============================================================================
+
+Aigis walks out of a large door.
+
+   Aigis: This...
+
+A large, round arena that looks like a clock without the hands is shown.
+
+   Aigis: This is where you awakened...?
+
+Akihiko and Ken walk out of the opposite door. The two groups approach each
+other at the center.
+
+ Akihiko: I gotta admit... This is a pretty appropriate place to settle stuff
+          like this.
+   Aigis: ......
+ Akihiko: I was hoping to go up against Mitsuru's team first, but... Oh well.
+   Fuuka: Aigis! Akihiko-senpai!
+
+Fuuka walks in.
+
+     Ken: Fuuka-san...
+   Metis: Do you object to her acting as the mediator, and backing up both
+          sides?
+   Fuuka: No! You can't make such a decision like that without me! Helping both
+          sides, encouraging my friends to fight each other... I won't do such
+          a thing.
+   Metis: But with your ability--
+ Akihiko: There's no need to worry about us when we're about to go at it. If
+          you can't choose, side with Aigis. Her life could be at risk, right?
+          So it's only fair that she gets a handicap with you. 
+   Fuuka: Akihiko-senpai...
+ Akihiko: Let's get this over with.
+     Ken: Aigis-san... Have you decided what you'll do if you get all the keys?
+   Aigis: I can't fight against...
+ Akihiko: Sorry... but if you haven't made up your mind by now, I can't let you
+          have our keys!
+
+                              -- Battle Quotes --
+
+ Akihiko: We'll see whose will is stronger!
+     Ken: If you don't take this seriously... You'll be hurt.
+
+ Akihiko: Hmph... That was nothing.
+ Akihiko: Tch... Not bad... But I'm not going down!
+ Akihiko: Rrgh... I'm not through yet. Let's see how much power you really
+          have.
+
+     Ken: You're strong...!
+     Ken: All right... it's time to get serious!
+     Ken: I won't give up!
+
+                              -- Normal Cutscene --
+
+   Aigis: Akihiko-san! Amada-san!
+
+Akihiko and Ken are suddenly transported to two torches, which get lit upon
+their arrival.
+
+   Aigis: What's happening...!?
+   Metis: I told you before... If they lose, there will be consequences. They
+          haven't died. But... they won't return to their original forms until
+          the true key is formed. You can no longer avoid fighting... 
+   Fuuka: No...
+   Aigis: You knew this would happen... Is that why you brought us here? What
+          were you thinking!?
+   Metis: It's because... this must be my purpose here...
+   Aigis: ......
+   Metis: If the fires burn out, they won't be able to return to normal even if
+          the key is forged. ...We need to hurry, Sister.
+   Aigis: ...Don't call me Sister anymore.
+   Metis: Do you... hate me now?
+   Aigis: ......
+   Metis: ...I'll still fulfill my promise. No matter what, I will protect
+          you... Sister.
+
+Aigis walks back towards the door.
+
+> The battle is finally underway.
+> To revive your defeated friends, you must see the fight through to the end.
+>......
+> You decided to return to the lounge.
+
+===============================================================================
+ The Second Battle- Junpei and Koromaru                                   [2p]
+===============================================================================
+
+Junpei and Koromaru are waiting in the arena as Aigis, Metis, and Fuuka
+approach.
+
+  Junpei: ...'Sup?
+Koromaru: *whimper*
+   Fuuka: Junpei-kun...! Koro-chan...!
+  Junpei: Well... I guess I can see what's going on.
+   Metis: No matter who our opponent is, I won't let them have my Sister's...
+          Aigis's key.
+  Junpei: Heh, I know, I know. It's cool. But y'know, no matter which way this
+          turns out... I just don't think Aigis can win against Yuka-tan right
+          now. Sorry. Then again, I don't think Yuka-tan's got it right either.
+          Even if we go back to before the final battle, if we're still
+          squabbling like this... I dunno, do you really see us being able to
+          pull off a miracle and do things better than he could? 
+  Junpei: Me, I think this is somethin' we've gotta take care of on our own.
+   Fuuka: Junpei-kun...
+  Junpei: I'm not as much of a hardass as Akihiko-san, but... I don't think we
+          should mess with the past. Still, some things you just can't work out
+          by talking about 'em. If neither side will give an inch, well,
+          sometimes that's how things are gonna be. Right, little sis? 
+   Metis: ......
+   Aigis: Junpei-san...
+  Junpei: All righty then... Let's get it on! You better not throw this fight!
+
+                              -- Battle Quotes --
+
+  Junpei: Get ready, 'cause here I come!
+> Koromaru is fully prepared.
+
+> Koromaru still seems healthy.
+> Koromaru is getting tired.
+> Koromaru seems to be in pain.
+
+  Junpei: Dude, you're pretty tough, Ai-chan. But you're not the only one!
+  Junpei: Heh... I never thought I'd be on the receiving end of your gadgets
+          again!
+  Junpei: This ain't good... I better go all-out!
+
+                              -- Normal Cutscene --
+
+Junpei and Koromaru vanish into the torches.
+
+   Fuuka: Junpei-kun... Koro-chan...
+   Aigis: All of us... we were searching for the same thing... Our bonds were
+          so strong... And yet...
+   Metis: The next battle will be the last one... If we win... there will be no
+          one left who can take your key.
+   Aigis: Is this... right? I can't stand it any longer... This is wrong. I
+          can't accept either meddling with the past or proceeding blindly in
+          the present. It scares me too, to think about dying... But does that
+          justify hurting the ones who are precious to you? 
+   Metis: ......
+   Aigis: If this has to continue, I'm not going to be a part of it. I'll end
+          all this by giving my key to Yukari-san and Mitsuru-san.
+   Metis: No! You can't do that, or you'll--!
+   Aigis: We don't know for sure whether or not that will happen. And I won't
+          accept your input on this. It's my decision.
+
+Aigis begins to walk away.
+
+   Metis: Wait! Don't go...! I... had a premonition! I wasn't hiding who I
+          am... I really don't know anything about myself. About a month ago,
+          I woke up here all alone... You asked me about when I discovered my
+          emotions, but I don't have any memories... I only knew two things
+          when I woke up. First, that I had a sister somewhere in the world who
+          understood me... And second... a strong premonition that if I didn't
+          do something, that sister would die soon. At first, I thought it
+          would happen because of the Abyss of Time. But that wasn't it... I
+          understand now... The power you've gained comes at the cost of your
+          death...!
+   Aigis: The cost of my death... The answer... to life...
+   Metis: I went to see you so I could save you, but I ended up causing the
+          power to awaken... That's why I made up my mind. I'd do anything to
+          protect you. Even... even if it meant you'd hate me for it... You're
+          all I have in the world...
+   Fuuka: Metis...
+   Aigis: ...... There was a time when I felt the same way about someone... But
+          I still can't hurt the people who gave me my heart. Even if the end
+          result of this power is death. 
+   Metis: I don't want you to die!
+   Aigis: ......!
+   Metis: If you're not gonna give in... You still don't need to throw your
+          life away... If you end up losing your key... I'll give you my life.
+          I don't want you to die and leave me behind. I'd rather give my life
+          than be alone... That way, I can always stay with you. 
+   Aigis: What are you saying--
+   Metis: Please don't leave me behind! *sob*
+   Aigis: Metis... ...... It's okay... I'm sorry. I won't leave you.
+   Metis: *sob*
+   Aigis: I... thought I knew all too well the pain of being left behind... You
+          show me so many things that I had let myself forget...
+   Fuuka: Aigis...
+   Aigis: Because our bonds are so strong, there's no solution to this where no
+          one gets hurt... There's no easy way out. If I gave up without making
+          a decision, I'd be running away from the pain my friends must still
+          face. I think... I was running away from life again. I need to make a
+          choice. ...I care about him as much as anyone else. Fuuka-san,
+          there's something I want you to hear. 
+   Fuuka: Huh...?
+   Aigis: You too, Metis.
+
+> Deciding what was most precious was a difficult process.
+> But the time has come when you are forced to face the truth, and make your
+  choice...
+> ......
+> You decided to return to the lounge.
+
+===============================================================================
+ The Third Battle - Yukari and Mitsuru and Aigis' Choice                  [2q]
+===============================================================================
+
+The remaining combatants are in the arena.
+
+   Fuuka: Aigis...
+   Metis: ......
+  Yukari: It's strange... I kinda want to say "long time no see" to you guys.
+   Fuuka: Yukari-chan...
+  Yukari: You know... I had a feeling a while back that something like this
+          might happen.
+   Aigis: ......
+ Mitsuru: There are four lit flames... This battle will determine which side
+          gains the true key. Well...? Have you made your choice? Tell me that
+          you didn't defeat the others without a clear objective... 
+   Aigis: Yes... I've made my decision. I know what I want to do. There was
+          something crucial that I hadn't known... But my sister revealed it to
+          me. To care about someone dear to you, to strengthen the bonds of
+          friendship... That doesn't necessarily mean that the pain of living
+          will stop. 
+   Metis: Sister...
+   Aigis: If something's precious, you don't want to lose it... If someone's
+          dear, it's painful to part with them... Loss can hurt, but... I don't
+          think there's anything wrong with that. I, too, have something
+          important... That's why I'm willing to fight you two now. 
+ Mitsuru: Aigis...
+  Yukari: ...... *chuckle* You sound like you're back to your usual self again.
+          Y'know, I have to say, you've been a little out of it lately... It
+          was kinda disappointing, because you were acting all mechanical, like
+          when you first got to the dorm. But now... I'd say you've got more
+          life in you than ever. 
+   Aigis: Yukari-san...
+  Yukari: All the same... I can't give in, either. I'm not gonna lose this
+          battle... no matter what!
+
+                              -- Battle Quotes --
+
+  Yukari: Get ready, cause I'm gonna tear you apart!
+ Mitsuru: Show me your resolve!
+
+  Yukari: What's the matter!? Is that all you've got!?
+  Yukari: I barely even feel a thing!
+  Yukari: I can't lose... I WILL NOT LOSE!
+
+ Mitsuru: I won't hold back!
+ Mitsuru: I knew you wouldn't be an easy opponent...
+ Mitsuru: Impressive... But I'll fight to the bitter end!
+
+                              -- Normal Cutscene --
+
+Mitsuru and Yukari become the flames of the final torches.
+
+   Fuuka: Take mine too, Aigis. I agree with you the most, so...
+
+The key starts glowing, along with the torches. A single key floats towards
+Aigis.
+
+   Aigis: This is... the true key...
+
+> Obtained True Key.
+
+The torches release everyone.
+
+   Fuuka: Everyone!
+   Aigis: It may sound strange to hear, but... I'm so glad that you're all
+          safe.
+  Yukari: ...... So, what are you going to do with that key? That was a nice
+          speech back there, but you still haven't made a real decision, huh!?
+          Then give it to me...! Gimme that key! 
+
+Yukari starts to tug at Aigis for it.
+
+   Fuuka: Yukari-chan!?
+   Metis: It's no use... Only my sister can use the true key now.
+
+Yukari falls to Aigis' feet.
+
+  Yukari: I want to see him...
+   Aigis: ......
+  Yukari: I... I made a promise to him, too... I promised that I'd try my best
+          to change this world, so that people would stop wishing for the
+          Fall... It wasn't like yours... It was something I promised myself
+          while I was holding his cold hand... That's why I decided to put the
+          past behind me, and look forward... 
+   Aigis: Yukari-san...
+  Yukari: But I can't... I can't be that person... I wanna see him... I don't
+          care about anything else! I just wanna see him again!
+   Aigis: Yukari-san...
+
+Mitsuru heads towards Yukari.
+
+ Mitsuru: Yukari... There's no way to truly put the past behind you. In the
+          end, you only succeed in running from it. It's painful to face, but
+          if you don't, your wounds will never heal.
+  Yukari: So if I keep facing it, someday everything will be okay? Eventually
+          I'll forget all about him, or stop caring? Like that's ever going to
+          happen! No one knows that better than us!
+ Mitsuru: ...... ...You're right. But... can't we be there for you, when things
+          are at their worst? ...The way you were there for me last year? 
+  Yukari: Huh...?
+ Mitsuru: That may not have been what you meant at the time... But even now, I
+          consider your being at my side last year as one of the most cherished
+          moments of my life. That's why... when we lost him without being
+          able to thank him, I swore deep down... If something ever happened
+          to make you suffer, I'd put my own feelings aside and stand with you.
+  Yukari: Mitsuru... senpai...
+ Mitsuru: Yukari... To lose someone you had such a strong bond with is agony.
+          But there's no need to suffer alone. You have use with you. Isn't
+          that the whole point of forming such bonds?
+  Yukari: *sob* *sob*
+
+Aigis kneels down with them.
+
+   Aigis: Yukari-san... I understand your feelings. Ever since I was born, I 
+          have spent all my time thinking about him... So... I suggest we see
+          it. To find out once and for all... what he left for us. We still
+          don't know the real reason behind his death. Without knowing that
+          reason, I can't decide what is right. That's why I would like to see
+          the past again, before using this key. To see the truth of what
+          happened... the moment he used his power. 
+  Junpei: Huh...? Can we really do that?
+   Aigis: I don't see why not. We've already experienced the past here many
+          times.
+ Akihiko: You mean those doors that lead to the past? But they all
+          disappeared... There aren't any left. The only way back to the past
+          is the door to his room... and we know we don't want to use the key
+          on that.
+   Fuuka: No... There's one more door!
+ Mitsuru: That's right...! The door that leads to Paulownia Mall.
+   Aigis: The doors reflect the minds of those who enter them... If our wish is
+          strong enough, we should be able to use that door to look into the
+          past.
+ Mitsuru: I see... Good thinking. How about it, everyone?
+ Akihiko: Sounds like it's worth a try.
+
+Metis starts to back away from the group.
+
+   Aigis: ...What's wrong?
+   Metis: I was just thinking... There's nothing left for me to do. And... I'm
+          sure none of you would want me along... I did some horrible things to
+          you...
+  Junpei: Dude, what're you talking about? We all got ourselves into this mess!
+          You don't have to be so hard on yourself. 
+   Aigis: Don't you remember? I told you that I wouldn't leave you behind.
+   Metis: ......!
+
+Metis runs up to Aigis.
+
+ Akihiko: Geez... If you'd been like that form the star, things would've been
+          a lot smoother.
+     Ken: Still, we're pretty lucky there's one door left. It's a real
+          lifesaver, huh?
+   Metis: ...... Now that you mention it... That is strange... Once a door's
+          purpose has been fulfilled, it disappears... If that door's purpose
+          is to prepare for battle, it should have vanished once the battles
+          were over. Our fight afterward was just bickering between ourselves.
+ Mitsuru: ...... There's only one logical conclusion. If that door's role is to
+          allow us to prepare for battle, and it hasn't yet disappeared...
+          Doesn't it follow... that there's still an enemy left to defeat? Our
+          feelings are the reason for all of this... And what Aigis proposed
+          relates directly to the core of our pain. We should probably expect
+          to encounter something unknown.
+   Aigis: ......
+   Metis: Then... what now? Sh-Should we... find another plan?
+  Yukari: If what Mitsuru-senpai says is true... we have to go. ...Right?
+
+> Only one door remains...
+> You decided to head for the door leading to the past Paulownia Mall.
+
+Everyone is in front of the door.
+
+ Mitsuru: ...Let's go.
+
+Aigis opens the door. Everyone is shown in the Desert of Doors, except that
+there is an extra door in the center this time.
+
+   Aigis: This... What is this...!?
+   Metis: This was never here before...
+ Mitsuru: I see the ordeal awaiting us was no mere speculation... We should
+          come back here once we've prepared for battle.
+ Akihiko: Heh, fine with me. No matter what the truth is... We'll finally get
+          to see it with our own eyes.
+
+> The door that appeared in the Desert of Doors leads to the final ordeal...
+> The answers you've sought for so long wait beyond.
+> You should take all possible measures before confronting it.
+> ......
+> You decided to return to the lounge.
+
+===============================================================================
+ Back to the Battle with Nyx - His Fate                                   [2r]
+===============================================================================
+
+After entering the final door, the party is shown standing in a black area.
+
+  Yukari: This place...
+   Aigis: This feeling... This is where the last battle was...
+ Akihiko: Hey... I can move!
+   Metis: I said before, if it's a past that everyone experienced, then you can
+          actually interact with it... The same as that shopping mall.
+  Junpei: Wait... everyone? But you weren't here for this.
+   Metis: It's probably because I--
+ Mitsuru: Nyx...! And that must be...!
+  Yukari: ......!
+
+                               -- Anime Cutscene --
+
+   Aigis: So this... is the miracle he performed.
+
+                              -- Normal Cutscene --
+
+   Fuuka: What... What is this?
+   Metis: ...This is his life essence. As you can see, this is what happened.
+          He himself became the Great Seal. But relinquishing one's life
+          essence means death for a human... He must have already found it...
+          His own answer... to life.
+   Aigis: The answer to life...
+   Metis: I don't think he has any regrets. He managed to keep his promise to
+          you all before his consciousness faded away...
+     Ken: His promise...? You mean to meet up on graduation day?
+ Akihiko: Wait a sec. How do you know about that promise?
+   Metis: How...? I just know. I'm probably just like Nyx, and the seal this
+          person became--something that belongs on this side. Nyx's awakening
+          means the destruction of everything... But think about it. If she's
+          that powerful... how was she contained before he became the seal?
+   Fuuka: Well... someone else must've...
+   Metis: What about before humans ever existed?
+ Mitsuru: What are you getting at?
+   Metis: As I understand it... Nyx is neither hostile nor malevolent... A seal
+          really isn't necessary.
+  Yukari: What!? Are you saying he did all this for no reason...!?
+   Metis: Not at all. What he was really trying to accomplish was--
+
+The ground starts shaking.
+
+  Junpei: Whoa... What the!?
+   Fuuka: Everyone... look!
+   Aigis: Ah, no!
+   Fuuka: This... isn't a Shadow. So many... All those people's...
+   Metis: As I thought. The seal's real purpose. It wasn't to hold back Nyx.
+          It was a seal so that it couldn't be touched.
+ Mitsuru: What do you mean?
+   Fuuka: That monster... isn't a Shadow. It's the accumulated malice that came
+          from the hearts of countless living people. All of them... deep down
+          are calling Nyx!
+ Akihiko: That can't be...
+   Aigis: Last December... I, too, wished to learn death. It's probably true
+          that people in town are wishing to touch it somewhere in their
+          hearts. There is only one thing that differentiates life from
+          stillness. It's that we die. That's all there is.
+  Yukari: I think I understand. When your life loses its meaning, the fact of
+          death can be kind of comforting. That lurking malice we're unaware of
+          is strong enough to give birth to such a huge monster. And maybe...
+          that's just how it is these days.
+  Junpei: What's it doing!?
+
+                              -- Normal Cutscene --
+
+  Junpei: Why the hell is it after us!?
+   Metis: ...It wants my sister! She has the same power as the one who created
+          the seal...
+
+Mitsuru pulls out her Evoker.
+
+   Metis: Don't tell me you're going to fight that thing! It's impossible...
+          It's just too big!
+ Mitsuru: This is a battle we can't run from. The feelings that gave birth to 
+          this abomination were inside me as well. Because I couldn't accept
+          reality, I foolishly sought solace in a past filled with death and
+          strife. There's no mistaking it... This monster is the reason for all
+          our troubles.
+ Akihiko: You got that right. If we run away from this, we're off to a lousy
+          start for our future.
+     Ken: That's what I think too... This was already a battle against myself.
+  Yukari: I won't let myself run this time... He's watching us, and I won't let
+          him down!
+  Junpei: Sucks to be you, big guy, cuz we ain't gonna lose! Let's do this!
+   Metis: Sister...
+   Aigis: Don't worry. This think can't stop us. To go on living is to not give
+          in to your own weakness... Let's win this, for a new beginning
+          tomorrow!
+
+The final battle begins.
+
+===============================================================================
+ After the Defeat of Erebus                                               [2s]
+===============================================================================
+
+The party is still in the black area.
+
+  Junpei: Hah... How do you like them apples? We already saved the world
+          once... This was just our encore!
+   Metis: Wow... We really won...
+   Aigis: See? I told you.
+   Fuuka: But will it be enough...? For that monster to truly disappear,
+          everyone's feelings must change...
+ Mitsuru: To stop the heart's yearning for destruction... It's a formidable
+          task. People try to keep death at bay, but without it, they lose
+          sight of life. It may be that there's no way to fully eliminate this
+          monster.
+   Aigis: No... I'm sure we can do it.
+   Fuuka: Aigis...
+   Aigis: We can all change someday... As long as we're alive, it can happen.
+          After all, even I was able to do it.
+  Junpei: Y'got that right!
+ Akihiko: It we want the world to change, we have to believe it'll happen.
+          People aren't that hopeless... We should know that already.
+  Yukari: Hey... Aigis? Um... I need to apologize to you. I said some really
+          horrible things... I think it really bothered me... The way you
+          received the same power that he had. All I could think was, "Why
+          wasn't it me?" Haha... It was jealousy, plain and simple.
+   Aigis: Yukari-san...
+  Yukari: But really... it wasn't because you were "the chosen one" or
+          anything. It was because of the way you felt. *chuckle* You really
+          never do stop thinking about him. We all wanted to protect him, but
+          out of all of us... you must've felt the strongest. If there wasn't a
+          seal... the world would soon yearn for Nyx again... That's why he's
+          here. For us. Even if we went back to before the last battle, the
+          world wouldn't be saved unless he did the same thing. Haha... I can't
+          believe I didn't see it before. If there was an easier way, he
+          would've taken it.
+ Mitsuru: Yukari...
+  Yukari: It's still sad, but... If I think of him as protecting us, forever...
+          it helps a lot.
+     Ken: Me too. I feel like I can breathe easier now that I know what really
+          happened to him...
+ Akihiko: Yeah. Now that we know the truth, I feel like the blinders have been
+          removed.
+  Junpei: All we could do before was see him go... But now, I finally feel like
+          we've gotten closer to him.
+  Yukari: Aigis? Let's use that key and go back... to our time. I'm ready to
+          start the morning of April 1st.
+   Aigis: Of course!
+
+Everyone returns to the lounge, in front of the entrance.
+
+ Mitsuru: Well then... Aigis, if you would?
+   Aigis: Right. Um... There's something I have to say, but... I'm not sure how
+          to put it... I'm really happy to have known all of you.
+  Yukari: A lot's happened in the past few days... but over time, it'll make
+          our friendship stronger, you know? But hey, don't say it like that.
+          It sounds like you're saying your goodbyes.
+   Aigis: *chuckle* You're right.
+
+The Key of Time begins to glow.
+
+   Aigis: I see... Friendship... What gives you life? What makes you realize
+          you're alive...? If it isn't just death... If there's something
+          else... It could be... friendship. Is this... the answer to life I'm
+          supposed to find?
+
+Aigis opens the door.
+
+   Metis: Congratulations... Sister.
+
+===============================================================================
+ The Last Trip to the Velvet Room                                         [2t]
+===============================================================================
+
+Everyone is standing in the Velvet Room.
+
+  Yukari: Where... am I...? Huh...? What is this place!?
+  Junpei: Hey, wait a second! What's going on here? This isn't the front of the
+          dorm!
+   Aigis: Everyone!? What's going on...?
+    Igor: There is no need to worry. I only summoned you here that we might say
+          our farewells. I am rather surprised, though... I did not expect your
+          friends to follow you here. It seems the power of the wild card
+          within you has influenced them as well...
+   Fuuka: Huh? Aigis... you know them?
+   Metis: This is where those who are about to awaken to their power receive
+          guidance... My sister and your friend were guests here.
+ Akihiko: Wait... How come you're standing there smiling like you know it all?
+   Metis: Don't you remember what I said before? My place is here, on the
+          "other side."
+
+Metis walks up to Aigis.
+
+   Metis: The Abyss of Time will soon disappear. Time will flow again, and you
+          will return to your daily lives. Congratulations, Sister... and the
+          rest of you, as well.
+   Aigis: Metis...
+   Metis: Sister... You said before that you promised to protect him... If
+          you've truly come to appreciate your ties to others... I think you
+          can still keep that promise.
+   Aigis: What...?
+   Metis: Someday, when more people come to realize that... the world will stop
+          yearning for Nyx. And that monster will be vanquished. For that day
+          to come, your every action will be important. Isn't that another
+          way of protecting your friend?
+   Aigis: I... can still keep my promise...?
+ Mitsuru: Metis... Who are you really? Won't you tell us?
+   Aigis: I think... she's the other me... I couldn't bear the pain of losing
+          him... so I wished to be a mere machine again. You must be... the
+          part of myself I wished away. My lonely sister, always being afraid
+          of being left alone... You came to help me acknowledge and confront
+          the pain of living. I finally understand... I only wish I had
+          realized it much sooner.
+   Metis: Sister... All live shares a "sea" deep within its soul. I think...
+          that's where I came from. Your heart is connected to that sea as
+          well... You're truly alive now. From now on... we'll always be
+          together. Sister... I'm coming home.
+   Aigis: Welcome back...
+
+Metis vanishes, and Aigis' equipment goes with it. Aigis falls on the chair.
+
+   Aigis: I feel... tired... I haven't felt this way in a while... When I went
+          back to being a machine, I no longer required sleep.
+    Igor: Hmmm... It seems our guest has safely reached her destination... Her
+          answer to life...
+  Yukari: Answer... to life...?
+   Aigis: Please... tell me. Now that I've found my answer... is my life at its
+          end?
+  Junpei: End...? Huh? Whaddaya mean?
+ Mitsuru: Aigis...?
+   Aigis: It's strange... I feel s satisfied...
+  Yukari: Aigis, you... You're not... No! This isn't happening!
+   Aigis: I think... I'm finally at peace with losing him... Odd... for some
+          reason, the tears are only now coming... I should have attended his
+          farewell... I was so foolish, locking myself away. Looking back, I
+          remember that Metis would cry... To think I had discarded such a
+          basic emotion...
+    Igor: You've completed your ordeal splendidly, and come to the end of your
+          journey... ...And now we must part.
+
+Everyone gathers around Aigis.
+
+ Akihiko: Aigis! Hey, you can't be serious!
+   Fuuka: Aigis...!
+   Aigis: It's all right... Don't... worry...
+  Yukari: No...! Aigis!
+
+A butterfly floats across the black screen.
+
+Voice of the Heart: You know... I think you can spread the message now... Not
+                    with words alone... but with everyone's passion and
+                    strength... If you could do that... He wouldn't have to
+                    bear the burden all alone, would he...?
+
+===============================================================================
+ The End - A Real Human                                                   [2u]
+===============================================================================
+
+Newscaster: ...and that's the weather. At the tone, the time will be midnight.
+
+Everyone is shown in the lounge.
+
+Newscaster: Good evening. It is now April 1st. Here's a recap of the news from
+            the 31st...
+
+Everyone begins to wake up.
+
+ Mitsuru: Hm...? What...?
+ Akihiko: When... did we fall asleep...?
+   Fuuka: Huh? What? ...Wait, is this!?
+
+Akihiko and Koromaru check outside.
+
+Koromaru: Arf arf!
+  Yukari: Mm... What is it, Koro-chan...?
+  Junpei: Weren't we... Weren't we gathered around the entrance, talking about
+          some kinda key...?
+
+Akihiko walks back.
+
+ Akihiko: That's right... but it looks like everything's okay now. The outside
+          world is back to normal. We can leave anytime.
+ Mitsuru: So... The Abyss of Time has disappered.
+
+Fuuka checks her cell.
+
+   Fuuka: The date... it's April 1st!
+  Junpei: Soooo... that means we're saved, right!? Woooooo-hoooo! 'Bout damn
+          time!
+
+Yukari walks over to Aigis and starts to shake her.
+
+  Yukari: Aigis, wake up. We're safe! C'mon, Aigis.
+     Ken: Wait a second... After we opened the front door with the key, we were
+          brought to that room that looked like an elevator... And while we
+          were there, Aigis-san...
+
+Fuuka joins Yukari by Aigis.
+
+  Yukari: H-Hey, Aigis! How long are you gonna lie there!? Wake up! Aigis!
+   Fuuka: Mitsuru-senpai...
+ Mitsuru: It's too early to reach any conclusions. Let's carry her to her room
+          for now. We can keep an eye on her condition with the equipment
+          there.
+
+The party has relocated to Aigis' room.
+
+  Junpei: Dammit... She's not waking up...
+  Yukari: How's it look, Fuuka?
+   Fuuka: Don't worry. I've used this system a number of times before... The
+          equipment should be set up already, so...
+ Mitsuru: *sigh* If only it wasn't so late at night... I'm sorry... I tried
+          contacting the lab, but I doubt they'll be sending anyone right away.
+   Fuuka: Well, I've almost got the bio-scan unit online...
+
+The computer makes a beeping noise.
+
+Akihiko (with Mitsuru's voice XD): Is that it?
+   Fuuka: Yes! Her vital signs are up on screen! Let's see... ...... No... This
+          is awful...
+  Junpei: Did you find something?
+   Fuuka: Her synaptic circuits... they're completely burned out... There was
+          some sort of massive system overload that took her way over
+          capacity... It's probably related to her new ability to use multiple
+          Personas...
+     Ken: Burned out...? But... they can fix her, right?
+   Fuuka: It's easy to replace the faulty parts, but... She'll no longer be the
+          Aigis we all know...
+  Yukari: No... Aigis...
+
+Aigis moves.
+
+   Aigis: Mmm... Did you call me...?
+  Junpei: Aigis!
+   Aigis: Um... Has something happened?
+  Yukari: Geez! You had us worried sick, sleepyhead! You took so long to wake
+          up, we thought you might have died...
+   Fuuka: But how could this be...? Her synaptic circuits shouldn't even be
+          receiving power... It's as if... She's really alive...
+
+Aigis gets up.
+
+   Aigis: Oh, I'm so sorry to have worried you all. I was having a dream... the
+          first one in some time. Memories of time I spent with everyone...
+          and... "Strength of heart, when united, is barred by no door..." Oh,
+          it's nothing. Sorrowful partings only show us the weight of our
+          relationships... But the joy of living comes from those who care
+          about you. I'm... a very lucky person.
+  Yukari: Aigis... We were so close to each other... We suffered over the same
+          things... Heh, I feel pretty stupid now... I wonder why we both
+          thought we were all alone. I guess we're more like each other than we
+          thought.
+  Junpei: Whewwww... Well, looks like it all came out okay! Man... I was pretty
+          freaked out there for a while, but I think we've got out happy
+          ending.
+ Akihiko: Yeah, looks that way. *sight* ...I'm bushed.
+  Junpei: Aw, crap... now that we're not in any danger... I'm about to pass
+          out! Maybe I can sleep standing up...
+   Fuuka: Oh... Junpei-kun!
+ Mitsuru: Very well... Let's go back to our rooms and rest until morning. If
+          there's anything left to do-- ...... Actually... there is one thing
+          I'd like to announce. About collecting everyone's Evoker... I'm
+          thinking of calling that off. Our ordeal has given me a lot of food
+          for thought. My own way of running away may have been to try and
+          collect these and put them away... forever. But even if there are no
+          Shadows left, the battle against ourselves is ongoing. Each of you
+          should hold onto yours.
+  Yukari: Until the day when everyone can change... ...Right?
+
+> The next morning.
+
+   Fuuka: Let's see... I already shipped my large luggage... Did I forget
+          anything...?
+ Mitsuru: That was my contact. The care they sent for us will arrive shortly.
+ Akihiko: What, are you taking everyone else along for the ride, too?
+ Mitsuru: Their new dorms are on the way to the lap. It'll be a quick stop. I
+          thought we might as well travel together, since we're all here. It
+          would be dull otherwise.
+  Yukari: Where on earth is Junpei...? I told him not to be late--
+  Junpei: Waaaaaaaaah!
+
+Junpei can be heard falling down the stairs.
+
+   Fuuka: Junpei-kun!?
+ Akihiko: Ah, let him be. He's probably trying to carry everything at once...
+          The same thing happened last year.
+     Ken: Oh... But... That sounded like it really hurt...
+
+Junpei walks in.
+
+  Junpei: Owww... My face... I hope no one saw that.
+  Yukari: *chuckle* Are you all right? Geez... What a way to end this.
+
+A car is heard outside.
+
+ Mitsuru: Ah... There's our ride. Well then, shall we be off?
+
+Everyone begins to walk towards the door.
+
+   Aigis: Um...! I... actually have a favor to ask...
+ Mitsuru: What is it?
+   Aigis: I know... it might not be possible because it's so sudden... But is
+          there some ways... that I can back out of returning to the lab?
+          Before, I thought... there was nothing left for me to protect. No
+          reason to live. But now that I see otherwise... I'd like to go back
+          to school with Yukari-san and everyone.
+  Yukari: Aigis...
+   Aigis: I want to continue to experience new things with you all! ...Is it
+          too late...?
+ Mitsuru: ...... Hmmm... Even if I wanted to place you back in, I'm no longer
+          involved with Gekkoukan High...
+
+A man walks through the door.
+
+  Driver: Lady Mitsuru, your transportation has arrived.
+ Mitsuru: Thank you.
+  Yukari: Senpai!
+ Mitsuru: I'm sorry for the sudden change in plans, but our destination is now
+          the school's Tatsumi Hall. ...The transfer to the lab has been
+          cancelled.
+   Fuuka: Then... Senpai...!
+  Junpei: Now that's more like it!
+   Aigis: Thank you so much! It's an honor to be able to say with you all!
+
+Everyone goes outside. Aigis and Yukari linger by the door.
+
+  Yukari: I'm still kinda sad to leave this place behind.
+   Aigis: Yes... But change is part of life.
+  Yukari: Hey, Aigis... If you're gonna live in the dorms... You wanna be my
+          roommate?
+
+                               -- Anime Cutscene --
+
+   Aigis: Huh?
+  Yukari: I mean you need one, right? But hey, no need to be so formal. We are
+          friends, aren't we?
+   Aigis: Yeah, you're right!
+
+_______________________________________________________________________________
+
+ E N D I N G  S T U F F                                                   [30]
+_______________________________________________________________________________
+
+I get the feeling most people skip this part unless they want something =/
+
+===============================================================================
+ Thanks                                                                   [3a]
+===============================================================================
+
+ * http://www.network-science.de/ascii/ For providing my ASCII art.
+ * Money. FES doesn't cost much, but still.
+ * Atlus <3
+ * My laptop. I love you like my left arm.
+ * omegaevolution of youtube.com, for uploading the videos of the Answer.
+   Couldn't have done it without ya. http://youtube.com/user/omegaevolution
+
+===============================================================================
+ Legal                                                                    [3b]
+===============================================================================
+
+drachenmeister13 at gmail dot com
+
+Email is only if you create an account for me on your website or have some
+special thing you want to ask about.
+
+If you are a webmaster that wishes to host my guide, you can under the
+following conditions:
+
+ * The guide is free to view
+ * The guide is unaltered
+ * Credit is given to me, Drache the Dork. (*)
+
+I reserve the right to revoke permission to host my guide at any time.
+
+Sites forever denied permission:
+  * scribd.com
+  * CheatCC.com (Super scummy site. Do not support.)
+  * cheatsguru.com
+
+If you display signs that you are reading this, I love you.
+
+----
+
+(*) I have gone under the following usernames in the past:
+    - drachemeister
+    - ridalnae_drache
+   
+    Either username is an acceptable form of giving me credit. I prefer my new
+    username going forward, however.

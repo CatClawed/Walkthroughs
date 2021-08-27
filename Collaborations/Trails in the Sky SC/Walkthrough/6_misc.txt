@@ -1,0 +1,534 @@
+
+
+==Character Skills==
+
+===Estelle===
+
+====Craft====
+
+|*Name            |*Description                                        |*Target Range      |*CP Cost|* Level |
+| Chain           | Up to two people charge forth and deal damage      | Area (S) Combo.   |   20   |   -    |
+| Chain 2         | Up to three people charge forth and deal damage    | Area (S) Combo.   |   20   |   49   |
+| Chain 3         | Up to four people charge forth and deal damage     | Area (S) Combo.   |   20   |   73   |
+| Morale          | Raises STR by 20% to a group of allies             | Area (M) Support  |   20   |   -    |
+| Taunt           | Provokes enemies to target the user                | Area (M) (Support)|   20   |   -    |
+| Hurricane       | Spins and strikes enemies in the area              | Area (M) (Set)    |   30   |   -    |
+| Comet           | Launches a ballistic wave of energy {Penetrate}    | Line              |   20   |   -    |
+| Hard Break      | Interupts the foe's casting time                   | Single            |   20   |   -    |
+| True Hurricane  | Stronger version of Hurricane.                     | Area (M) (Set)    |   30   |   42   |
+| True Comet      | Stronger version of Comet                          | Line              |   20   |   55   |
+| True Hard Break | Stronger version of Hard Break                     | Area (M)          |   20   |   72   |
+|* Pummel         | Pummels the enemy with her staff                   | Single            |  100+  |   -    |
+|* Barrage        | Stronger version of Pummel                         | Single            |  100+  |   -    |
+|* True Pummel    | Pummels the enemy with her staff (Steals Health)   | Single            |  100+  |   45   |
+|* True Barrage   | Stronger version of Barrage (Steals Health)        | Single            |  100+  |   57   |
+|* Wheel of Time  | Ultimate smash technique using centrifugal energy  | Single            |  100+  |   81   |
+
+===Anelace===
+
+====Craft====
+|*Name                |*Description                                                  |*Target Range     |*CP Cost|* Level |
+|Chain                | Up to two people charge forth and deal damage                | Area (S) Combo.  |   20   |   -    |
+|Chain 2              | Up to three people charge forth and deal damage              | Area (S) Combo.  |   20   |   77   |
+|Chain 3              | Up to four people charge forth and deal damage               | Area (S) Combo.  |   20   |   78   |
+|Eight-Leaf Blitz     | Slashes the enemy with chaotic sword strikes                 | Single           |   30   |   -    |
+|Swordwind Slash      | A high speed sword technique that creates a vaccum blade     | Area (S) (Attack)|   20   |   -    |
+|Fallen Leaves        | Kick followed by a midair strike {AT-Delay}                  | Single           |   35   |   -    |
+|Petal Dance          | Move that sacrifices defense for offense {Str +50%, Def -30%}| Self             |   20   |   -    |
+|*Piercing Wave       | Ups concentration a blade of light into the air              | Single           |  100+  |   -    |
+|*True Piercing Wave  | Stronger version of Piercing Wave                            | Single           |  100+  |   77   |
+
+
+===Agate===
+
+====Craft====
+
+|*Name                |*Description                                              |*Range Type       |*CP Cost|* Level |
+| Chain                | Up to two people charge forth and deal damage           | Area (S) Combo.  |   20   |   -    |
+| Chain 2              | Up to three people charge forth and deal damage         | Area (S) Combo.  |   20   |   52   |
+| Chain 3              | Up to four people charge forth and deal damage          | Area (S) Combo.  |   20   |   73   |
+| Wild Rage 2          | CP +150 but Max HP reduces by 70%                       | Self             | 0      |  -     |
+| Flame Smash          | Attacks a small group of foes                           | Circle (S)       | 20     |  -     |
+| Draguna Edge         | Stalls the enemy's turn                                 | Line             | 20     |  -     |
+| Spiral Edge          | Interupts the opponent's casting time                   | Single           | 20     |  -     |
+| Flame Smash 2        | Stronger version of Flame Smash                         | Circle (S)       | 20     |  42    |
+| Draguna Edge 2       | Stronger version of Draguna Edge                        | Line             | 20     |  58    |
+| Spiral Edge 2        | Stronger version of Spiral Edge                         | Single           | 20     |  69    |
+|* Beat Down           | Unleashes a series of sword swings                      | Single           | 100+   |  -     |
+|* Final Break         | Unleashes surging flames from the ground                | Circle (M)       | 100+   |  -     |
+|* Beat Down 2         | Stronger version of Beat Down                           | Single           | 100+   |  48    |
+|* Final Break 2       | Stronger version of Final Break                         | Circle (M)       | 100+   |  65    |
+|* Dragon Dive         | A charged attack wreathed in flame from an inhuman jump | All              | 100+   |  80    |
+
+===Scherazard===
+
+====Craft====
+
+|*Name           |*Description                                       |*Range Type       |*CP Cost|* Level |
+| Chain          | Up to two people charge forth and deal damage     | Area (S) Combo.  |   20   |   -    |
+| Chain 2        | Up to three people charge forth and deal damage   | Area (S) Combo.  |   20   |   50   |
+| Chain 3        | Up to four people charge forth and deal damage    | Area (S) Combo.  |   20   |   69   |
+| Sylphen Whip   | Attacks a small group of foes                     | Circle (S)       |  20    |   -    |
+| Bind Whip      | Inflicts Seal                                     | Single (M)       |  30    |   -    |
+| Heaven's Kiss  | Increases speed to a group of allies {AT-Advance} | Circle (M)       |  20    |   -    |
+| Sylphen Whip 2 | Stronger version of Sylphen Whip                  | Circle (M)       |  20    |   45   |
+| Bind Whip 2    | Stronger version of Bind Whip                     | Single (M)       |  30    |   61   |
+|*Sadist Whip    | Does consecutive whips                            | Single           |  100+  |   -    |
+|*Sadist Whip 2  | Stronger version of Sadist Whip                   | Single           |  100+  |   57   |
+|*Judgment Card  | A card of fate. Inflicts random status effects    | Circle (M)       |  20    |   74   |
+
+===Kevin===
+
+====Craft====
+
+|*Name                 |*Description                                                |*Range Type       |*CP Cost|* Level |
+| Chain                | Up to two people charge forth and deal damage              | Area (S) Combo.  | 20     |   -    |
+| Chain 2              | Up to three people charge forth and deal damage            | Area (S) Combo.  |   20   |   -    |
+| Chain 3              | Up to four people charge forth and deal damage             | Area (S) Combo.  |   20   |   67   |
+| Crossgrear Rage      | Combo attack with a concealed blade and arrow              | Single           | 20     |  -     |
+| Sacrificial Arrow    | Sacrifices user's CP to restore 40CP to allies in range    | Area (M) Support | 65     |  -     |
+| Sacred Breath        | Heals 2500 HP to a group of allies                         | Area (L)         | 30     |  55    |
+|*Grail Sphere         | Prayer and proffered grail block 1 attack (2 with full CP) | Area (L)         | 100+   |  -     |
+
+===Olivier===
+
+====Craft====
+
+|*Name           |*Description                                         |*Range Type       |*CP Cost|* Level |
+| Chain           | Up to two people charge forth and deal damage      | Area (S) Combo.  |   20   |   -    |
+| Chain 2         | Up to three people charge forth and deal damage    | Area (S) Combo.  |   20   |   48   |
+| Chain 3         | Up to four people charge forth and deal damage     | Area (S) Combo.  |   20   |   78   |
+| Quick Draw      | Shoots a burst of energy to foes                   | Circle (M) Set.  |  20    |   -    |
+| Sniper Shot     | Interupts the opponent's casting time              | Single           |  20    |   -    |
+| Happy Trigger   | Heals 800 HP to a group of allies                  | Circle (M)       |  20    |   -    |
+| Quick Draw  2   | Stronger version of Quick Draw                     | Circle (L)       |  20    |   43   |
+| Sniper Shot 2   | Stronger version of Sniper Shot                    | Single           |  20    |   53   |
+| Happy Trigger 2 | Heals 2500 HP to a group of allies with LOVE       | Circle (M)       |  20    |   67   |
+|*Howling Bullet  | Unleashes an explosive shot                        | Circle (M)       |  100+  |   -    |
+|*Howling Bullet 2| Stronger version of Howling Bullet                 | Circle (M)       |  100+  |   57   |
+|*Requiem Hearts  | A raging barrage of shots that shatter the silence | Circle (M)       |  100+  |   73   |
+
+===Kloe===
+
+====Craft====
+
+|*Name                           |*Description                                                                |*Range Type       |*CP Cost|* Level |
+| Chain                          | Up to two people charge forth and deal damage                              | Area (S) Combo.  |   20   |   -    |
+| Chain 2                        | Up to three people charge forth and deal damage                            | Area (S) Combo.  |   20   |   52   |
+| Chain 3                        | Up to four people charge forth and deal damage                             | Area (S) Combo.  |   20   |   77   |
+| Kaempfer (Impose)              | Pre-emptive air strike  (Str. -10% and Def. -15%)                          | Single           | 20     |  -     |
+| Sturm  (Encroach)              | Interupts the opponent's casting time                                      | Single (M)       | 20     |  -     |
+| Kaempfer 2 (Impose 2)          | Stronger version of Kaempfer  (Str. -20% and Def. -30%)                    | Single           | 20     |  48    |
+| Sturm 2  (Encroach)            | Stronger version of Strum                                                  | Single (M)       | 20     |  59    |
+|*Lichtkrieis (Radiant Plash)    | Restores HP, revives fallen Allies within range; Raises DEF if CP is 200   | Circle (L)       | 100+   |  -     |
+|*Lichtkrieis 2 (Radiant Plash 2)| Stronger version of Lichtkreis (Radiant Plash)                             | Circle (L)       | 100+   |  65    |
+|*Sanctus Nova                   | A prayer to the Goddess that sears foes with a holy light                  | Area   (M)       | 100+   |  73    |
+
+===Tita===
+
+====Craft====
+
+|*Name             |*Description                                             |*Range Type        |*CP Cost|* Level |
+| Chain            | Up to two people charge forth and deal damage           | Area (S) Combo.   |   20   |   -    |
+| Chain 2          | Up to three people charge forth and deal damage         | Area (S) Combo.   |   20   |   53   |
+| Chain 3          | Up to four people charge forth and deal damage          | Area (S) Combo.   |   20   |   82   |
+| Smoke Cannon     | Blinds a group of foes                                  | Circle (M)        | 30     |  -     |
+| Vital Cannon     | Heals 500 HP to a group of allies                       | Circle (M)        | 20     |  -     |
+| Smoke Cannon 2   | Stronger version of Smoke Cannon                        | Circle (L)        | 30     |  48    |
+| Vital Cannon 2   | Heals 500 HP to a group of allies                       | Circle (M)        | 20     |  63    |
+|*Cannon Impulse   | Shoot down a group of foes with her machine gun         | Circle (M)        | 100+   |  -     |
+|*Cannon Impulse 2 | Stronger version of Cannon Impulse                      | Circle (M)        | 100+   |  -     |
+|*Cannon Impulse F | Even more awesome version of Cannon Impulse             | Line (L)          | 100+   | Must talk to weapon shop owner at Ruan after the Occupation of Jenis |
+|*Satellite Beam   | Deadly laser strikes fired by a satellite from overhead | Circle (L)        | 100+   | 71     |
+
+===Zane===
+
+====Craft====
+
+|*Name              |*Description                                              |*Range Type       |*CP Cost|* Level |
+| Chain 2           | Up to three people charge forth and deal damage          | Area (S) Combo.  |   20   |   -    |
+| Chain 3           | Up to four people charge forth and deal damage           | Area (S) Combo.  |   20   |  72    |
+| Taunt             | Provokes enemies to target the user                      | All              |   20   |   -    |
+| Distend           | Raises DEF and STR by 30%                                | Self             |   20   |   -    |
+| Composure         | Restores 800 HP and removes status ailments              | Single           |   20   |   -    |
+| Smite             | Deals heavy damage and inflicts Confuse                  | Single           |   20   |   -    |
+| True Distend      | Raises STR and DEF by 60%                                | Self             |   20   |  57    |
+| True Composure    | Stronger version of Composure                            | Self             |   20   |  60    |
+| Thunder God Kick  | A downward kick from the sky like a flash of lightning   | Circle (S)       |   35   |  65    |
+| True Smite        | A stronger version of Smite                              | Single           |   20   |  84    |
+|*Disable           | Unleashes a flurry of kicks                              | Single           |  100+  |   -    |
+|*True Disable      | Stronger version of Disable                              | Single           |  100+  |  58    |
+|*Aural Blast       | Unleashes a huge projectile                              | Circle (M)       |  100+  |   -    |
+|*True Aural Blast  | Stronger version of Aural Blast                          | Circle (M)       |  100+  |  74    |
+|*Wrath of Genbu    | Ultimate tackle move using earth power to obliterate foes| Circle (M)       |  100+  |  80    |
+
+===Julia===
+
+====Craft====
+
+|*Name                         |*Description                                                               |*Range Type       |*CP Cost|* Level |
+| Chain 3                      | Up to four people charge forth and deal damage                            | Area (S) Combo.  |   20   |  -     |
+| Lanzenreiter                 | Interupts the opponent's casting time                                     | Single           | 25     |  -     |
+| Mirageberg                   | Negates one attack                                                        | Self             | 50     |  -     |
+|*Trinity Crisis               | Attacks with a pillar of light from the tip of the sword                  | Circle (M)       | 100+   |  -     |
+
+===Joshua===
+
+====Craft====
+
+|*Name                |*Description                                                   |*Range Type       |*CP Cost|* Level |
+| Chain 2             | Up to three people charge forth and deal damage               | Area (S) Combo.  |   20   |   -    |
+| Chain 3             | Up to four people charge forth and deal damage                | Area (S) Combo.  |   20   |   -    |
+| True Dual Strike    | Attacks the foe twice                                         | Single (M)       |  20    |   -    |
+| True Flicker        | Ignores Defense and stalls the victim's turn {AT-Delay}       | Line             |  30    |   -    |
+| Taunt               | Provokes enemies to target the user                           | Circle (M)       |  20    |   -    |
+| True Cloak & Dagger | Attacks the foe with 20% chance of KO                         | Single           |  20    |   -    |
+| Evil Eye            | Reduce speed to a group of foes {AT-Delay}                    | Circle (M)       |  20    |   -    |
+| Evil Eye EX         | Stronger version of Evil Eye                                  | Circle (M)       |  20    |   81   |
+|*True Sever          | Does consecutive slashes                                      | Single           |  100+  |   -    |
+|*Black Fang          | Unleashes a flurry of slashes                                 | All              |  100+  |   -    |
+|*True Black Fang     | Stronger Version of Black Fang                                | All              |  100+  |   77   |
+|*Phantom Raid        | Stealth technique using high speeds to create duplicates      | All              |  100+  |   85   |
+
+===Kurt===
+
+====Craft====
+
+|*Name                |*Description                                                   |*Range Type       |*CP Cost|* Level |
+| Chain 3             | Up to four people charge forth and deal damage               | Area (S) Combo.   |   20   |   -    |
+| Fangshu: Steel      | Uses the power of will to harden the body (DEF +15%)         | Area (L)          |   20   |   -    |
+| Fangshu: Whitecaps  | Healing spell that restores 4000 HP to all allies            | Area (L)          |   20   |   -    |
+| Fangshu: Renewal    | Revives allies and heals 1000 HP                             | Area (L)          |   20   |   -    |
+| Fangshu: Illusion   | Strikes at the enemy vitals (K.O. 20%)                       | Single            |   20   |   -    |
+| Sunset Arts         | A high-level multi-strike combining thrust and a sweep       | Area (S)          |   30   |   -    |
+|*Summon Lightning    | A spear thrust followed by lightning strike                  | Area (M)          | 100+   |   -    |
+
+
+=-----=
+''Warning: The next two characters are plot characters that join you in the finale. Highlight spoiler bar to see the names ''
+=-=
+
+-s-Josette-s-
+
+====Craft====
+
+|*Name                |*Description                                                   |*Range Type       |*CP Cost|* Level          |
+| Chain 2             | Up to three people charge forth and deal damage               | Area (S) Combo.  |   20   |   -             |
+| Chain 3             | Up to four people charge forth and deal damage                | Area (S) Combo.  |   20   |   80            |
+| Stampede            | Combination gunfire to the enemy's vitals {Def -30%}          | Single           |   20   |   -             |
+| Anchor Flail        | Deals damage and inflicts faint                               | Single           |   20   |   -             |
+|*Bobcat              | A bond among siblings. Summons the Bobcat                     | All              | 100+   |  Plot Event     |
+
+-s-Mueller-s-
+
+====Craft====
+
+|*Name                |*Description                                                   |*Range Type       |*CP Cost|* Level          |
+| Chain 3             | Up to four people charge forth and deal damage                | Area (S) Combo.  |   20   |   -             |
+| Ragna Bind          | Draws foes into range and uses sword spirit to KO them        | Single           |   20   |   -             |
+| Hound Gale          | Cut through enemy line with fine footwork                     | Area (S)         |   35   |   -             |
+| Blade Dancer        | Befuddles foes with elegant blade work. Inflicts confuse      | Single           |   30   |   -             |
+| Mirage Edge         | A sealing Dagger thrown to prevent arts and crafts (Impede)   | Single (Support) |   40   |   -             |
+|*Righteous Witness   | Soul-Full sword slash. Disperses space itself                 | Area (L)         |  +100  |   -             |
+
+
+===Ultimate Weapon Creation Guide===
+Quick link: [[Residental Block Cradle]]
+
+Here's a quick rundown on what you are supposed to do to get the ultimate weapons.
+
+=-----=
+*Get Gambler Jack - Volumes 1-14 and give it to Baral at the third floor of Grancel Bracer Guild on Chapter VIII
+**Baral will give you the first Zemurian Ore. You must have this otherwise, you cannot get the second Zemurian Ore!
+
+*At the start of the final chapter, do not talk to Professor Russell. Instead, proceed through the story
+
+*As soon as you get to the Residental Block Cradle, head to the first house and take note of the terminal where you got the Resurrect Jelly.
+
+*Go northwest at the Residential Block Cradle and examine the terminal
+**You'll get Data Crystal Z
+
+*Go back to the house where you got the Resurrect Jelly and select --u--''Data Crystal''--u--
+**You'll recieve a second Zemurian Ore
+
+*Go back to the Ariselle and talk to Professor Russell and he'll make you two weapons!
+=-=
+
+|*Weapon Class                   |*Ultimate Weapon            |
+| Staff                          | [[Qilin Horn]]                 |
+| Dual Blades                    | [[Phoenix Blades]]             |
+| Whip                           | [[Sirius Whip]]                |
+| Pistol                         | [[Eternity]]                   |
+| Rapier                         | [[Moon Singer]]                |
+| Broadsword                     | [[Demon Eater]]                |
+| Cannon                         | [[Kowloon]]                    |
+| Gauntlets                      | [[Avalokiteshvara]]            |
+| Crossbow                       | [[Glittering Stars]]           |
+
+''NOTE: Be aware that you can only get two Zemurian Ores per playthough. If you want to get all of the ultimate
+weapons, you have to replay the game multiple times''
+
++
++
++
++
+
+==Steam Achievements==
+
+|* Achievement                     |* Number |* Description |
+|   ''A Maiden's Resolve             '' | -   | Complete the prologue. |
+|   ''Sneaking Shadows               '' | -   | Complete Chapter I.    |
+|-4 ''Breakfast Safari               '' |-4 3 | Find Bacon, Eggs, and Golden Toast. (They're pigeons. Serously.) |
+                                              | Bacon: Top of Rolent Clock Tower (night only?) |
+											  | Eggs: In front of Royal Villa (limited time?) |
+											  | Golden Toast: In front of Grancel's church |
+|   ''Odyssey of Anton               '' | 13  | Follow Anton across Liberl and complete his story. |
+|   ''Baby, Come Back                '' | 517 | Leave no chest unmolested. |
+|   ''Master Fisher                  '' | -   | Conquer the aquatic denizens of Liberl. |
+|   ''Master Chef                    '' | 68  | Cook your way through the Recipe Book. |
+|   ''Doom Baker                     '' | 10  | Kill 10 enemies with food. That's right. Food. |
+|   ''League of Extraordinary Bracers'' | 380 | Make it to the top of the class. Get Max BP. |
+|   ''Penguin de Samba               '' |  9  | Show those evil penguins who's boss. |
+|   ''Ramblin' Gambler               '' | 16  | Read up on famous gamblers and win big at the casino. 4 of a kind in poker, 21 in blackjack. Good luck. |
+|   ''Blue Knight                    '' | 22  | Read the entire Doll Knight series. |
+|   ''That Damn Recipe               '' | -   | Complete the "Nostalgic Recipe" quest. |
+|   ''"Blorf"                        '' | -   | Gilbert is the best, but don't ever lose to him. |
+|   ''Bounty Hunter                  '' | 30  | Exterminate all wanted monsters. |
+
+===Odyssey of Anton===
+=-----=
+--u--''NOTE: THIS ACHIEVEMENT HAS NO IMPACT FOR OVERALL BP''--u--
+=-=
+
+%
+====Sanktheim Gate: Before the Earthquake Investigation====
+If you are going for this achievement, you need to follow this very carefully. Anton is a random NPC who appears in the most obscure places
+throughout Liberl. To initiate this sidequest, you need to go to Sanktheim Gate --u--''before you investigate the Earthquake in Wolf Fort''--u--.
+To find Anton, he's standing on top of the roof facing Ritter Roadway shouting his lungs off. His friend Ricky and Private Chesley should
+be standing right by Anton. This is first of 16 of his dialogue.
+
+
+Here are loose notes detailing what Drache belives is all Anton's appearances, which SHOULD include
+all the ones that count for the achievement. (She got it while it was bugged.)
+
+* Sankheim Gate
+** ''Before earthquake investigation''
+** ''During earthquake investigation'': Talk to Anton again at the same spot!
+** After earthquake investigation
+** After setting all three devices
+** Before heading to Grancel (he says he's going there too!)
+
+* South of Grancel Department Store:
+** ''Beginning of Chapter 3''
+** After finding Renne
+** After speaking with both embassies and the queen. The sun must be setting.
+** After Renne slips out.
+** Before getting on the airship (at landing area)
+
+* Rolent
+** On the airship.
+** At the landing port.
+** Abend Bar, at night.
+** Outside the Guild, the next day
+** At the inn, after his request
+
+* Grancel, Ch. 8
+** As you pass by Grancel, he'll be in his usual spot
++
+If you did it correctly, you should get the achievement. However, this will not be the last time you'll see him. He will show up in
+Crossbell and Erebonia....
+
+===Breakfast Safari===
+
+First of all, they are not food items. They are actually pidgeons named after breakfast items.
+There are a myriad of them, but we only want three of the pidgeons. Be careful, they are only
+available in certain chapters. Here are the locations...
+
+^l26|: Eggs, Golden Toast, and Bacon Location
+
+* Erbe Royal Villa (Chapter 3)
+** ''Eggs is located near the benches. Find him before the Embassy Mission.''
+
+* Grancel: West Block (Chapter 3)
+** ''Golden Toast is located in front of Grancel Chapel. You may want to walk inside and out of the chapel just to talk to one of the pidgeons.''
+
+* Rolent: Clock Tower (Chapter 4)
+** ''Bacon is located at the clock tower, third from the left. Be careful, he's only available at night.''
+
+===Fishing===
+
+In chapter I, be sure to talk to Lloyd inside the passenger cabin. He'll give you [[Fishing Book]] and [[Progress Rod]]. Once you arrive at City
+of Ruan, you'll learn how to fish. First, choose a rod and a bait. The size of the fish depends on the bait and rod you use. For example, if you
+use [[Heavy Trident Rod]], you'll catch large fishes based on the given bait. Once you chose your set-up, wait until you see the exclaimation point. Once you see the exclaimation
+point, press the confirm button. Time your button presses correctly, and you'll catch a fish. Be warned that regardless the outcome of your fishing
+attempt, it consumes a bait! Catch all of the fishes throughout Liberl and you'll get the achievement, ''Master Fisher''. Right below you, are the fishes
+you can catch in every region!
+
+--u--''TIP: Rather than looking for the exclaimation point above Estelle's head, HEAR the sound effect for the exclaimation
+point! The moment you hear the sound, press the confirm button right away! Your chances of catching the fishes increases dramatically.''--u--
+
+====Fishing Location====
+
+Ruan is pretty comprehensive. The rest was tossed together by the much less
+interested Drache.
+
+=====Ruan Region=====
+|c+3 ''Roubine River: South (Ruan: South Block)''                                                                                                               |
+|*Fish                     |*Bait                                                    |*Item                                         |
+| [[Great Blackfish]]       | [[Shrimplet]] or [[Polychaete]]                           | Wind Sepith        |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Sea Bass]]              | [[Polychaete]] or [[Kasago]]                              |  [[Gummy Eyeball]] or [[Fish Fillet]]         |
+| [[Claudine]]              | [[Shrimplet]],[[Polychaete]], [[Crab]], [[Dace]] or [[Kasago]] | [[Juicy Bone]] or Time Sepith   |
+| [[Kasago]]                | [[Shrimplet]] and [[Polychaete]]                          | [[Juicy Bone]] or [[Gummy Eyeball]]         |
+| [[Trout]]                 | [[Shrimplet]], [[Earthworm]], [[Roe]] or [[Red Flies]]    | Mirage or Time Sepith                        |
+| [[Salmon]]                | [[River Bug]], [[Dace]] or [[Roe]]                        | [[Teara Balm]] or [[Roe]]                               |
++
+|c+3 ''Roubine River: North (Ruan: North Block)''                                                                                                               |
+|*Fish                     |*Bait                                                    |*Item                                         |
+| [[Great Blackfish]]       | [[Shrimplet]] or [[Polychaete]]                           | Wind Sepith        |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Sea Bass]]              | [[Polychaete]] or [[Kasago]]                              |  [[Gummy Eyeball]] or [[Fish Fillet]]         |
+| [[Claudine]]              | [[Shrimplet]],[[Polychaete]], [[Crab]], [[Dace]] or [[Kasago]] | [[Juicy Bone]] or Time Sepith   |
+| [[Kasago]]                | [[Shrimplet]] and [[Polychaete]]                          | [[Juicy Bone]] or [[Gummy Eyeball]]         |
+| [[Trout]]                 | [[Shrimplet]], [[Earthworm]], [[Roe]] or [[Red Flies]]    | Mirage or Time Sepith                        |
+| [[Salmon]]                | [[River Bug]], [[Dace]] or [[Roe]]                        | [[Teara Balm]] or [[Roe]]                    |
++
+|c+3 ''Gull Seaside Way Shoals''                                                            |
+|*Fish                      |*Bait                                 |*Item               |
+| [[Great Blackfish]]       | [[Shrimplet]] or [[Polychaete]]                           | Wind Sepith        |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Sea Bass]]              | [[Polychaete]] or [[Kasago]]                              |  [[Gummy Eyeball]] or [[Fish Fillet]]         |
+| [[Claudine]]              | [[Shrimplet]],[[Polychaete]], [[Crab]], [[Dace]] or [[Kasago]] | [[Juicy Bone]] or Time Sepith   |
+| [[Mahi-Mahi]]             | [[Salmon]], [[Dace]] or [[Sea Bass]]                      | [[Fish Fillet]] or Water Sepith |
+| [[Gigantgora]]            | [[Kasago]],  [[Sea Bass]] or [[Salmon]]                   | [[Emergency Puppet]] |
+| [[Blue Marlin]]           | [[Sea Bass]] or [[Salmon]]                                                | [[Curative Horn]]  |
++
+|c+3 ''Gull Seaside Way Beach''                                                            |
+|*Fish                      |*Bait                                 |*Item               |
+| [[Great Blackfish]]       | [[Shrimplet]] or [[Polychaete]]                           | Wind Sepith        |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Sea Bass]]              | [[Polychaete]] or [[Kasago]]                              |  [[Gummy Eyeball]] or [[Fish Fillet]]         |
+| [[Octopus]]               | [[Shrimplet]], [[Kasago]] or [[Crab]]                     |   [[Gummy Eyeball]] or [[Clear Gelatin]]      |
+| [[Claudine]]              | [[Shrimplet]],[[Polychaete]], [[Crab]], [[Dace]] or [[Kasago]] | [[Juicy Bone]] or Time Sepith   |
+| [[Mahi-Mahi]]             | [[Salmon]], [[Dace]] or [[Sea Bass]]                      | [[Fish Fillet]] or Water Sepith |
+| [[Gigantgora]]            | [[Kasago]],  [[Sea Bass]] or [[Salmon]]                   | [[Emergency Puppet]] |
+| [[Blue Marlin]]           | [[Sea Bass]] or [[Salmon]]                                                | [[Curative Horn]]  |
++
+|c+3 ''Sapphirl Tower''                                                            |
+|*Fish                      |*Bait                                 |*Item               |
+| [[Crab]]                  | [[Earthworm]], [[Polychaete]] or [[Shrimplet]]            | [[Monster Carapace]] or [[Fish Egg]]                         |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Octopus]]               | [[Shrimplet]], [[Kasago]] or [[Crab]]                     |   [[Gummy Eyeball]] or [[Clear Gelatin]]      |
+| [[Granakor]]              | [[Crab]]                                                  | [[Fish Egg]], [[Monster Carapace]], [[Celestial Balm]] or [[Tiger Heart]]     |
++
+|c+3 ''Air-Letten Waterfall''                                                            |
+|*Fish                      |*Bait                                 |*Item               |
+| [[Crab]]                  | [[Earthworm]], [[Polychaete]] or [[Shrimplet]]            | [[Monster Carapace]] or [[Fish Egg]]                         |
+| [[Dace]]                  | [[River Bug]], [[Roe]] or [[Red Flies]]                   | [[Tender Whitefish]] or [[Ironbone Fish]]    |
+| [[Gold Angelfish]]        | [[Shrimplet]] or [[Polychaete]]                           | Space Sepith       |
+| [[Sea Bass]]              | [[Polychaete]] or [[Kasago]]                              |  [[Gummy Eyeball]] or [[Fish Fillet]]         |
+| [[Eel]]                   | [[Earthworm]]                                             | [[Leathery Tail]]                            |
+| [[Trout]]                 | [[Shrimplet]], [[Earthworm]], [[Roe]] or [[Red Flies]]    | Mirage or Time Sepith                        |
+| [[Salmon]]                | [[River Bug]], [[Dace]] or [[Roe]]                        | [[Teara Balm]] or [[Roe]]                    |
+
+=====Bose Region=====
+
+| [[Rockeater]]       | [[Crab]], [[Earthworm]], [[River Snail]], [[Frog]]             | Ravennue Village Pond, Lakeshore Inn  |
+| [[Carp]]            | [[Crab]], [[Earthworm]], [[Dumplings]], [[River Snail]]        | West Bose Highway Pond |
+| [[Rainbow Trout]]   | [[Earthworm]], [[Roe]]                                         | Lakeshore Inn |
+| [[Trout]]           | [[Earthworm]]                                                  | Ravennue Village Pond, Lakeshore Inn |
+| [[Snakehead]]       | [[Carp]], [[Frog]]                                             | Lakeshore Inn, West Bose Highway Pond |
+| [[Pearlglass]]      | [[Dumplings]], [[River Snail]]                                 | West Bose Highway Pond |
+| [[Garvelze]]        | [[Carp]]                                                       | Lakeshore Inn |
+| [[Dynatrad]]        | [[Trout]], [[Salmon]]                                          | Lakeshore Inn |
+
+=====Zeiss Region=====
+
+| [[Crab]]            | [[Earthworm]], [[Polychaete]] or [[Shrimplet]]                 | Tratt Plains Road Pool |
+| [[Dace]]            | [[River Bug]], [[Red Flies]]                                   | Tratt Plains Road Pool, Kaldia Tunnel River |
+| [[Valleria Bass]]   | [[Dace]]                                                       | Tratt Plains Road Pool |
+| [[Grakanor]]        | [[Crab]]                                                       | Kaldia Underground Lake |
+
+=====Grancel Region=====
+| [[Crab]]            | [[Earthworm]], [[Polychaete]] or [[Shrimplet]]                 | Grancel Port (Rear), Grancel Queen's Terrace, Scenic Route - Romal Pond |
+| [[Dace]]            | [[River Bug]], [[Red Flies]]                                   | Grancel Queen's Terrace |
+| [[Yamany]]          | [[River Bug]], [[Red Flies]]                                   | Grancel Sewers - N Block |
+| [[Liberl Carp]]     | [[River Bug]], [[Dumplings]], [[Red Flies]]                    | Grancel Sewers - W Block, Scenic Route |
+| [[Rockeater]]       | [[Crab]], [[Earthworm]], [[River Snail]], [[Frog]]             | Scenic Route - Romal Pond,  |
+| [[Carp]]            | [[Crab]], [[Earthworm]], [[Dumplings]], [[River Snail]]        | Grancel Queen's Terrace, Erbe Royal Villa Canal  |
+| [[Eel]]             | [[Earthworm]]                                                  | Grancel Queen's Terrace |
+| [[Salmon]]          | [[Dace]], [[Roe]]                                              | Grancel Queen's Terrace, Grancel Port (Rear) |
+| [[Garvelze]]        | [[Carp]]                                                       | Grancel Port (Rear) |
+
+=====Rolent Region=====
+| [[Yamany]]          | [[River Bug]], [[Red Flies]]                                   | Verte Bridge |
+| [[Tier Rockfish]]   | [[Earthworm]], [[Red Flies]]                                   | Verte Bridge |
+| [[Liberl Carp]]     | [[River Bug]], [[Dumplings]], [[Red Flies]]                    | Elize Highway River, Rolent Sewers, Milch Road Pool |
+| [[Rockeater]]       | [[Crab]], [[Earthworm]], [[River Snail]], [[Frog]]             | Bright Family Pond  |
+| [[Carp]]            | [[Crab]], [[Earthworm]], [[Dumplings]], [[River Snail]]        | Mistwald Clear Stream  |
+| [[Snakehead]]       | [[Carp]], [[Frog]]                                             | Lakeshore Inn, Elize Highway River |
+| [[Pearlglass]]      | [[Dumplings]], [[River Snail]]                                 | Elize Highway River |
+
+
+===Version History===
+
+* January 3, 2017
+** 2.0: Maps done. Items listed. Fish caught. Monsters found. Achievements are fixed. Sidequests integrated into main walkthrough.
+
+* June 1, 2016
+** 1.20: Maps through Chapter 7. Monsters mostly complete. You thought we were done?!
+
+* January 15, 2016
+** 1.15: Maps through chapter 4. Some exist in chapter 5. Chapters 6 and beyond uncharted. Monsters through Chapter 4 added.
+
+* January 4, 2016
+** 1.10: Completed the recipe list and worked on the elemental orbments. I also worked on most of the corrections that the viewers sent me.
+
+* December 18, 2015
+** 1.00: Completed the walkthrough! Also, I finished the character skills as well! Now, it's time to tie up loose ends!
+
+* December 13, 2015
+** 0.85: I completed chapter 8! If you plan to do a max BP playthrough, you should be good to go. Also, I fixed majority of the errors! Now, we are at the home stretch! :D
+
+* December 7, 2015
+** 0.75: I finished chapter 6 and most of chapter 7. We're almost there, guys!
+
+* November 30, 2015
+** 0.65: I finished all of chapter 4 and 5. Let me get the last details of chapter 5 before I start chapter 6. Anyway, I corrected some of the errors thanks to our readers as well as adding a few more maps.
+
+* November 25, 2015
+** 0.55: Finished most of chapter 4 and fixed a couple of stuff
+
+* November 20, 2015
+** 0.45: Started a bit of chapter 4 and added maps up to chapter 2. Fixed some formatting errors
+
+* November 18, 2015
+** 0.40: Finished the walkthrough up to chapter 3 and added a bunch of sections!
+
+* November 9, 2015
+** 0.12: Initial Release
+
++
++
++
++
+
+==Credits==
+I would like to thank the following people.
+
+:''Drache the Dork:'' Thank you for collaborating with me! You brought in valuable insight as well as helping out all aspect of the FAQ. I could have not done it without you!
+:''XSeed'': For bringing this game over! We thank everyone who worked on the English version of SC and you guys deserve a long vacation!
+:Gamefaqs: For accepting this FAQ.
+:CjayC: For making Gamefaqs exists for what it is today
+:SBAllen: For being a cool Administrator
+:Michael Sarich: for this Copyright
+
+
+Last but not least, I thank ''YOU'' for taking the time to read this faq.
+
+I look forward to hear more about this FAQ. So if you feel like there's
+something is missing, please feel free to contact me. If it's well thought
+out, I'll add it and credit you for the next revision. So once again, thank
+you for taking the time to read this.
+
+;Kasago

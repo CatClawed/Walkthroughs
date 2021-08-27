@@ -1,0 +1,1351 @@
+
+==Chapter Sidequests==
+
+===Chapter 1===
+
+====Come, Ingredient Hunters====
+
+* [[City of Ruan]]
+** Mira: 1500 (+1000)
+** BP: 2 (+1)
+** Timeframe: Long
+** Expires: -
+
+Talk to Orvid on the second floor of the Magnolia Inn. He'll give you a list of ingredients, but he has them all. Your main objective is to find
+ingredients that are NOT part of the list! You only need to find three missing ingredients to satisfy the quest. However, we are going an extra mile and find all six
+missing ingredients. After all, we have extra BP at stake.
+
+I hope you have the [[Luck]] Quartz. This will be very useful considering that the following ingredients are monster drops. Please note that --u--''whoever is
+holding the luck quartz, make sure that person gets the final blow against a certain monster. This will increase the chances of finding the items you need''--u--
+Anyway, here's a table for the missing ingredients.
+
+|* Ingredient        |* Monster and Location |
+| [[Juicy Bone]]     | Seahorse Demon in Sapphirl Tower |
+| [[Lucky Fang]]     | Guard Boar in Vista Forest Road or Aurian Causeway / Wrap Spider in Underground Ruins |
+| [[Tender Poultry]] | Roadrunner in Vista Forest Road or Aurian Causeway / Ballbat in Underground Ruins |
+| [[Fish Egg]]       | Crocodark in Gull Seaside Way |
+| [[Bird Egg]]       | Roadrunner in Vista Forest Road or Aurian Causeway / Ballbat in Underground Ruins |
+| [[Curative Horn]]  | Helmet Crab in Sapphirl Tower |
+
+Remember, he only needs one sample of each of the missing ingredients. Also, you have until the end of chapter to finish this quest. If you have all six missing
+ingredients, you get twenty [[Savory Pinion]].
+%
+====Sapphirl Tower Photo====
+
+*[[City of Ruan]]
+**Mira: 2000 (+1000)
+**BP: 1 (+2)
+**Timeframe: Medium
+**Expires: After the end of Chapter I
+
+Talk of Santos at the first floor of Hotel Blanche on the first room from the left side of the entrance. Go to the Sapphirl Tower and take the picture at the pedestal.
+I suggest that you put off this sidequest until you have Dorothy in your party. The reason why this is important because the quality of the photograph
+gives you bonus BP. Having Dorothy do the photograph will give you the most optimal results. The only drawback is to babysit Dorothy for the entire dungeon.
+
+Anyway, when you get to the top floor, stand on this spot as shown on this image. Once Estelle is about to take a picture, she'll ask Dorothy to take
+the picture! --u--''LET DOROTHY TAKE THE PHOTO''--u-- After that, show it to Santos in Hotel Blanche. If you did it correctly, the photograph should look
+colorful and vivid. Santos will give you [[Moonglasses]] as your reward. Report your results to Jean.
+
+^l2|A: Photo spot!
+%
+====Vista Forest Road Monster====
+
+*[[City of Ruan]]
+**Mira: 1500
+**BP: 2
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is in the 2nd area of Vista Forest Rd. The boss is rght at the southern perimeter of the O-shaped path.
+
+=-----=
+''Boss: Mercury Viper x2''
+
+It only does two things: move around at random positions and spew venom at a distance. Obviously, whoever gets hit by the venom will be poisoned.
+If you have been vigilant with your bracer ranking, you should have items with poison resistance such as Silver Chain or Earring. Just kill it
+with your normal attacks. If you have Kevin with you, use him as your primary healer. It's a really easy battle.
+=-=
+%
+====Gull Seaside Way Monster====
+
+*[[City of Ruan]]
+**Mira: 2500
+**BP: 3
+**Timeframe: Long
+**Expires: -
+
+When you arrive Gull Seaside Way from Ruan, there's a sandy landmass at the center of the road. There should be a monster guarding the narrow pathway.
+
+=-----=
+''Boss: Cobalt Saber x3''
+
+These monsters have high physical defense. Not only they hit very hard, but they can inflict poison as well. If one of the Cobalt Sabers fall, they will use
+Death Throes as their last resort. This will give the remaining allies a significant defense and agility buff. I suggest that you wait until you get Kevin
+or another plot related character to beat this battle. If you are willing to beat them with only two people, be sure to use arts with a wide area of effect.
+%
+
+====Lighthouse Test Run====
+
+--u--''HIDDEN SIDEQUEST''--u--
+
+*[[Mercia Orphanage and Manoria Village]]
+**Mira: 1000 (+500)
+**BP: 2 (+1)
+**Timeframe: Short
+**Expires: After the end of chapter I
+
+As soon you can leave Ruan, immediately go to Varenne Lighthouse! Head to the top floor of the lighthouse and talk to Vogt.
+He'll give you a bonus BP question. Choose --u--''is there something you need done?''--u-- Once you are ready, do the following.
+
+=-----=
+*Set stabilizer to ''low''
+*Set orbal amplitude to ''low''
+*''Turn on'' activation switch.
+*Switch orbal amplitude to ''mid''
+*Set stabilizer to ''mid''.
+*Set orbal amplitude to ''High''
+*Set stabilizer  to ''High''
+*Finally, ''turn on'' connection quartz.
+=-=
+
+If you did it correctly, you'll trigger a cutscene. Vogt will reward you with five [[Polychaete]] and [[Shrimplet]] as your reward.
+Before you finish the sidequest, there's one more bonus BP question. Choose --u--''Anything else we can do for you?''--u-- After that,
+report it to Jean.
+
+%
+====Sunday School Lecturer====
+
+*[[Air-Letten Checkpoint and Ruan]]
+**Mira: 1000 (+1000)
+**BP: 2 (+2)
+**Timeframe: Short
+**Expires: After the end of Chapter I
+
+To start the sidequest, head over to Ruan Chapel, which is next to Ruan Bracer Guild. Talk to sister Frieda, and you'll go through a series
+of questions. So, do the following.
+
+=-----=
+|*Question                                                                              |*Answer                                                  |
+| 1)  What is a bracer's main duty?                                                      | ''Protection of peace and citizenry of local regions'' |
+| 2)  How many ranks are there for senior bracers?                                       | ''Seven ranks from G to A''                            |
+| 3)  When was the bracer guild established?                                             | ''50 years ago''                                       |
+| 4)  What's the most important agreement the guild has to keep with nation it works in? | ''Non-interference with state powers''                 |
+| 5)  Bracer, in all situations, should....                                              | ''Prioritize the safety of civilians''                 |
+| 6)  What is the age restriction on the Bracer Qualification Examination?               | ''You must be 16 or older''                            |
+| 7)  How do you decide how to respond to monsters?                                      | ''Prioritize client's intent''                         |
+| 8)  Who arrested the Capua gang?                                                       | ''The Royal Army forces''                              |
+| 9)  Which principle is the protective duty to civilians?                               | ''Guild Code, Principle 2''                            |
+| 10) What's the overall length of the Arseille?                                         | ''42 arge''                                            |
+
+If your answer is correct, Estelle will make a positive remark. Get all ten questions correct, you get two extra BP.
+
+%
+====Krone Trail Monster====
+
+*[[Air-Letten Checkpoint and Ruan]]
+**Mira: 2000
+**BP: 2
+**Timeframe: Long
+**Expires: -
+
+You cannot miss this boss because its standing right at the middle of the road at Krone Trail.
+=-----=
+''Boss: Hapilsag'' x2
+
+This boss is nothing special. It has heavy press to attack your ally at a distance. Also, its normal attacks inflicts poison. So long as you have
+the Silver Chain or Earring, its poison attacks are not devastating at all.
+=-=
+
+(Thanks Seanstar for correcting typo)
++
+%
+====Aurian Causeway Monster====
+
+*[[Air-Letten Checkpoint and Ruan]]
+**Mira: 3000
+**BP: 3
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is in the 2nd area of Aurian Causeway slightly past the signpost leading to Air-Letten checkpoint.
+
+=-----=
+''Boss: Ash Saber x3''
+
+This boss is very speedy and do considerable damage to your allies. Each attack blocks off S-Craft and stun you for two turns.
+Like Cobalt Saber, it uses Death Throes to temporary boost their attack and speed. Although Dorothy is capable of blinding her opponents,
+she is the most liable of the group. Your foes usually target Dorothy whenever they are within the vicinity. So, defeat your opponents
+quickly by using physical attacks. Any moves with AT delay will help you tremendously. Lastly, be sure to use Olivier's happy trigger to heal
+your allies.
+=-=
++
+%
+
+====Recruiting Great Gamblers====
+
+*[[Post-Chapter I Sidequests]]
+**Mira: 2000
+**BP: 2
+**Timeframe: Long
+**Expires: -
+
+Talk to Lakeisha on the first floor of Lavantar & Bar casino. She'll give you [[1000 Mira]] so that you can gamble against her husband.
+Depending which companion you choose, the cards will be played out differently. Refer to the table below for the following
+
+--u--''If you chose Agate as your companion''--u--
+|* Character Name         |* Response                                                   |
+| Agate                   | Keep King, Swap out all other cards. Next, choose Challenge |
+| Olivier                 | Exchange all cards, leaving the pair. Next, choose Fold     |
+| Estelle                 | Exchange all cards                                          |
+
+%
+
+--u--''If you chose Scherazard as your companion''--u--
+|* Character Name         |* Response                                                   |
+| Estelle                 | Swap leaving one pair. Next, choose Challenge               |
+| Olivier                 | Exchange all cards, leaving the pair. Next, choose Fold     |
+| Scherazard              | Exchange everything but the spades                          |
+
+(Thanks Hikari62 for the answers for Schera's side)
+
+====Election Office Assault====
+
+*[[Post-Chapter I Sidequests]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Short
+**Expires: The moment you board the airship to Zeiss
+
+--u--''HIDDEN SIDEQUEST''--u--
+
+The sidequest begins at Hotel Blanche on the basement floor. Head to the room at the upper right corner and talk to Nial. Then go to the first
+floor. Herio will talk to you and accept his offer. After a long winded dialogue, you will need to follow step by step on gathering clues.
+
+=-----=
+* 1) Talk to Kuper and you'll unlock --u--''Sound''--u--
+* 2) Talk to Belden at the basement floor and you'll unlock --u--''Anger''--u--
+* 3) Talk to Kuper again by choosing ''anger'' and you'll unlock --u--''About Herio''--u--
+* 4) Talk to Ernest the innkeeper by choosing ''Hario'' and get another cutscene on your way back to the suite
+* 5) Once your companion and Olivier is standing on the innkeeper's countertop, talk to Ernest ''Herio'' and you'll unlock --u--''after lunch''--u--
+* 6) Head to the basement floor and exit north and talk to Murray near the piers by choosing ''lunch'' and you'll unlock --u--''bell toll''--u--
+* 7) Talk to Ernest again by choosing ''the bell toll'' and you'll unlock --u--''cleaned up''--u--
+* 8) Talk to Murray again by choosing ''sound'' and ''bell toll''
+* 9) Talk to Norman on the top floor by choosing ''bell toll''
+* 9b) Try talking to him again about cleaning up? He should mention a special paella.
+* 10) Talk to Belden on the basement floor by choosing ''bell toll''
+* 11) Talk to Murray again by choosing ''lunch''
+* 12) Talk to Belden again by choosing ''cleaned up'' you'll unlock --u--''Belden''--u--
+* 13) Now, ask Belden about his ''lunch''
+* 14) Talk to Norman again and choose ''lunch''
+=-=
+
+After you talked to the people inside the hotel, it's time to talk to your companion on the first floor near the counter. Choose ''Belden''
+Next, when mentioning about Kuper, choose ''He has a solid alibi''. When your companion talks about Belden, choose ''he has no alibi''. Lastly,
+for the decisive evidence, choose ''he knew about the special paella''. After a series of running around and talking to the people, talk to
+Jean to report your findings.
+%
+
+===Chapter 2===
+
+
+====The Stolen Sign====
+
+*[[City of Zeiss]]
+**Mira: 2000
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+To begin the sidequest, talk to Kilika. After you hear what your objectives are, it's time to solve the riddles. First, head to the eastern part of town
+near Zeiss Chapel and examine the clock tower. Be sure to look behind the clock tower because that's your next riddle. Next, head north towards the Zeiss
+Central Factory and go on the 5th floor. From there, go to Central Factory: Operation room and examine CAPEL in the center of the room. Choose Central Factory,
+then Universal Tech, and choose Bracer Guild Sign. Next, go back to town and head over to Forgel Bar. Do not enter the bar. Instead, examine the three metal chimneys
+behind the building. Finally, go back to Zeiss Central Factory on basement floor 1. Go forward towards the loading dock and talk to Faye. You'll get the Bracer Guild
+Sign back. Report your findings to Kilika.
+
+====New Model Orbal Gun Test====
+
+*[[City of Zeiss]]
+**Mira: 2500 (+1000)
+**BP: 2 (+1)
+**Timeframe: Long
+**Expires: -
+
+To begin the sidequest, head to the orbal factory. Then go to the Central Factory - workshop on the third floor and talk to Karl. He'll give you
+[[0-Type Orbal Gun alpha]]. If you want to get bonus BP, you need to win 15 battles while Olivier equips the prototype gun. So, head over to Tratt Plains
+Road and engage in battle with 15 enemies. If it makes it convenient, you can equip the the gun and progress through the story. You should have more
+than 15 battles anyway. If you did it correctly, Karl will inform you that you worked the prototype gun pretty hard. He'll give you [[Hit 3]] as your
+reward.
+
+
+====Training Assistance====
+
+*[[City of Zeiss]]
+**Mira: 2500 (+1500)
+**BP: 3 (+2)
+**Timeframe: Short
+**Expires: After the events of Sanktheim Gate
+
+Head over to Leiston Fortress, and talk to Private Samuel at the front gate. You'll engage in three consecutive battles. Be sure to equip items
+that resists blind and freeze because the soldiers inflict those status effects. On the third battle, you'll fight Colonel Cid. Look out
+for attacks like Flash Strike which inflicts AT delay to your ally or Flying Orders which attack any foes from a distance. Whatever you do, don't
+let Cid cast Arc Prominence because it's an all-range attack that deals severe damage to your allies. So, use any attacks that interupts casting.
+If you won all three battles, you get two extra BP as well as [[Gladiator Headband]]. This is a very good accessory to have because it gradually
+increases CP as the battle goes on. Anyway, report it to Kilika.
+%
+
+====Tratt Plains Monster====
+
+*[[City of Zeiss]]
+**Mira: 3500
+**BP: 3
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is in the 2nd area of Tratt Plains Road. It's on the northeast corner of area 2 near the Carnelia Tower entrance.
+
+=-----=
+''Boss: Mantrap x3''
+
+This boss is not too hard considering it only has two moves. It has devour which deals damage plus saps away HP. Once Mantrap is close to
+death, it unleashes Corruption of the Land which inflicts damage as well as sleep and blind. Use your arts that have a wide area of effect
+like stone impact or aerial.
+=-=
++
+%
+====Kaldia Tunnel Monster====
+
+*[[City of Zeiss]]
+**Mira: 3000
+**BP: 3
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is in the 3rd area of Kaldia Tunnel near the second intersection towards Air-Letten checkpoint.
+
+=-----=
+''Boss: Whale Frog Male x4 and Female''
+
+This boss more like an enemy mob than anything else. The Whale Frogs are going to summon monsters, so killing them quickly is your top priority.
+Use strong S-Crafts or arts with wide area of effect to do damage.
+=-=
++
+%
+
+====Eliminating Peeping Tom====
+
+*[[Zeiss: Earthquake Investigation]]
+**Mira: 2500
+**BP: 3
+**Timeframe: Short
+**Expires: -
+
+Head over to The Maple Leaf Inn at Elmo Village and talk to the innkeeper. After a long conversation with your party members, it's time to fight the boss.
+=-----=
+''Boss: Big Sheep''
+
+These are not your normal sheep. All six sheeps are already casting their attacks. The black sheep will unleash Asura Fist to deal light damage against your
+ally. Also, the creepy sheep inflicts sleep the moment they attack your ally. You are going have to wait for a while until all the creepy sheeps fuse into big
+sheep. You cannot attack them because they have high defense and evasion. When it becomes big sheep, he deals heavy damage by using Super Whirlwind Spiral Kick
+and Super Sheep Punch which inflicts confuse. When its health is close to 33%, it'll unleash Super Baaad touch which hits any ally within its vicinity. At first,
+this boss might be overwhelming, but wait until the sheep fuses itself. Then you can start kicking butt with strong crafts and chain crafts. Just watch for
+confusion.
+%
+====Parts Search====
+
+*[[Zeiss: Earthquake Investigation]]
+**Mira: 2000 (+1000)
+**BP: 2 (+1)
+**Timeframe: Long
+**Expires: -
+
+Talk to Erick, the orbal factory shopkeeper. He'll give you a [[Metal Detector]] and will tell you that he is missing eight parts between the third and fourth floor
+of the factory. Head over to Central Factory - workshop on the third floor and Central Factory - Lab on the 4th floor. Use the Metal Detector and do the following.
+
+=--Central Factory: 3rd Floor - Workshop--=
+*Examine the tool shelf and ladder and you'll find Orbment Part #1
+*Examine the apparatus on the upper right corner of the room and you'll find Orbment Part #2
+*Examine right next to the table with the drawing of a blueprint and you'll find Orbment Part #3
+=-=
+
+=--Central Factory: 4th Floor - Lab--=
+*Examine the brown box next to the large gray package near the front of the room, and you'll find Orbment Part #4
+*Examine the gap between the intercom and the bookshelf on the lower right corner of the room, and you'll find Orbment Part #5
+*Examine the gap between the tomato plant and the large blue control panel and you'll find Orbment Part #6
+*Examine the gap between the shelf with beakers and the shelf with round-bottom flasks and you'll find Orbment Part #7
+*Head to the Central Factory - Clinic and use the metal detector on Antoinne the Cat. He holds Orbment Part #8
+=-=
+
+Once you have all eight parts, talk to Erick on the first floor. For finding his parts, he'll gives you [[Buzzer]] as your reward.
+
+%
+
+====Tratt Plains Monster 2====
+
+*[[Zeiss: Earthquake Investigation]]
+**Mira: 3500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is in the 2nd area of Tratt Plains Road towards Elmo Village. On the second area, walk along the western perimeter. You'll find a huge
+mosquito.
+
+=-----=
+''Boss: Ya-Kah x6''
+
+This boss is not too hard considering it only has one move. It does HP Absorb at a distance. You do have to watch out for their numbers because they outnumber you
+6-4. So, use any arts or crafts with wide area of effect. Make sure that you are doing damage as you go along.
+=-=
++
+%
+====Soldat Army Road Monster====
+
+*[[Zeiss: Earthquake Investigation]]
+**Mira: 4500
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+You cannot miss this boss because its standing on the middle of the main road.
+
+=-----=
+''Boss: Bloody Saber''
+
+This is like the other Saber battles you fought previously except the only difference is that you are fighting a variety of enemies. So, take on the weaker
+monsters first before taking on Bloody Saber.
+=-=
+
+
+====Missing Guest====
+
+*[[Post-Chapter II Sidequest]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+To begin this sidequest, you need to talk to Martina the innkeeper at Zalbahd hotel in Zeiss. See [[Limestone Cave]] for more info.
+
+%
+
+===Chapter 3===
+
+====Erbe Scenic Route Monster====
+
+*[[City of Grancel]]
+**Mira: 3500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+You cannot miss this boss. He hangs out at the middle of the road on the second area of Erbe Scenic Route right past the area with the old stone cerulean and vermillion monument.
+
+=-----=
+''Boss: Cronocider x5''
+
+Cronocider is fairly resilient because it has golden armor which increases strength and defense. Also, its normal attack inflicts faint and pushes your ally to the edge of the battlefield.
+Even though the battle is straight forward, you still want to be careful becuase the Cronocider deal significant damage. Use Chain or S-Craft when necessary. Other than that, you should
+be fine.
+=-=
++
+%
+====Grancel Sewer Monster====
+
+*[[City of Grancel]]
+**Mira: 4500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+Head over to the Grancel West Block and enter the sewers. From there, keep going until you hit the very end of the dungeon. I suggest that you equip accessories that prevents fainting.
+
+=-----=
+''Boss: Mad Tree x4''
+
+Your foes will overwhelm you with numbers because Mad Tree has the ability call for allies. If that was not enough, it does Mud Splash to inflict moderate damage with Speed or Move Down.
+Once the Mad Tree is close enough, it'll deal damage and absorb health at the same time. Mad Trees have high HP, so you need to clear the enemy field as quickly as possible. By now, you
+should have chain 2 because the enemies like to crowd in a lot. Use wide area of effect arts like Spiral Flare or Aero Storm and use S-Craft when necessary. This battle is tough, so
+keep at it.
+=-=
++
+%
+
+====The Missing Exhibit====
+
+*[[Grancel and Grancel Sewers]]
+**Mira: 5000
+**BP: 4
+**Timeframe: Short
+**Expires: -
+
+(Thanks Eskadoodle for correcting the actual BP value)
+
+To begin this sidequest, head over to the East Block at Grancel and go northwest towards Grancel Landing station entrance. There should be a building on the left side saying "The History
+Museum." Remember, it's next to the Grancel landing station. Anyway, talk to the Museum Director. The location of the first clue is on Grancel: West Block. There should be a small house
+next door to Grancel Cathedral. It happens to be General Morgan's Residence. Go to the second floor and --u--''examine the grandfather clock''--u--. Next, go to Grancel: South Block and
+--u--''examine the back end bird fountain statue near the front of the entrance.''--u-- Finally, go to Granel: East Block and enter the Calavardian Embassy at the southern most end of the map.
+Climb the first set of stairs and go to the room on your right. Examine the bookshelf in the center and --u--''Read Chapter 15 of Doll Knight''--u--. Finally, head out of the Embassy, and
+go to the Grand Arena, which is located at the eastern end of the map. Once you are in the grand arena, go forward. You'll end up at the arena itself. You'll fight a boss at the end of the battle.
+Prepare yourself with equipping anti-freeze accessories.
+
+=-----=
+''Boss: Master Cryon and Cryon Bits''
+
+Master Cryon casts Diamond Dust and nothing else. The Cryon Bits are more of a threat because it can inflict Freeze to any of your allies. This battle is pretty annoying, so use Fire Arts
+like Spiral Flare to deal significant damage. Other than that, you'll be alright.
+=-=
+
+At the end of the battle, you'll get the [[Portrait of Ariselle]]. Report back to Elnan once the quest is over.
+
+%
+
+====Grancel Sewer Monster 2====
+
+*[[Grancel: Another Game of Hide and Seek]]
+**Mira: 4000
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+Head over to the Grancel East Block and enter the sewers. The boss is located at area 3 of Grancel Sewers: East.
+Go straight until you see an intersection, head to the first door on your left. From there, go forward
+until you see wooden pathway on the left side. This leads to the monster you are
+looking for.
+
+=-----=
+''Boss: Gundoll x3''
+
+Despite of its intimidating look, the battle is not hard at all. Gundoll only does three things: shoot its
+heavy machine gun from a distance, heal and call reinforcements. Gundolls summon Boiled Egger O for your
+convenience. Anyway, use wide area of effect arts, chain crafts and S-Crafts and the battle will be
+over in no time.
+=-=
++
+%
+====Royal Avenue Monster====
+
+*[[Post-Chapter III Sidequest]]
+**Mira: 3500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+This boss is easy to find because it's the only monster on the road. Anyway, from Grancel, move east towards
+Grune Gate. On the second area where there's a signpost saying Erbe Scenic Route, go south. You should see
+Flame Velgr at the end of the road.
+=-----=
+''Boss: Flame Velgr x4''
+
+You may have fought it at Carnelia Tower earlier in chapter 2. It has the same moveset such as Feather
+Shower which hits a large area of effect and Rolling Dive as its special attack. What makes it menacing
+is that it's accompanied by Hell Mars which unleashes Mars Star as its special attack. The most threatening
+part of this battle is overwhelming you in sheer numbers. So, you need to take out Flame Velgrs by
+using water arts and S-Crafts. You can kill the Hell Star quickly using regular arts.
+=-=
+
+
+===Chapter 4===
+
+====The Ring That Flew Away====
+
+*[[City of Rolent]]
+**Mira: 5000
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+To begin this sidequest, head over to Rolent Chapel and talk to Armand and Ellie. You need to go to Malga trail
+and traverse through the top floor of Esmeldas Tower. There, you'll find your [[Silver Ring]]. Go back to Rolent
+and talk to Armand.
+
+^l24| Silver Ring Location
+%
+
+====Fishing Spot Search====
+
+*[[City of Rolent]]
+**Mira: 4000 (+2000)
+**BP: 4 (+2)
+**Timeframe: Long
+**Expires: -
+
+Talk to at Percy at Gurune Gate past Elize Highway. He should be located at the mess hall. Anyway, your objective
+is to find six fishing spots throughout Rolent. By finding all of them, you will earn extra BP. What you need to
+do is to find the fishing spot and --u--''catch at least one fish''--u--. This will count as one location. What you need to know
+is that the fishing spot in Mistwald can only be available once you beat the boss there. Without further ado,
+I'll tell you all six locations in one picture.
+
+^l25| Rolent fishing Locations
+
+|*Name                         |*Location                                     |
+| Elize Highway             | Near Elize Highway bridge on area 2          |
+| Bright Family Home        | Behind Estelle's house                       |
+| Milch Main Road           | Pond by Milch main road near Rolent Entrance |
+| Verte Bridge - Checkpoint | Behind the bridge on Verte Checkpoint        |
+| Rolent Sewers             | Right by the ladder                          |
+| Mistwald                  | On the bridge where you once fought the boss |
+
+If you found all six hidden fishing spots, Percy will reward you with [[Metal Trident Rod]]. Report this back
+to Aina.
+
+%
+
+====Elize Highway Monster====
+
+*[[City of Rolent]]
+**Mira: 4500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is at the very end of the road towards Gurune Gate in Elize Highway. You'll fight
+this boss.
+
+=-----=
+''Boss: Wisdom x2''
+
+It casts Shadow Spear and uses absorb nutrients to sap away HP to one of your allies. It's also accompanied
+with several monsters as well. Take out the enemy mob first and then exterminate the Wisdoms one at a time.
+Prioritize on one of the Wisdom and concentrate your attack against it. This will prevent the battle from
+dragging on for too long. So, use Chain and S-Craft to deal damage.
+=-=
++
+%
+
+====Milch Main Road Monster====
+
+*[[City of Rolent]]
+**Mira: 4500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+You cannot miss this monster. It's hanging out at the main road near Verte Bridge entrance.
+
+=-----=
+''Boss: Snowfoot x3''
+
+This boss only does three things: heavy hitter, Knock Down and uses Snow Breath. What Snow Breath does is that it starts
+itself by charging and unleash moderate damage to allies. It also inflicts freeze as well. Once its close to
+death, it'll charge again and use knock down instead which deals heavy damage. It's really slow so overwhelm
+them with your attacks.
++
+%
+
+
+====Search for Lost Cat====
+
+*[[Rolent: Nightfall]]
+**Mira: 2500
+**BP: 3
+**Timeframe: Short
+**Expires: After the events in Rolent: Nightfall
+
+Your window for this sidequest is extremely limited. Do this sidequest immediately as soon as the city gets dark.
+Anyway, head over to Hotel Rolent and talk to Ida on the first floor. Then go to the landing port and talk to
+Fabree near the airship dock. Then head downstairs and go to the warehouse behind the airship. Skip should
+be hanging out at the corridor in between the warehouse and the landing port. Quint is not inside the Abend
+Bar. He's in Melder Orbal Factory right across the guild. Finally, go back to the landing port and find
+Zosimov. Face north and Zosimov is on --u--the first tree on your left near the entrance--u--. After talking
+to Zosimov, talk to Fabree to look inside the airship. Once you are inside the airship cabin, go all the way
+down to the bottom floor of the airship. You'll find the lost cat. If you have max BP or did the sidequest,
+"Lost Cat" in FC, you'll get [[Master Beads]]
+
+Drache once adopted a cat that soon after had a bunch of kitties. They were born in a trash can. She clearly wanted
+to have them underneath the house, but we blocked off the way so the trash can must have been second best or something.
+%
+
+====Esmelas Tower Monster====
+
+*[[Mistwald]]
+**Mira: 5000
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+The location of the boss is at the base of Esmelas Tower past the Malga Trail.
+
+=-----=
+''Boss: Thunder Quake x3''
+
+World Shaker is an a special attack that hits everyone on the battlefield. However, Thunder Quake
+is extremely weak against Earth. However, Coral Shell will protect them by simply placing itself
+right next to the Thunder Quakes. Do any area of effect arts, and they'll reflect it back to
+to you. You need to take out Coral Shell ASAP because they'll protect Thunder Quake from incoming art attacks.
+They'll be a bigger nuisance to your team than the Thunder Quake. So, use your S-Craft against
+the coral shell. Next, use strong earth arts to take down Thunder Quake.
+
+=-=
++
+%
+
+====Milch Main Road Monster 2====
+
+*[[Mistwald]]
+**Mira: 6000
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+The location of this monster is on the second area of Milch Main Road. At the signpost that directs you to
+Perzel Farm, there should a Horse-like figure behind the signpost.
+
+=-----=
+''Boss: Picorn x4 and Death Specular x2''
+
+Both Picorn and Death Specular uses Wii-O-Wisp which does moderate damage but inflicts confusion. They
+will spam this move throughout the battle, so have your Lily Necklace ready to prevent confusion. Also,
+the Picorn will use Plasma Wave to deal additional damage to your allies. This battle isn't so hard
+if your allies are immune to confusion. So, do your usual tactics and get through the battle.
+=-=
++
+%
+
+====Nostalgic Recipe====
+
+*[[Post-Chapter IV Sidequests]]
+**Mira: 2500
+**BP: 4
+**Timeframe: Long
+**Expires: -
+
+''NOTE: Finishing this quest will earn you a steam achievement''
+
+To begin this sidequest, head over to Abend Bar and talk to Densel inside the kitchen. Then talk to
+Radford; he should be standing at the counter right next to the bartender. After learning about
+some the ingredients, head over to Rinon's General Goods and talk to Bloom on the second floor.
+Next, go to the house next door to Abend Bar and talk to Rhett as his private library on the second
+floor. Examine the bookshelf on the upper right hand corner of the room for [[Recipe Copy]]. You will need these ingredients.
+
+
+|* Ingredient        |*Quantity |* Location             |
+| [[Aged Miso]]      |  ''1''   | Rinon General Goods   |
+| [[Vintage Wine]]   |  ''1''   | Rinon General Goods   |
+| [[Maple Sugar]]    |  ''2''   |  Rinon General Goods  |
+| [[Kibbled Salt]]   |  ''5''   |  Rinon General Goods  |
+| [[Fresh Herb]]     |  ''5''   | Rinon General Goods   |
+| [[Dragon Beans]]   |  ''2''   | Rinon General Goods   |
+| [[Black Pepper]]   |  ''4''   | Rinon General Goods   |
+| [[Juicy Bone]]     |  ''2''   | You should have this from other monsters in previous chapters; otherwise fight Dirty Rats inside the Rolent Sewers |
+
+After gathering all of the ingredients, talk to Densel and report your findings back to the guild. You
+should learn [[Pepper Pottage]] recipe and earned yourself a steam achievement
+%
+
+====Diaset's Secret====
+
+*[[Post-Chapter IV Sidequests]]
+**Mira: 7500
+**BP: 2
+**Timeframe: Long
+**Expires: -
+
+To begin this sidequest, head over to the Rolent Clock Tower and talk to Anton. If you are doing the odyssey of
+Anton, this will count as another conversation. Anyway, you will need to gather the following ingredients:
+
+|* Ingredient            |*Quantity |* Location                      |
+| [[Monster Carapace]]   |  ''5''   | Coral Shell in Esmelas Tower   |
+| [[Savory Pinon]]       |  ''5''   | Red Insectos in Malga Trail    |
+| [[Prickly Seed]]       |  ''5''   | Mantrap in Milch Main Road     |
+| [[Pearlglass]]         |  ''1''   | Fishing spot in Elize Highway, Mistwald, or Milch Main Road |
+
+Assuming that you were diligent from doing the other sidequests in the previous chapters you should have adequate amount of
+Monster Carapace, Savory Pinion, and Prickly Seed in your possession. Your main concern is the Pearlglass. It's a large fish
+located in one of the three fishing spots. Generally, you have the best chance of catching Pearlglass by using the [[Bamboo Fishing Rod]]
+and river snail as your bait. If you do not have it, you may want to use your default rod and use earthworm.
+Your chances are slim, but you can tell you caught a big fish if the wait time is much longer than usual. Once you have
+all of the ingredients, present it to Anton. After a long cutscene, report to Aina even though she witnessed Anton's
+antics. :P
+
+%
+
+====Mine Commission====
+
+*[[Post-Chapter IV Sidequests]]
+**Mira: 6000
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+To begin this sidequest, head over to house on the west side Rolent right behind the Orbal Shop. Proceed to the second floor and
+talk to Gaton. Again, you are going to have to put up with Bleublanc's riddles like you did on the previous chapters. Anyway,
+go to Rolent Chapel and go to the second floor. You should arrive at the balcony where the bench faces the altar. --u--''Examine
+the red chair next to the door''--u--. Next, go to the Mayor's residence and --u--''examine the five boxes on the south wall
+of the mayor's house''--u--. The next riddle is located behind Elger's Arm and Guards. --u--''examine the dirty forge below
+the iron shed.''--u-- Finally, go to the Rolent Sewers and examine the locked door at the very end of the path. Use the
+[[Rusted Key]] and you'll find a bunch of Moukis. Defeat them and you'll resume your search. Examine the wooden cabinet next
+to the fire torch. You'll find [[Ore Mine Commission Letter]]. Talk to Gaton and he'll reward you x500 Sepith of your choice.
+Report this back to Aina.
+%
+
+
+===Chapter 5===
+
+
+====Krone Pass Monster====
+
+*[[City of Bose]]
+**Mira: 6000
+**BP: 5
+**Timeframe: Mandatory Sidequest
+**Expires: -
+
+See [[Krone Pass: Bose Region]]
++
+%
+
+====Nebel Valley Monster====
+
+*[[City of Bose]]
+**Mira: 6000
+**BP: 5
+**Timeframe: Mandatory Sidequest
+**Expires: -
+
+See [[Nebel Valley]]
++
+%
+
+====Amberl Tower Monster====
+
+*[[City of Bose]]
+**Mira: 6000
+**BP: 5
+**Timeframe: Mandatory Sidequest
+**Expires: -
+
+See [[Amberl Tower]]
++
+%
+
+====Imperial Request====
+
+*[[City of Bose]]
+**Mira: 10000
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+Go to Frieden Hotel at North Block of Bose and head to the second floor. Talk to Jerrold and he'll take you to Crainagh.
+Again, this is another riddle sidequest :/. The first riddle is located at South Block of Bose behind
+Lucir Orbal Factory. Take the stairs towards the balcony and --u--''Examine the red flower pot''--u--.
+Next, go to the Bose Guild house and walk to the --u--''third floor and examine the opened book on
+the table.''--u--. Next, go to Bose International Airport and --u--''examine the large crate on the
+forklift near the warehouse.''--u-- Finally, go to Bose Chapel and go to the private room on your
+left and --u--''examine the bible on the altar.''--u--. After running around, Crainagh will reward
+you with [[Eisenritter's Medal]]. Report this back to Ludgren.
+
+%
+====The Missing Lady====
+
+*[[City of Bose]]
+**Mira: 6000
+**BP: 5 (+2)
+**Timeframe: Short
+**Expires: After exterminating the monsters
+
+Head over to Anterose Restaurant, which is next door to Bose Bracer Guild house and talk to Reina next to the entrance.
+Next head out towards West Bose Highway and continue to move west towards Krone Pass. Once you arrive at the checkpoint,
+go to the room on the left side. You'll find Felicity near the fireplace. You'll have a bonus BP question coming up.
+Choose --u--''You are really a coward, Felicity''--u--. After a long winded dialogue, Reina will give you [[Tornado Fan]]
+as one of your rewards.
+%
+
+====The Rarest Flavor====
+
+*[[City of Bose]]
+**Mira: 5500 (+1500)
+**BP: 3 (+2)
+**Timeframe: Long
+**Expires: -
+
+To begin this sidequest, head over to the Anterose and talk to Gwen at the kitchen.
+After you accept her offer, you will need to gather the following ingredients:
+
+|* Ingredient            |*Quantity  |* Location                      |
+| [[Tender Poultry]]     |  ''10''   | Hresvelgr in Eisen Road   |
+| [[Bird Eggs]]          |  ''10''   | Rock Pecker in East Bose Highway    |
+| [[Gummy Eyeball]]      |  ''10''   | Boiled Egger G in Krone Trail     |
+| [[Juicy Bone]]         |  ''5''    | Talk to Orvid at the south exit of Bose Market     |
+| [[Curative Horn]]      |  ''5''    | Talk to Orvid at the south exit of Bose Market     |
+| [[Lucky Fang]]         |  ''5''    | Talk to Orvid at the south exit of Bose Market    |
+
+I assume that you already have all of those ingredients when you fought monsters in the previous chapters.
+However, there's another bonus BP at stake. Before you present the ingredients to Gwen, --u--''talk to
+Orvid at the south exit of Bose Market''--u--. If you talk to Orvid, you'll see a cutscene with him
+and Gwen. This states that you got the bonus BP for this sidequest.
+%
+
+
+====Ravennue Trail Monster====
+
+*[[Ancient Dragon's Dwellings]]
+**Mira: 6500
+**BP: 5
+**Timeframe: Mandatory Sidequest
+**Expires: -
+
+The location of this monster is on Ravennue Trail: North. Go to the second area which leads to the Abandoned
+Mines. On the first intersection go north and you'll find the boss at the end of the path. Before you
+start, be sure to equip Anti-petrification accessories such as Mirage Ring or T-Anklet.
+
+=-----=
+''Boss: Fate Spinner x3''
+
+It uses Meadow Tusk to deal heavy damage plus petrify. Also, it uses Leap Upon to stop any incoming art attacks.
+That's pretty much the extent of the boss battle. If all of your allies are immune to Petrify, you should be good
+to go. Use your strongest attacks as always.
+=-=
+
++
+%
+
+====Memories of Distant Days====
+
+*[[Post-Chapter V Sidequests]]
+**Mira: 3500
+**BP: 5
+**Timeframe: Long
+**Expires: -
+
+To begin the sidequest, talk to Corna at Kirshe Bar on the first floor. She'll give you a [[Photograph of
+Raini]]. Next, go to to the Mayor's Residence on the second floor and present it to Lila. Then show
+the same photograph to Mayor Maybelle. Next, report it to Ludgren.
+%
+
+====Merchant Escort====
+
+*[[Post-Chapter V Sidequests]]
+**Mira: 5000 (+5000)
+**BP: 3 (+2)
+**Timeframe: Long
+**Expires: -
+
+To begin the sidequest, talk to Mirano at Bose: South Block. She is located at the house on the west side
+of the area next to the fenced flowers. Before you meet up with her at West Bose Highway, --u--''MAKE
+SURE THAT YOU DO NOT ENGAGE ANY ENCOUNTER WITH THE ENEMY''--u--. To minimalize the risk, make sure you
+equip Heaven's Eye to spot enemies on the minimap and equip Haze or Yin-Yang to prevent enemies
+approaching you. By escorting to Ravennue Village safely without any enemy encounters will give you
+bonus BP. Anyway, talk to Mirano near the West Bose Highway and go to Ravennue Village. Once
+you successfully escorted Mirano to Ravennue Village, go back to Bose and report this Ludgran.
+
+
+====Mine Extermination====
+
+*[[Post-Chapter V Sidequests]]
+**Mira: 8000
+**BP: 6
+**Timeframe: Short
+**Expires: After setting off to Valleria Lake.
+
+--u--''HIDDEN SIDEQUEST''--u--
+
+This is the first hidden sidequest in a long time. To begin the sidequest, head to the Abandoned Mine
+and talk to the Royal Army Soldiers. These little drones are very easy to spot. They should be the only
+ones roaming around the Abandoned Mines. The first drones are on the very right side of the first intersection.
+The second drones are located on the left side of the first intersection close to the wooden bridge.
+The third drones are on the very left side of the area past the third intersection. The fourth
+drones are located in a small cave past the large opening where your party first encounted the dragon.
+The fifth set of drones are located on the very right side of the large opening. If you killed all
+five drones, you'll get this message saying that you killed everyone. Report this back to the Royal
+Army Officers, and the mission is done. Don't forget to get the [[Crimson Eye]], which is found on the south
+perimeter of the large opening!
+
+
+===Chapter 8===
+
+
+====New Ansel Path Monster====
+
+*[[Liberl: Bose Region]]
+**Mira: 7000
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+The location of this monster is on New Ansel Path at the intersection towards Amberl Tower.
+Before you start, be sure to equip anti-deathblow accessories such as [[Lebensborn]] or
+[[Skull Pendant]] to prevent incoming deathblows.
+
+=-----=
+''Boss: S-Series Doom x3 and Guard Minion x2''
+
+You fought different variations of them back in chapter 7. The S-Series Doom throws
+their axes two times and inflicts deathblow against your ally. Also, Guard Minion
+use La Teara to heal extensive wounds. This battle is really easy once everyone
+has deathblow resistance! Treat this as a normal battle. It'll drop [[Strike 2]]
+after defeating this boss.
+=-=
++
+%
+
+====Krone Pass Monster: Redux====
+
+*[[Liberl: Bose Region]]
+**Mira: 7500
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+If you are on your way to Ruan, you cannot miss this boss because it's standing on the main
+path.
+
+=-----=
+''Boss: Red Fang x4 and Guard Minion x2''
+
+It uses Roar to increase its Attack and Defense. After it uses Roar, their normal attacks deal severe damage to an ally
+So, it's like the monster you fought the first time back in Chapter V except it does not hold back
+by hurting itself. So, do your usual tactics and you are good to go. By defeating the boss, it'll drop [[Mute 2]].
+=-=
++
+%
+====Gull Seaside Way Monster: Redux====
+
+*[[Liberl: Ruan Region]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+If you are on your way to Ruan, you cannot miss this boss because it's standing on the main
+path before the entrance to the town! Be sure to equip anti-petrification accessories
+before taking on this boss!
+
+=-----=
+''Boss: Balancing Clown and Vogel 911 EX x3''
+
+You've seen them before when you fought Bleublanc and Renne from chapter 7. Balancing Clown
+does the same tactic using Marionette and Pit Trap. Also, Vogell 911 EX uses Gorgon Laser
+to inflict stone. Employ the same strategies you used against them back in Chapter VII.
+By defeating the boss, it'll drop [[Sleep 2]].
+=-=
++
+%
+
+====Sapphirl Tower Monster====
+*[[Liberl: Ruan Region]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+If you are on your way to Ruan, you cannot miss this boss because it's standing on the main
+path before the entrance to the tower.
+
+=-----=
+''Boss: Ebony Scale x3''
+
+This boss uses Thunderbolt to deal lightning damage from a distance and calls allies.
+Really, that's the the extent of the battle. Just do the same thing like you did
+with the other bosses, and you are good to go. By defeating the boss, it'll drop [[Freeze 2]].
+=-=
++
+%
+====The Occupation of Jenis====
+*[[Liberl: Ruan Region]]
+**Mira: 10000
+**BP: 8
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+''HIDDEN SIDEQUEST''
+
+To trigger this sidequest, you will need to relinquish one of your Zero Field Generator to
+Jean. He'll inform you to check out the neighboring areas around Ruan. What he means is that
+check out Jenis Royal Academy! On your way to Jenis Academy, you'll engage battle against
+two Blade Cougars! Don't forget to protect Mickey while you are fighting the Blade Cougars.
+
+Next, Joshua will have infiltrate the school on his own. So, examine all of the windows
+throughout the the perimeter of the school. Be sure to get a conversation from Hans and Jill
+before you go. Next, take the back gate towards the Old School House and you'll return
+with your allies. Also, this is the only time Anelace and Kurt will join the battle as
+guest party members! Your next mission is to rescue all the hostages. These are the places
+where you will find the hostages.
+
+|*-2 Clubhouse      | Girl's Locker Room         | Deborah, Ms. Wiola, and Ms. Millia  (You'll get Mighty Essence along the way) |
+                    | Boy's Locker Room          | Mr. Effort and Mr. Ratio |
+|*-4 Schoolhouse    | Dean's Office              | Dean Collins and Fauna |
+                    | Humanities Classroom       | Jill, Hans, Kaden, Alice, and Purity |
+                    | Natural Sciences Classroom | Gerome, Patrick, Dennis, and Reina |
+                    | Social Sciences Classroom  | Logic, Argyle, Monika, and Thelma |
+|* Boy's Dormitory  | Lower Right Room           | Roy, Rhody, and Janitor Parkes |
+|* Girl's Dormitory | Lower Left Room            | Nikita, Taylor, and Felicity |
+
+After rescuing everyone on the list above, it's time to rescue Richelle. She's located at the
+old schoolhouse at the back of the academy. You'll engage battle against Gilbert. Honestly, this battle
+is such a joke. While Gilbert employs the same tactic against you back in Chapter VI, he does
+everything at a comical matter. So, just do your usual tactics and you are done with it. After the
+battle is over, Kurt and Anelace :( will leave your party. Report your mission to Jean after
+retaking the Jenis Academy. Don't forget to get the book, [[Gambler Jack - Vol. 12]] at the Humanities
+Classroom before you go.
+%
+
+====Tratt Plains Monster: Redux====
+*[[Liberl: Zeiss Region]]
+**Mira: 6500
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+The location of this boss is not in the middle of nowhere in contrast to the other two monster quests
+earlier in Chapter II. Anyway, the location of the boss is on side of the main road towards Wolf Fort. It's
+a big worm, so you can't miss it!
+
+=-----=
+''Boss: Abyss Worms x8''
+
+If you recall from chapter II, the Abyss Worm will use Lightning Fall to deal moderate damage from a distance.
+However, once its HP is less than 100%, it's going to spam Earth Shaker like no tomorrow. It sucks dealing
+with four Abyss Worms. Now, let's see if you can deal with eight of them! This can be a very difficult battle
+if you are not careful. However, the Abyss Worm will --u--''NOT USE EARTH SHAKER IF ITS AT FULL HEALTH!''--u--
+Having said that, I'm sure that your party members can take on a few lightning bolts. Anyway, the key of beating this battle is to
+manipulate the turn order against your opponent. Also, observe how the Abyss Worm's movement throughout the
+battlefield. If a bunch of them begin to crowd around each other, this could be an golden opportunity to deal
+substantial damage. But, that depends on your party set up!
+
+At the start of the battle, make sure that someone is casting Clock UP EX to increase your ally's agility by
+50%. Next, cast Clock Down to drastically reduce their agility! Then cast Earth Guard to ensure that your allies
+will be okay against their attack. From there, you can go offensive against the worms. You can do this one at a
+time, but you run at a risk of exhausting your resources in the process. If you are going to deal with them one
+at a time, make sure your physical characters will deal damage while Joshua casts Evil Eye to discourage other
+Abyss Worms to attack you.
+
+Personally, I prefer to attack them in clusters! Because Zane is my main attacker, he was responsible of dealing
+most of the damage against the worms. First, I use True Distend to raise his STR and DEF by 60%. I also have Estelle
+casting Clock UP EX on Zane while someone else can cast Clock Down on the worms the following turn. Make sure that
+Joshua is delaying his opponent's turn by using Evil Eye. He should not be doing anything else during this phase.
+If you know that the Abyss Worms are crowding around each other, it's time to use Thunder God Kick. If you managed
+to get up to five worms inside the small circle, execute it right away. If you are playing the PC version, the damage
+is devastating plus you get extra hits depending how many worms that was inside the circle. Using Thunder God Kick
+should be the main offense against the worms. However, if you are playing the PSP version, the damage should be significant
+as well. You need another character to facilitate the damage.
+
+Agate should deal damage as well by using Wild Rage 2 and Final Break 2 attack as well. DO NOT USE DRAGON DIVE unless
+you are confident enough to take on all eight worms at once. Tita should act as support and use arts and a bit of
+S-Craft as well. If you are using Scherazard, you can use her Wind arts and Heaven's Whip to prioritize your allies
+turns. Finally, use Chain Crafts to deal damage, but do not choose Joshua as your co-attacker. He needs to lock down
+on the worms using Evil Eye. Whatever set up you have, make sure that the Abyss Worm's speed is reduced while Joshua
+is casting Evil Eye on each turn. Once you have the worms under control, you should get [[Poison 2]] as one of the
+dropped items.
+
+The way Drache did it was to nuke the crap out of them, though this isn't the "proper" way. Get as high ATS
+as possible and start with 200 CP. Zero attacking during Clock Up setup, but after that hit everything on
+the field as hard as you can.
+
+=-=
++
+%
+====Ritter Roadway Monster====
+
+*[[Liberl: Zeiss Region]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+If you are on your way to Zeiss, you cannot miss this boss because it's standing on the main
+path before the entrance to the town! Be sure to equip anti-deathblow accessories
+before taking on this boss!
+
+=-----=
+''Boss: Blade Cougar x5''
+
+Chances are, you probably encountered these guys back at Jenis Academy. These guys use Seal Blade
+to inflict seal against your allies. Also, it uses Wind Blade to deal moderate damage while
+traversing to the other end of the field. Finally, it uses Death Blade to deal Deathblow to
+one of your allies. This should be a easy battle considering you have experience fighting the
+Cougars. By defeating the boss, it'll drop [[Blind 2]].
+=-=
++
+%
+====Hot Spring Restoration====
+*[[Liberl: Zeiss Region]]
+**Mira: 10000
+**BP: 8
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+''HIDDEN SIDEQUEST''
+
+''NOTE: BRING TITA ALONG, OR ELSE YOU CANNOT TRIGGER CERTAIN CUTSCENES''
+(thanks crusader_pandu for the info)
+
+After you gave the ZFG to Kilika, she'll tell you about the incident at Elmo Village. Bring Tita
+along and head over to Elmo Village. Go to the Maple Leaf Inn and talk to Mao. You need to talk to
+her twice and choose offer her help anyway. Mao will give you the Pump Shed Key. The Pump Shed
+is located at the outskirts of town near the entrance to the Hot Springs Cave. Tita will inform
+you that you will have to make a combustion engine. In other words, you need to do a lot of
+walking around. So, you will have to do the following. BTW, I suggest you equip Cloak and Night Goggles
+because you will do a lot of walking.
+
+=-----=
+*Head back to Zeiss and go to the Landing Port. Talk to Gustav, who is wearing the orange jumpsuit with blue hair.
+
+*Go to Leiston Fortress and talk to Private Samuel about the combustion engine.
+**''UPDATE:'' --u--You don't have to walk to Leiston Fortress. Instead, go to Zeiss Bracer guild and talk to Kilika. She'll call the people at Leiston Fortress.--u--
+(Thanks Sandfish95 and shingekinoeigo for the info. If you are playing the "Evo" version, it should be the same thing)
+
+*Next, head to Tratt Plains Road, and head over to the wide open field towards Carnelia Tower
+**There should be a large ship parked at the middle of the field. Talk to Captain Hoffman.
+
+*Once you have the [[Combustion Engine]], go to Zeiss Central Factory at the basement floor and talk to Rudi
+**Chief Murdock will come in and give you his letter
+
+*Next, go all the way to Ruan and talk to Portos outside the Aqua Rossa Bar at the south block.
+**Talk to Harg at the end of the pier. He should be standing right next to the crates right by the fishing spot. He'll give you 3 [[Gasoline Tanks]]
+
+*Lastly, go back to Elmo Village and go inside the shed
+=-=
+
+Once you have the pump fixed, Mao will give you [[Nirvana Tea]] as your reward. After a series of running back and forth, report back to the guild! :/
+Don't forget to get [[Gambler Jack - Vol. 13]] at Wolf Fort!
+%
+====Erbe Scenic Route Monster: Redux====
+
+*[[Liberl: Zeiss Region]]
+**Mira: 8500
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+The location of the boss is at the entrance in front of Royal Erbe Villa.
+
+=-----=
+''Boss: Big Cactus and Lark Cactus x8''
+
+Lark Cactus will use Beast Spiritual to buff its Strength and Defense. Also, the lark Cactus will
+use Devil Stinger to inflict seal against your ally. Big Cactus will just use Stinger to deal
+damage. Pretty much the Lark Cactuses are the biggest threat in battle. Be sure to use arts with
+wide range such as Abyss Fall or Death Scream. Also, use S-Craft such as Final Break 2, True
+Aural Blast, or True Black Fang to deal damage. You should have this battle in the bag! You should
+have [[Seal 2]] as your reward for defeating Big Cactus.
+=-=
++
+====Grancel Sewer Monster: Redux====
+
+*[[Liberl: Grancel Region]]
+**Mira: 9500
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+The location of this boss is at Grancel Sewer: East Block. Because it's a huge maze, I'll pull out
+an excerpt from one of the segments from this walkthrough. So, you don't get lost in the process.
+
+The location to the sewers is northeast of Grancel: East Block. The guy guarding the door will now let you in.
+So, go straight down until you see a split path. If you go left, it'll lead to a
+bunch of Scissor Hands along the roadside. The one on the right is much safer. There's a
+door that leads east. We'll come back there for now. Continue to go forward until the split path merges, There,
+you'll see two doors. head to the door you see on the right end of the map and
+continue to move east.
+
+On area 2, go straight until you see another intersection where you'll see a bunch of Boiled Egger O.
+At the intersection where there are two wooden bridges, go to the one on your left. It should lead to the next area
+the moment you enter.
+
+On area 3, go straight until you see an intersection. Continue to move forward from the first
+intersection. We'll come back at the same spot later. Anyway, you should arrive at a corridor
+with two rooms. The first door nearest from the entrance will lead to a dead end. You should
+find the boss at the end of the road.
+
+=-----=
+''Boss: Evil Stream x4''
+
+It's similar to the Mouki Fight earlier in chapter I. The only difference is that it uses Grand Stream,
+an all range wind art. Also, watch out for HP Absorb as well. So, counter their all-range arts with
+your own using Death Scream. From there, just destroy them with your Chain Craft. Once you defeat
+Evil Stream, it'll drop [[Death]].
+=-=
++
+%
+====Elize Highway Monster: Redux====
+
+*[[Liberl: Rolent Region]]
+**Mira: 5500
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+If you are coming out from Gurune Gate via Grancel Region, it should be located right in front of you.
+If you are coming from Rolent, it's at the end of the path towards Gurune Gate.
+
+=-----=
+''Boss: Vanguard x3 and Volgel EX 911 x3''
+
+Yes, you have fought them at one point. The only thing you have to watch out for is the Gorgon Laser
+from Volgel EX and Vanguard's devastating self-destruct. Be sure to use Joshua's True Black Fang
+to deal with Volgel EX. Other than that, you should manage just fine with the usual tactics.
+You should get [[Petrify 2]] as an item drop.
+=-=
++
+%
+====Milch Main Road Monster: Redux====
+
+*[[Liberl: Rolent Region]]
+**Mira: 5000
+**BP: 5
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+The location of this boss is at the northeastern corner of area 2 in Milch Main Road.
+=-----=
+''Boss: Devil Spear x3''
+
+Devil Spear's regular attack inflicts poison. Also, it has Grand Submariner which deals damage to
+all of your allies regardless of range. Finally, it uses Death Press to inflict instant death against
+you. If that was not enough, it'll be accompanied with a bunch of Mars Sparrows. First, take out
+the weak enemies by using Joshua's True Black Fang. Next, use Chain Crafts and S-Craft to deal
+damage against the Devil Spears. Personally, I would not worry about instant death in this battle
+because it's a special move, not a regular attack. If you defeat the Devil Spears, you'll get
+[[Confuse 2]].
+=-=
+
+====Save the Miners====
+*[[Liberl: Rolent Region]]
+**Mira: 10000
+**BP: 8
+**Timeframe: Long
+**Expires: After initiating the main sidequest "Danger in the Capital"
+
+''HIDDEN SIDEQUEST''
+
+
+As soon you relinquish one of your ZFGs to Aina, head over to Malga Mine to start the sidequest.
+Talk to Landan at the elevator at the end of the path. You'll fight a bunch of Killer Crabs on
+the bottom Floor. Like the first game, you will need to rescue five people inside the mine.
+
+On the second floor, head south past the mine cart rail. You should end up at the intersection
+that splits into three paths. Head east, and you'll find two miners: Heinrich and Pierre. Back
+at the intersection, head west and you'll find Miner Bones. Finally, go south at the intersection
+and you'll find Miner Chief Gaton. Once you defeated the Killer Crabs, it's time to go back
+to the starting point and move northwest. You'll find the monster nest as well as the next boss.
+
+=-----=
+''Boss: Armored Hydra''
+
+The Armored Hydra will do several attacks. One, it'll use Stone Toss to deal heavy earth damage
+to allies within range. Next, Armored Hydra will use Grand Flash to blind your allies. Finally,
+it'll use Earth Shaker to deal earth damage to allies. Be careful when the Armored Hydra's health
+is below 66%, it'll begin to turn blue. During that phase, the Armored Hydra will knock away
+HP as well as EP and CP for each successive attack. Watch out for Killer Crabs because they
+can summon reinforcements at any moment.
+
+This battle could be tough considering you only have one ZFG in your possession. Whoever holds
+the ZFG have to be the healer of the group. Anyway, you may have to be very aggressive in this
+battle. Use Joshua's True Black Fang to destroy the killer crabs. Next, use S-Crafts such as
+Beat Down 2, True Barrage, or True Aural Blast to deal damage against the Armored Hydra. Also,
+use Chain-Crafts to deal big damage. The whole point of this battle is to deal significant
+damage at a timely matter because the longer you stall the battle, you might exhaust your
+resources. Once you defeat the Armored Hydra, it'll drop [[Topaz Gem]] at the end of the battle.
+=-=
+
+After you report your investigation findings to Aina, attend the wedding at Rolent Chapel.
+After that, don't forget to talk to Serra at Abend bar on the first floor. She'll give you [[Gambler Jack - Vol. 11]]
+%
+
+
++
++
++
++

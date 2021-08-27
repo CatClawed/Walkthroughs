@@ -1,0 +1,874 @@
+EMBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBMMBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+Gq        .ri::           L2        iu:7BBBU        Z;            .:         qB
+BS       i7.  iYPv        ;7       iBB. YSPBM,      B           7qB8i        SB
+Mq     iB7      ,BB7      Mq      2Bq       GB8     B,       .:r;uBBBB0      qB
+BX    ,B:         7B      OM     .BG         BB     Bi      BM     ,BBBB,    XB
+BM    01           7      B1     8B:         SB     B:     kB:       BBBB    MB
+BM    PU          JB7     GL     OBi         XB:    BU     BB:        BBB.   MB
+BX     B0,       .BBi     Gj     ,BBi       rBB2    Bv     BBM        BBB:   XB
+B7      1BBMU,  :BBZ      Br      iBBBGYu:,BBBB:    ON     iBBB:    :MBBB.   7B
+BU        .ir..BBB8       Pk        iXBBBr iiB0     GO      rBBBBBBBY ZB     UB
+BL              Bq        BO                 .,     Mv       .0BBBS   2,     LB
+B2             :S         BG     7,          BU     BJ              .BB.     2B
+BN            :G          PB     BBj        qB.     Bi             FBB:      NB
+B7           rB           0N      BB8.     NBB      BY          ,FBBr        7B
+B.          PB.           Bu       rBBBP5qBBX       SG        :r7:           .B
+ZOBBBBBBB8BBBGjOE0MBqZkNSFBBkNZBBB5Y5MBBMBBBF0BBBB5kBBqBMMBBBMkk1EZOOZMBGBBBBOB
+         _     _  _            _  _  _  _  _      _         _  _  _  _  _
+     |_|| || ||_||_           |_||_ |_||_ | ||\ ||_        | \| || ||_||_
+     | ||_||_|| \ _|          |  |_ | \ _||_|| \| _|       |_/|_||_|| \ _|
+
+
+—————————————————————————————————————————————
+    Nine Hours, Nine Persons, Nine Doors        Latest Update: GameFAQs.com
+             FAQ/Walkthrough                                   Neoseeker.com
+   Copyright 2013 Chloe B./Drache the Dork
+—————————————————————————————————————————————
+
+
+ASCII made with help from ASCGEN.NET. Pretty neat program.
+
+
+Contact
+————————————
+Email:        drachenmeister13 at gmail dot com     (poor response rate)
+GameFAQs PM:  Drache_the_Dork                       (underscores are important!)
+Twitter:      @drachenmeister
+
+The reality of email is that I don't respond to it often. I advise against
+asking me questions, as chances are I'll see them a week later or so and I will
+assume you either figured it out or moved on by that point.
+
+Feel free to leave a note if you want me to respond no matter how late I get
+to it. This does not guarantee response, but it makes it MUCH more likely.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                               Table of Contents
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+No spoilers.
+                 The Hexadecimal Tip. . . . . . . . . [HEXAD]
+
+                 Ending Routes. . . . . . . . . . . . [999ED]
+
+                 Gonna Drown! . . . . . . . . . . . . [PUZZ0]
+
+                 Door 4 . . . . . . . . . . . . . . . [PUZZ1]
+                 Door 5 . . . . . . . . . . . . . . . [PUZZ2]
+
+                 Door 3 . . . . . . . . . . . . . . . [PUZZ3]
+                 Door 7 . . . . . . . . . . . . . . . [PUZZ4]
+                 Door 8 . . . . . . . . . . . . . . . [PUZZ5]
+
+                 Door 1 . . . . . . . . . . . . . . . [PUZZ6]
+                 Door 2 . . . . . . . . . . . . . . . [PUZZ7]
+                 Door 6 . . . . . . . . . . . . . . . [PUZZ8]
+
+                 Door 9 . . . . . . . . . . . . . . . [PUZZ9]
+
+                 Contact/Legal. . . . . . . . . . . . [LEGAL]
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                              The Hexadecimal Tip                      [HEXAD]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You think this tip is going to be something big? It isn't. There is one major
+thing that you need beaten in your head if you want to solve the puzzles in the
+game.
+
+When in doubt, use hexadecimal!
+
+You will often see a string of letters that you have to convert into numbers...
+and sometimes some numbers you need to convert into letters.
+
+So, for your convenience, here's a list of letters and their decimal values.
+
+A | 10         N | 23
+B | 11         O | 24
+C | 12         P | 25
+D | 13         Q | 26
+E | 14         R | 27
+F | 15         S | 28
+G | 16         T | 29
+H | 17         U | 30
+I | 18         V | 31
+J | 19         W | 32
+K | 20         X | 33
+L | 21         Y | 34
+M | 22         Z | 35
+
+If you still can't solve your puzzle, then there's obviously a solution further
+in the guide. :)
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                 Ending Routes                         [999ED]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Again, this section is spoiler free, but provides plenty of explanation about
+getting the ends. I suggest reading about the end you want.
+
+The end numbers refer to those squares you see across the screen before
+continuing.
+
+
+  Recommended Order of Ends
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   1. Axe
+   2. Knife
+   3. Submarine
+   4. Safe
+   5. True
+
+• Don't bother with Coffin. Ever. It's a major troll. Look at End 2 for more
+  info.
+
+• The order of the first three really doesn't matter. All that matters is that
+  Safe is before True. I feel you get the most out of the game if you do Safe
+  and True after you do the other three.
+
+• If you're not interested in completion, but you want the best experience,
+  then simply get the Submarine, Safe, and True ends.
+
+  You'll learn everything there is to know this way, except the results of the
+  Knife/Axe ends. Ignoring the Submarine end will result in slightly less
+  character knowledge, but you will be able to understand the plot completely.
+
+• Questions in the Axe end are answered in the True end. And in the Safe end.
+
+• Questions in the Knife and Submarine ends are answered in the Safe end.
+
+
+
+  True (End 1)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 4, 7, 1
+
+Prerequisites: Safe end (Otherwise, you get Coffin)
+
+               Door 4: Take the bookmark from Santa.
+
+                       In the Freezer, wonder why dry ice doesn't melt.
+                       Eventually the conversation will turn to Ice-9.
+
+               Door 7: When Seven mentions EDT, mention Ice-9 to him.
+
+                       Give Clover the bookmark.
+
+               Door 1: In the first room, hit the Zero monitors for a
+                       conversation about the captain.
+
+         Note: Failure results in the Axe end.
+
+
+  Coffin (End 2)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 4, 7, 1
+
+Prerequisites: See End 1.
+
+               Failure results in the Axe end.
+
+         Note: Getting the True end counts as both Coffin and True. The Coffin
+               End just cuts you off early without resolution.
+
+               Thus, don't even think about getting this end. Waste of time.
+
+
+  Axe (End 3)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 4, 8, 1
+               5, 7, 1
+               5, 8, 1
+
+         Note: You CAN use 4, 7, 1 to get this end by answering incorrectly at
+               a few points. But it's more convenient to use the above doors.
+
+               It's also worth seeing for laughs, surprisingly.
+
+
+  Safe (End 4)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 5, 8, 6
+
+         Note: Required to unlock True end. Otherwise, you get Coffin.
+
+
+  Knife (End 5)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 4, 7, 6
+               4, 8, 6
+               5, 7, 6
+
+         Note: If there is an end to skip, it's this one.
+
+
+  Submarine (End 6)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Doors: 4, 3, 2
+               4, 7, 2
+               4, 8, 2
+               5, 3, 2
+               5, 7, 2
+               5, 8, 2
+
+         Note: Door 3 locks you into the Submarine End. As such, you should
+               take it for this end, though you don't *have* to.
+
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                 Gonna Drown!                          [PUZZ0]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(You can skip straight to the keys and briefcases if you want. You don't have
+to get everything in the room.)
+
+Click the sink and pull the note off the top of the board over it. It has four
+trianagles, two red, two blue. Go ahead and pick up the picture below it.
+
+Hit the down arrow, then head to the right to get to the kettle. Open it up for
+a blue key. Now open the stove below it. You'll get a screwdriver. Combine with
+the picture you got.
+
+Back out till you can see the door. Check the bottom bunk, then under the
+pillow. You'll get another note.
+
+Back to facing the door. Hit the grey door to the left. You'll get a red key.
+You'll get a scene about Junpei's reflection.
+
+Comparing the notes to the back of the picture gives you the solution to the
+briefcase locks. Red triangles for the red case, blue for the blue case. So
+the solution is cut in half across two notes, and you just have to combine.
+
+Now back to the beds and click the briefcase. Open it with the Blue key. Enter
+0263. You'll be given keycards with 6, 7, and 8 on them, and you'll be told
+about digital roots.
+
+Hit the wall above the kettle to find a red briefcase. Enter red key and input
+7485. You'll have red keycards with 1, 2, and 3.
+
+Time to get to the door. Try both sets of keys, then enter 6, 7, and 1.
+Freedom...?
+
+Nah.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 4                             [PUZZ1]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Turn to the room and grab the matches off the table. You'll speak with June for
+a bit. Enter the door you see there, and hit the picture on the wall. Map and
+map menu get.
+
+I suggest playing along with June. Her conversation is... interesting.
+
+After the mummy conversation, turn around and open the dresser for a key. Then
+leave.
+
+Go over to Lotus' room. Note the abstract art. Grab the candle off the table.
+Combine with matches and enter the open room. Use the dresser key to open the
+other dresser and get the plate. Then go to the bed and grab the curtain.
+Eventually, the candle will burn out. Check it out for the candlestick key. Use
+it to open the display case. Claim plate.
+
+True end: Eventually, Santa will offer you a bookmark. Taking it is required
+¯¯¯¯¯¯¯¯  for the True end.
+
+          Remember, dialog options are important for this end.
+
+Down the corridor and into the the other room there. Take the curtain and hang
+it up. Now to the bathroom in the other room. Hit the tile the hole in the
+other bathroom showed. You have the last plate. Exit, and look at the picture
+before leaving to the other picture frame. You'll have to match the picture.
+
+After, you'll get a key out and a conversation.
+
+
+  Kitchen
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Thought you were done? Hah. Click the square plate for a reference. :P
+
+Behind the serving table, you'll find a sink. Next to it is a whetstone. Go
+left from there and enter the door. Remove the cloth and open the box for a
+knife. Combine with whetstone. Go for all the wheels. Cut the--
+
+You know where that one's going. Kidding aside, move the central cheese to get
+cooking oil. Take it to the bolted door and loosen it up. Freezer is open. As
+soon as you enter, you get trapped. Open the large door for frozen chicken and
+dry ice.
+
+True end: When you pick up the dry ice, say you want to know about why it
+¯¯¯¯¯¯¯¯  doesn't melt (even if you know). Ice-9 is very important for the true
+          end. Show interest.
+
+Hit the shelves to get some pork. Then check the floor for rope and a water
+bottle. Now turn to the door. Combine dry ice and chicken, then crushed dry ice
+and water bottle. Combine bottle and rope. Bottle in tow, tap the door. Escape.
+
+To the grill, meat in tow. Then cut the meat with that knife. The paper gives
+you a clue to open the lock. Enter 43. Claim the Saturn key card and use it
+to exit.
+
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 5                             [PUZZ2]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Look under the pillow of the bed. It's a music sheet with A notes. You'll learn
+a bit about Snake afterward. In the same room, look above the piano to find a
+map of the ship, which allows access to the map screen.
+
+Face the doors. Open the right one, then the cabinet. You'll get another score
+plate.
+
+Open the left door. Then open the far door to get to another room. Turn around
+till you find a vase. Face where you came from and enter the right door. Then
+enter the closer one. You'll be in a bathroom. Fill the vase with water and
+unplug the drain for a score plate. Go back to the fire and put it out for
+another one.
+
+Open the left door in there. Open the cabinet and get the score plate. Return
+to the piano.
+
+Hit the keys in this order:
+3, 4, 5, 6
+3, 5, 4, 3
+4, 3, 5, 6
+6, 5, 4, 3
+
+Recognize the tune? You should.
+
+
+  Let's Gamble!
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+After exiting, you get stuck in another room. Check the table in front of you
+to find a 5 card. Then hit the bar, and look at the counter for the 7 card.
+Below the glasses is the 4 card.
+
+Back out and face the fireplace. On the mantle is the 6 card. Turn on both the
+lights to see a Club, Diamond, and Heart. Look below the the mantle to see
+a coin bag.
+
+To the slots! Enter a coin in the to the middle and hit the buttons in this
+order: Club, diamond, then heart. You get a Venus key and a 2 card.
+
+Now look around for the baccarat table for the 3 card. Seven will mention
+something blue mounted in the table. He'll explain the rules of the game when
+you hit it. Another 9 game. Hmm. Play the game, and insert cards 2, 3, and 4.
+Claim your 8 card as a prize.
+
+Head towards the white thing on the wall (near the slots). Insert 8 into the
+slot. Put your remaining cards into the new slots that open. Leave.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 3                             [PUZZ3]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+To the right. Search the junk up high for luminol and toilet paper. Look in the
+tank of the middle stall for a screwdriver. The first stall has a bucket and a
+broom. The third stall's tank has a red key card. Turn to the right, then hit
+the small thermometer. Screwdriver time.
+
+Turn to the showers and turn 'em on. You'll open the thermometer for a piece of
+paper. Then fill the bucket. Go to LLR and spray the luminol. You'll see LLR,
+then LRL after turning off the lights. Back to the shower. Open the small door
+and arrange the valves like that. Then turn left and open the drain to claim
+Mercury key card.
+
+Combine broom and toilet paper. Open the middle toilet's tank and use the hot
+water to flush.
+
+From all the clues you found:
+
+957 + 634 + 185 = 1776
+
+To the door. Enter key cards, then the number. Exit.
+
+Door 2 for you!
+
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 7                             [PUZZ4]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The doll... has a name. So does the other under the nearby cloth. John and
+Lucy. Heh. Next to Lucy is a table with forceps on it. Head right from there.
+On the table is a fake chest. To the left of the original doll is a mannequin
+that you can take the lung out of with the forcepts. Go to the table and get
+the scalpel. Combine with the lung. You get an organ key.
+
+Go to the right behind the curtains and open the door. On the table is a note,
+red liquid, and blue liquid. The note is concerned with the number of atoms in
+each compound. The missing ones are the combination.
+
+Enter 349 in the safe to get your right arm and heart.
+
+True End: Seven will talk about EDT upon leaving. Mention Ice-9 to him and
+¯¯¯¯¯¯¯¯  he'll mention All-ice.
+
+          You'll get part of the conversation if you took Door 5. However, it
+          has nothing to do with the True end.
+
+Now go to the left behind the curtains and use the key. In the room, open the
+drawer for medical notes. Then check out the table. Turn on the light and pour
+the red liquid. Back out, look to the right, and open the red door for a leg.
+Do this again for blue, then purple for the other leg and a stomach.
+
+Back to Lucy. Exchanging time. John is 51.3, Lucy is 53.2. Swap everything but
+the hearts. Then to John. You get the Jupiter key.
+
+True End: Upon trying to open the door. Clover will vanish. Give her the
+¯¯¯¯¯¯¯¯  bookmark you got from Santa.
+
+          Again, the Door 5 route has a similar scene, but you lack the
+          uber important bookmark. :P
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 8                             [PUZZ5]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Aaand Clover is sealed. To the left of the doors is a machine. Searching to the
+right gets you a Power Cable. Take it to the regular computer monitor. Now look
+out to where Clover is. Hit the object near the mannequin for a conversation
+about the power cable.
+
+To the bars to get the 2-Prong Plug. Combine plugs, and take to the monitor.
+After a scene, you'll come to a puzzle. Hit it like so:
+
++---+---+---+
+| 3 |   | 2 |
++---+---+---+
+|   | 1 |   |
++---+---+---+
+|   |   | 4 |
++---+---+---+
+
+(The hint comes from giving alcohol in the lockers to Clover after looking at
+a table in her area.)
+
+To the previously locked lockers. Get the Activation Key. To the machines.
+
+New monitor to play with. It'll bring power to the area below. Click the
+machine at the top of the screen a couple times to put a head on fire. Door's
+open. :D
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 1                             [PUZZ6]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+In the desk is a stack of nautical charts. Turn to the map on the wall for a
+new file. Then tap the books for more files. Open the desk for a watch.
+
+Ace will pop in now. You'll get a conversation with Clover for shooing him,
+true end only. S + S is the only combination shown that adds up.
+
+Through the door now. Then turn to the second steering wheel in the room (hit
+the compass first). Go South, West, Southwest, Northwest, East, North. The
+handle will pop off. Use that handle on the device to the left.
+
+Full, Half, Slow, Full, Half, Dead, Stop.
+
+Go up to the display with the watch and it'll tell you 10 seconds past 3
+o'clock. With it moved, go through the door that was locked.
+
+
+  Captain's Quarters
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Hit the music box on the nightstand. Hit the stuff on the desk now. Open the
+drawer for a new file. Zero will show up in the screens.
+
+True End: After hitting the screens, you should have a unique conversation with
+¯¯¯¯¯¯¯¯  Clover about the captain.
+
+          Otherwise, you're on your way to an another end.
+
+Now to the other room.
+
+On the desk in front of you are screwdrivers. Combine with music box to get a
+cylinder. Open the drawer to get ink. Then turn to the desk. Open what you can
+for paper. Combine ink and cylinder, then cylinder and paper. The game is kind
+enough to leave it up on the screen for you to copy, so head to the little
+telegraph key and enter the pattern.
+
+Open the drawer for ALLICE, the Uranus key card, and a unique key. To the lock!
+Insert key, then enter 35, 14, 27, 24 (which is Zero, converted from
+hexadecimal... A = 10, B = 11, etc.).
+
+You'll get different text for the ALLICE book on the True end path, but this is
+not required for the end itself.
+
+Oh, and the answers you need on a particular path:
+
+right left right left right left
+
+Se + J + C
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 2                             [PUZZ7]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Might as well start with the door right in front of you. Pull the handle next
+to the toilet. It'll fall off. Tap the toilet paper and then the holder, and
+combine that with the handle to make a screwdriver. Then to the desk. There are
+screws on top. You'll yank out the whole thing.
+
+In the second room, you'll find a towel on the bed. Turn to the desk and take
+out the drawer. Then replace with the other one from the first door. New tile.
+Combine screwdriver and drawer. Take the knob to the sink. To the first door to
+claim the tile. Door number three is dark.
+
+Keep tapping the mirror and you'll be allowed to reflect light around. You'll
+see 4 and 7, then sun and moon, the toilet symbols. Go to door 2 and flush 7
+times. Flush door 1's toilet 4 times. Back to door 3 and open the drawer. Get
+the tiles.
+
+Door 4 has Emergence written on it. The third toilet has the hint E=14 on it,
+which is a conversion from hexadecimal. The tiles have 14 written on them.
+Replace the E's in "emergence" with tiles and you're done.
+
+
+  Torture
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+On the green thing next to the chair, a puzzle will pop up. Hit the bottom
+right, top left, then bottom left buttons.
+
+After that, the dirty cloth has a wrench on top. Below the catwalk is something
+circular (a covered up hole, if you will). Use the wrench on it. You get the
+Sun key.
+
+Pulling the right lever on the machine will make the EDBF appear below the chair
+on a dead shark. You know what buttons to hit. Now use the sun key to
+unlock the chair's restraints.
+
+On one side of the head, you need both 2's on. On the other, 1's should be on.
+I forgot to keep track of which side, but that'll get you through. :P
+
+And out.
+
+Anyone else think of a Beatles song?
+
+As a side note, this is the only door which has a guaranteed end.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 6                             [PUZZ8]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You'll start facing something with a small door. It'll have a slot for you to
+put something in. Anyway, turn till you see a ladder-looking thing (stairs,
+actually). Hit them to go up. You'll come to four sliders. Keep going up to
+find a wheel with A over it and go through it. From there, go through B.
+
+Turn the wheel you see there. Now go back through the door and go through C.
+You can operate that winch with the wheel you just got. It's below you now. You
+should get a bit of text about June and Rats. Back through the C and A doors.
+
+Next to the initial machine is the box you want. Take the control panel inside
+to the small door. Perfect fit. Conveyor belt moves. Take the box of coal now.
+Look down the really blank looking hallway and hit the circles on the wall.
+You'll put the coal in there. Head up to the four sliders to ignite the coal.
+
+You have to check out three gears to get discs. Then go to the thing that
+operates the lock on the door. The gold disc goes in the bottom left, the
+bronze disc in the bottom right, and the silver disc at the top. Then align the
+red lines to open the door.
+
+
+  Cargo Room
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Of course, you get launched into a new puzzle. Hit the boxes right in front of
+you and claim the contents of the bag. 9th man, huh? Open the other bag you can
+see for a Santa card. To the left are the Clover and Snake cards. Open the box
+for Ace. Turn to the other part of the room for Seven. Hit the blue boxes to
+get Lotus. Now hit the big crates for Junpei and June.
+
+Back to the blue numbered boxes. After a bit of reading, Junpei will open them.
+You get numbered Pins. To the top of the stairs. Insert pins into the machine
+in the following order:
+
+712   713   914   913
+345   854   862   456
+
+The shutter opens to reveal... F. A magic square, and you want 15 (convert F
+from hexadecimal to get 15). Insert more pins in this order:
+
+8 1 6
+3 5 7
+4 9 2
+
+So up, down, and diagonal combos all equal 15. :)
+
+You unlock a block puzzle!
+
+           #### - Blocks you don't have to worry about.
+
+Lettered Blocks - Push the blocks in the center to the corresponding slots on
+                  the right.
+
+        Push Me - Self explanatory. Follow the numbers and you can't go wrong.
+
+
++-----+-----+-----+-----+-----+
+|#####|     |     |     |#####|  Push: Up, right, up, right, right, down,
+|#####|  3  |  4  |  5  |#####|        right, down, down, down, left, left, up,
++-----+-----+-----+-----+-----+        right, down, right, up
+|     | AA  |     | DD  | AA  |
+|  1  |  2  |     |  6  |  7  |
++-----+-----+-----+-----+-----+  Desired results shown below. Block 2 should be
+|PUSH |     |#####|     | BB  |  in place.
+| ME  |     |#####|     |  8  |
++-----+-----+-----+-----+-----+
+|     | CC  |     | BB  | CC  |
+|     |     |  13 |  14 | 9/17|
++-----+-----+-----+-----+-----+
+|#####|     |     |     | DD  |
+|#####|     |  12 |11/15|10/16|
++-----+-----+-----+-----+-----+
+
++-----+-----+-----+-----+-----+
+|#####|     |     |     |#####|  Push: Down, left, left, left, up, left, up,
+|#####|     |     |     |#####|        up, right, right, right.
++-----+-----+-----+-----+-----+
+|     |     | AA  |     | AA  |
+|  8  |  9  |  10 |  11 |     |
++-----+-----+-----+-----+-----+  Block A should be over AA now. Push me to the
+|     |     |#####| DD  | BB  |       left of AA.
+| 7   |     |#####|     | BB  |
++-----+-----+-----+-----+-----+
+|     | CC  |     |     |PUSH |
+| 6   |  5  |     |     | ME  |
++-----+-----+-----+-----+-----+
+|#####|     |     |     | DD  |
+|#####|  4  | 3   |  2  |  1  |
++-----+-----+-----+-----+-----+
+
++-----+-----+-----+-----+-----+
+|#####|     |     |     |#####|  Push: Down, down, left, down, right
+|#####|     |     |     |#####|
++-----+-----+-----+-----+-----+
+|     |     |     |PUSH | AA  |  Block D should be in place.
+|     |     |     | ME  | AA  |
++-----+-----+-----+-----+-----+
+|     | CC  |#####| DD  | BB  |
+|     |     |#####|  1  | BB  |
++-----+-----+-----+-----+-----+
+|     |     |     |     | CC  |
+|     |     |  3  |  2  |     |
++-----+-----+-----+-----+-----+
+|#####|     |     |     | DD  |
+|#####|     |  4  |  5  |     |
++-----+-----+-----+-----+-----+
+
++-----+-----+-----+-----+-----+
+|#####|     |     |     |#####|  Push: Up, Up, up, left, left, Down, left,
+|#####|     |     |     |#####|        down, right, right, right.
++-----+-----+-----+-----+-----+
+|     |     |     |     | AA  |  Block C should fill the final slot. Congrats.
+|     |  5  |  4  |  3  | AA  |
++-----+-----+-----+-----+-----+
+|     | CC  |#####|     | BB  |
+|  7  |  6  |#####|  2  | BB  |
++-----+-----+-----+-----+-----+
+|     |     |     |  1  | CC  |
+|  8  |  9  |  10 |  11 |     |
++-----+-----+-----+-----+-----+
+|#####|     |     |PUSH | DD  |
+|#####|     |     | ME  | DD  |
++-----+-----+-----+-----+-----+
+
+Many thanks to a Japanese wiki for helping me draw this.
+
+
+With that done, approach the fence below, hop on the crates and take a look at
+the Coffin. Rusty key and... see for yourself. Not a body. Take the key to the
+door upstairs and open.
+
+The sinister hand is the left one. You'll understand if you're on the right
+path.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Door 9                             [PUZZ9]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+I hope you like books.
+
+Go ahead and click the note on the table in front of you. Then hit the lower
+right part of the books.
+
+OPEN
+HERE
+FIND
+BULB
+
+Then hit the wall next to it and find... bulb. Turn right, and hit the lower
+right part again for a book. Search it for a pop up book. Facing the iron door,
+hit the right side, then the middle. Search the book for a new pop-up. From the
+table, head left. Search the books at the upper left section for a bulb.
+
+Downstairs. From the yellow... pit, turn right twice and tap the left side of
+the books. Search the bottom right for a new book, then search the book for a
+new pop up book. Facing the yellow again, hit the blank part of the wall to the
+left. Enter 632415 on the lock. At the bottom of the shelves is a bulb.
+
+Back to the pit. You'll put the bulbs in first, then the books. After the
+bombshell, head right twice from the pit and hit the books. Bottom right is
+Shelldrake, go for the fifth and watch things move.
+
+Upstairs and to the middle of the new doors. The numerals are as follows:
+XIII, XIV, X, XIII. Convert to the hexadecimal equivalents (A = 10, B = 11,
+etc.) to get DEAD. Enter it and open the right door.
+
+
+  Study
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Grab the yellow paper for a new file. Turn left and tap the machine. Clover
+will give you a piece of paper. Enter like so:
+
++---+---+---+
+| 2 |   |   |
++---+---+---+
+|   | 1 | 3 |
++---+---+---+
+|   |   |   |
++---+---+---+
+
+
+Get the Cross Emblem from the right side of the machine. This machine is very
+similar looking to the morse code machine, so don't confuse the two. Left
+twice, open the double doors for a new file. Right once, and go to the machine
+on the left. The puzzle should be familiar to you, and you have the map needed.
+Claim the Helm Emblem from the machine.
+
+Then hit the machine in the middle. Enter ice (the coffin is the hint, btw):
+
+••
+-•-•
+•
+
+Get the Code Emblem and back out. Go for the shutter at the back of the screen,
+open the coffin for the Neptune Key and the Coffin Emblem. Now hit the trio of
+monitors to the right (you can see the back of them).
+
+First, with the Helm Emblem:         Second, with the Cross Emblem:
+
+    6           3                        1           7
+ -------     -------                  -------     -------
+| 1 4 5 |   | 2 3 7 |                | 2 3 5 |   | 4 6 7 |
+|  6 8  |   |       |                |       |   |  8    |
+ -------     -------                  -------     -------
+
+
+Third, with the Code Emblem:         Fourth, with the Coffin Emblem:
+
+    7           7                        8           9
+ -------     -------                  -------     -------
+| 2 6 8 |   | 4 5 7 |                | 2 4 5 |   |       |
+|       |   |       |                |  7 8  |   |       |
+ -------     -------                  -------     -------
+
+
+Under the keyboard for the captain's identity... among other things. Key card,
+let's go to Neptune!
+
+
+  Sudoku
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Shoulda known. Sudoku is the ultimate 9 puzzle. And what the hell? Upside down?
+
+Anyway. I made it extra spacey so you could read the solution easier. Wish I
+could do colors. It's an easy puzzle.
+
+For those who don't know the rules:
+
+   1. All columns must have the numbers 1 through 9.
+   2. Same with rows.
+   3. Same with each 3x3 square.
+   4. No number may be repeated in any row, column, or square.
+
++---+---+---+   +---+---+---+   +---+---+---+
+| 4 | 3 | 1 |   | 8 | 7 | 2 |   | 5 | 6 | 9 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 5 | 8 | 7 |   | 6 | 4 | 9 |   | 2 | 1 | 3 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 6 | 2 | 9 |   | 3 | 5 | 1 |   | 8 | 7 | 4 |
++---+---+---+   +---+---+---+   +---+---+---+
+
++---+---+---+   +---+---+---+   +---+---+---+
+| 2 | 4 | 5 |   | 9 | 6 | 8 |   | 7 | 3 | 1 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 1 | 6 | 8 |   | 7 | 2 | 3 |   | 4 | 9 | 5 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 9 | 7 | 3 |   | 4 | 1 | 5 |   | 6 | 2 | 8 |
++---+---+---+   +---+---+---+   +---+---+---+
+
++---+---+---+   +---+---+---+   +---+---+---+
+| 3 | 9 | 4 |   | 2 | 8 | 6 |   | 1 | 5 | 7 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 7 | 1 | 6 |   | 5 | 9 | 4 |   | 3 | 8 | 2 |
++---+---+---+   +---+---+---+   +---+---+---+
+| 8 | 5 | 2 |   | 1 | 3 | 7 |   | 9 | 4 | 6 |
++---+---+---+   +---+---+---+   +---+---+---+
+
+END. For really real.
+
+You're going to enjoy the the last moment. I promise. Good luck figuring out
+why THAT popped up. Among other mysteries.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    Legal                              [LEGAL]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+drachenmeister13 at gmail dot com
+
+Email is only if you create an account for me on your website or have some
+special thing you want to ask about.
+
+If you are a webmaster that wishes to host my guide, you can under the
+following conditions:
+
+ * The guide is free to view
+ * The guide is unaltered
+ * Credit is given to me, Drache the Dork. (*)
+
+I reserve the right to revoke permission to host my guide at any time.
+
+Sites forever denied permission:
+  * scribd.com
+  * CheatCC.com (Super scummy site. Do not support.)
+  * cheatsguru.com
+
+If you display signs that you are reading this, I love you.
+
+----
+
+(*) I have gone under the following usernames in the past:
+    - drachemeister
+    - ridalnae_drache
+
+    Either username is an acceptable form of giving me credit. I prefer my new
+    username going forward, however.

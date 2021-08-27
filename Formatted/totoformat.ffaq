@@ -1,0 +1,6784 @@
+;format:gf-markup
+
+=-----=
+This guide covers both versions of the game.
+
+The Vita version isn't drastically different, but it has some tweaks to watch out for and a bonus dungeon full of harder bosses.
+=-=
+
+* Atelier Totori: The Adventurer of Arland
+* FAQ/Walkthrough
+* Copyright 2013
+* Chloe B. / Drache the Dork
+* Version 2.0 ~ Added Vita content, among other things.
++
+* ''Contact''
+** Email: drachenmeister13 at gmail dot com
+** GameFAQs PM: Drache_the_Dork (must have underscores)
+** Twitter: @drachenmeister
+
+The reality of email is that I don't respond to it often. I advise against asking me questions, as chances are I'll see them a week later or so and I will assume you either figured it out or moved on by that point.
+
+Feel free to leave a note if you want me to respond no matter how late I get to it. This does not guarantee response, but it makes it MUCH more likely.
+
+==Gameplay==
+
+===Synthesis===
+
+Throughout the game, you'll acquire many recipes to make items. Some are in chests, some come from Rorona and events, and others you'll buy.
+
+Usable Items have Effects. This can be [[Fire]] S on a Bomb, or [[Spring Liquid]] + on a Spring Cup, or something else entirely. When you go to make Usable Items, you'll notice that there's a bar below the ingredients. This bar will have marks indicating where the next effect will pop up. It's all controlled by the quality and/or rarity of your chosen ingredients.
+
+For instance, for liquids, Water generally won't do much, but Forest Dew might get you the highest effect. Higher on the bar isn't necessarily a better Effect, especially in the case of an Elixir.
+
+You can also have five Traits on any items you synth. All Traits have a price to put them on your item, ranging from 0 to 10. Items have Cost Level, which are the points you use up to put Traits on items.
+
+Cost Level available to you changes based on the average value of the ingredients used. For instance, Water has 1 Cost Level associated with it, and Forest Dew has 9. The item will have 5 Cost Level to buy traits with.
+
+Averages are added across types of items called for. So if you're making Pure Oil, you'll always have 9 Cost Level, which is the addition of Distill Stone (always 2) and Coco Fruit (always 7). The Pure Oil when used in synthesis itself will have 9 Cost Level associated with it because the Target Level (the alchemy level recommended for synthesis) is 9.
+
+Not all items can have all Traits. For instance, an Ingot, used to make weapons, can't have defense increasing traits. Even a Supplement can't have some traits, like Surging Power from a Seahorse.
+
+Your alchemy level should be around the level of the item so that you don't end up failing all the time. Every once in a while, it's a good idea to synth above your level. So just save; there's a chance, however slim, that it'll come out correctly. However, watch what Totori says -- it seriously is impossible sometimes. Some traits, like Simple and Judgment, will increase your success odds (even when it's impossible). Others will decrease them -- sometimes with nice rewards attached, like 3 more uses.
+
+===Battle===
+
+The battle system is simple turn based. It isn't as simple as Atelier Rorona where bomb tossing will win the game, but bomb tossing is still very effective. Still, the non-item throwers (and buffs) have more of a use in this game. Thus, it's important to make sure they have good accessories. Very late in the game, you'll get one that lets them move twice... at the cost of HP taken each turn, but there are workarounds for that.
+
+It's a good idea in boss fights to not use your assists to attack. Instead, save it for defending your wimpy Totori.
+
+If a character doesn't learn skills through leveling, they learn it through their events. Specials appear at level 30, and the narrow bar (under your assist bar) associated with them gradually goes up as you hit enemies.
+
+So let's talk about character quirks.
+
+* Totori and Rorona are your item tossers. Use them well. But they also fail in ATK, HP, and DEF. If not for items, they'd be bottom tier.
+* Marc has good DEF and HP, but doesn't otherwise stand out.
+* Mimi has high SPD, but she's otherwise very average. Her events will likely keep her in your party though. Her special assist comes in every time Totori lands a critical hit, and that is somewhat useful.
+* Gino is like Mimi, but with less SPD, more DEF and ATK. In other words, middling. His events will largely keep him out of the party.
+* Mel and Sterk are pretty similar characters; high ATK and HP. You can't go wrong with either of them in your party. Personally, I like Sterk's skills better.
+
+==How to Beat a Boss==
+
+For the PS3 version, all you really need is a good N/A and Elixir, as well as good equipment. No joke.
+
+For the Vita verison, prepare to overprepare. You need a good Himmelstern, possibly two different Elixirs, the best equipment, a Dark Water, and Totori Brunch, in addition to the best equipment you can make.
+
+Click to skip to equipment: [[Equipment Synthesis]]
+
+===Useful Items===
+
+''Traits for most Usable items''
+=-----=
+* Effect Boost L (150% max boost -- you won't get quite this high)
+* Rank Boost L (75% max boost)
+* Loner Slayer L (60% max boost) / Swarm Slayer L (45% boost for three targets)
+* Beginners OK / For Masters (for quality; better than Quality L)
+* Satisfying L (50% critical) / Final Strike + (50% boost)
+* Pro Favorite (+3 uses, mainly for Rorona) / Usage +2
+* Boost Effect L (30% boost)
+
+This list is in order of priority.
+
+The must haves are always Effect Boost and Rank Boost. They're worth HUGE bonuses. Secondly, you MUST have 101+ quality, so in goes a quality trait.
+
+Satisfying will work quite well in place of a theoretically better trait (such as Final Strike +). If you REALLY want to use Final Strike over it, you're probably getting a small reduction in average damage, but for more consistency Just pick what you can get; things will die for you either way.
+
+Beginners OK is actually BETTER than Quality L. This is because its cost is higher than Quality's, therefore making Effect Boost better. For Masters is exactly the same as Beginners OK, but I emphasize it less because it decreases success rates.
+
+Some trait info lifted from: http://www.gamefaqs.com/boards/991771-atelier-totori-the-adventurer-of-arland/60768061
+
+Basically, big thanks to Eleinia and Uryvichk.
+=-=
++
++
++
+''[[Elixir]] Synthesis''
+=-----=
+* Effects
+** [[HP Recovery]] XL, high quality [[(Elixir)]]
+** [[HP Healing]] L, high quality [[Nectar]]
+** [[MP Recovery]] L, 35 and below quality [[Sage Herb]]
+* Traits
+** Source of Life ([[Bless Stone]])
+** Cure-All ([[Sage Herb]])
+** Healing Essence ([[Forest Dew]])
+** Effect Boost L
+** Rank Boost L
+* Alternatives
+** Serenity Now ([[Dizzy Cap Spore]]) is an inferior substitute for MP Recovery L. You can drop Cure-All if you do that. Don't do this in the Vita version.
+** If you want to separate your HP Healing Elixir from your [[KO Recovery]] one, get a lower quality Nectar and drop Healing Essence for Beginners OK.
+
+For this to work, toss the Bless Stone directly in the Elixir. Your Nectar or Forest Dew should probably have Effect Boost and Rank Boost.
+
+The Sage Herb should be tossed in a basket to get that low. Don't put a Blessed Coin with Rot Prevension in there at the same time.
+
+This probably won't cut all HP loss from Shadow Bands in the Vita version. So you have a couple options.
+
+# Make a good regenerating Totori Brunch.
+# Make a second Elixir.
+
+The second Elixir is pretty simple compared to the first. Use a high quality Nectar for the regen effect, then toss on Effect Boost L, Rank Boost L, Beginners OK, Swarm Slayer L, and Final Strike +.
+
+Don't be cute and toss on Surging Power. I did the experimenting there; you're better off with a high quality super trait-tastic Totori Brunch.
+
+My initial version of the Elixir was shamelessly lifted from here: http://www.gamefaqs.com/boards/991771-atelier-totori-the-adventurer-of-arland/60596803
+
+Thanks MasterLL!
+=-=
++
++
++
+''[[Totori Brunch]] Synthesis''
+=-----=
+This is a pretty simple thing to make, but you have two options.
+
+# The Regenerator
+# The Fantastic Buffer (suggested)
+
+For the regen one, use [[Cryptobotany]]'s trait. Drop Final Strike +, but otherwise get the same traits as the other brunch.
+
+For the super buffing brunch, you're going to need every point you can get. You might have to make two at once, too. Use your highest level ingredients (10/9 cost across the board) across every category to get a total of 47+ points. [[Mystery Ankh]] will help you, as well as the few other [[(Mystery)]] items with higher cost points.
+
+Don't try to get Surging Power or Petrifying Meat. You will not match a brunch with the best of traits. Those traits, as usual, are Effect Boost L, Rank Boost L, Final Strike+, Beginners OK, and Loner Slayer L.
+
+One thing I noticed about this item -- using duplicate does not change the effect one bit, whether you have skill boost or not.
+=-=
++
++
++
+''[[Dimension Egg]] Synthesis''
+=-----=
+This item. So broken. This can add a max of four moves, so combined with Shadow Band, you can have SIX moves. Item user only, but do you see the potential here?
+
+Since this is an enhancing item, you don't need to bother with quality. So instead: Effect Boost L, Rank Boost L, Loner Slayer L, Final Strike +, and Boost Effect L. I suggest getting as many traits as possible on a [[Spirit Stone]] or two.
+
+This thing will absolutely eat all your MP. You should either carry a lot of MP restoration items with you, or get your Chims busy duplicating everything.
+=-=
++
++
++
+''[[N/A]] Synthesis''
+=-----=
+The traits aren't any different from the generic usable item. Try to shove as many traits as possible onto [[Tar Liquid]]s (lumber is your friend), and make sure to create some generically high quality ones as well. [[Mega Bomb]]s should absolutely be 120 quality, whatever traits you slap on 'em. Supplement can be below if that's what it takes to get a needed trait on.
+
+This item isn't as useful in the Vita version. You can make one, but use Himmelstern in Orthogalaxen.
+
+P.S. Tar Liquids are doubly useful because you can also use them in Himmelstern later.
+=-=
++
++
++
+''[[Himmelstern]] Synthesis''
+=-----=
+It's pretty obvious what you need to do here, and the process is quite similar to N/A due to the overlapping ingredients. But you have [[Crystal Ball]] and [[Meteor]], which you can use to your advantage. Meteor is particularly easy to slap traits on because you can just make a high level cloth.
+
+The major thing to note is that Swarm Slayer is NOT necessarily better on this item. If you're in the Vita version, you should definitely create a Loner Slayer version. Bosses get crazy elemental resistances in Orthogalaxen, so it's best to avoid N/A.
+
+If you're in the PS3 version, don't bother making a good Himmelstern unless you really want to.
+=-=
++
++
++
+''[[Dark Water]] Synthesis''
+=-----=
+Another item mainly for the Vita version. This is a shockingly helpful item!
+
+You get 32 points to use, no matter what. Those are best spent like this:
+
+* Effect Boost L
+* Rank Boost L
+* Judgment L (for higher success rate)
+* Chain Explosion (free!)
+* Quality M, or something that costs up to 5 and raises quality.
+
+You might have to make two separate [[Pure Poison]]s to make this work, but you need two anyway. The nice thing about Pure Poison is that it can take alcohol items.
+
+I had no idea what Judgment did until I read this: http://www.gamefaqs.com/boards/681781-atelier-totori-plus-the-adventurer-of-arland/65813694
+
+Thanks to Matriere.
+=-=
++
++
++
+''Other Cool Stuff''
+=-----=
+* [[Ether Ink]]
+:This item has two effects, depending on the quality of [[Magic Paint]] you throw in. Both are totally awesome. Get around 60 quality (maybe a little lower) for one trait, and as high as you want for the other. Remember that Dimension Egg? If you make a really good Spirit Stone for that, you have an easy synth here.
+
+* [[Auto Alarm]]
+:Revival is never a bad thing. I simply prefer to use Elixirs.
+
+* [[Mystery Ankh]]
+:A poor man's Totori Brunch. :P It does have some neat effects to check out, though, such as [[HP+ Temp]].
+=-=
+
+===Equipment Synthesis===
+
+''Holy and Healing Power''
+=-----=
+These are two of the biggest must-have traits in the PS3 version, and you should get them on ''all'' your equipment.
+
+Supplements are a nice tool for getting both of these and one extra trait of your choice on any item. Quality L is the most generic choice.
+
+The Vita version nerfed these two traits big time. Holy Power is still barely useful, but Healing Power? Don't even bother. There are other ways to get regeneration.
+=-=
++
++
++
+''Weapon Synthesis''
+=-----=
+* Attack +10
+* Inflict Paralysis / Heavyweight
+* Quality L
+* Attack +5 / Convert Damage L
+* Holy Power / Lightweight
+* Healing Power
+
+Put simply, make a [[Blessed Coin]] through this process: Supplement -> [[Komet]] -> [[Arland Crystal]]. Then make [[Sylph Breath]] for your [[(Mystery)]] item.. You can, coincidentally, make a Sylph Breath out of another Sylph Breath, so pile as many traits as you can onto one of those.
+
+If you make two Blessed Coins, you can get all five of your traits on it. Use a [[Mystery Ankh]] to up the cost level.
+
+You can also make [[Tar Liquid]] or [[Pure Oil]] for some traits.
+
+My suggested build? Go all out on attack and use the lightweight/heavyweight combo, as well as Attack +5. You don't really need Convert Damage (Elixir) or inflict paralysis (Dark Water). For Totori, you may want a more defensive setup; a bunch of elemental Power traits, as well as lightweight without heavyweight.
+=-=
++
++
++
+''Armor Synthesis''
+=-----=
+* Defense +10
+* HP +30
+* Quality L
+* Sturdy / Defense +5 (both are worth +5)
+* Holy Power / Lightweight
+* Healing Power
+
+Alcohol is your friend. I like to use [[Floral Sour Mix]], personally. [[Beer]] will take any liquid, which makes it really easy to slap on a good trait to items that take it as an ingredient.
+
+Another friend is [[Living Rope]]. A little more difficult to work with, but you should be able to shove a couple good traits onto it through [[Tar Liquid]] -> [[Hay]].
+
+To get Holy/Healing Power: Supplement -> [[Zettel]]
+
+Lightweight can come from [[Liquor]]. It's especially useful on Totori. You shouldn't let her take a lot of damage, whatever you do!
+=-=
++
++
++
+''[[Shadow Band]] (Vita)''
+=-----=
+* Skill +30%
+* Skill +20%
+* All Stats +10
+* MP Cost -20% / All Stats +5 / Skill +10%
+* MP Cost -30%
+
+Make it as crappy as possible.
+
+While you're able to make a more sophisticated item in the Vita version, it comes with a catch -- more HP is taken from you as the quality increases. And let me tell you, it hurts at max quality. With the nerfing of Healing Power, you have to jump through some extra hoops.
+
+I made 3 [[Komets]], and 1 [[Arland Crystal]]. I threw my favorite traits on and went to town. If you don't want to do that, you can always wander off to Crystal Spot and try your luck with Tonics for traits on [[Gravistone]]s. You'll probably end up with higher quality for it.
+
+I got in the 50's, myself, and the 55 damage per turn was the major thing that almost killed me in Orthogalaxen. This is related to the reason I suggest lightweight on Totori; she needs to outspeed as many bosses as possible, and preferably allies as well.
+
+Duplicate is a really expensive trait (especially when you're facing bosses that double MP costs), so having two MP reductions is nice for Totori. I got away without it, though, and went for Skill +10%.
+=-=
++
++
++
+''[[Shadow Band]] (PS3)''
+=-----=
+* Skill +30% / Skill +20% (or even both)
+* All Stats +5 / All Stats +10
+* Holy Power
+* Healing Power
+
+No jewels to toss in for you, so you only get 16 points to use for traits. Toss Holy/Healing Power on your [[Ingot]].
+
+For [[Gravistone]]s, go to Crystal Spot. The inferior trait will come with using a crappy tonic. The superior trait will come from using an awesome tonic.
+
+You know why you're putting Healing Power on every piece of equipment? To prevent this accessory from killing you.
+
+==Tips==
+
+===Money===
+
+When Sterk hits 50 friendship, he'll bring lots items, including a Dark Dew. Have a Chim gather a copy, then make a Spring Cup (recipe is under [[Rorona Events]]) with the Dark Dews to get the best effect. Let it sit till it enhances to 100 quality and 5 uses, then register with Pamela. Four/five times.
+
+Bother selling the Milk and Dark Dew (and later liquids), but not water. Sometimes you can't sell it, and it isn't worth the whopping 1 Cole.
+
+The reason you get some waters that you can't sell is because they have price reducing traits on them, bringing their total value to, seriously, 0 Cole.
+
+This technique works better after you get the boat, because you've seen Sea Puddle and Forest Dew. That means less worthless water.
+
+Protip: Hold X and drag to select items, especially when selling.
+
+Protip 2: Use Spring Cup on world map, skip animation! Thanks to DAENF0RCER13 for telling me to add this.
+
+Protip 3: Buy your cups, wait a day, and the cups will enhance to give you a sixth usage.
+
+=--Vita Version--=
+
+Unfortunately, the base prise of Spring Cup has raised such that it's harder to profit from this method. But worry not, there is a way. Create a cup with the following traits and you will profit:
+
+* ''Required''
+** Price Down L
+** Price Down M
+* ''Any three of the following:''
+** Rare Shape
+** Almost Invisible
+** Perishable L (strongly suggested -- increases enhance speed)
+** Reduce Effect L
+** Bad Quality L
+** Airy
+** Giga Stink
+** Complex L
+** Lasts L (not suggested -- reduces enhance speed)
+
+Personally, I managed to create the Spring Cup like this: Arland Crystal -> Blessed Coin -> Spring Cup. I also made a non-cheap Spring Cup so I could get Dark Dews with better traits. Do what you must.
+
+It is okay to have the quality low. This item enhances, so the quality will gradually go up to 120 if it sits long enough. If you have a Charger Blessed Coin and Perishable L, you'll have it charged fairly quickly. Just toss both items in the basket.
+
+Following the above method, I got a Spring Cup at 100 quality to sell for 88 Cole.
+
+PS3 version owners, you are welcome to make an item like this as well.
+
+===Awesome Tonic===
+
+Awesome because it distinguishes the name from the other [[Tonic]].
+
+After you made the Spring Cup mentioned in [[Money]], you can make a pretty awesome Tonic. But first, make sure you have three Magic Grasses around 80 quality. If not, make a crappy Tonic or two, go to [[Fragrant Plains]], and use the Tonic(s) before gathering. Also, the final event in [[Cooking Class]] can provide some high quality stuff you'll need if you haven't explored far enough.
+
+Then make another Tonic with top tier effects, which is easy to get with the Spring Cup, then register with Pamela. Never gather without using a Tonic again. Always use it before gathering. Use it multiple times if you're looking for particular traits; it will reset unchanged gather points.
+
+''Super awesome trick'': Put Pro Favorite on your Tonic for a whopping +3 usage. Since the success rate is reduced 75% by this trait, it will take several attempts, but the payoff is so worth it. I don't know if this is a glitch or what, but even though the trait is dropped, the +3 usage remains after registering it in wholesale.
+
+Mega thanks to Adellus for the trick.
+
+==Endings and Events==
+
+''Priority of Ends'': True > Character > Chim > Wealth > Normal > Bad
+
+How to get the true end? Unlock ''all'' the others.
+
+Character priority doesn't matter, so it goes unlisted.
+
+For those of you new to the series, priority between characters is ''not'' equal at equal frendship. I believe Mel has the highest, and Marc the lowest. As such, Mel's end will trigger if everyone is hanging at 60 friendship. If you raise friendship of anyone else even one point, highest priority will change to whoever has the highest friendship.
+
+How to get the normal end? You need to go to Frontier Village to find out what happened to Totori's mother. In the walkthrough, events leading to this will be marked with "Normal end events". And later, events will be marked with "True end events".
+
+The rest of the ends are unlocked by events (except Chim, but I'll tell you how to get that in the following sections). Don't do the final events until you make a split save at the end. Otherwise, you'll lock into True. My [[Till the End!]] section is partially devoted to telling you what to do.
+
+Notably, in this game, friendship locks at 60 unless you do quests. Don't bother getting it higher. That'll just mess you up.
+
+See [[Year 1, 3/1]] for the easiest way to get the bad end. There are two other ways. Don't hit Diamond rank by [[Year 4, 6/1]], and don't find out what happened to Totori's mother by the end. The last one, at least, can get you the CG in the Extras menu, but you see that CG in the first Bad end as well apparently.
+
+Big thanks to http://amuwiki.com/totori/ for friendship values (I certainly couldn't keep track of them!) and the timing of events. If not for this, almost everything would be "a while later" except for those that have specific dates.
+
+There are minor events not listed here, nor anywhere in the guide. I don't know what the triggers are, and nothing but entertainment value is attached.
+
+===Gino Events===
+
+* A point of warning -- if you fight a battle and Totori's level is above Gino's, he'll run away to train (and raise his level). Just keep him in the party, whatever his friendship is, then toss him (forever!) when you make it to 15. That way, you can avoid the event -- provided you do not, even once, use Gino in battle after that.
++
+* After Year 2, 1/1 go to an area with Gino. Upon returning to the workshop, Totori will come up with a recipe for his super move. Make the Key Item (Gino Level 10+, 40 friendship)
++
+* After meeting Sterk, but before he can be in the party, talk to Gino. He wants to be Sterk's apprentice. This event, bizarrely, can happen in a search area without Gino in your party. (45 friendship)
++
+* 7 days later, go to the Square. Gino talks about Mel behind her back, and it doesn't end well for him. Possibly optional?
++
+* 15 days after the 45 friendship event, go to Atelier Totori for an event with Sterk and Gino.
++
+* 3 days later, go back to the Square for more begging. Aaaand Sterk caved.
++
+* 7 days later, go to the Wharf. Sterk lost to someone, but I'm of the opinion that he just lost to a bomb.
++
+* After Year 3, 1/1, go to Atelier Totori. (Gino Level 15+, 50 friendship) This event may be influenced by having Sterk in your party, so don't panic if it doesn't appear for several months.
++
+* Go to the Square. Or, super obsessive completionists, go to Artisan's Way for a different background picture.
++
+* Talk to Gino. Poor Gino.
++
+* After Year 4, 1/1, an event (and easy fight) will occur in Atelier Totori. Two more events will occur here, each 7 days apart. The second is attached to the ''Chilvarous Defender'' trophy. (Gino Level 25+)
++
+* To stop the final event from happening, simply do not level Gino to 25.
+
+===Melvia Events===
+
+* Event about giving Ceci a gift in some area you've traveled to.
++
+* Then another event in any non-town area about clothes. (50 friendship.)
++
+* After Year 4, 6/1, gab to Mel for an event about adventuring with Ceci, then talk to Ceci. (60 friendship)
++
+* A few days later, invite Ceci (Mel must be in party).
++
+* 30 days later, invite her again.
++
+* 30 days later, invite her again for the ''Ambushed'' trophy. You'll fight a few Scarlets, which aren't too difficult at high levels.
++
+* If you don't want Mel's end to trigger, don't invite Ceci the third time. However, if you do, you can recruit Ceci (DLC/Vita).
++
+* Defeat Evil Face by Frontier Village. Mel doesn't have to be in the party.
+ 
+===Mimi Events===
+
+* Make your basket almost/completely full, then leave Alanya for a day (with Mimi) and you'll get a scene upon returning. Several of the following events are almost automatic if you keep Mimi in your party. (10 friendship)
++
+* 15 days later, go to Atelier Totori. Mimi forces Totori to help around the house more... XD (15 friendship)
++
+* 15 days later, return to Atelier Totori. Mimi helps Ceci. (20 friendship)
++
+* 15 days later, return to Alanya again. Mimi is still jelly and refuses to talk about her family. (25 friendship)
++
+* 15 days later, you guessed it, go to Atelier Totori. Mimi has no friends. (30 friendship)
++
+* After you get Iron rank, talk to Cory. Cory knows what's going on just a little too well. (35 friendship)
++
+* Talk to Mimi. Supposedly this also occurs if she's in your party and you go somewhere with her. Optional.
++
+* Do 25 requests for Filly, then talk to her. (45 friendship)
++
+* After Year 2, 6/1, and 15 days later, go to the Adventurer's Guild. (50 friendship)
++
+* At least one day following that (I tested; it doesn't work the same day!), get a rank up.
++
+* 3 days later, synth at Atelier Rorona.
++
+* 15 days later, talk to Cory to watch Mimi rank up. She's back in the party.
++
+* Go somewhere with Mimi while you're building the boat. (60 friendship)
++
+* When the boat is finished, put Mimi in your party and take off. Then beat Flauschtraut with Mimi in your party.
++
+* An event will occur after you leave the Frontier Village. You'll get the ''Aristocratic Love'' trophy.
++
+* Defeat Evil Face by Frontier Village. Mimi doesn't need to be in the party.
++
+* Talk to Mimi about being the world's greatest adventurer (it's a short, surprisingly important scene). Then level her and Totori up to 50 for a scene. If it doesn't trigger, level up another person.
++
+* If you want to get all ends, don't get Mimi up to 50. Leave her hanging at 49.
+
+===Marc Events===
+
+* Starting Year 2, 1/1, he'll be with Hagel. (30 friendship)
++
+* 15 days later, talk to Marc on Artisan's way, then visit Iksel's place. (Possibly optional.)
++
+* 30 days later, go to Artisan Way. (40 friendship)
++
+* 30 days later, go to Artisan's again. (45 friendship)
++
+* 30 days later, go to Artisan's again. (50 friendship)
++
+* After Year 4, 1/1, with his level over 30, and 60 days later, go to Atelier Rorona. (60 friendship)
++
+* Go to Promised Land with Marc, fight Iron Giant. It isn't hard, especially not at endgame. Two days later, go to Atelier Rorona for the ''Arise, McVellion'' trophy. Marc is a jerk :D
++
+* If you don't want to trigger Marc's end, don't take him there.
+
+===Rorona Events===
+
+* ''For the end''
+
+** After Year 3, 1/1, visit Iksel's place for the trophy ''Unlikely Party''. This may be tied to other things... This is also when you can hire Iksy and Cory, if you have the DLC or Vita version. (40 friendship)
++
+** After Year 3, 7/1, visit Artisan's Way for a scene between Rorona and Cory. (50 friendship)
++
+** Six months later, visit Atelier Rorona. This event is based upon the higher of your two levels. This event will vanish after reaching Frontier Village. (60 friendship)
++
+** When you hit Alchemy Level 50, synth in Atelier Rorona for a scene. 
++
+** Do not synth if you want to get all ends in one go. Synth in Atelier Totori instead. By that time, you'll have the gateway, which allows you to warp to either Atelier.
++
+* ''Recipes''
+
+** After she joins, synth (several times) in Atelier Rorona for [[Rorona's Pie Notes]]. (Alchemy Level 5+)
++
+** Make a pie in Atelier Totori for [[Fish Pie Recipe]].
++
+** 30 days later, go to Atelier Rorona for [[Rorona's Fish Memo]]. (Alchemy Level 10+)
++
+** 30 days later, go to Atelier Rorona for [[Super Tool Guide]]. (Alchemy Level 20+)
++
+** 30 days later, and after Year 4, 6/1, go to Atelier Rorona for [[Rorona Danger Book]].
+
+===Sterk Events===
+
+* Event in either Atelier. (30 friendship)
++
+* Event in Artisan's Way with a pigeon. (Ro-ro-na~)
++
+* Another event in Artisan's way with the pigeon. (40 friendship)
++
+* He'll bring Astrid's junk to either Atelier. Get to this event as fast as you can. (50 friendship)
++
+* Go somewhere with Sterk. He'll leave the party temporarily. (60 friendship)
++
+* A few days later, event in either Atelier.
++
+* Make Sterk accompany you during the Specialty Liquor events.
++
+* Trigger Gino's end. Or not, if you want to avoid triggering ends.
+
+===Chim End Requirements===
+
+* Feed Chims 35 large pies in total. If you want to avoid triggering this end, don't make the Chims work. (No work, no pie consumption.)
++
+* You need 5 Chims. You get more by getting Water of Life. Locations:
+** Part of the [[Cooking Class]] events
+** When Sterk's friendship hits 50, he'll bring in all Astrid's junk.
+** [[Pamela's Shop]]
+** Cobalt Rank reward
++
+* One Chim needs to eat 9 large pies.
++
+* 10 small pies = 1 large pie. Frequent Ceci's store for her pie. It's the easiest way. Alternatively, have a Chim duplicate Plain Pie.
+
+===Filly and Tiffani Events===
+
+* Not attached to any ends. Just a trophy.
++
+* After 50 Filly requests, there is an event with Tiffani about quitting.
++
+* After 75 Filly requests, there's another event with Tiffani. You must have no requests waiting to trigger this. They go out to drink at Iksel's ''exactly two days later''. And that's when you need to show up for the ''Legendary Drunkard'' trophy.
++
+* There's an event afterward with Filly.
+
+===Cooking Class===
+
+* (Wealth + Chim ends)
++
+* After Chim's birth and hitting Platinum rank, there will be an event with Iksel. You'll get [[Iksel Recipe Book]].
++
+* Make the items, hand them to Iksy. He'll give you [[Awesome Slow Food]]. Turn the items in for [[Great Ingredients]]. Make the new item (and don't make it crappy; Iksy will reject it) and to Iksy for [[Totori's Cooking]].
++
+* Make '''that''' item, over 80 quality so you don't have to make it twice. Iksy will challenge you to a cook-off, whatever Atelier you happen to be at (stalker!). Bring the Brunch to him. ''You must win.'' You'll be rewarded with a Water of Life and [[Head Chef's Gift]].
++
+* After, there's an event with Iksel. Rorona calls him a meanie.
++
+* By the way, you need 500,000 Cole for the Wealth end. See [[Money]] for the best (if utterly boring) way.
+
+===Specialty Liquor===
+
+*(Wealth + Sterk ends)
++
+* After Rorona joins, and after Year 2, 6/24, gab to Gerhard.
++
+* Then synth in Atelier Rorona for [[Alcohol and Life]]. Gab to Tiffani. Then synth the items for [[Fancy Drinks]]. Make them and take to Gerhard. You'll get for [[Fish Booze Memo]]. Take the fishy liquid to Gerhard for [[Specialty Notes]].
++
+* After Year 4, 6/1 you can make the new items. Take them to Gerhard, then talk to Ceci. I don't think Ceci is required, but you might as well.
++
+* A month later, talk to Gerhard for [[Extreme Brewing]]. You can talk to Mel if you want; it's pretty funny. Talk to Guid, then Sterk. It's important for Sterk's end! A new place will appear on the world map.
++
+* Go to the fishing point (EXACTLY on the 30th, or as close as possible so long as you're there earlier) with [[Sonne Fruit]] in basket. You'll get the ''Legendary "Fish"'' trophy. And one hell of an image. '''''GUUUUST.'''''
++
+* Make the drink and hand it to Gerhard. Or DON'T if you want to avoid triggering the Wealth end. The next day, there will be another event with Gerhard.
++
+* By the way, you need 500,000 Cole for the Wealth end. See [[Money]] for the best (if utterly boring) way.
+
+==Walkthrough==
+
+"By the way, my sister's name is Sexilia. That's also kind of a mouthful, so everyone calls her Sexy."
+
+...And now you can't unhear it, right? The GFAQs boards have corrupted me, and now I corrupt you.
+
+Oh, and by the way. You. Have. Time.
+
+* You can synth everything.
+* You can go everywhere.
+* You can grind to level 50.
+* You can see all events.
+* You can do some dumb, inefficient things.
+* You can get to the highest rank.
+* You even have time for late game, optional bosses.
+
+About NG+: You carry over money and what you have equipped. So if this is your second playthrough, I hope you have a [[Gibate Ankh]] with [[Great Learner]] on someone, especially Totori. Ideally, you also made the top tier equipment for everyone.
+
+One of the assumptions I made writing this guide is that you wouldn't appreciate me trying to control you all the time. This guide is a reference; a calendar and lots of tips.
+
+Play the game however you like, and don't worry about dates overmuch. If I  feel you need to get something done ASAP, I will say so. Dates given, more often than not, are just when the events become available and not the date you have to do them on.
+
+===Year 1, 3/1===
+
+* Do whatever during this period. Get used to the game, because it won't truly start till you get your adventurer license (on 6/1). This is basically a tutorial.
++
+* See [[Initial Areas]] for the (few) areas you can visit.
++
+* You automatically recive the trophy, ''A Day in the Life''. Be sure to visit the Gerhard, Pamela, and Peter. The rest of your day is decided for you.
++
+* Snooze several times (months!) for the ''Bad Ending'' trophy. There are other ways to get the bad end, but this is by far the easiest.
++
+* Make sure to return to Gerhard after you get back to the village to be introduced to quests. Unlike Rorona, you can have your items in the Container and still fulfill requests. If you don't know what to do, just do requests. It'll get you a nice pile of cash to start with.
++
++
++
+* ''Tips''
+
+** Crafts are pretty good to synth so you can easily kill (swarms of) enemies. Even at low levels, items such as these are nice to have. But Crafts don't work for bosses; bombs and such are better.
++
+** Well water is just outside Totori's place. Nice for crap synthing.
++
+** Free fish are in barrels at the Wharf.
++
++
++
+* ''Melvia''
+
+** Go to a field and exit for a scene with Gino about going to Arland. When you get back to the village, another will come. Once you go to a field again, you'll get another scene and the ''Monstrous Power'' trophy. To the village for more scenes and Melvia in your party.
++
+** Roaring Craggy Path opens. With Mel, you should manage, but it's a lot harder than the first couple areas. This is where Crafts become useful.
++
+** Fight a bit, get a scene with Mel.
++
+** Whatever you're doing around 5/15, you'll be roped into town for a scene about not saving enough money. Aaaand then you go to Arland. You get the ''Like the Flash'' trophy.
+
+===Year 1, 6/1===
+
+* ''Don't worry about my dates.'' Those are starting dates, never the date you have to do something. There are only a couple exceptions, and those aren't tied to a specific date. Instead, they have strict time limits after you trigger them. I will warn you.
++
+* Before heading off to the guild, it's amusing to see what the shopkeeps have to say. Especially Hagel. At the guild, you get the ''Shouting Match'' trophy. You have to reach Diamond rank by Year 4, 6/1 (which is super easy). Once you get to the village, you're on your own!
++
+* See [[Glass Areas]]. It's a good idea to check these sections out so you know what quests to accept before going out. Be sure to do 10 quests in each rank. Easy license points you shouldn't miss! The Areas sections will also tell you when areas have landmarks, and how many search points some areas have -- both things you need to take care of for license points.
++
++
++
+* ''Alanya''
+
+** Press start. Yes, you can zap yourself anywhere now.
++
+** If you haven't noticed this already, Plus owners, tap the back of your Vita. A cute feature.
++
+** Go in town to see that the carriage is gone. Yep, you'll have to hoof it to Arland.
++
+** Do whatever you like, but get them points up. Get to Iron around 9/1.
++
+** When I give you a general date to get a rank up, it's about the point where I got mine on my first run. I focused largely on exploring, and I also didn't do 10 requests at Glass Rank, which sped me up. Don't worry about it '''too''' much. By my schedule, you'll have Diamond with a year to spare. That spare time is valuable in its own way. I went crazy with synthesis, but I also had to prepare for some bosses I couldn't beat.
++
+** After 7/1, exit and reenter the Atelier for a scene with Mimi.
++
+** Exit and reenter again for Ceci. Synth something successfully for another with her (possibly on a level up). Only Rorona could cause such a huge explosion.
++
+** A few days later, go down to the town square for a Mimi event (earliest: 7/4). The next thing you need to do is get Iron rank and wait a month. When you go back to either Atelier, you'll get another scene. Eventually, you'll be able to hire her out of Arland's Adventurer Guild instead of Alanya.
++
+** See [[Mimi Events]] when she is traveling with you. Stick in the Alanya area with her in the party and it'll be easy to trigger many events.
++
++
++
+* ''Exploration Miscellanea''
+
+** Be sure to visit the Buried Ruins for the first Marc scene... and don't forget to return to the area for gathering. A Bounce Stone is important to have. It's a fairly useless item, actually, but you need one for later!
++
+** Explore (probably a second time; I never got it to trigger after my first outing as an adventurer), then return to Alanya for [[Rorona's Recipes]].
++
+** While you're exploring that second time, you should find an Eiche. Mel will help you with that.
++
+** Visit the shopkeeps in Arland while you're up there. Tiffani has recipes. You can update your rank with Cordelia (henceforth, Cory) too.
++
+** Make a good Globe or Bomb (I had a Globe) before heading past Arland to take out the Griffon. You will not do this any other way (for now, anyway). This will probably net you Iron by the time you get up there.
++
++
++
+*''Tips''
+
+** Money trick! Buy the Port Outfits from Hagel, then sell for a profit.
++
+** Friendship: It increases on the world map as you travel, and that's the wisest way to get it up. Friendship will raise through this method till it hits 60, then it will stop. So use everyone, at least temporarily. Also, keep Mimi around in your final party to make it easier to get her to level 50.
++
+** It isn't terribly important to get Mimi in your party ASAP. I suggest dealing with Gino first; get him to level 15, maybe slightly above, before dropping him from your party forever. And seriously, forever. Not a single battle more till it's ending time. See [[Gino Events]] for the reason why.
++
+** Ceci is in Gerhard's place. You can buy recipes from her and Pamela. Obviously you have to choose what is level appropriate.
++
+** Do whatever the license part of the menu tells you. This will involve making a bunch of equipment with Hagel, synthing all the items out of your recipe books, exploring, finding all gather points in certain areas, fighting bosses, and doing quests. It's pointless to get all 4000 points, and I strongly suggest against torturing yourself to get them all. This guide thus does not help you with that.
++
+** The highest rank you need to hit for all ends (and trophies) is Cobalt. Coincidentally, no new areas will open up after that. If you like optional bosses, Galaxy, the highest rank, is your goal.
++
+** Since many of you are trophy hunters, here's what you need to do: get all important events and ends. No, you don't need to synth everything (though you likely will, or close to it), nor do you need to fight all bosses, find all monsters, etc. For those of you who played Rorona, this game is actually easier to Platinum.
+
+===Year 1, 9/1===
+* See [[Iron Areas]].
++
+* ''Arland''
+
+** Hopefully you should rank up around here. You'll gain access to Rorona's workshop. Talk to Cory again for requests and to meet Filly.
++
+** It is absolutely okay to be behind my schedule in ranking up. But there are a few scenes tied to rank that you may not see immediately as a result. Don't panic. You will see them when you catch up.
++
+** After you've completed some requests from Filly, you'll get a scene.
++
+** See [[Filly and Tiffani Events]] for a trophy. It boils down to this: you need to do 75 requests from Filly and see a particular event (''which has a strict time limit''). Try to scoop up all the requests without a deadline. I've heard that it only matters who you turn the requests in to, so if you have a lot from Gerhard, turn them in to Filly and that'll count for your 75. I don't guarantee this, and I don't even remember where I read it. But it wouldn't hurt to try.
++
+** Talk to Hagel. He introduces weapon synthing after a couple events. This is slightly different from Rorona; now the Ingots/Cloths are separate items instead of effects. You'll get the [[Smith's Friend]] recipe. Ingots can't have particlar traits, and cloths can't have others. Accessories (which you make in the workshop) have unique traits as well. You can't play with traits much for now, but when you can... try to get Convert Damage on your weapons. (Not yet -- you'll only heal 1 HP.) Anything involving elemental damage is alright early game, but will become useless later.
++
+** Enter the Atelier (possibly after 9/15) for a Cory scene.
++
+** Go to Calamitous Mountain for another Marc event. The chest will blow up in your face, so don't bite. After, ''go to Cory''. Several days later, Marc will visit you at either Atelier, and you'll be able to hire him out of Arland.
++
++
++
+* ''Alanya''
+
+** The carriage will be fixed after you hit Iron. You may need to enter and exit for the scene to pop up. A Ceci scene about Totori being gone for a long time has priority.
++
+** In Gerhard's bar, a scene between Ceci and Mel will trigger.
++
+** With Pamela, there will be a scene about her shop in Arland.
++
+** Eventually, Marc will pop up in the Square with the carriage. Give him what he demands (throw 'em in your basket) and the carriage will go faster. Kick him out of the party if it doesn't trigger.
+
+===Year 2, 1/1===
+
+* You should hit Bronze rank soon for [[Aquanaut Memo]]. See [[Bronze Areas]].
++
+* ''Equipment Synthesis''
+
+** You are at the point that you need new equipment. You may have already made some, but this is intended as a light introduction. You don't actually have to do this, but if your equipment is really lame it won't hurt.
++
+** As prep work, make some good [[Pure Oil]]s (with Lightweight and any other traits of your choice), as well  and [[Zettel]]s (shoot for Defense +3 and MP/LP +10). Pure Oil will increase the traits you can buy, and a Zettel is needed for the second level of armor. Buy [[Stim Stones]] from Hagel -- the expensive ones with Attack +3.
++
+** Make three sets of Tincs/Muffcots at once. (If your level is high enough you can try much of this for the higher level ingots/cloths.) You'll need good ingredients to keep the cost level between 6 and 10, depending on what traits you have.
++
+** I've already listed the good traits to get, for now. By all means, shoot for more traits. Just get familiar with the process of making equipment that is above the bottom of the barrel. Quality alone doesn't make your equipment godly (it helps, though), especially in the Vita version.
++
++
++
+* ''Alanya''
+
+** Talk to Ceci after hitting Bronze for Wholesaling. It's good for fulfilling requests and replicating common synthing ingredients. For instance, put a decent Arland Crystal with Hagel and you'll fulfil a request every so often with it. Don't be picky; if it seems vaguely useful, register! However, if the item has Traits with 8 or more Cost, wholesale will duplicate the item, but not those traits. Similarly, if your item is above 100 quality, it will be reduced to 100.
++
+** Here's a nugget: shops will stock items on days ending with 1 and 2. So if you register an item on the 10th, there will be 10 of them on the 11th. Or if you buy up the items on the 10th, they'll reappear on the 11th.
++
+** Sterk will force his way in the workshop. Friend Requests become availible. They come every 15 days, and only the people you can hire near your current Atelier will show up. Really, just adventure with your friends to get them to 60. After they hit 60, ''do not'' do requests except to manipulate ends.
++
+** To hire Sterk, you have to do at least one or two requests. If you feel the need to get it done quickly, you can try saving and reloading till he's the one to appear at your door.
++
+** See [[Gino Events]] for his first batch of things to do. Let me emphasize something: DON'T WAIT. The sooner you start his events, the better. Feel free to level him to 15, if you haven't already done so, but not much higher. There's a reason for this; an event will increase his level, and that can be bad.
++
+** If you're just now traveling with her, don't forget about [[Mimi Events]]. She has a bunch in the Alanya area.
++
+** Go by Pamela for an event about the bear. A long while after that, go back for one about snoozing in the bear.
++
++
++
+* ''Arland''
+
+** Go to Cory for an event. This is part of Sterk's recruitment. You'll have to go back to Alanya for the next couple events. Sterk will visit the Atelier twice. Once to talk about a certain witch, once with a pigeon (it'll pop up after doing a request for him).
++
+** Event with Tiffani about Pamela.
++
+** Make the Parasol you just got before going to Scorched Wasteland. I wouldn't attempt going there before level 15. Be sure to have a couple good Bomb Ice and upgraded equipment. You'll also need a bomb to get to the landmark in Scorched Wasteland.
++
+** Once you beat the boss there, you'll hit Silver with incredible ease. [[Lemegeton]] is your reward for a rank up. See [[Silver Areas]]. Don't worry about beating Jagd Wolf so soon.
++
+** Enter the shop menu and exit at Tiffani's after hitting Silver, but with your Basket mostly full (I had 40 items). You get a bigger basket.
++
+** Once Marc's friendship is adequeately high, visit Hagel's store. See [[Marc Events]] for the full sequence of events. Effectively, you'll be visiting Artisan's Way several times at 30 day intervals. You will need to eventually get his level to 30 as well, but it isn't a big deal to grind him up by the time this is relevant.
+
+===Year 2, 6/1===
+
+* Try to hit Gold soon-ish (I got it in August) for [[Agrarian Mastery]]. See [[Gold Areas]]. Don't worry about beating Scarlet yet.
++
+** Make the Speed Gloves when you can (which will not be soon). You can buy [[New Age Art Theory]], the recipe for Magic Paint, from Pamela's Shop. Something like Simple L will be VERY helpful in synthing success rates (which, at this point, you shouldn't see awesome traits like that :P). Your normal success rate might be 0 at this point. It was for me.
++
++
++
+* ''Alanya''
+
+** Stock up on Homemade Pie. You'll need it soon-ish.
++
+** Pop into the Atelier. Rorona appears and joins! If you need to bomb toss a boss into oblivion, she and Totori can have loads of fun. For her end, you need to hit Alchemy Level 50. If you hit it and don't want to trigger her end, all you have to do is avoid synthing in Atelier Rorona (which will be easy at that point). Just a heads up. Oh, you get the ''Catch of the Day'' trophy.
++
+** Visit Pamela with Rorona in the party.
++
+** An event between Mel and Ceci will occur in Gerhard's bar.
++
+** Later, Ceci will get drunk in the bar. :D
++
+** At some point, talk to Gerhard and he'll ask you to make alcohol. Go to Atelier Rorona for [[Alcohol and Life]]. See [[Specialty Liquor]] for the rest of it.
++
+** After 9/1, if you went to Dragon Grave (I think the event can pop up in another area, but I don't remember which one) for a short Sterk event, he'll pop up at the Atelier. He's worried about age, but he turns out gorgeous in Meruru. This is entirely optional.
++
++
++
+* ''Arland''
+
+** You'll meet Rorona upon arriving (if you met her in Alanya first!). Synth for... pie. Ohhhh Rorona. Enter and exit the Atelier for a Cory event. After a week, you'll get [[Rorona's Pie Notes]]. For more like this, see Recipes under [[Rorona Events]]. The very next time you're in Alanya, '''''MAKE A PIE'''''. This is required for the rest of Rorona's recipes, and it trips a lot of people up. The rest should seriously fall in your lap if your alchemy level is high enough. Another event will follow after synthing more, this time about the container.
++
+** Mel will pop up in Arland.
++
+** After 9/15, you'll get to decide Chim's gender. 30 days later, Chim is born. You have to return from adventuring to see the birth scene. Chim has an ending too, so see [[Chim End Requirements]] for that. Be sure to buy the Water of Life from Pamela! Make the Chim events happen ASAP. ''Cuteness Swarm!'' trophy. After Chim's birth, Cory should pop in the Atelier.
++
++
++
+* ''About Chim (Important!)''
+** Thou shalt not wait to get all five Chims. Thou shalt make Chim the TOP PRIORITY till the fifth is acquired. ''All other things can wait.'' Yes, I'm very serious about that. Nothing is as important as Chim, and about everything else can be fixed without much effort. So let this also serve as a reminder: If you are behind the guide, it is okay. Even if you're behind in rank.
++
+** In other words, sell your organs to get the Water of Life from Pamela. Get the [[Cooking Class]] events done (they will be coming soon). Get to Cobalt rank. Get Sterk's friendship high (he's coming soon as well). Chim is one of the few obstacles in the way of getting Platinum.
++
+** I don't mean you have to do all these things ASAP. But '''try''' to get all five by Year 4, 6/1 (the earliest you can get to Cobalt rank). If you can't reach Cobalt by that date, make sure you have the other four Chims and focus immediately on getting your rank up ASAP. The reason I focus on that date is because it's foolproof, not because you're doomed if you don't have them all by that date (though you could be, depending on now slow you are about getting the Chims).
++
+** Get your Chim working, especially on your most expensive low level item. Chim will work faster as it gets more pies, so try to duplicate a ton of one-day items with traits that jack up the price for extra cash. I used Alchemy Yeast, but I never really experimented either. When you get more Chims, you can have them duplicating items that Wholesale can't duplicate well enough. And if you can't think of something for Chim to do, duplicate pies.
+
+===Year 3, 1/1===
+
+* Try to hit Platinum for [[Traveler's Tales]]. See [[Platinum Areas]].
++
+** Make the [[Traveler Shoes]] ASAP. Seriously, go to the Forgotten Village, open the chests for the materials you need, and keep trying to make the shoes! And use the crappy World Spirits. Don't waste the good one (make Chim gather it instead). Notice that both of them have Simple L. Even with that trait, you probably will load your save several times. Afterward, you'll run faster on the world map.
++
+* Make sure you're ready to do the event with Mimi that requires you to rank up. Hold off on ranking up to Diamond till you're good and ready for the event. If you already saw it -- good! ([[Mimi Events]])
++
+* Try to hit Diamond in the following months for the [[Book of Sibyl]]. That's a really awesome item, but you can't make it yet. Afterward, you can't raise ranks till Year 4, 6/1, so you have true freedom. No new areas will open up. Take your time with any bosses that you can't beat; you have a long time to prepare better equipment/bombs.
++
++
++
+* ''Battle Synthesis''
+** At this point, you should have decent traits across several items, or you will soon. This isn't intended to be awesome; just something to hold you over. If you can do better, then do better.
++
+** For Armor, your goal is to shove traits into two [[Living Ropes]]. Try to get as many of the following as possible across the two ropes: Defense +5, LP +20, MP +20, HP +20. Quality M or L is good; you can never go wrong with Quality, especially in the Vita version. Now make a [[Smelly Liquid]] or alcohol item so you can afford all those nice traits. Combine those traits with Sturdy ([[Audra's Tail]]) and you'll have some good equipment for a while.
++
+** Weapons are a little different, but if you can get Heavyweight ([[Metal Ore]]), Lightweight ([[Distill Stone]]), Attack +5, Attack +3, and Quality L, you're going to be okay for now. You will have to play with your ingredients a little to be able to afford those traits.
++
+** For items, make a Quality L Supplement, then use that on your attack items. You can make 120 quality mid level bombs ([[Bomber Ice]], [[Mega Bomb]], etc.) this way. Be sure to put traits like Solvent, Giant Slayer, and whatever else you have on you. If you're in the Vita version, a little luck and bomb chucking will get you through the toughest bosses you have access to. PS3 players, you might need some extra prep time.
++
++
++
+* ''Arland''
++
+** When you hit Platinum (and after Chim's birth), an Iksel event should pop up. You'll get [[Iksel Recipe Book]]. See [[Cooking Class]] for more info. These events don't have a time limit, but it would behoove you to finish them off ASAP. (''Wealth end'', [[Chim End Requirements]])
++
+** Just a note for the future: Iksel, as part of those events, will give you a lot of good stuff. Take one of the Sage Herbs he gives you and toss it in the basket. Let it deteriorate (so no Rot Prevention Blessed Coins allowed) to 35 quality. This will allow you to make a good Elixir later on.
++
+** An event with Rorona at Iksel's cafe will occur. You'll get the ''Unlikely Party'' trophy. Don't worry if this takes a while to trigger; it WILL happen eventually. ([[Rorona Events]]) Cory and Iksy will be recruitable after this point, if you have the DLC or Vita version. 
++
+** Sterk will join the party, but at least a month after Chim's birth. Go outside with Sterk and Rorona in your party for some lulz. His events don't have dates; get his friendship up to 60 and they'll keep coming. See [[Sterk Events]] for details. If you're having trouble with Scarlet and Jagd Wolf, bring Sterk along and he'll carve 'em up.
++
+** After 7/1, go to Artisan's Way for an event between Rorona and Cory ([[Rorona Events]]).
++
++
++
+* ''Alanya''
+
+** There'll be an event about the Flauschtraut in Alanya's Square. Synth something in Atelier Totori for another scene about repairing a ship. (''Normal end events'')
++
+** If Gino's level is above 15, there will be an event in Atelier Totori. Then go to the Square, then talk to Gino. Don't level him to 25 till you're ready to play with ends. In fact, don't level him much at all. There's an event where he'll increase a level, and you may just get screwed from that. ([[Gino Events]])
++
+** After 7/1, go to Alanya's Square for an event with Mel. Then talk to Gerhard, Gino, Pamela, Peter. After, go to Cory. In Atelier Rorona, Mimi can also barge in, but it isn't necessary to see this. (''Normal end events'')
++
++
++
+* ''Tips''
+
+** Get Sterk's friendship up to 50 ASAP for a Water of Life, and thus a Chim ([[Chim End Requirements]]). Also, you'll get a Dark Dew.
++
+** Have Chim gather a copy of the Dark Dew, then follow the advice in both [[Money]] and [[Awesome Tonic]].
++
+** With the Spring Cup mentioned in those sections, you can, at least for your armor, find a liquid with cool traits that you will probably want to equip. So be sure to set aside a Dark Dew or two for your own personal usage. By the way, high (100) quality equipment has a small upgrade in stats (bigger in the Vita version!), so Quality traits are not bad. Also, even if you need to work it into a Blessed Coin (through multiple steps, I might add), try to get Inflict Sleep on your weapons. It's surpisingly helpful. You could also go with Inflict Paralysis.
++
+** With that money, you should be able to make the Gibate Ankh. Make sure it has Great Learner for grinding justice. One works for the whole party. :D
+
+===Year 4, 1/1===
+
+* A reminder: Be careful about the [[Filly and Tiffani Events]]. Beware the strict time limit. Also, don't forget about [[Specialty Liquor]]. It's the easiest of all events to make up if you're behind, but it's also one of the easiest to forget. You can't finish it at the moment, but find the time to do the events if you're behind.
++
+* (''Normal end events'') Cory will visit you at Atelier Rorona. Then go to Atelier Totori. After the day passes, go into the dining room. Stalk Ceci to Gerhard's bar. Another day stolen, but you'll get [[Boat Dismantling]]. Don't make it high quality. Make it crap quality. It's okay! These items are in the Key section, by the way. Prepare your Chims, because you need the following:
+
+| [[(Ingot)]]       | x10 |-7  | [[Supplement]] | x5 |
+| [[Polish Powder]] | x18 | [[Shining Saucer]] | x5 |
+| [[Magic Chain]]   | x3  | [[(Threads)]]      | x5 |
+| [[(Lumber)]]      | x47 | [[Mystery Ankh]]   | x3 |
+| [[(Cloth)]]       | x10 | [[(Ore)]]          | x10 |
+| [[Sylph Breath]]  | x3  | [[(Mystery)]]      | x5 |
+| [[Tar Liquid]]    | x5  | [[Komet]]          | x3 |
+
+* You'll get Shining Saucers after 6/1.
++
+* There is one Ingot you can register: [[Blessed Coin]].
++
+* Be sure to take Mimi somewhere before the boat is finished. ([[Mimi Events]])
++
+* At some point, you'll have an event in Atelier Rorona about liking Alchemy or Adventures more. This depends on your levels. This will also vanish after reaching Frontier Village. The final step is to hit Alchemy level 50 and synth in her workshop. Don't synth in her workshop after that point, if you like other ends. ([[Rorona Events]])
++
+* You can finish off [[Gino Events]] (and part of [[Sterk Events]], actually) at Atelier Totori now if you have Gino over level 25. Don't, if you want all ends.
++
+* You can also finish [[Marc Events]] if his level is above 30. He'll appear at Atelier Rorona. Don't take him to the place he wants to go till it's time to manipulate ends.
+
+===Year 4, 6/1===
+
+* You should also hit Cobalt ([[Chim End Requirements]]). You'll get a Water of Life. And that better be your last one. See [[Diamond Areas]] and [[Cobalt Areas]].
++
+* For preparation against upcoming bosses, see [[How to Beat a Boss]]. You might not be able to follow all of the advice yet, but a decent part of it is available to you now. It's super total overkill for the PS3 version, but not the Vita version.
++
+* There is one item I do not have listed in this guide -- Chim Pie. The reason is because it's pointless to make it, as it locks you out of the Chim end. I hear it sells for a decent amount, but it's a one-time sale. The way you get it is simple; don't make a Chim. Eventually, Rorona will give you the recipe. I don't care to get it, but you know what to do if you're dying to see it.
++
++
++
+* ''First Order of Business''
+
+** Go to Neumont Forest (for Shining Saucer) and Hermit's Home (for the Azure Wing in the chest).
++
+** Once you have the Azure Wing, never waste time again! Make the [[Warp Gate]]. You can go to either Atelier from anywhere.
++
+** With the Shining Saucer, make all the boat parts and take them to Guid. Put Mimi in your party. Then run off to the Wharf. See [[Boat Areas]]. (''Normal end events'', [[Mimi Events]])
++
+** If you didn't put Mimi in your party for that event, I don't think you're screwed. I can't find where in the world I read this (sorry I can't credit you, whoever you are), but try doing the next event, which is to destroy Flauschtraut with Mimi in your party. If it triggers, you're good!
++
++
++
+* ''Events''
+
+** Synth at Atelier Rorona. You'll get [[Rorona Danger Book]]. ([[Rorona Events]], under recipes) If there is a level needed, I haven't the slightest. I was 40 the time I kept track. Anyway, you'll get one of the better group killers, Diocraft, and N/A, a great boss killer in the PS3 version. It'll work for some things in the Vita version, but not everything.
++
+** Talk to Mel. She'll try to get you to take Ceci out on adventures. A few days later, you can. A month later, invite Ceci again. Don't invite her the third time till you're ready to play with ends. ([[Melvia Events]]) You have to finish these events to recruit Ceci (DLC/Vita). I've heard you can get her earlier on NG+, but if this is your first run...
++
+** You'll face the Flauschtraut on the way to Altmeier. Make sure Mimi is with you! ([[Mimi Events]]) As long as you have the best equipment you can make (this includes accessories) and you're around level 30, it won't be bad. Better to not use Fire, by the way, unless you have an uber N/A, which you are capable of making if you followed my advice about the [[Awesome Tonic]]. (''Normal end events'')
++
++
++
+* ''Tips''
+
+** To maximize your time, from Tiny Island, go east to Lost Island, then north to Ruin Island. Then, on your return trip to Frontier Village, go to the Islands you missed.
++
+** If you explore the Primordial Island to the south, and later, the Winter/Silver Lands, be sure to take the correct exits to discover new lands. It sounds silly, but new lands will not appear unless you exit the proper way. And yes, sometimes you have to go through multiple exits to unlock all areas. This is true of Primordial Island, but Winter Lands is less complicated.
+
+===After reaching Frontier Village===
+
+* ''Normal End and Other Events''
+
+** You'll meet Piana upon entering. Go north for a scene and trophy. Congrats, you unlocked the ''Normal End''. Let's get started on unlocking the true end. :D
++
+** Leave the village for another scene. And one with Mimi for the ''Aristocratic Love'' trophy. ([[Mimi Events]])
++
+** Warp Gate back to Atelier Totori for another scene. lolpiana.
++
+** Make Gerhard's drinks. Wait a month, talk to him again, then talk to Sterk and Guid. Put a [[Sonne Fruit]] in your basket and go to the fishing point as close to the end of the month as possible . Don't make the alcohol till its time to manipulate ends. (''Wealth end'', [[Specialty Liquor]], [[Sterk Events]])
++
++
++
+* ''Tips''
+
+** To the Wharf to find Marc. Buy a Platine from Hagel, if you must, but the Shining Saucer should be easy. This will speed up the boat.
++
+** Just as a reminder, I made ~73450 Cole with the Spring Cup trick. With 40 Spring Cups, but it works! And remember to use it on the world map. (''Wealth end'')
++
+** ''Monitor your Chims.'' They might go past 35 pies. This is not good. You want them just a bit below that. Stop their work if they're about to go further. Unless they have already eaten 9; then they can continue working.
++
+** As a reminder, make sure to do the last of the [[Filly and Tiffani Events]].
++
++
++
+* ''Piana Events''
+
+** To the dining room for a scene with Piana.
++
+** A few days later, return to the Atelier for another with her. Totori's getting jealous~
++
+** Days later, without Rorona in your party, some events between her and Rorona will appear. The second of these (30 days later, Alchemy Level 45+) features Ceci, and you'll get the ''Still a Child'' trophy. And a day is lost. It's hard to miss these events, so long as you ditch Rorona. This will not occur when Pamela is traveling with you, for whatever reason.
++
+** Talk to Piana later for another scene.
++
+** She'll also appear with Gerhard and Pamela.
++
+** I don't know exactly how this scene works, but eventually a scene about Piana being sick will appear. I got it after synthesis.
++
++
++
+* ''True End and Beyond''
+
+** Return to Frontier Village for a scene with Pilca. (''True end events'')
++
+** Talk to her again before leaving. She has a shop! Scoop up those recipes, and some of the stuff is pretty cool. Get a Dragon Tusk (like other items with only one copy, it disappears after you buy it). You have to fight optional bosses for more of them. Make sure Chim duplicates it!
++
+** Feel free to explore (not the tower, you won't be able to enter), but return to Alanya for a scene with Piana. Gab to Rorona for some hilarity. Then to Pamela. When you leave to the world map, Pamela will appear. (''True end events'')
++
+** And now you should be able to follow all of the advice in [[How to Beat a Boss]]. You don't have to, but be sure follow it if you intend to take out optional bosses.
++
+** Go Liechtein Soehnle, the tower beyond Frontier Village, once you think you're ready. You'll get the ''Haunted Doll'' trophy for going. Fight Evil Face. You do need more levels on you compared to Flauschtraut. (''True end events'', [[Mimi Events]], [[Melvia Events]])
++
+** ''Do not fight Evil Face after 6/1.'' There is a conflict of events, and basically it amounts to this: Pamela will not show up in her shop. This screws up the entire festival.
++
+** The rest of the tower is totally optional. Nothing but bragging rights attached. Yes, no trophies! Lots of bosses, if that's your thing. FYI, I stormed this tower with three items. A super buffing Totori Brunch, a maxed out N/A, and a good Elixir. So, combined with Shadow Band, I wasn't even fully restoring my health. And while my armor and accessory were top tier, I had a mediocre weapon set... but with the buffs, Sterk/Mimi did most of the damage. :P This was in the Vita version, so I had a little more to work with, but you should be able to do it in the PS3 version too with a slightly different setup.
++
+** Return to Atelier Totori for a scene with Piana.
++
+** To Pamela's shop. ''This is important.'' Failure to comply will result in screwing up the festival. It seems the town didn't know she was a ghost either. A while later, there will be another event with her in the bear.
+
+===Festival! Year 5, 6/1===
+
+* In Atelier Totori, Peter will barge in. ''Keep track of the day you trigger this event.'' Exactly two months later, you need to trigger the festival.
++
+* In Alanya, you have Pamela, Ceci, and Mel.
++
+** ''Note'': Pamela may cause problems. Be sure to drop by her store immediately after beating Evil Face. (I know this seems redundant to a lot of you, but I can't assume everyone that looks here is following along.)
++
+* In Arland, you have Rorona, Mimi, Tiffani (who won't go), Cordelia (after Rorona), and Lesbian. Uh, I mean Filly.
++
+* So, two months later, pop up in Atelier Totori. You get the ''Fishing Festival'' trophy. Cheer for your favorite. If you miss this event, Peter sulks at you and leaves forever. Well, maybe not forever, but I never bothered finding out whether he returned.
+
+===Till the End!===
+
+* Your best bet for grinding is Dusk Throne to the north of Arland. With a Gibate Ankh with the Great Learner Effect, you'll get 4000~5000 exp per visit. Bring a Himmelstern with Swarm Slayer (and MP restoration items), and Totori will rip the mobs apart. 
++
+* You shouldn't have issues with your Alchemy level, but if you do, make Elixirs and other super high level stuff.
++
+* As long as you've been consistently doing quests (and well in them!), exploring, beating bosses, and synthing new stuff, you should be able to get Galaxy rank pretty easily. The conversation between Totori and Cory is a hint. There's still stuff for you to find.
++
++
++
+* ''After hitting Galaxy (optional!)''
+
+** Go back to Moonlight Forest. You'll get new materials, necessary for Ruby Prism... and a new boss.
++
+** Similarly, Black Dragon is now at Night's Domain. It drops Dragon Tusk.
++
+** Liechtein Soehnle has four bosses. Yep. You should be more than capable of taking them now. In this order: Fran Pfeil, Iron Giant Proto, Penguin Monk x3 (just before 5F, but out of sight), Rage Beast. There's a shortcut out to the southwest of 5F.
++
+** Once you've done all that, it's time for the PS3's ultimate boss, Ozean Kaiser, complete with 18,000 HP (not as daunting as it sounds). Go to the Adventurer Guild and talk to the NPC adventurer closest to Cory. On the world map a new area will appear.
++
+** It's... actually very possible to beat Ozean Kaiser before he gets to attack back. Your hint? N/A, Ether Ink, and Dimension Egg.
++
++
++
+* ''Orthogalaxen (Vita exclusive)''
+** See [[How to Beat a Boss]], if you haven't already. Come. Prepared. Overprepared. More prepared than you've prepared for anything else. This is a massive difficulty spike. The minimum is top tier equipment, Shadow Band, Dark Water, Himmelstern, Totori Brunch, Elixir (I had two different kinds), and Dimension Egg, as well as something to restore your MP after using the egg. Want to solo? Angel Charm.
++
+** First boss is a masked trio on floor 4, and KO Peck is annoying. In the chest behind the penguin is [[Secret Notes]].
++
+** Floor 7 has two ways up. Floor 9 is a dead end with nothing important. Floor 8 leads to the first required boss, Cobalt Skull, then to floor 10.
++
+** Floor 13 also has two ways up. Floor 14 is another total waste of space in a dungeon that's already too big. Floor 15 is where the next boss, Guardian, is. This guy will eat your MP.
++
+** The final boss, Blood Element, is on Floor 16. You'll get [[The Life of a Noble]]. This is also the only boss I haven't beaten in my Totori solo attempts.
++
++
++
+* ''How To Handle Ends''
+
+** You'll likely have enough time to snooze through much of the last year. I'd just create a split save for any optional boss fighting.
++
+** You can skip the credits after the first viewing. This is a godsend, after Rorona (''lalalalalalala~''). Unfortunately, the rest is mandatory watching.
++
+** Start with the Normal, Chim, and Wealth ends. These are the three with the lowest priority. Snooze till you hit the normal end, then reload and make Gerhard's last liquor. Then make sure the Chims eat 35 pies.
++
+** Then go back to your original save and trigger the Chim end, but ''DO NOT'' make Gerhard's last liquor. If you took my advice and didn't do any requests from frends, they'll all be hanging at 60 friendship. Go ahead and finish off their events (see [[Endings and Events]]), then (obviously) save. Just raise the friendship of the character whose end you want. Requests come every 15 days, though they seem to follow your schedule as well. In other words, you'll probably hit a bunch of requests no matter what you do.
++
+** Go back to your save and turn in the last liquor to Gerhard. This will unlock the true end.
+
+==Items and Monsters==
+
+===Ingredient Items===
+
+Everything can be found at [[Liechtein Soehnle]]. It's totally random there. So it will remain unlisted.
+
+====Magic Grass====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Alanya West Ruins]]
+** [[Continental Coastline]]
+* ''Dropped by''
+** [[Barrel Squirrel]]
+
+====Mudhead====
+=-----=
+* ''Gathered at''
+** [[Arland Wastelands]]
+** [[Alanya West Ruins]]	
+** [[Arland Area]]
+
+====Eiche====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Arland Area]]
+
+====Uni====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Arland Wastelands]]
+* ''Dropped by''
+** [[Green Puni]]
+** [[Box Squirrel]]
+
+====Nuse====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Silver Lands]]
+** [[Northern Ruins]]
+* ''Dropped by''
+** [[Barrel Squirrel]]
+
+====Beehive====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Arland Area]]	
+
+====Tar Fruit====
+=-----=
+* ''Gathered at''
+** [[Grand Horn]]
+** [[Alanya Area]]
+** [[Arland Wastelands]]
+* ''Dropped by''
+** [[Pot Squirrel]]
+** [[Tropical Penguin]]
+
+====Edge Aloe====
+=-----=
+* ''Gathered at''
+** [[Arland Great Plains]]
+** [[Primordial Island]]
+** [[Arland Wastelands]]
+
+====Incense Bark====
+=-----=
+* ''Gathered at''
+** [[Grune Rainforest]]
+** [[Alanya West Ruins]]
+** [[Primordial Island]]
+
+====Living Cactus====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Grand Horn]]
+
+====Med Tree Root====
+=-----=
+* ''Gathered at''
+** [[Arland Great Plains]]
+** [[Arland Area]]
+
+====Dizzy Cap Spore====
+=-----=
+* ''Gathered at''
+** [[Neumont Forest]]
+** [[Alanya West Ruins]]
+** [[Inner Islets]]
+* ''Dropped by''
+** [[Witch Rose]]
+
+====Winding Grass====
+=-----=
+* ''Gathered at''
+** [[Silver Lands]]
+** [[Southwest Peninsula]]
+** [[Alanya West Ruins]]
+
+====Cryptobotany====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Silver Lands]]
+* ''Dropped by''
+** [[Witch Rose]]
+
+====Moonlight Flower====
+=-----=
+* ''Gathered at''
+** [[Moonlight Forest]] (Galaxy rank)
+
+====Fest====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Primordial Island]]
+** [[Arland Wastelands]]
+
+====Phlogiston====
+=-----=
+* ''Gathered at''
+** [[Arland Great Plains]]
+** [[Southwest Peninsula]]
+** [[Arland Wastelands]]
+* ''Dropped by''
+** [[Salamandra]]
+** [[T. Bomb Squirrel]]
+
+====Fuel Dirt====
+=-----=
+* ''Gathered at''
+** [[Golden Plains]]
+** [[Northern Ruins]]
+** [[Primordial Island]]
+* ''Dropped by''	
+** [[T. Bomb Squirrel]]
+
+====Distill Stone====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Continental Coastline]]
+** [[Primordial Island]]
+
+====Bless Stone====
+=-----=
+* ''Gathered at''
+** [[Runestone Nest]]
+** [[Arland Great Plains]]
+** [[Arland Area]]
+
+====Stench Stone====
+=-----=
+* ''Gathered at''
+** [[Arland Great Plains]]
+** [[Arland Wastelands]]
+** [[Continental Coastline]]
+
+====Bounce Stone====
+=-----=
+* ''Gathered at''
+** [[Arland Great Plains]]
+** [[Southwest Peninsula]]
+** [[Continental Coastline]]
+
+====Rock Salt====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Continental Coastline]]
+** [[Primordial Island]]
+* ''Dropped by''
+** [[Scissor Bug]]
+** [[Spike Bug]]
+** [[Giant Bug]]
+** [[Queen Guard]]
+
+====Stim Stone====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Continental Coastline]]
+** [[Arland Area]]
+
+====Snow Stone====
+=-----=
+* ''Gathered at''
+** [[Silver Lands]]
+** [[Alanya Area]]
+** [[Continental Coastline]]
+* ''Dropped by''
+** [[Basalt Dragon]]
+** [[Arctic Penguin]]
+
+====Sunny Crystal====
+=-----=
+* ''Gathered at''
+** [[Primordial Island]]
+** [[Northern Ruins]]
+** [[Continental Coastline]]
+
+====Metal Ore====
+=-----=
+* ''Gathered at''
+** [[Runestone Nest]]
+** [[Northern Ruins]]
+** [[Arland New World]]
+
+====Gravistone====
+=-----=
+* ''Gathered at''
+** [[Stein Hill]]
+** [[Runestone Nest]]
+** [[Southwest Peninsula]]
+* ''Dropped by''
+** [[Iron Giant]]
+
+====Star Piece====
+=-----=
+* ''Gathered at''
+** [[Stein Hill]]
+** [[Runestone Nest]]
+** [[Grand Horn]]
+* ''Dropped by''
+** [[Iron Giant]]
+
+====Original Gem====
+=-----=
+* ''Gathered at''
+** [[Runestone Nest]]
+** [[Continental Coastline]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Griffonian]]
+** [[Box Squirrel]]
+** [[Jewel Element]]
+
+====Wispstone====
+=-----=
+* ''Gathered at''
+** [[Night's Domain]]
+** [[Southwest Peninsula]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Glass Element]]
+
+====Black Runestone====
+=-----=
+* ''Gathered at''
+** [[Runestone Nest]]
+** [[Night's Domain]]
+** [[Arland New World]]
+* ''Dropped by''
+** [[Elder Griffon]]
+** [[[[Evil Face]]]]
+
+====Sea Puddle====
+=-----=
+* ''Gathered at''
+** [[Primordial Island]]
+** [[Arland Wastelands]]
+* ''Dropped by''
+** [[T. Bomb Squirrel]]
+
+====Chainweb====
+=-----=
+* ''Gathered at''
+** [[Ancient Monastery]]
+** [[Alanya Area]]
+** [[Silver Lands]]
+
+====Cotton Flower====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Arland New World]]
+** [[Outer Islets]]
+
+====Some Egg====
+=-----=
+* ''Gathered at''
+** [[Grand Horn]]
+** [[Arland New World]]
+** [[Continental Coastline]]
+* ''Dropped by''
+** [[Griffon]]
+** [[Griffonian]]
+** [[Elder Griffon]]
+
+====Quake Crystal====
+=-----=
+* ''Gathered at''
+** [[Stein Hill]]
+** [[Runestone Nest]]
+** [[Arland Area]]
+
+====Forgotten Bone====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Silver Lands]]
+** [[Arland Wastelands]]
+
+====Sea Grass====
+=-----=
+* ''Gathered at''
+** [[Outer Islets]]
+** [[Inner Islets]]
+
+====Sponge Fruit====
+=-----=
+* ''Gathered at''
+** [[Primordial Island]]
+** [[Outer Islets]]
+** [[Inner Islets]]
+
+====Pretty Shell====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Arland New World]]
+** [[Alanya Area]]
+* ''Dropped by''
+** [[Flauschtraut]]
+
+====Sea Star====
+=-----=
+* ''Gathered at''
+** [[Altmeier]]
+** [[Inner Islets]]
+
+====Blue Sand====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Altmeier]]
+** [[Arland Great Plains]]
+* ''Dropped by''
+** [[Flauschtraut]]
+
+====Seahorse====
+=-----=
+* ''Gathered at''
+** [[Altmeier]]
+** [[Inner Islets]]
+
+====Swirly Shell====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Silver Lands]]
+
+====Mermaid Tear====
+=-----=
+* ''Gathered at''
+** [[Arland Area]]
+** [[Primordial Island]]
+** [[Silver Lands]]
+* ''Dropped by''
+** [[Flauschtraut]]
+
+====Small Sardine====
+=-----=
+* ''Gathered at''
+** Alanya Village
+** [[Inner Islets]]
+
+====Butterfly Fish====
+=-----=
+* ''Gathered at''
+** [[Inner Islets]]
+
+====Bomb Fish====
+=-----=
+* ''Gathered at''
+** [[Altmeier]]
+** [[Inner Islets]]
+
+====Spike Tuna====
+=-----=
+* ''Gathered at''
+** [[Altmeier]]
+** [[Outer Islets]]
+
+====Living Fossil====
+=-----=
+* ''Gathered at''
+** [[Outer Islets]]
+
+====Guardian Slice====
+=-----=
+* See [[Specialty Liquor]]
+
+====Honeypot Ant====
+=-----=
+* ''Gathered at''
+** [[Southwest Peninsula]]
+** [[Outer Islets]]
+
+====Gold Scarab====
+=-----=
+* ''Gathered at''
+** [[Grune Rainforest]]
+** [[Primordial Island]]
+
+====Strawberry Bug====
+=-----=
+* ''Gathered at''
+** [[Stein Hill]]
+** [[Southwest Peninsula]]
+** [[Alanya West Ruins]]
+
+====Bitter Worm====
+=-----=
+* ''Gathered at''
+** [[Alanya West Ruins]]
+** [[Arland Great Plains]]
+** [[Primordial Island]]
+
+====Star Ladybug====
+=-----=
+* ''Gathered at''
+** [[Neumont Forest]]
+** [[Alanya Area]]
+
+====Puni Mushroom====
+=-----=
+* ''Gathered at''
+** [[Alanya West Ruins]]
+** [[Primordial Island]]
+
+====Fragrant Bug====
+=-----=
+* ''Gathered at''
+** [[Forgotten Village]]
+** [[Northern Ruins]]
+
+====Azure Wing====
+=-----=
+* ''Gathered at''
+** [[Grune Rainforest]]
+** [[Primordial Island]]
+* ''Dropped by''
+** [[Black Demon]]
+** [[Giant Bug]]
+
+====Bamboo====
+=-----=
+* ''Gathered at''
+** [[Alanya West Ruins]]
+** [[Primordial Island]]
+** [[Arland New World]]
+
+====Blacktree Lumber====
+=-----=
+* ''Gathered at''
+** [[Arland New World]]
+** [[Primordial Island]]
+
+====World Tree Twig====
+=-----=
+* ''Gathered at''
+** [[Silver Lands]]
+** [[Arland New World]]
+
+====Fairy World Tree====
+=-----=
+* ''Gathered at''
+** [[Grand Horn]]
+
+====Puniball====
+=-----=
+* ''Dropped by''
+** Anything Puni
+
+====Audra's Tail====
+=-----=
+* ''Dropped by''
+** [[Audra]]
+** [[Roc]]
+** [[Fresverg]]
+
+====Dead Beast====
+=-----=
+* ''Dropped by''
+** [[Wolf]]
+** [[Jagd Wolf]]
+** [[Griffon]]
+
+====Pendelook====
+=-----=
+* ''Gathered at''
+** [[Ancient Monastery]]
+** [[Northern Ruins]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Ghost]]
+** [[Scare Phantom]]
+
+====Isle Amber====
+=-----=
+* ''Gathered at''
+** [[Arland New World]]
+* ''Dropped by''
+** [[Isle Fish]]
+** [[Valoshun]]
+
+====Mandra Root====
+=-----=
+* ''Dropped by''
+** [[Mandragora]]
+** [[Witch Rose]]
+
+====Dark Dew====
+=-----=
+* ''Gathered at''
+** [[Night's Domain]]
+** [[Primordial Island]]
+** [[Arland New World]]
+* ''Dropped by''
+** [[Black Demon]]
+** [[Evil Face]]
+
+====Dragon Tusk====
+=-----=
+* Buy at [[Pilca's Shop]]
+* ''Dropped by''
+** [[Black Dragon]]
+** [[Fran Pfeil]]
+
+====Dragon Scale====
+=-----=
+* ''Dropped by''
+** [[Raum Lizard]]
+** [[Dragon]]
+** [[Black Dragon]]
+** [[Fran Pfeil]]
+
+====Behemoth Heart====
+=-----=
+* ''Dropped by''
+** [[Wasteland Beast]]
+** [[Behemoth]]
+
+====Petrified Lizard====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Arland Wastelands]]
+** [[Outer Islets]]
+
+====Venom Gland====
+=-----=
+* ''Gathered at''
+** [[Ancient Monastery]]
+** [[Primordial Island]]
+** [[Arland Wastelands]]
+* ''Dropped by''
+** [[Aphostol]]
+** [[Salamandra]]
+** [[Basalt Dragon]]
+** [[Raum Lizard]]
+
+====Globe Sphere====
+=-----=
+* ''Gathered at''
+** [[Ancient Monastery]]
+* ''Dropped by''
+** [[Aphostol]]
+** [[Scarlet]]
+** [[Iron Giant]]
+** [[Box Squirrel]]
+
+====Fluffy Fur====
+=-----=
+* ''Gathered at''
+** [[Forgotten Village]]
+* ''Dropped by''
+** [[Coastal Penguin]]
+** [[Tropical Penguin]]
+** [[Arctic Penguin]]
+
+====Beast Stone====
+=-----=
+* ''Gathered at''
+** [[Stein Hill]]
+** [[Alanya Area]]
+** [[Silver Lands]]
+* ''Dropped by''
+** [[Jagd Wolf]]
+
+====Goat Horn====
+=-----=
+* ''Gathered at''
+** [[Alanya Area]]
+** [[Northern Ruins]]
+* ''Dropped by''
+** [[Fighting Goat]]
+** [[Dark Messenger]]
+** [[Gold-haired Ram]]
+	
+====Fertilizer====
+=-----=
+* ''Gathered at''
+** [[Forgotten Village]]
+* ''Dropped by''
+** [[Aphostol]]
+** [[Scarlet]]
+** [[Black Demon]]
+
+====Water====
+=-----=
+* ''Gathered at''
+** Any town
+** [[Forgotten Village]]
+* ''Dropped by''
+** [[Isle Fish]]
+** [[Valoshun]]
+
+====Chariot Milk====
+=-----=
+* ''Gathered at''
+** [[Lost Island]]
+** [[Golden Plains]]
+
+====Wheat====
+=-----=
+* ''Gathered at''
+** [[Golden Plains]]
+** [[Outer Islets]]
+
+====Blue Fruit====
+=-----=
+* ''Gathered at''
+** [[Golden Plains]]
+** [[Arland Great Plains]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Pot Squirrel]]
+
+====Red Fruit====
+=-----=
+* ''Gathered at''
+** [[Golden Plains]]
+** [[Arland Great Plains]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Pot Squirrel]]
+
+====Coco Fruit====
+=-----=
+* ''Gathered at''
+** [[Scorched Wasteland]]
+** [[Alanya Area]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Coastal Penguin]]
+
+====Purple Grape====
+=-----=
+* ''Gathered at''
+** [[Golden Plains]]
+** [[Silver Lands]]
+** [[Arland Great Plains]]
+
+====Sonne Fruit====
+=-----=
+* ''Gathered at''
+** [[Grune Rainforest]]
+** [[Primordial Island]]
+
+====Serenity Flower====
+=-----=
+* ''Gathered at''
+** [[Forgotten Village]]
+** [[Alanya Area]]
+** [[Continental Coastline]]
+* ''Dropped by''
+** [[Scissor Bug]]
+
+====Fresh Mint====
+=-----=
+* ''Gathered at''
+** [[Forgotten Village]]
+** [[Continental Coastline]]
+* ''Dropped by''
+** [[Mandragora]]
+** [[Spike Bug]]
+** [[Queen Guard]]
+
+====Sage Herb====
+=-----=
+* ''Gathered at''
+** [[Neumont Forest]]
+** [[Arland Wastelands]]
+** [[Southwest Peninsula]]
+
+====Forest Dew====
+=-----=
+* ''Gathered at''
+** [[Grune Rainforest]]
+** [[Arland New World]]
+
+====Shining Saucer====
+=-----=
+* ''Gathered at''
+** [[Grand Horn]]
+** [[Neumont Forest]]
+** [[Arland New World]]
+
+====Water of Life====
+=-----=
+* See [[Chim End Requirements]]
+
+====World Spirits====
+=-----=
+* ''Gathered at''
+** [[Neumont Forest]]
+** [[Silver Lands]]
+** [[Outer Islets]]
+* ''Dropped by''
+** [[Glass Element]]
+** [[Evil Face]]
+
+====Broken Item====
+=-----=
+* Fail synthesis
+
+====Forbidden Fruit====
+=-----=
+* Vita exclusive
+* ''Dropped by''
+** [[Mask d'R]]
+
+====Drop of Light====
+=-----=
+* Vita exclusive
+* ''Dropped by''
+** [[Blood Element]]
+
+====Steel Heart====
+=-----=
+* Vita exclusive
+* ''Dropped by''
+** [[Cobalt Skull]]
+
+====Fluffy Hair====
+=-----=
+* Vita exclusive
+* ''Dropped by''
+** [[Mask d'P]]
+
+===Usable Items===
+
+====Bomb====
+=-----=
+* From: [[Rorona's Recipes]]
+
+* ''Recipe''
+** [[Phlogiston]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Fire]] S
+** [[Fire]] M
+** [[Fire]] L
+
+====Mega Bomb====
+=-----=
+* From: [[Lemegeton]]
+
+* ''Recipe''
+** [[Bomb]] x3
+** [[(Gunpowder)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Fire]] M
+** [[Fire]] L
+
+====N/A====
+=-----=
+* From: [[Rorona Danger Book]]
+
+* ''Recipe''
+** [[Mega Bomb]] x2
+** [[(Gunpowder)]] x2
+** [[Tar Liquid]] x2
+** [[Supplement]] x1
+* ''Effect''
+** [[Fire]] L
+** [[Fire]] XL
+** Explosive ([[Fire]])
+
+====Bomb Ice====
+=-----=
+* From: [[Me and My Bomb]]
+
+* ''Recipe''
+** [[Snow Stone]] x1
+** (Gunpowder) x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Ice]] S
+** [[Ice]] M
+** [[Ice]] L
+** [[Flowing Magic]]
+
+====Bomber Ice====
+=-----=
+* From: [[Lemegeton]]
+
+* ''Recipe''
+** [[Bomb Ice]] x2
+** [[(Gunpowder)]] x1
+** [[(Fuel)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Ice]] M
+** [[Ice]] L
+
+====Lightning Bomb====
+=-----=
+* From: [[Me and My Bomb]]
+
+* ''Recipe''
+** [[Quake Crystal]] x1
+** [[(Gunpowder)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Lightning]] S
+** [[Lightning]] M
+** [[Lightning]] L
+
+====Lightning Quartz====
+=-----=
+* From: [[Lemegeton]]
+
+* ''Recipe''
+** [[Lightning Bomb]] x2
+** [[(Gunpowder)]] x1
+** [[(Fuel)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Lightning]] M
+** [[Lightning]] L
+
+====Globe====
+=-----=
+* From: [[Seasonal Alchemy 1]]
+
+* ''Recipe''
+** [[Globe Sphere]] x1
+** [[(Lumber)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Earth]] S
+** [[Earth]] M
+** [[Earth]] L
+
+====Armillary Sphere====
+=-----=
+* From: [[Heavenly Call]]
+
+* ''Recipe''
+** [[Globe]] x1
+** [[Star Piece]] x1
+** [[Shining Saucer]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Element Damage +]]
+
+====Meteor====
+=-----=
+* From: [[Else Qulario]]
+
+* ''Recipe''
+** [[(Jewel)]] x1
+** [[Star Piece]] x2
+** [[(Cloth)]] x1
+* ''Effect''
+** [[Falling]] Stars
+** [[Falling]] Puni
+** [[Falling]] Boulder
+** [[Falling]] Uni
+** [[Falling]] ???
+** [[Attack]] M
+** [[Attack]] L
+
+====Himmelstern====
+=-----=
+* From: [[Heavenly Call]]
+
+* ''Recipe''
+** [[Meteor]] x2
+** [[Crystal Ball]] x1
+** [[(Gunpowder)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Attack]] L
+** [[Attack]] XL
+
+====Craft====
+=-----=
+* From: [[Starter Recipes]]
+
+* ''Recipe''
+** [[Nuse]] x2
+* ''Effect''
+** [[Attack]] XS
+** [[Attack]] S
+
+====Fishcraft====
+=-----=
+* From: [[Rorona's Fish Memo]]
+
+* ''Recipe''
+** [[Craft]] x1
+** [[(Fish)]] x2
+* ''Effect''
+** [[Fishy]]
+** Isle [[Fishy]]
+
+====Diocraft====
+=-----=
+* From: [[Rorona Danger Book]]
+
+* ''Recipe''
+** [[Craft]] x2
+** [[(Gunpowder)]] x1
+** [[(Poison)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Attack]] M
+** [[Attack]] L
+** [[ATK-]]
+** [[DEF-]]
+** [[Poisonous]]
+** [[Venomous]]
+
+====Megacraft====
+=-----=
+* From: [[Else Qulario]]
+
+* ''Recipe''
+** [[Craft]] x1
+** [[(Gunpowder)]] x2
+** [[(Fuel)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Attack]] M
+** [[Attack]] L
+
+====Cannon====
+=-----=
+* From: [[Me and My Bomb]]
+
+* ''Recipe''
+** [[(Gunpowder)]] x1
+** [[(Ingot)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** Teeny [[Cannonball]]
+** [[Cannonball]]
+
+====Spirit Stone====
+=-----=
+* From: [[Gold-Haired Ram (Recipe)]]
+
+* ''Recipe''
+** [[World Spirits]] x2
+** [[(Mystery)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Earth]] L
+
+====Conch Horn====
+=-----=
+* From: [[Seasonal Alchemy 2]]
+
+* ''Recipe''
+** [[Medicine Base]] x2
+** [[Swirly Shell]] x1
+** [[Supplement]] x1
+* ''Effect''
+** ???
+** [[Ailment Reducer]]
+** [[Damage Reducer]]
+** [[Damage Reducer]]+
+** [[Protective Charm]]
+
+====Auto Alarm====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[Nectar]] x1
+** [[(Jewel)]] x1
+** [[Audra's Tail]] x1
+* ''Effect''
+** [[Auto-KO Recovery]]
+** [[HP Healing]] S
+** [[HP Healing]] M
+
+====Witch Salve====
+=-----=
+* From: [[North Witch Legend]]
+
+* ''Recipe''
+** [[(Poison)]] x2
+** [[(Liquid)]] x1
+** [[Mandra Root]] x1
+* ''Effect''
+** [[Sleepy]]
+** [[Poisonous]]
+** [[Paralytic]]
+** [[Null Buff]]
+** [[Attack]] S
+** [[Attack]] M
+
+====Dark Water====
+=-----=
+* From: [[Rorona Danger Book]]
+
+* ''Recipe''
+** [[Pure Poison]] x2
+** [[Sea Puddle]] x1
+** [[Dark Dew]] x1
+* ''Effect''
+** [[Tri-Suffer]]
+** [[Sleepy]]
+** [[Blinding]]
+** [[Cursed]]
+** [[Acidic]]
+
+====Magic Chain====
+=-----=
+* From: [[Seasonal Alchemy 2]]
+
+* ''Recipe''
+** [[Living Rope]] x1
+** [[(Ore)]] x1
+** [[(Mystery)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[Critical Down]]
+** [[Critical Down]] +
+** [[SPD-]]
+
+====Ether Ink====
+=-----=
+* From: [[New Age Art Theory]]
+
+* ''Recipe''
+** [[Magic Paint]] x1
+** [[(Healing)]] x1
+** [[(Liquid)]] x1
+* ''Effect''
+** [[Item Effect +]]
+** [[Physical +]]
+
+====Fish Can====
+=-----=
+* From: [[Rorona's Fish Memo]]
+
+* ''Recipe''
+** [[(Fish)]] x1
+** [[(Seasoning)]] x1
+** [[(Ingot)]] x1
+* ''Effect''
+** [[LP Recovery]] XS
+** [[LP Recovery]] M
+** [[LP Recovery]] L
+** [[Attack]] XS
+
+====Passionate Soup====
+=-----=
+* From: [[Iksel Recipe Book]]
+
+* ''Recipe''
+** [[(Seasoning)]] x1
+** [[(Vegetable)]] x2
+** [[Water]] x1
+* ''Effect''
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+** [[Sleep Recovery]]
+** [[Paralysis Recovery]]
+** [[Poison Recovery]]
+** [[Blind Recovery]]
+
+====Special Meat====
+=-----=
+* From: [[Head Chef's Gift]]
+
+* ''Recipe''
+** [[Dead Beast]] x1
+** [[(Seasoning)]] x2
+** [[Pure Oil]] x1
+* ''Effect''
+** [[LP Recovery]] M
+** [[LP Recovery]] L
+** [[HP Healing]] S
+** [[HP Healing]] L
+
+====Plain Pie====
+=-----=
+* From: [[Rorona's Pie Notes]]
+
+* ''Recipe''
+** [[(Seasoning)]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[LP Recovery]] XS
+
+====Homemade Pie====
+=-----=
+* From: [[Fish Pie Recipe]]
+
+* ''Recipe''
+** [[Salt]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[LP Recovery]] XS
+** ???
+
+====Honey Pie====
+=-----=
+* From: [[Rorona's Pie Notes]]
+
+* ''Recipe''
+** [[Honey]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[Sweet]]
+** ???
+** [[LP Recovery]] XS
+** [[LP Recovery]] S
+
+====Cream Pie====
+=-----=
+* From: [[Rorona's Pie Notes]]
+
+* ''Recipe''
+** [[Chariot Milk]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** ???
+** [[LP Recovery]] XS
+** [[LP Recovery]] S
+
+====Veggie Pie====
+=-----=
+* From: [[Rorona's Pie Notes]]
+
+* ''Recipe''
+** [[(Vegetable)]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[Robust Taste]]
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+
+====Meat Pie====
+=-----=
+* From: [[Rorona's Pie Notes]]
+
+* ''Recipe''
+** [[(Meat)]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[Powerful Taste]]
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+
+====Fish Pie====
+=-----=
+* From: [[Fish Pie Recipe]]
+
+* ''Recipe''
+** [[(Fish)]] x2
+** [[Salt]] x1
+** [[Flour]] x1
+** [[Water]] x1
+* ''Effect''
+** [[Hasty Taste]]
+** ???
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+
+====Iksel Plate====
+=-----=
+* From: [[Head Chef's Gift]]
+
+* ''Recipe''
+** [[(Meat)]] x2
+** [[(Vegetable)]] x2
+* ''Effect''
+** [[LP Recovery]] L
+** [[HP Recovery]] L
+
+====Iksel Course====
+=-----=
+* From: [[Head Chef's Gift]]
+
+* ''Recipe''
+** [[Iksel Plate]] x1
+** [[Danish]] x1
+** [[(Seasoning)]] x1
+** [[(Spice)]] x11
+* ''Effect''
+** [[LP Recovery]] XL
+** [[HP Recovery]] XL
+** [[MP Recovery]] L
+** ???
+
+====Meister Tarte====
+=-----=
+* From: [[Awesome Slow Food]]
+
+* ''Recipe''
+** [[(Vegetable)]] x1
+** [[Flour]] x1
+** [[(Plant)]] x1
+* ''Effect''
+** [[HP Recovery]] S
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+
+====Danish====
+=-----=
+* From: [[Awesome Slow Food]]
+
+* ''Recipe''
+** [[(Vegetable)]] x2
+** [[Flour]] x1
+** [[Alchemy Yeast]] x1
+* ''Effect''
+** [[HP Recovery]] M
+** [[LP Recovery]] M
+** [[LP Recovery]] L
+
+====Mont Blanc====
+=-----=
+* From: [[Head Chef's Gift]]
+
+* ''Recipe''
+** [[Uni]] x3
+** [[Danish]] x1
+** [[One Powder]] x1
+* ''Effect''
+** ???
+** [[Ailment Recovery]]
+** [[HP Recovery]] M
+** ???
+** [[LP Recovery]] L
+
+====Century Biscuit====
+=-----=
+* From: [[Great Ingredients]]
+
+* ''Recipe''
+** [[Chariot Milk]] x1
+** [[Flour]] x1
+** [[(Mystery)]] x1
+** [[Some Egg]] x1
+* ''Effect''
+** ???
+** [[HP Recovery]] S
+** [[HP Recovery]] M
+** ???
+** [[LP Recovery]] S
+** [[LP Recovery]] M
+** [[MP Recovery]] XS
+** [[MP Recovery]] S
+
+====Totori Brunch====
+=-----=
+* From: [[Totori's Cooking]]
+
+* ''Recipe''
+** [[(Fish)]] x1
+** [[(Vegetable)]] x1
+** [[(Meat)]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Hasty Taste]]
+** [[Robust Taste]]
+** [[LP Recovery]] XL
+** [[Powerful Taste]]
+
+====Medical Cream====
+=-----=
+* From: [[Home Remedies]]
+
+* ''Recipe''
+** [[(Healing)]] x1
+** [[Pure Oil]] x1
+** [[(Elixir)]] x1
+* ''Effect''
+** [[HP Recovery]] S
+** [[HP Recovery]] M
+
+====Drachen Elixir====
+=-----=
+* From: [[Ancient Herbs]]
+
+* ''Recipe''
+** [[Medicine Base]] x1
+** [[Dragon Tusk]] x1
+** [[(Elixir)]] x1
+* ''Effect''
+** [[HP Recovery]] L
+** [[HP Recovery]] XL
+** ???
+** [[Dragon Power]]
+** [[ATK+]]
+** [[Flame Element]]
+
+====Migraine Syrup====
+=-----=
+* From: [[Home Remedies]]
+
+* ''Recipe''
+** [[(Healing)]] x1
+** [[Sweet Gem]] x1
+** [[(Elixir)]] x1
+* ''Effect''
+** [[MP Recovery]] XS
+** [[MP Recovery]] M
+** [[Sweet]]
+** Very [[Sweet]]
+** Melty ([[Sweet]])
+
+====Vitality Pill====
+=-----=
+* From: [[Ancient Herbs]]
+
+* ''Recipe''
+** [[Medicine Base]] x1
+** [[Mermaid Tear]] x1
+** [[(Elixir)]] x1
+* ''Effect''
+** [[HP Recovery]] M
+** [[HP Recovery]] L
+** [[HP Recovery]] XL
+** [[HP+ Temp]]
+
+====Healing Salve====
+=-----=
+* From: [[Starter Recipes]]
+
+* ''Recipe''
+** [[(Plant)]] x1
+** [[Mandra Root]] x1
+** [[Water]] x1
+* ''Effect''
+** [[HP Recovery]] XS
+** [[HP Recovery]] S
+
+====Nectar====
+=-----=
+* From: [[North Witch Legend]]
+
+* ''Recipe''
+** [[(Mystery)]] x1
+** [[Puniball]] x1
+** [[(Liquid)]] x2
+* ''Effect''
+** [[KO Recovery]] S
+** [[KO Recovery]] M
+** [[KO Recovery]] L
+
+====Elixir====
+=-----=
+* From: [[Gold-Haired Ram (Recipe)]]
+
+* ''Recipe''
+** [[(Elixir)]] x1
+** [[Nectar]] x1
+** [[Sage Herb]] x1
+** [[(Healing)]] x1
+* ''Effect''
+** [[HP Recovery]] L
+** [[HP Recovery]] XL
+** ???
+** [[KO Recovery]] L
+** [[HP Healing]] L
+** [[MP Recovery]] XL
+** [[Ailment Recovery]]
+
+====Black Tea====
+=-----=
+* From: [[Iksel Recipe Book]]
+
+* ''Recipe''
+** [[(Plant)]] x1
+** [[(Spice)]] x1
+** [[Water]] x1
+* ''Effect''
+** [[Sleep Recovery]]
+** [[Poison Recovery]]
+** [[Ailment Recovery]]
+** [[Paralysis Recovery]]
+** [[MP Recovery]] XS
+** [[Tangy]]
+** [[Bitter]]
+** [[Balanced]]
+
+====Mystery Ankh====
+=-----=
+* From: [[Crafter's Life]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[(Mystery)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[KO Recovery]] S
+** [[HP Healing]] M
+** [[HP+ Temp]]
+** [[ATK+]]
+** [[DEF+]]
+** [[SPD+]]
+** [[Curse Recovery]]
+
+====Mind Water====
+=-----=
+* From: [[Ancient Herbs]]
+
+* ''Recipe''
+** [[(Spice)]] x2
+** [[Water]] x1
+* ''Effect''
+** [[MP Recovery]] M
+** [[MP Recovery]] L
+** [[MP Recovery]] XL
+
+====Secret Remedy====
+=-----=
+* From: [[Ancient Herbs]]
+
+* ''Recipe''
+** [[Seahorse]] x1
+** [[(Healing)]] x1
+** [[(Elixir)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[HP Recovery]] L
+** [[Fall Back]]
+** [[MP Recovery]] L
+
+====Healing Spore====
+=-----=
+* From: [[North Witch Legend]]
+
+* ''Recipe''
+** [[Dizzy Cap Spore]] x1
+** [[(Poison)]] x1
+** [[(Elixir)]] x1
+** [[Supplement]] x1
+* ''Effect''
+** [[HP Healing]] L
+** [[HP Healing]] XL
+** [[Venomous]]
+** [[Poisonous]]
+
+====Happy Basket====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[(Mystery)]] x2
+** [[(Meat)]] x1
+** [[(Vegetable)]] x1
+** [[Zettel]] x1
+* ''Effect''
+** [[Spring Food]]
+** [[Spring Food]] +
+
+====Spring Cup====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[(Liquid)]] x2
+** [[(Ingot)]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Spring Liquid]]
+** [[Spring Liquid]] +
+
+====Fertile Pot====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[(Plant)]] x3
+** [[Fertilizer]] x1
+** [[(Ore)]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Spring Plant]]
+** [[Spring Plant]] +
+
+====Secret Bag====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[(Mystery)]] x1
+** [[Zettel]] x3
+** [[Fluffy Fur]] x2
+** [[(Plant)]] x1
+* ''Effect''
+** [[Free Transfer]]
+
+====Blessed Coin====
+=-----=
+* From: [[Super Tool Guide]]
+
+* ''Recipe''
+** [[Arland Crystal]] x1
+** [[Polish Powder]] x2
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Rot Prevension]]
+** [[Charger]]
+
+====Tonic====
+=-----=
+* From: [[Home Remedies]]
+
+* ''Recipe''
+** [[(Plant)]] x3
+** [[Magic Grass]] x3
+** [[(Liquid)]] x1
+* ''Effect''
+** [[Item Lv. Up?]]
+** Item Lv. Up+?
+** [[Item Quality Up?]]
+** Item Quality Up+?
+** [[Item Trait Up?]]
+** Item Trait Up+?
+
+====Traveler Shoes====
+=-----=
+* From: [[Traveler's Tales]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[World Spirits]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Sprint]]
+
+====Speed Gloves====
+=-----=
+* From: [[Agrarian Mastery]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Magic Paint]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** [[Gathering Master]]
+
+====Warp Gate====
+=-----=
+* From: [[Book of Sibyl]]
+
+* ''Recipe''
+** [[(Jewel)]] x1
+** [[Azure Wing]] x1
+** [[(Lumber)]] x1
+* ''Effect''
+** [[Workshop Wings]]
+=-=
+====Fate Talisman====
+=-----=
+* From: [[New Age Art Theory]]
+
+* ''Recipe''
+** [[Zettel]] x2
+** [[Magic Paint]]
+* ''Effect''
+** [[Safety Card]]
+** ???
+=-=
+====Flying Carpet====
+=-----=
+* From: [[Traveler's Tales]]
+
+* ''Recipe''
+** [[Fluffy Fur]] x1
+** [[(Threads)]] x2
+** [[Audra's Tail]] x1
+* ''Effect''
+** [[Emergency Escape]]
+=-=
+====Dimension Egg====
+=-----=
+* From: [[Divine Materials]]
+
+* ''Recipe''
+** [[Gravistone]] x3
+** [[(Mystery)]] x2
+** [[Some Egg]] x1
+* ''Effect''
+** [[Double Move]]
+** [[MP Eater]]
+=-=
+===Synthesis Items===
+
+====Supplement====
+=-----=
+* From: [[Starter Recipes]]
+
+* ''Recipe''
+** (Supplement) x1
+
+====Zettel====
+=-----=
+* From: [[Rorona's Recipes]]
+
+* ''Recipe''
+** [[(Plant)]] x2
+** [[Supplement]] x1
+** [[Water]] x1
+
+====Pure Oil====
+=-----=
+* From: [[Cooking Basics]]
+
+* ''Recipe''
+** [[Coco Fruit]] x1
+** [[Distill Stone]] x1
+
+====Alchemy Yeast====
+=-----=
+* From: [[Cooking Basics]]
+
+* ''Recipe''
+** [[(Vegetable)]] x1
+** [[Water]] x1
+** [[Fuel Dirt]] x1
+
+====Alchemy Coal====
+=-----=
+* From: [[Me and My Bomb]]
+
+* ''Recipe''
+** [[(Lumber)]] x1
+** [[(Gunpowder)]] x1
+
+====Polish Powder====
+=-----=
+* From: [[Rorona's Recipes]]
+
+* ''Recipe''
+** [[Fest]] x2
+
+====Sweet Gem====
+=-----=
+* From: [[Seasonal Alchemy 1]]
+
+* ''Recipe''
+** [[Honey]] x1
+** [[(Jewel)]] x1
+
+====Pure Poison====
+=-----=
+* From: [[North Witch Legend]]
+
+* ''Recipe''
+** [[Venom Gland]] x1
+** [[(Poison)]] x1
+** [[Supplement]] x1
+
+====Crimson Dye====
+=-----=
+* From: [[Traditional Crafts]]
+
+* ''Recipe''
+** [[Strawberry Bug]] x1
+** [[Red Fruit]] x1
+
+====Glass Beads====
+=-----=
+* From: [[Traditional Crafts]]
+
+* ''Recipe''
+** [[Blue Sand]] x2
+
+====Crystal Ball====
+=-----=
+* From: [[Traditional Crafts]]
+
+* ''Recipe''
+** [[Glass Beads]] x2
+** [[(Jewel)]] x1
+
+====Medicine Base====
+=-----=
+* From: [[Home Remedies]]
+
+* ''Recipe''
+** [[(Healing)]] x1
+** [[(Plant)]] x1
+
+====Hay====
+=-----=
+* From: [[History of Drying]]
+
+* ''Recipe''
+** [[(Plant)]] x2
+** [[(Fuel)]] x1
+
+====Living Rope====
+=-----=
+* From: [[Traditional Crafts]]
+
+* ''Recipe''
+** [[Hay]] x1
+** [[(Plant)]] x1
+** [[Puniball]] x2
+
+====Rainbow Oil====
+=-----=
+* From: [[New Age Art Theory]]
+
+* ''Recipe''
+** [[Crimson Dye]] x1
+** [[Purple Grape]] x1
+** [[Pure Oil]] x1
+
+====Magic Paint====
+=-----=
+* From: [[New Age Art Theory]]
+
+* ''Recipe''
+** [[Tar Liquid]] x1
+** [[Rainbow Oil]] x1
+** [[(Mystery)]] x1
+
+====Tar Liquid====
+=-----=
+* From: [[New Age Art Theory]]
+
+* ''Recipe''
+** [[Tar Fruit]] x2
+** [[(Lumber)]] x1
+
+====Arland Crystal====
+=-----=
+* From: [[Seasonal Alchemy 1]]
+
+* ''Recipe''
+** [[(Jewel)]] x1
+** [[Polish Powder]] x1
+* ''Effect''
+** [[Crimson]] (the description of this effect is the same as every effect below)
+** Sapphire
+** ???
+** Topaz
+** Diamond
+
+====Ingot====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Ore)]] x2
+** [[(Fuel)]] x1
+
+====Tinc====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Stim Stone]] x1
+** [[(Fuel)]] x1
+
+====Dry Metal====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Quake Crystal]] x1
+** [[(Fuel)]] x1
+
+====Ster Metal====
+=-----=
+* From: [[Crafter's Life]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Gravistone]] x1
+** [[(Fuel)]] x1
+
+====Silvatite====
+=-----=
+* From: [[Crafter's Life]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Sunny Crystal]] x1
+** [[(Fuel)]] x1
+
+====Goldstein====
+=-----=
+* From: [[Crafter's Life]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Metal Ore]] x1
+** [[(Fuel)]] x1
+
+====Platine====
+=-----=
+* From: [[Divine Materials]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Wispstone]] x1
+** [[(Fuel)]] x1
+
+====Halmolium====
+=-----=
+* From: [[Divine Materials]]
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[Dragon Tusk]] x1
+** [[(Fuel)]] x1
+
+====Angel Stone====
+=-----=
+* From: [[Secret Notes]], Vita exclusive
+
+* ''Recipe''
+** [[(Ore)]] x1
+** [[World Spirits]] x1
+** [[(Fuel)]] x1
+
+====Cloth====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Threads)]] x2
+** [[(Liquid)]] x1
+
+====Muffcot====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Zettel]] x1
+** [[(Liquid)]] x1
+
+====Silkis====
+=-----=
+* From: [[Smith's Friend]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Chainweb]] x1
+** [[(Liquid)]] x1
+
+====Polywool====
+=-----=
+* From: [[Dress Meister]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Fluffy Fur]] x1
+** [[(Liquid)]] x1
+
+====Nylonfeather====
+=-----=
+* From: [[Dress Meister]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Cotton Flower]] x1
+** [[(Liquid)]] x1
+
+====Tanbeash====
+=-----=
+* From: [[Dress Meister]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Audra's Tail]] x1
+** [[(Liquid)]] x1
+
+====Scale Cloth====
+=-----=
+* From: [[Divine Materials]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Dragon Scale]] x1
+** [[(Liquid)]] x1
+
+====Velvetis====
+=-----=
+* From: [[Divine Materials]]
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Sponge Fruit]] x1
+** [[(Liquid)]] x1
+
+====Flour====
+=-----=
+* From: [[Cooking Basics]]
+
+* ''Recipe''
+** [[Wheat]] x2
+** [[Polish Powder]] x2
+
+====Salt====
+=-----=
+* From: [[Cooking Basics]]
+
+* ''Recipe''
+** [[Rock Salt]] x2
+** [[(Liquid)]] x1
+** [[(Fuel)]] x1
+
+====Honey====
+=-----=
+* From: [[Cooking Basics]]
+
+* ''Recipe''
+** [[Beehive]] x2
+** [[Supplement]] x1
+
+====One Powder====
+=-----=
+* From: [[Head Chef's Gift]]
+
+* ''Recipe''
+** [[Alchemy Yeast]] x1
+** [[Salt]] x1
+** [[(Seasoning)]] x1
+
+====Stockfish====
+=-----=
+* From: [[Rorona's Fish Memo]]
+
+* ''Recipe''
+** [[(Fish)]] x1
+** [[(Spice)]] x1
+** [[Fuel Dirt]] x1
+
+====Fish Sauce====
+=-----=
+* From: [[Rorona's Fish Memo]]
+
+* ''Recipe''
+** [[(Fish)]] x1
+** [[(Spice)]] x1
+** [[Pure Oil]] x1
+
+====Komet====
+=-----=
+* From: [[Shiny Items]]
+
+* ''Recipe''
+** [[Sunny Crystal]] x1
+** [[Polish Powder]] x1
+** [[Supplement]] x1
+
+====Sylph Breath====
+=-----=
+* From: [[North Witch Legend]]
+
+* ''Recipe''
+** [[(Plant)]] x1
+** [[(Mystery)]] x1
+** [[(Liquid)]] x1
+
+====Liquor====
+=-----=
+* From: [[Alcohol and Life]]
+
+* ''Recipe''
+** [[Distill Stone]] x1
+** [[(Seasoning)]] x1
+** [[Water]] x1
+
+====Beer====
+=-----=
+* From: [[Alcohol and Life]]
+
+* ''Recipe''
+** [[Wheat]] x2
+** [[(Liquid)]] x1
+
+====Grape Water====
+=-----=
+* From: [[Alcohol and Life]]
+
+* ''Recipe''
+** [[Purple Grape]] x2
+** [[Water]] x1
+
+====Blessed Wine====
+=-----=
+* From: [[Fancy Drinks]]
+
+* ''Recipe''
+** [[Grape Water]] x2
+** [[Distill Stone]] x1
+
+====Floral Sour Mix====
+=-----=
+* From: [[Fancy Drinks]]
+
+* ''Recipe''
+** [[(Spice)]] x2
+** [[Beer]] x1
+** [[Red Fruit]] x1
+
+====Million Nights====
+=-----=
+* From: [[Fancy Drinks]]
+
+* ''Recipe''
+** [[(Spice)]] x2
+** [[Liquor]] x1
+** [[Blue Fruit]] x1
+
+====Anchobeer====
+=-----=
+* From: [[Fish Booze Memo]]
+
+* ''Recipe''
+** [[Small Sardine]] x3
+** [[Beer]] x1
+** [[Salt]] x1
+
+====Tuna Wine====
+=-----=
+* From: [[Specialty Notes]]
+
+* ''Recipe''
+** [[Spike Tuna]] x2
+** [[Blessed Wine]] x1
+** [[(Lumber)]] x1
+
+====Butterfliquor====
+=-----=
+* From: [[Specialty Notes]]
+
+* ''Recipe''
+** [[Butterfly Fish]] x2
+** [[Honey]] x2
+** [[Liquor]] x1
+
+====Bomb Booze====
+=-----=
+* From: [[Specialty Notes]]
+
+* ''Recipe''
+** [[Bomb Fish]] x2
+** [[Liquor]] x2
+** [[(Bomb)]] x1
+
+====Guardian Liquor====
+=-----=
+* From: [[Extreme Brewing]]
+
+* ''Recipe''
+** [[Guardian Slice]] x1
+** [[Liquor]] x1
+** [[(Poison)]] x1
+
+====Dried Flower====
+=-----=
+* From: [[History of Drying]]
+
+* ''Recipe''
+** [[(Plant)]] x1
+** [[(Healing)]] x1
+** [[Fuel Dirt]] x1
+
+====Dried Meat====
+=-----=
+* From: [[History of Drying]]
+
+* ''Recipe''
+** [[(Meat)]] x1
+** [[Fuel Dirt]] x1
+
+====Smelly Liquid====
+=-----=
+* From: [[History of Drying]]
+
+* ''Recipe''
+** [[Stench Stone]] x1
+** [[Water]] x1
+
+====Ruby Prism====
+=-----=
+* From: [[Gold-Haired Ram (Recipe)]]
+
+* ''Recipe''
+** [[Dragon Tusk]] x1
+** [[Moonlight Flower]] x1
+** [[Elixir]] x1
+
+====Heavenly Parasol====
+=-----=
+* From: [[Aquanaut Memo]]
+
+* ''Recipe''
+** [[Water]] x3
+** [[Bomb Ice]] x1
+** [[Pure Oil]] x2
+* ''Effect''
+** [[Heat Deflect]]
+
+===Accessories===
+
+====Gnardi Ring====
+=-----=
+* From: [[Jewelry For You]]
+
+* ''Recipe''
+** [[(Ingot)]] x2
+** [[(Jewel)]] x1
+** [[Forgotten Bone]]
+* ''Effect''
+** ???
+** [[Protection Rune]]
+** [[Power Rune]]
+
+====Runestone====
+=-----=
+* From: [[Traditional Crafts]]
+
+* ''Recipe''
+** [[(Jewel)]] x1
+** [[Polish Powder]] x1
+** [[(Mystery)]] x1
+* ''Effect''
+** ???
+** [[Resist]] M
+** [[Resist]] L
+
+====Mercurius Eye====
+=-----=
+* From: [[Jewelry For You]]
+
+* ''Recipe''
+** [[Glass Beads]] x1
+** [[(Ingot)]] x1
+** [[Mermaid Tear]] x1
+* ''Effect''
+** ???
+** [[Hit+]] M
+** [[Hit+]] L
+** ???
+** [[Critical+]] S
+** [[Critical+]] L
+
+====Spirit Necklace====
+=-----=
+* From: [[Shiny Items]]
+
+* ''Recipe''
+** [[Sylph Breath]] x1
+** [[Komet]] x1
+** [[Audra's Tail]] x1
+** [[(Ingot)]] x1
+* ''Effect''
+** ???
+** Lightning [[Shield]]
+** Ice [[Shield]]
+** Fire [[Shield]]
+
+====Gibate Ankh====
+=-----=
+* From: [[Jewelry For You]]
+
+* ''Recipe''
+** [[Mystery Ankh]] x1
+** [[Arland Crystal]] x1
+** [[Snow Stone]] x1
+** [[(Ingot)]] x1
+* ''Effect''
+** [[Good Fortune]]
+** [[Great Learner]]
+** ???
+** Lightning [[Cloak]]
+** Ice [[Cloak]]
+** ???
+
+====Angel Charm====
+=-----=
+* From: [[Epic Poems]]
+
+* ''Recipe''
+** [[Azure Wing]] x1
+** [[Arland Crystal]] x1
+** [[Magic Chain]] x1
+* ''Effect''
+** [[Blessed Action]]
+** ???
+** [[Resist Death]]
+
+====Warrior Mask====
+=-----=
+* From: [[Epic Poems]]
+
+* ''Recipe''
+** [[(Lumber)]] x2
+** [[Ether Ink]] x1
+** [[Fluffy Fur]] x2
+* ''Effect''
+** ???
+** [[Hero Soul]]
+** ???
+** ???
+** [[HP Regen]] L
+
+====Mythical Ring====
+=-----=
+* From: [[Epic Poems]]
+
+* ''Recipe''
+** [[(Ingot)]] x2
+** [[(Elixir)]] x1
+** [[Spirit Stone]] x1
+* ''Effect''
+** [[Transference]]
+** [[Muscle Atrophy]]
+** [[Block]] S
+** [[Block]] M
+** ???
+
+====Shadow Band====
+=-----=
+* From: [[Epic Poems]]
+
+* ''Recipe''
+** [[Ingot]] x1
+** [[Gravistone]] x2
+** [[(Jewel)]] x2 (Vita only)
+* ''Effect''
+** [[Accelerate]]
+** [[HP Degen]]
+
+====Talisman====
+=-----=
+* From: [[Rorona Danger Book]]
+
+* ''Recipe''
+** [[Zettel]] x2
+** [[(Mystery)]] x1
+* ''Effect''
+** ???
+** [[Guts]] M
+** [[Guts]] L
+** [[Threatening]]
+** [[Nonthreatening]]
+
+====Camo Cloak====
+=-----=
+* From: [[Dress Meister]]
+
+* ''Recipe''
+** [[(Threads)]] x2
+** [[Ether Ink]] x1
+** [[Magic Paint]] x1
+* ''Effect''
+** ???
+** [[Evade+]] M
+** [[Evade+]] L
+
+===Items by Category===
+
+Arranged by Cost Level. There is one category not listed that is called for in synthesis -- (Supplement). If you want to see what a supplement is, try the entire [[Ingredient Items]] section.
+
+This also only concerns items that are called for in recipes. Sundries, pies, etc. are never demanded in recipes, and are only good to know for registering purposes.
+
+====(Bomb)====
+=-----=
+* [[N/A]] (45)
+* [[Himmelstern]] (41)
+* [[Bomber Ice]] (31)
+* [[Diocraft]] (30)
+* [[Meteor]] (28)
+* [[Mega Bomb]] (27)
+* [[Megacraft]] (25)
+* [[Fishcraft]] (16)
+* [[Bomb Ice]] (14)
+* [[Bomb]] (12)
+* [[Craft]] (3)
+
+====(Cloth)====
+=-----=
+* [[Velvetis]] (45)
+* [[Scale Cloth]] (40)
+* [[Tanbeash]] (35)
+* [[Nylonfeather]] (30)
+* [[Polywool]] (25)
+* [[Silkis]] (20)
+* [[Muffcot]] (15)
+* [[Cloth]] (10)
+
+====(Elixir)====
+=-----=
+* [[Ruby Prism]] (50)
+* [[Dark Dew]] (10)
+* [[Dragon Tusk]] (9)
+* [[Forest Dew]] (9)
+* [[Sage Herb]] (9)
+* [[Behemoth Heart]] (8)
+* [[Isle Amber]] (6)
+* [[Forgotten Bone]] (5)
+* [[Living Cactus]] (5)
+* [[Puni Mushroom]] (5)
+* [[Mandra Root]] (1)
+
+====(Fish)====
+=-----=
+* [[Living Fossil]] (9)
+* [[Bomb Fish]] (8)
+* [[Spike Tuna]] (7)
+* [[Butterfly Fish]] (4)
+* [[Small Sardine]] (1)
+
+====(Fuel)====
+=-----=
+* [[Rainbow Oil]] (20)
+* [[Tar Liquid]] (20)
+* [[Pure Oil]] (9)
+* [[Sea Puddle]] (9)
+* [[Coco Fruit]] (7)
+* [[Tar Fruit]] (5)
+* [[Some Egg]] (4)
+* [[Cotton Flower]] (3)
+* [[Fertilizer]] (1)
+
+====(Gunpowder)====
+=-----=
+* [[Bomb Booze]] (40)
+* [[Tar Liquid]] (20)
+* [[Sea Puddle]] (10)
+* [[Pure Oil]] (9)
+* [[Bomb Fish]] (8)
+* [[Tar Fruit]] (5)
+* [[Chainweb]] (4)
+* [[Flour]] (4)
+* [[Fuel Dirt]] (4)
+* [[Phlogiston]] (2)
+* [[Beehive]] (1)
+
+====(Healing)====
+=-----=
+* [[Ruby Prism]] (50)
+* [[Liquor]] (18)
+* [[Medicine Base]] (15)
+* [[Moonlight Flower]] (10)
+* [[Dragon Tusk]] (9)
+* [[Sage Herb]] (9)
+* [[Seahorse]] (9)
+* [[Behemoth Heart]] (8)
+* [[Sea Star]] (7)
+* [[Dizzy Cap Spore]] (6)
+* [[Isle Amber]] (6)
+* [[Venom Gland]] (6)
+* [[Edge Aloe]] (5)
+* [[Forgotten Bone]] (5)
+* [[Goat Horn]] (5)
+* [[Bitter Worm]] (4)
+* [[Bless Stone]] (4)
+* [[Med Tree Root]] (4)
+* [[Serenity Flower]] (2)
+* [[Magic Grass]] (1)
+* [[Mandra Root]] (1)
+* [[Puniball]] (1)
+
+====(Ingot)====
+=-----=
+* [[Angel Stone]] (50)
+* [[Halmolium]] (45)
+* [[Platine]] (40)
+* [[Goldstein]] (35)
+* [[Blessed Coin]] (30)
+* [[Silvatite]] (30)
+* [[Ster Metal]] (25)
+* [[Dry Metal]] (20)
+* [[Tinc]] (15)
+* [[Ingot]] (10)
+
+====(Jewel)====
+=-----=
+* [[Spirit Stone]] (43)
+* [[Komet]] (30)
+* [[Black Runestone]] (10)
+* [[Azure Wing]] (9)
+* [[Wispstone]] (9)
+* [[Original Gem]] (7)
+* [[Pendelook]] (7)
+* [[Star Piece]] (7)
+* [[Gold Scarab]] (6)
+* [[Isle Amber]] (6)
+* [[Mermaid Tear]] (5)
+* [[Bless Stone]] (4)
+* [[Pretty Shell]] (3)
+* [[Quake Crystal]] (3)
+* [[Star Ladybug]] (2)
+
+====(Liquid)====
+=-----=
+* [[Bomb Booze]] (40)
+* [[Butterfliquor]] (38)
+* [[Tuna Wine]] (34)
+* [[Dark Water]] (33)
+* [[Floral Sour Mix]] (31)
+* [[Anchobeer]] (30)
+* [[Million Nights]] (27)
+* [[Blessed Wine]] (25)
+* [[Beer]] (22)
+* [[Liquor]] (18)
+* [[Smelly Liquid]] (17)
+* [[Grape Water]] (15)
+* [[Dark Dew]] (10)
+* [[Sea Puddle]] (10)
+* [[Forest Dew]] (9)
+* [[Honey]] (9)
+* [[Chariot Milk]] (3)
+* [[Water]] (1)
+
+====(Lumber)====
+=-----=
+* [[Fairy World Tree]] (10)
+* [[World Tree Twig]] (8)
+* [[Blacktree Lumber]] (6)
+* [[Bamboo]] (5)
+
+====(Meat)====
+=-----=
+* [[Dried Meat]] (14)
+* [[Seahorse]] (9)
+* [[Behemoth Heart]] (8)
+* [[Petrified Lizard]] (7)
+* [[Swirly Shell]] (5)
+* [[Some Egg]] (4)
+* [[Dead Beast]] (3)
+* [[Puniball]] (1)
+
+====(Mystery)====
+=-----=
+* [[Spirit Stone]] (43)
+* [[Blessed Coin]] (30)
+* [[Magic Paint]] (30)
+* [[Mystery Ankh]] (25)
+* [[Crystal Ball]] (21)
+* [[Sylph Breath]] (14)
+* [[Fairy World Tree]] (10)
+* [[World Spirits]] (10)
+* [[Dragon Scale]] (9)
+* [[Forest Dew]] (9)
+* [[Wispstone]] (9)
+* [[Cryptobotany]] (8)
+* [[World Tree Twig]] (8)
+* [[Pendelook]] (7)
+* [[Sea Star]] (7)
+* [[Star Piece]] (7)
+* [[Gravistone]] (6)
+* [[Globe Sphere]] (6)
+* [[Mermaid Tear]] (5)
+* [[Med Tree Root]] (4)
+* [[Audra's Tail]] (3)
+* [[Bounce Stone]] (3)
+* [[Zettel]] (3)
+
+====(Ore)====
+=-----=
+* [[Ruby Prism]] (50)
+* [[Blessed Coin]] (30)
+* [[Black Runestone]] (10)
+* [[Dragon Tusk]] (9)
+* [[Shining Saucer]] (9)
+* [[Wispstone]] (9)
+* [[Metal Ore]] (8)
+* [[Petrified Lizard]] (7)
+* [[Star Piece]] (7)
+* [[Sunny Crystal]] (7)
+* [[Gravistone]] (6)
+* [[Stench Stone]] (5)
+* [[Beast Stone]] (4)
+* [[Bless Stone]] (4)
+* [[Blue Sand]] (3)
+* [[Bounce Stone]] (3)
+* [[Quake Crystal]] (3)
+* [[Snow Stone]] (3)
+* [[Distill Stone]] (2)
+* [[Stim Stone]] (2)
+* [[Fest]] (1)
+* [[Rock Salt]] (1)
+
+====(Plant)====
+=-----=
+* [[Dried Flower]] (11)
+* [[Moonlight Flower]] (10)
+* [[Sage Herb]] (9)
+* [[Cryptobotany]] (8)
+* [[Hay]] (8)
+* [[Sonne Fruit]] (8)
+* [[Coco Fruit]] (7)
+* [[Winding Grass]] (7)
+* [[Fresh Mint]] (6)
+* [[Incense Bark]] (6)
+* [[Edge Aloe]] (5)
+* [[Living Cactus]] (5)
+* [[Tar Fruit]] (5)
+* [[Med Tree Root]] (4)
+* [[Purple Grape]] (4)
+* [[Cotton Flower]] (3)
+* [[Wheat]] (3)
+* [[Blue Fruit]] (2)
+* [[Mudhead]] (2)
+* [[Serenity Flower]] (2)
+* [[Red Fruit]] (2)
+* [[Uni]] (2)
+* [[Nuse]] (1)
+* [[Magic Grass]] (1)
+
+====(Poison)====
+=-----=
+
+* [[Bomb Booze]] (40)
+* [[Butterfliquor]] (38)
+* [[Tuna Wine]] (34)
+* [[Dark Water]] (33)
+* [[Floral Sour Mix]] (31)
+* [[Anchobeer]] (30)
+* [[Diocraft]] (30)
+* [[Million Nights]] (27)
+* [[Blessed Wine]] (25)
+* [[Beer]] (22)
+* [[Tar Liquid]] (20)
+* [[Alchemy Yeast]] (14)
+* [[Pure Poison]] (12)
+* [[Black Runestone]] (10)
+* [[Petrified Lizard]] (7)
+* [[Dizzy Cap Spore]] (6)
+* [[Venom Gland]] (6)
+* [[Edge Aloe]] (5)
+* [[Stench Stone]] (5)
+* [[Mandra Root]] (1)
+
+====(Seasoning)====
+=-----=
+* [[One Powder]] (35)
+* [[Fish Sauce]] (18)
+* [[Liquor]] (18)
+* [[Alchemy Yeast]] (14)
+* [[Passionate Soup]] (14)
+* [[Honey]] (9)
+* [[Pure Oil]] (9)
+* [[Sonne Fruit]] (8)
+* [[Coco Fruit]] (7)
+* [[Honeypot Ant]] (7)
+* [[Salt]] (6)
+* [[Flour]] (4)
+* [[Purple Grape]] (4)
+* [[Chariot Milk]] (3)
+* [[Blue Fruit]] (2)
+* [[Red Fruit]] (2)
+* [[Rock Salt]] (1)
+
+====(Spice)====
+=-----=
+* [[Floral Sour Mix]] (31)
+* [[Smelly Liquid]] (17)
+* [[Sage Herb]] (9)
+* [[Fragrant Bug]] (8)
+* [[Sponge Fruit]] (8)
+* [[Fresh Mint]] (6)
+* [[Incense Bark]] (6)
+* [[Stench Stone]] (5)
+* [[Serenity Flower]] (2)
+* [[Fertilizer]] (1)
+
+====(Threads)====
+=-----=
+* [[Living Rope]] (16)
+* [[Dragon Scale]] (9)
+* [[Sponge Fruit]] (8)
+* [[Winding Grass]] (7)
+* [[Chainweb]] (4)
+* [[Fluffy Fur]] (4)
+* [[Audra's Tail]] (3)
+* [[Cotton Flower]] (3)
+* [[Zettel]] (3)
+
+====(Vegetable)====
+=-----=
+* [[Sea Grass]] (8)
+* [[Sonne Fruit]] (8)
+* [[Sponge Fruit]] (8)
+* [[Coco Fruit]] (7)
+* [[Edge Aloe]] (5)
+* [[Purple Grape]] (4)
+* [[Wheat]] (3)
+* [[Blue Fruit]] (2)
+* [[Mudhead]] (2)
+* [[Red Fruit]] (2)
+* [[Uni]] (2)
+* [[Beehive]] (1)
+
+===Key Items===
+
+====Forged Anchor====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[(Ingot)]] x5
+** [[Polish Powder]] x3
+** [[Magic Chain]] x3
+
+====Whirlwind Sail====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[(Lumber)]] x7
+** [[(Cloth)]] x10
+** [[Sylph Breath]] x3
+
+====Proofed Deck====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[(Lumber)]] x15
+** [[Tar Liquid]] x5
+** [[(Ingot)]] x5
+** [[Supplement]] x5
+
+====Centenary Hull====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[(Lumber)]] x20
+** [[Polish Powder]] x10
+
+====Helm====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[Shining Saucer]] x5
+** [[(Threads)]] x5
+** [[(Lumber)]] x5
+** [[Mystery Ankh]] x3
+
+====Mystic Prow====
+=-----=
+* From: [[Boat Dismantling]]
+
+* ''Recipe''
+** [[(Ore)]] x10
+** [[Polish Powder]] x5
+** [[(Mystery)]] x5
+** [[Komet]] x3
+
+====Rustic Weights====
+=-----=
+* From: [[Adventurer Trainer]]
+
+* ''Recipe''
+** [[(Ingot)]] x2
+** [[Polish Powder]] x2
+
+====Apron Dress====
+=-----=
+* From [[The Life of a Noble]], Vita Exclusive
+
+* ''Recipe''
+** [[(Cloth)]] x2
+** [[(Threads)]] x1
+** [[Dark Dew]] x1
+** [[Drop of Light]] x1
+
+====Mask d'T====
+=-----=
+* From [[Secret Notes]], Vita Exclusive
+
+* ''Recipe''
+** [[(Threads)]] x2
+** [[Audra's Tail]] x1
+** [[Tar Liquid]] x1
+
+====Cat Ear Alice====
+=-----=
+* From [[The Life of a Noble]], Vita Exclusive
+
+* ''Recipe''
+** [[(Threads)]] x2
+** [[Fluffy Fur]] x2
+** [[Cotton Flower]] x1
+
+====Bear Ear Alice====
+=-----=
+* From [[The Life of a Noble]], Vita Exclusive
+
+* ''Recipe''
+** [[(Threads)]] x1
+** [[Fluffy Hair]] x2
+** [[Sponge Fruit]] x1
+
+====White Brim====
+=-----=
+* From [[The Life of a Noble]], Vita Exclusive
+
+* ''Recipe''
+** [[(Cloth)]] x1
+** [[(Threads)]] x2
+** [[Forbidden Fruit]] x1
+
+===Recipes===
+
+====Starter Recipes====
+=-----=
+Automatic acquisition.
+
+* [[Supplement]]
+* [[Craft]]
+* [[Healing Salve]]
+
+====Rorona's Recipes====
+=-----=
+See [[Year 1, 6/1]]
+
+* [[Bomb]]
+* [[Polish Powder]]
+* [[Zettel]]
+
+====Rorona's Pie Notes====
+=-----=
+See [[Rorona Events]]
+
+* [[Plain Pie]]
+* [[Honey Pie]]
+* [[Veggie Pie]]
+* [[Cream Pie]]
+* [[Meat Pie]]
+
+====Fish Pie Recipe====
+=-----=
+See [[Rorona Events]]
+
+* [[Fish Pie]]
+* [[Homemade Pie]]
+
+====Rorona's Fish Memo====
+=-----=
+See [[Rorona Events]]
+
+* [[Fishcraft]]
+* [[Fish Can]]
+* [[Stockfish]]
+* [[Fish Sauce]]
+
+====Super Tool Guide====
+=-----=
+See [[Rorona Events]]
+
+* [[Happy Basket]]
+* [[Spring Cup]]
+* [[Fertile Pot]]
+* [[Secret Bag]]
+* [[Blessed Coin]]
+* [[Auto Alarm]]
+
+====Rorona Danger Book====
+=-----=
+See [[Rorona Events]]
+
+* [[Dark Water]]
+* [[Diocraft]]
+* [[Talisman]]
+* [[N/A]]
+
+====Home Remedies====
+=-----=
+Buy from [[Ceci's Shop]]
+
+* [[Medical Cream]]
+* [[Migraine Syrup]]
+* [[Medicine Base]]
+* [[Tonic]]
+
+====North Witch Legend====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Witch Salve]]
+* [[Pure Poison]]
+* [[Healing Spore]]
+* [[Nectar]]
+* [[Sylph Breath]]
+
+====Ancient Herbs====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Drachen Elixir]]
+* [[Vitality Pill]]
+* [[Secret Remedy]]
+* [[Mind Water]]
+
+====Iksel Recipe Book====
+=-----=
+See [[Cooking Class]]
+
+* [[Black Tea]]
+* [[Passionate Soup]]
+
+====Awesome Slow Food====
+=-----=
+See [[Cooking Class]]
+
+* [[Meister Tarte]]
+* [[Danish]]
+
+====Great Ingredients====
+=-----=
+See [[Cooking Class]]
+
+* [[Century Biscuit]]
+
+====Totori's Cooking====
+=-----=
+See [[Cooking Class]]
+
+* [[Totori Brunch]]
+
+====Head Chef's Gift====
+=-----=
+See [[Cooking Class]]
+
+* [[Iksel Plate]]
+* [[Special Meat]]
+* [[Mont Blanc]]
+* [[One Powder]]
+* [[Iksel Course]]
+
+====Traditional Crafts====
+=-----=
+Buy from [[Tiffani's Shop]]
+
+* [[Glass Beads]]
+* [[Crystal Ball]]
+* [[Crimson Dye]]
+* [[Runestone]]
+* [[Living Rope]]
+
+====History of Drying====
+=-----=
+Buy from [[Tiffani's Shop]]
+
+* [[Dried Flower]]
+* [[Dried Meat]]
+* [[Hay]]
+* [[Smelly Liquid]]
+
+====Seasonal Alchemy 1====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Globe]]
+* [[Sweet Gem]]
+* [[Arland Crystal]]
+
+====New Age Art Theory====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Rainbow Oil]]
+* [[Tar Liquid]]
+* [[Magic Paint]]
+* [[Ether Ink]]
+* [[Fate Talisman]]
+
+====Traveler's Tales====
+=-----=
+Platinum rank
+
+* [[Traveler Shoes]]
+* [[Flying Carpet]]
+
+====Me and My Bomb====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Alchemy Coal]]
+* [[Cannon]]
+* [[Bomb Ice]]
+* [[Lightning Bomb]]
+
+====Heavenly Call====
+=-----=
+Buy from [[Pilca's Shop]]
+
+* [[Himmelstern]]
+* [[Armillary Sphere]]
+
+====Smith's Friend====
+=-----=
+Visit Hagel early in the game
+
+* [[Ingot]]
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Cloth]]
+* [[Muffcot]]
+* [[Silkis]]
+
+====Crafter's Life====
+=-----=
+Buy from [[Hagel's Shop]]
+
+* [[Ster Metal]]
+* [[Silvatite]]
+* [[Goldstein]]
+* [[Mystery Ankh]]
+
+====Dress Meister====
+=-----=
+Buy from [[Hagel's Shop]]
+
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+* [[Camo Cloak]]
+
+====Divine Materials====
+=-----=
+Buy from [[Hagel's Shop]]
+
+* [[Platine]]
+* [[Halmolium]]
+* [[Scale Cloth]]
+* [[Velvetis]]
+* [[Dimension Egg]]
+
+====Jewelry For You====
+=-----=
+Buy from [[Tiffani's Shop]]
+
+* [[Gnardi Ring]]
+* [[Mercurius Eye]]
+* [[Gibate Ankh]]
+
+====Epic Poems====
+=-----=
+Chest in Ruin Island. ([[Boat Areas]])
+
+* [[Angel Charm]]
+* [[Shadow Band]]
+* [[Warrior Mask]]
+* [[Mythical Ring]]
+
+====Shiny Items====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Komet]]
+* [[Spirit Necklace]]
+
+====Else Qulario====
+=-----=
+Chest in Holy Land Shortcut. ([[Silver Areas]])
+
+* [[Megacraft]]
+* [[Meteor]]
+
+====Gold-Haired Ram (Recipe)====
+=-----=
+Buy from [[Pilca's Shop]]
+
+* [[Elixir]]
+* [[Ruby Prism]]
+* [[Spirit Stone]]
+
+====Alcohol and Life====
+=-----=
+See [[Specialty Liquor]]
+
+* [[Beer]]
+* [[Liquor]]
+* [[Grape Water]]
+
+====Fancy Drinks====
+=-----=
+See [[Specialty Liquor]]
+
+* [[Floral Sour Mix]]
+* [[Million Nights]]
+* [[Blessed Wine]]
+
+====Fish Booze Memo====
+=-----=
+See [[Specialty Liquor]]
+
+* [[Anchobeer]]
+
+====Specialty Notes====
+=-----=
+See [[Specialty Liquor]]
+
+* [[Bomb Booze]]
+* [[Tuna Wine]]
+* [[Butterfliquor]]
+
+====Extreme Brewing====
+=-----=
+See [[Specialty Liquor]]
+
+* [[Guardian Liquor]]
+
+====Boat Dismantling====
+=-----=
+See [[Year 4, 1/1]]. Part of true end events.
+
+* [[Forged Anchor]]
+* [[Whirlwind Sail]]
+* [[Proofed Deck]]
+* [[Centenary Hull]]
+* [[Helm]]
+* [[Mystic Prow]]
+
+====Adventurer Trainer====
+=-----=
+See [[Gino Events]]
+
+* [[Rustic Weights]]
+
+====Cooking Basics====
+=-----=
+Buy from [[Ceci's Shop]]
+
+* [[Flour]]
+* [[Salt]]
+* [[Pure Oil]]
+* [[Honey]]
+* [[Alchemy Yeast]]
+
+====Aquanaut Memo====
+=-----=
+Bronze rank
+
+* [[Heavenly Parasol]]
+
+====Lemegeton====
+=-----=
+Silver rank
+
+* [[Mega Bomb]]
+* [[Bomber Ice]]
+* [[Lightning Quartz]]
+
+====Agrarian Mastery====
+=-----=
+Gold rank
+
+* [[Speed Gloves]]
+
+====Book of Sibyl====
+=-----=
+Diamond rank
+
+* [[Warp Gate]]
+
+====Seasonal Alchemy 2====
+=-----=
+Buy from [[Pamela's Shop]]
+
+* [[Conch Horn]]
+* [[Magic Chain]]
+
+====Secret Notes====
+=-----=
+Find in Orthogalaxen. Vita exclusive.
+
+* [[Mask d'T]]
+* [[Angel Stone]]
+
+====The Life of a Noble====
+=-----=
+Find at the top floor of Orthogalaxen. Vita exclusive.
+
+* [[Apron Dress]]
+* [[White Brim]]
+* [[Cat Ear Alice]]
+* [[Bear Ear Alice]]
+
+===Weapons===
+
+''Alchemy Staff''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Light Iron Staff''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Healing Staff''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Spirit Staff''
+* [[Platine]]
+%
+''Witch's Staff''
+* [[Halmolium]]
+%
+''Winged Holy Staff''
+* [[Angel Stone]]
+* Vita exclusive
+%
+''Shortsword''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Cutlass''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Steel Sword''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Questing Sword''
+* [[Platine]]
+%
+''Wind Geyser''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Heirloom Bardiche''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Spee Weiss''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Crimson Polearm''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Valkyrie Arm''
+* [[Platine]]
+%
+''Rhein Schneiden''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Broadaxe''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Steel Axe''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Rock Splitter''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Giant's Axe''
+* [[Platine]]
+%
+''World Splitter''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Steel Fist''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Scissorhands''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Steelcutter''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''God Hand''
+* [[Platine]]
+%
+''Storm Drill''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Master's Rod''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Guardian Rod''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Angel Staff''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Sage's Staff''
+* [[Platine]]
+%
+''7-Star Rod''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Vagabond Sword''
+* [[Ingot]]
+* [[Tinc]]
+%
+''Eternal Sword''
+* [[Tinc]]
+* [[Dry Metal]]
+* [[Ster Metal]]
+%
+''Runeblade''
+* [[Goldstein]]
+* [[Silvatite]]
+%
+''Dragon Slayer''
+* [[Platine]]
+%
+''Koenig Beil''
+* [[Halmolium]]
+* [[Angel Stone]]
+%
+''Normal Duster''
+* [[Ingot]]
+* [[Tinc]]
+* [[Dry Metal]]
+* Vita/DLC
+%
+''Iron Duster''
+* [[Ster Metal]]
+* [[Goldstein]]
+* [[Silvatite]]
+* Vita/DLC
+%
+''Down Duster''
+* [[Platine]]
+* [[Halmolium]]
+* [[Angel Stone]]
+* Vita/DLC
+%
+''Normal Pan''
+* [[Ingot]]
+* [[Tinc]]
+* [[Dry Metal]]
+* Vita/DLC
+%
+''Artisan's Pan''
+* [[Ster Metal]]
+* [[Goldstein]]
+* [[Silvatite]]
+* Vita/DLC
+%
+''3-Star Pan''
+* [[Platine]]
+* [[Halmolium]]
+* [[Angel Stone]]
+* Vita/DLC
+%
+''Normal Bullet''
+* [[Ingot]]
+* [[Tinc]]
+* [[Dry Metal]]
+* Vita/DLC
+%
+''Special Bullet''
+* [[Ster Metal]]
+* [[Goldstein]]
+* [[Silvatite]]
+* Vita/DLC
+%
+''CSP''
+* [[Platine]]
+* [[Halmolium]]
+* [[Angel Stone]]
+* Vita/DLC
+
+===Armor===
+
+''Alchemy Costume''
+* [[Cloth]]
+* [[Muffcot]]
+%
+''Normal Threads''
+* [[Muffcot]]
+* [[Silkis]]
+%
+''Traveler's Wear''
+* [[Silkis]]
+* [[Polywool]]
+* [[Nylonfeather]]
+%
+''Port Outfit''
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Angel Robe''
+* [[Scale Cloth]]
+%
+''Ancient Garb''
+* [[Velvetis]]
+%
+''Adventure Wear''
+* [[Cloth]]
+* [[Muffcot]]
+%
+''Fancy Armor''
+* [[Muffcot]]
+* [[Silkis]]
+%
+''Feather Chain''
+* [[Silkis]]
+* [[Polywool]]
+* [[Nylonfeather]]
+%
+''Dragon Wear''
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Blessed Costume''
+* [[Scale Cloth]]
+%
+''Hero Mail''
+* [[Velvetis]]
+%
+''Lady Plate''
+* [[Silkis]]
+* [[Polywool]]
+%
+''Battle Mail''
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Maiden Armor''
+* [[Scale Cloth]]
+%
+''Valkyrie Cloth''
+* [[Velvetis]]
+%
+''Rose Maiden''
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Gorgeous Dress''
+* [[Scale Cloth]]
+%
+''Saint Robe''
+* [[Velvetis]]
+%
+''Leather Coat''
+* [[Muffcot]]
+* [[Silkis]]
+* [[Polywool]]
+%
+''Dragoon Cape''
+* [[Scale Cloth]]
+* [[Tanbeash]]
+%
+''Full Metal Jacket''
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Solar Cloak''
+* [[Scale Cloth]]
+%
+''Heroic Cape''
+* [[Velvetis]]
+%
+''Phantom Thief''
+* [[Tanbeash]]
+* [[Nylonfeather]]
+%
+''Fighter's Garb''
+* [[Nylonfeather]]
+* [[Tanbeash]]
+%
+''Scholar's Robe''
+* [[Cloth]]
+* [[Muffcot]]
+%
+''Knight's Uniform''
+* [[Muffcot]]
+* [[Silkis]]
+* [[Polywool]]
+%
+''Normal Dress''
+* [[Cloth]]
+* [[Muffcot]]
+* [[Silkis]]
+* Vita/DLC
+%
+''Sturdy Dress''
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+* Vita/DLC
+%
+''Silver Dress''
+* [[Scale Cloth]]
+* [[Velvetis]]
+* Vita/DLC
+%
+''Artisan Outfit''
+* [[Cloth]]
+* [[Muffcot]]
+* [[Silkis]]
+* Vita/DLC
+%
+''Head Chef Outfit''
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+* Vita/DLC
+%
+''Iron Chef Outfit''
+* [[Scale Cloth]]
+* [[Velvetis]]
+%
+''Cloth Coat''
+* [[Cloth]]
+* [[Muffcot]]
+* [[Silkis]]
+* Vita/DLC
+%
+''Silk Coat''
+* [[Polywool]]
+* [[Nylonfeather]]
+* [[Tanbeash]]
+* Vita/DLC
+%
+''Battle Coat''
+* [[Scale Cloth]]
+* [[Velvetis]]
+* Vita/DLC
+
+===Effects===
+
+====Attack====
+
+Ranges from XS to XL
+
+Non-elemental damage
+%
+====Fire====
+
+Ranges from XS to Explosive.
+
+Fire Damage
+%
+====Ice====
+
+Ranges from S to L.
+
+Ice damage.
+%
+====Lightning====
+
+Ranges from S to L
+
+Lightning damage.
+%
+====Earth====
+
+Ranges from S to L.
+
+Earth damage.
+%
+====Falling====
+
+* Stars: Stars fall around the enemies.
+* Puni: Puni falls on enemy. Might inflict sleep.
+* Boulder: Boulder hits enemy. Small critical hit chance.
+* Uni: Uni strikes. Poisonous.
+* ???: Something hits enemy. Fixed extra damage applied.
+%
+====Cannonball====
+
+Also includes Teeny Cannonball.
+
+Fire damage. Probably equivalent to Fire S and M.
+%
+====Poisonous====
+
+May inflict Poison.
+%
+====Paralytic====
+
+May inflict Paralysis.
+%
+====Cursed====
+
+May inflict Curse.
+%
+====Blinding====
+
+May Blind opponent.
+%
+====Venomous====
+
+May inflict Poison.
+%
+====Acidic====
+
+Medium non-elemental damage.
+%
+====Dragon Power====
+
+Increases critical hit rate.
+%
+====ATK+====
+
+Temporary attack boost.
+%
+====SPD+====
+
+Temporary speed boost.
+%
+====DEF-====
+
+Temporary defense decrease.
+%
+====SPD-====
+
+Temporary speed decrease.
+%
+====Protective Charm====
+
+Temporary defense boost.
+%
+====Powerful Taste====
+
+Temporary attack boost.
+%
+====Robust Taste====
+
+Temporary defense boost.
+%
+====Hasty Taste====
+
+Temporary speed boost.
+%
+====Auto-KO Recovery====
+
+Recover from KO automatically on your next turn.
+%
+====Damage Reducer====
+
+Greatly reduces damage received.
+%
+====Tri-Suffer====
+
+May inflict Poison, Curse, and Paralysis.
+%
+====HP Recovery====
+
+Ranges from XS to XL.
+
+Recovers HP. Don't confuse with [[HP Healing]].
+%
+====MP Recovery====
+
+Ranges from XS to XL.
+
+Recovers MP.
+%
+====LP Recovery====
+
+Ranges from XS to XL.
+
+Recovers LP.
+%
+====Sweet====
+
+Also describes Very Sweet (better) and Melty (best).
+
+Recover HP.
+%
+====Tangy====
+
+Chance of Paralysis.
+%
+====Bitter====
+
+Decreases defense.
+%
+====KO Recovery====
+
+Ranges from S to L.
+
+Recovery from KO; some HP restored.
+%
+====HP+ Temp====
+
+Max HP temporarily increases.
+%
+====HP Healing====
+
+Ranges from S to L.
+
+Regenerates HP each turn. Don't confuse with [[HP Recovery]].
+%
+====Sleep Recovery====
+
+Recover from sleep.
+%
+====Curse Recovery====
+
+Recover from curse.
+%
+====Ailment Recovery====
+
+Recover from all ailments.
+%
+====Flowing Magic====
+
+Increases power and deterioration rate.
+%
+====Null Buff====
+
+Resets positive stat effects.
+%
+====Spring Liquid====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Obtain liquid items.
+%
+====Spring Food====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Obtain food items.
+%
+====Spring Plant====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Obtain plant items.
+%
+====Free Transfer====
+
+Able to access container from anywhere if this is in your basket.
+%
+====Charger====
+
+Increases the Enhance speed of items in your basket.
+%
+====Workshop Wings====
+
+Able to return to either workshop instantly from anywhere.
+%
+====Sprint====
+
+Shortens time required to reach gathering spots.
+%
+====Gathering Master====
+
+Shortens item gathering time.
+%
+====Item Lv. Up?====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Might increase trait levels of items at a gathering spot.
+%
+====Item Quality Up?====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Might increase quality of items at a gathering spot.
+%
+====Item Trait Up?====
+
+There is also a + version. It's generally the only version you should bother with.
+
+Might increase number of traits on items at a gathering spot.
+%
+====Crimson====
+
+Indicates quality of Arland Gem.
+
+Similar traits include (in order): Sapphire, Topaz, ???, Diamond.
+%
+====Power Rune====
+
+Increases attack.
+%
+====Protection Rune====
+
+Increases defense.
+%
+====Blessed Action====
+
+HP Recovers after any action.
+%
+====Safety Card====
+
+Greatly reduces odds of random encounters.
+%
+====Emergency Escape====
+
+Revive at a nearby place if the entire party gets KO'ed.
+%
+====MP Eater====
+
+Consumes MP. Amount depends on max MP.
+%
+====Good Fortune====
+
+More money earned in battle.
+%
+====Great Learner====
+
+EXP increase for the whole party.
+%
+====Cloak====
+
+Reduces one kind of elemental damage. There are four types of this effect: Fire, Ice, Lightning, Earth.
+%
+====Shield====
+
+Greatly reduces one kind of elemental damage. There are four types of this effect: Fire, Ice, Lightning, Earth.
+%
+====HP Regen====
+
+Ranges from S to L.
+
+Recovers HP on your turn.
+%
+====Critical+====
+
+Ranges from S to L.
+
+Increases critical hit chances.
+%
+====Evade+====
+
+Ranges from S to L.
+
+Increases evasion odds.
+%
+====Hit+====
+
+Ranges from S to L
+
+Increases accuracy.
+%
+====Guts====
+
+Ranges from S to L.
+
+Chance to survive when HP is depleted.
+%
+====Resist====
+
+Ranges from S to L.
+
+Chance to avoid status ailments.
+%
+====Block====
+
+Ranges from S to L.
+
+Slightly reduces damage received.
+%
+====Resist Death====
+
+Nulls instant KO.
+%
+====Element Damage +====
+
+Adds all elemental damages at once.
+%
+====Fishy====
+
+Deals damage.
+
+Isle Fishy deals more damage.
+%
+====Fall Back====
+
+Chance to survive fatal blow.
+%
+====Critical Down====
+
+There is also a + version.
+
+Reduces target's critical hit rate.
+%
+====Item Effect +====
+
+Temporarily increases damage dealt with items.
+%
+====Physical +====
+
+Temporarily increases damage dealt.
+%
+====Accelerate====
+
+Can perform two consecutive battle actions.
+%
+====Hero Soul====
+
+Increases Max HP.
+%
+====Transference====
+
+HP/MP consumption amounts are added to random stats.
+%
+====Double Move====
+
+Can move twice consecutively.
+%
+====HP Degen====
+
+Reduces HP by set amount each turn.
+%
+====Muscle Atrophy====
+
+Greatly reduces ATK when equipped.
+%
+====Nonthreatening====
+
+Enemies don't target you as often.
+%
+====Threatening====
+
+Enemies target you more.
+%
+====Heat Deflect====
+
+Used in Scorched Wasteland.
+%
+====Flame Element====
+
+Halves fire damage for 5 turns.
+
+===Traits===
+
+''Cool, Unique, Special, Cute, Creepy Cute, Lovely''
+
+Cost, in order: 2, 4, 7, 1, 3, 6
+
+Raises quality, enhances effect.
+%
+''Aromatic, Very Aromatic, Floral Scent''
+
+Cost, in order: 2, 4, 7
+
+Increases synth success rate, enhance effect.
+%
+''Stinky, Super Stinky, Giga Stink''
+
+Cost, in order: 1, 3, 6
+
+Reduce price and deterioration speed.
+%
+''Big, Monstrous, Apocalyptic''
+
+Cost, in order: 2, 4, 7
+
+Raises quality, enhances effect
+%
+''Small, Ant Size, Almost Invisible''
+
+Cost, in order: 1, 3, 6
+
+Raise synth success rate, reduce quality.
+%
+''Heavy, Beefy, Massive''
+
+Cost, in order: 2, 4, 7
+
+Raises quality, enhances effect.
+%
+''Light, Surprisingly Light, Airy''
+
+Cost, in order: 1, 3, 6
+
+Raises syth success rate, reduces quality.
+%
+''Energetic, Star Shape, Perfect Form''
+
+Cost, in order: 2, 5, 7
+
+Enhances effect.
+%
+''Weird Shape, Pointy Shape, Rare Shape''
+
+Cost, in order: 1, 4, 6
+
+Raises synth success rate, decreases quality
+%
+''Price Up S, M, L''
+
+Cost, in order: 2, 5, 7
+
+Increases selling price.
+%
+''Price Down S, M, L''
+
+Cost, in order: 1, 4, 6
+
+Decreases selling price.
+%
+''Lasts S, M, L''
+
+Cost, in order: 2, 5, 7
+
+Decreases deterioration by 25, 50, and 75 percent.
+%
+''Perishable S, M, L''
+
+Cost, in order: 1, 4, 6
+
+Increases deterioration by 25, 50, and 75 percent.
+%
+''Quality S, M, L''
+
+Cost, in order: 1, 4, 6
+
+Increases quality by 20, 30, 50 percent.
+%
+''Bad Quality S, M, L''
+
+Cost, in order: 2, 5, 7
+
+Decreases Quality by 10, 20, 30 percent.
+%
+''Boost Effect S, M, L''
+
+Cost, in order: 1, 4, 8
+
+Increases item power by 10, 20, 30 percent.
+%
+''Reduce Effect S, M, L''
+
+Cost, in order: 2, 5, 8
+
+Decreases item power by 10, 20, 30 percent.
+%
+''Satisfying S, M, L''
+
+Cost, in order: 3, 5, 8
+
+25, 35, 50 percent chance of a critical hit.
+%
+''Stable S, M, L''
+
+Cost, in order: 3, 5, 8
+
+Restricts random number range by 30, 50, 70 percent.
+%
+''Judgment S, M, L''
+
+Cost, in order: 3, 5, 8
+
+Increase chance of success by 10, 20, 40 percent.
+%
+''Simple S, M, L''
+
+Cost, in order: 3, 6, 8
+
+Increase success rate by 10, 25, 50 percent, but decrease quality.
+%
+''Complex S, M, L''
+
+Cost, in order: 1, 4, 7
+
+Reduces base price.
+%
+''Living, Lively, Pepped Up''
+
+Cost, in order: 5, 8, 10
+
+Item activates if Totori's HP is below 20, 50, 99 percent.
+%
+''Advanced''
+
+Cost: 8
+
+Decreases success rate by 10 percent, but deterioration is 0.
+%
+''For Masters''
+
+Cost: 9
+
+Decreases success rate by 30 percent, but quality increases.
+%
+''Pro Favorite''
+
+Cost: 10
+
+Decreases success rate by 75 percent, but item gains 3 more uses.
+%
+''Amateur's Fave''
+
+Cost: 8
+
+Success rate increases by 10 percent, and deterioration is 0.
+%
+''Beginners OK''
+
+Cost: 9
+
+Increases success rate by 30 percent, and quality increases.
+%
+''Kid Friendly''
+
+Cost: 10
+
+Increases success rate by 50 percent, and item gains 1 more use.
+%
+''Usage +1, +2''
+
+Cost, in order: 6, 10
+
+Raises item uses by 1/2.
+%
+''The following are self explanatory and are listed only to display Cost''
+
+* HP +10 (3)
+* HP +20 (6)
+* HP +30 (10)
+* MP +10 (2)
+* MP +20 (5)
+* MP +30 (9)
+* LP +10 (1)
+* LP +20 (4)
+* LP +30 (8)
+* Attack +3 (3)
+* Attack +5 (6)
+* Attack +10 (10)
+* Defense +3 (2)
+* Defense +5 (5)
+* Defense +10 (9)
+* Speed +3 (1)
+* Speed +5 (4)
+* Speed +10 (8)
+* MP Cost -10% (2)
+* MP Cost -20% (5)
+* MP Cost -30% (9)
+%
+''Skill +10%, 20%, 30%''
+
+Cost, in order: 3, 6, 10
+
+Increases skill power.
+%
+''Enchant Fire, Ice, Earth, Lightning''
+
+Cost, in order: 7, 7, 8, 8
+
+Adds elemental damage.
+%
+''Puni, Animal, Dragon, Beast, Ghost, Demon Repel''
+
+Cost, in order: 2, 5, 10, 6, 4, 9
+
+100% critical rate against that type of enemy
+%
+''The following are self explanatory and are listed only to display Cost''
+
+* Inflict Poison (3)
+* Inflict Sleep (5)
+* Inflict Curse (7)
+* Inflict Blind (9)
+* Inflict Paralysis (10)
+* All Stats +3 (6)
+* All Stats +5 (8)
+* All Stats +10 (10)
+%
+''Convert Damage S, M, L''
+
+Cost, in order: 3, 6, 9
+
+Absorb 5, 10, 15 percent of damage dealt with regular attacks.
+%
+''Fire, Ice, Lightning, Earth Dampen''
+
+Cost, in order: 3, 4, 5, 5
+
+Reduces elemental damage by 15%
+%
+''Fire, Ice, Lightning, Earth Cloak''
+
+Cost, in order: 9, 9, 10, 10
+
+Reduces elemental damage by 25%
+%
+''Rank Boost S, M, L''
+
+Cost, in order: 3, 6, 9
+
+Item power increases by
+* Item Rank x 5%
+* Item Rank x 10%
+* Item Rank x 15%
+
+Where S = 5; E = 0.
+%
+''Effect Boost S, M, L''
+
+Cost, in order: 4, 7, 10
+
+Item power increases by
+* (Item Effect Level)%
+* Item Effect Level x 2%
+* Item Effect Level x 3%.
+
+Item effect level apparently means "add up your cost level of your traits". Which means holy crap 150% max boost.
+%
+''Swarm Slayer S, M, L''
+
+Cost, in order: 4, 7, 10
+
+Item power increases by
+* Targets in range x 5%
+* Targets in range x 10%
+* Targets in range x 15%.
+%
+''Loner Slayer S, M, L''
+
+Cost, in order: 3, 6, 9
+
+Item power increases by
+* (20/(Targets in range))%
+* (40/(Targets in range))%
+* (60/(Targets in range))%.
+%
+''Final Strike, +''
+
+Cost, in order: 5, 10
+
+25, 50 percent boost in power on item's final use.
+%
+''Giant Slayer, +''
+
+Cost, in order: 4, 9
+
+Power increases by
+* Monster size x 5%
+* Monster size x 10%
+%
+''Dwarf Slayer, +''
+
+Cost, in order: 4, 9
+
+Power increases by 
+* (30/Monster size)%
+* (60/Monster size)
+%
+''Exploding Spikes''
+
+Cost: 0
+
+Slight damage. [[Nuse]]
+%
+''Burning Vapor''
+
+Cost: 0
+
+Additional fire damage. [[Fuel Dirt]]
+%
+''Dripping Venom''
+
+Cost: 0
+
+Chance of poisoning the enemy. [[Venom Gland]]
+%
+''Soul Steal''
+
+Cost: 0
+
+Absorbs target's abilities. [[Pendelook]]
+%
+''Chain Explosion''
+
+Cost: 0
+
+Powerful fire damage. [[Sea Puddle]]
+%
+''Strength Steal''
+
+Cost: 0
+
+Temporarily absorbs attack. [[Black Runestone]]
+%
+''Solvent''
+
+Cost: 0
+
+Reduces defense. [[Tar Fruit]]
+%
+''Binding''
+
+Cost: 0
+
+Reduces Speed. [[Chainweb]]
+%
+''Sharp Edge''
+
+Cost: 0
+
+Extra non elemental damage. [[Edge Aloe]]
+%
+''Pure Power''
+
+Cost: 0
+
+Extreme non elemental damage. [[World Spirits]]
+%
+''Heavyweight''
+
+Cost: 0
+
+Raises attack, decreases speed. [[Metal Ore]]
+%
+''Sturdy''
+
+Cost: 0
+
+Raises defense. [[Audra's Tail]]
+%
+''Lightweight''
+
+Cost: 0
+
+Raises speed. [[Distill Stone]]
+%
+''Fire Power''
+
+Cost: 0
+
+Equipment deals and resists fire. [[Sunny Crystal]]
+%
+''Ice Power''
+
+Cost: 0
+
+Equipment deals and resists ice. [[Snow Stone]]
+%
+''Lightning Power''
+
+Cost: 0
+
+Equipment deals and resists lightning. [[Quake Crystal]]
+%
+''Earth Power''
+
+Cost: 0
+
+Equipment deals and resists Earth. [[Gravistone]]
+%
+''Holy Power''
+
+Cost: 0
+
+Resist instant KO and reduce damage. [[Wispstone]]
+%
+''Healing Power''
+
+Cost: 0
+
+Resist poison, regenerate HP. [[Dragon Scale]]
+%
+''Wound Healing''
+
+Cost: 0
+
+Heals some HP. [[Mandra Root]]
+%
+''All Heal''
+
+Cost: 0
+
+Greatly heals HP. [[Moonlight Flower]]
+%
+''Wake Up''
+
+Cost: 0
+
+Revies and heals some HP. [[Behemoth Heart]]
+%
+''Source of Life''
+
+Cost: 0
+
+Heals some LP. [[Bless Stone]]
+%
+''Surging Power''
+
+Cost: 0
+
+Temporarily raises attack. [[Seahorse]]
+%
+''Petrified Meat''
+
+Cost: 0
+
+Temporarily raises defense. [[Petrified Lizard]]
+%
+''Regen Essence''
+
+Cost: 0
+
+Restores HP each turn. [[Cryptobotany]]
+%
+''Serenity Now''
+
+Cost: 0
+
+Heals sleep and restores some MP. [[Dizzy Cap Spore]]
+%
+''Cure-All''
+
+Cost: 0
+
+Heals all status ailments. [[Sage Herb]]
+%
+''Healing Essence''
+
+Cost: 0
+
+Revives a KO'ed ally. [[Forest Dew]]
+
+===Shops===
+
+====Pamela's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[Seasonal Alchemy 1]] | 700 | N/A | 1 |
+| [[Me and My Bomb]] | 1000 | N/A | 1 |
+| [[North Witch Legend]] | 1500 | N/A | 1 |
+| [[New Age Art Theory]] | 2000 | N/A | 1 |
+| [[Seasonal Alchemy 2]] | 3000 | N/A | 1 |
+| [[Shiny Items]] | 3000 | N/A | 1 |
+| [[Ancient Herbs]] | 5000 | N/A | 1 |
+| [[Magic Grass]] | 5 | 40 | 20 |
+| [[Magic Grass]] | 60 | 60 | 10 |
+| [[Fest]] | 5 | 40 | 20 |
+| [[Fest]] | 40 | 70 | 10 |
+| [[Mandra Root]] | 15 | 30 | 10 |
+| [[Phlogiston]] | 25 | 20 | 10 |
+| [[Serenity Flower]] | 35 | 50 | 10 |
+| [[Globe Sphere]] | 30 | 50 | 10 |
+| [[Forgotten Bone]] | 80 | 40 | 10 |
+| [[Puniball]] | 68 | 20 | 5 |
+| [[Audra's Tail]] | 45 | 60 | 5 |
+| [[Original Gem]] | 240 | 80 | 3 |
+| [[Pendelook]] | 718 | 100 | 1 |
+
+
+====Tiffani's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[History of Drying]] | 1000 | N/A | 1 |
+| [[Traditional Crafts]] | 1500 | N/A | 1 |
+| [[Jewelry For You]] | 3000 | N/A | 1 |
+| [[Mudhead]] | 15 | 30 | 10 |
+| [[Mudhead]] | 58 | 60 | 5 |
+| [[Beehive]] |10  | 40 | 10 |
+| [[Beehive]] | 95 | 60 | 3 |
+| [[Eiche]] | 15 | 40 | 10 |
+| [[Uni]] | 15 | 60 | 10 |
+| [[Audra's Tail]] | 82 | 60 | 5 |
+| [[Nuse]] | 5 | 40 | 10 |
+| [[Nuse]] | 55 | 50 | 5 |
+| [[Cotton Flower]] | 30 | 50 | 10 |
+| [[Sea Grass]] | 130 | 30 | 5 |
+| [[Blue Sand]] | 130 | 20 | 5 |
+| [[Bless Stone]] | 100 | 40 | 5 |
+| [[Fluffy Fur]] | 180 | 40 | 1 |
+
+====Hagel's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[Crafter's Life]] | 1500 | N/A | 1 |
+| [[Dress Meister]] | 1500 | N/A | 1 |
+| [[Divine Materials]] | 5000 | N/A | 1 |
+| [[Platine]] | 7098 | 100 | 1 |
+| [[Fest]] | 30 | 60 | 20 |
+| [[Phlogiston]] | 15 | 40 | 20 |
+| [[Phlogiston]] | 43 | 50 | 10 |
+| [[Stim Stone]] | 15 | 50 | 20 |
+| [[Stim Stone]] | 43 | 70 | 10 |
+| [[Distill Stone]] | 15 | 40 | 10 |
+| [[Snow Stone]] | 30 | 30 | 5 |
+| [[Fuel Dirt]] | 45 | 60 | 10 |
+| [[Metal Ore]] | 605 | 100 | 1 |
+| [[Gravistone]] | 365 | 80 | 1 |
+| Normal Threads | 458 | 100 | 5 |
+| Lady Plate | 470 | 100 | 5 |
+| Port Outfit | 400 | 100 | 5 |
+
+
+====Iksel's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[Iksel Plate]] | 760 | 70 | 5 |
+| [[Chariot Milk]] | 35 | 60 | 20 |
+| [[Wheat]] | 15 | 50 | 20 |
+| [[Med Tree Root]] | 80 | 50 | 10 |
+| [[Dead Beast]] | 15 | 40 | 10 |
+| [[Some Egg]] | 45 | 40 | 20 |
+| [[Some Egg]] | 121 | 60 | 10 |
+| [[Some Egg]] | 395 | 80 | 1 |
+| [[Flour]] | 40 | 60 | 10 |
+| [[Honey]] | 60 | 50 | 5 |
+| [[Rock Salt]] | 15 | 30 | 20 |
+| [[Salt]] | 50 | 40 | 10 |
+
+====Ceci's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[Home Remedies]] | 700 | N/A | 1 |
+| [[Cooking Basics]] | 700 | N/A | 1 |
+| [[Homemade Pie]] | 70 | 60 | 101 |
+| [[Water]] | 5 | 70 | 20 |
+| [[Small Sardine]] | 5 | 50 | 20 |
+| [[Small Sardine]] | 38 | 70 | 10 |
+| [[Rock Salt]] | 5 | 50 | 20 |
+| [[Beehive]] | 5 | 60 | 20 |
+| [[Beehive]] | 40 | 60 | 5 |
+| [[Wheat]] | 15 | 60 | 20 |
+| [[Wheat]] | 58 | 60 | 5 |
+| [[Sea Star]] | 45 | 40 | 5 |
+| [[Pretty Shell]] | 45 | 45 | 5 |
+| [[Swirly Shell]] | 70 | 50 | 5 |
+| [[Mermaid Tear]] | 444 | 60 | 1 |
+
+====Pilca's Shop====
+
+|* Item |* Price |* Quality |* Quantity |
+| [[Gold-Haired Ram (Recipe)]] |  | N/A | 1 |
+| [[Heavenly Call]] |  | N/A | 1 |
+| [[Snow Stone]] | 166 | 80 | 3 |
+| [[Wheat]] | 153 | 80 | 3 |
+| [[Goat Horn]] | 225 | 80 | 3 |
+| [[Beast Stone]] | 230 | 80 | 3 |
+| [[Fluffy Fur]] | 174 | 80 | 3 |
+| [[Mandra Root]] | 80 | 80 | 3 |
+| [[Incense Bark]] | 220 | 100 | 3 |
+| [[Pendelook]] | 1246 | 100 | 3 |
+| [[Gravistone]] | 250 | 100 | 3 |
+| [[Venom Gland]] | 268 | 100 | 3 |
+| [[Petrified Lizard]] | 246 | 100 | 3 |
+| [[Dragon Tusk]] | 735 | 100 | 1 |
+
+===Monsters===
+
+====Blue Puni====
+=-----=
+* [[Arland Area]]
+* [[Alanya Area]]
+
+====Ear Puni====
+=-----=
+* [[Stein Hill]]
+* [[Ancient Monastery]]
+* [[Alanya West Ruins]]
+* [[Arland Area]]
+* [[Northern Ruins]]
+* [[Southwest Peninsula]]
+
+====Green Puni====
+=-----=
+* [[Stein Hill]]
+* [[Arland Area]]
+* [[Alanya Area]]
+* [[Alanya West Ruins]]
+* [[Southwest Peninsula]]
+
+====Bunny Puni====
+=-----=
+* [[Neumont Forest]]
+* [[Arland New World]]
+
+====Punincarnate====
+=-----=
+Boss
+
+* [[Rolling Hill]]
+
+====Wolf====
+=-----=
+* [[Stein Hill]]
+* [[Scorched Wasteland]]
+* [[Alanya West Ruins]]
+* [[Arland Great Plains]]
+* [[Arland Wastelands]]
+
+====Jagd Wolf====
+=-----=
+Boss
+
+* [[Stein Hill]]
+* [[Liechtein Soehnle]]
+* [[Silver Lands]]
+
+====Mandragora====
+=-----=
+* [[Arland Great Plains]]
+
+====Witch Rose====
+=-----=
+* [[Arland New World]]
+* [[Inner Islets]]
+	
+====Audra====
+=-----=
+* [[Arland Area]]
+* [[Continental Coastline]]
+* [[Arland Great Plains]]
+
+====Roc====
+=-----=
+* [[Scorched Wasteland]]
+* [[Night's Domain]]
+* [[Primordial Island]]
+
+====Fresverg====
+=-----=
+* [[Night's Domain]]
+* [[Liechtein Soehnle]]
+
+====Aphostol====
+=-----=
+* [[Ancient Monastery]]
+* [[Continental Coastline]]
+* [[Arland Area]]
+
+====Scarlet====
+=-----=
+Boss
+
+* [[Ancient Monastery]]
+* [[Liechtein Soehnle]]
+* [[Primordial Island]]
+* [[Arland New World]]
+
+====Black Demon====
+=-----=
+* [[Night's Domain]]
+* [[Liechtein Soehnle]]
+
+====Salamandra====
+=-----=
+* [[Scorched Wasteland]]
+* [[Arland Wastelands]]
+
+====Basalt Dragon====
+=-----=
+* [[Runestone Nest]]
+* [[Altmeier]]
+
+====Raum Lizard====
+=-----=
+* [[Liechtein Soehnle]]
+* [[Silver Lands]]
+
+====Ghost====
+=-----=
+* [[Forgotten Village]]
+* [[Ancient Monastery]]	
+* [[Continental Coastline]]
+* [[Northern Ruins]]
+* [[Arland Area]]
+
+====Scare Phantom====
+=-----=
+* [[Forgotten Village]]
+* [[Northern Ruins]]
+* [[Outer Islets]]	
+
+====Isle Fish====
+=-----=
+* [[Grune Rainforest]]
+* [[Arland New World]]
+
+====Valoshun====
+=-----=
+* [[Altmeier]]
+* [[Liechtein Soehnle]]
+
+====Griffon====
+=-----=
+* [[Scorched Wasteland]]
+* [[Grand Horn]]
+* [[Arland Area]]
+
+====Griffonian====
+=-----=
+* [[Grand Horn]]
+* [[Liechtein Soehnle]]
+* [[Primordial Island]]
+
+====Elder Griffon====
+=-----=
+Boss
+
+* [[Grand Horn]]
+
+====Fran Pfeil====
+=-----=
+Boss	
+
+* [[Liechtein Soehnle]]
+
+====Dragon====
+=-----=
+Boss	
+
+* [[Liechtein Soehnle]]
+* [[Old Sanctuary]]
+
+====Black Dragon====
+=-----=
+Boss	
+
+* [[Night's Domain]] (Galaxy Rank)
+
+====Iron Giant Proto====
+=-----=
+Boss	
+
+* [[Liechtein Soehnle]]
+
+====Iron Giant====
+=-----=
+Boss
+	
+* See [[Marc Events]]
+
+====Barrel Squirrel====
+=-----=
+* [[Alanya Area]]
+
+====Pot Squirrel====
+=-----=
+* [[Stein Hill]]
+* [[Neumont Forest]]
+* [[Alanya West Ruins]]
+
+====Box Squirrel====
+=-----=
+* [[Neumont Forest]]
+* [[Arland New World]]
+
+====T. Bomb Squirrel====
+=-----=
+Boss
+
+* [[Neumont Forest]]
+* [[Liechtein Soehnle]]
+
+====Coastal Penguin====
+=-----=
+* [[Arland Area]]
+* [[Alanya Area]]
+
+====Tropical Penguin====
+=-----=
+* [[Altmeier]]	
+
+====Arctic Penguin====
+=-----=
+* [[Runestone Nest]]
+* [[Liechtein Soehnle]]
+* [[Silver Lands]]
+
+====Penguin Monk====
+=-----=
+Boss	
+
+* [[Liechtein Soehnle]]
+
+====Fighting Goat====
+=-----=
+* [[Stein Hill]]
+* [[Forgotten Village]]	
+* [[Primordial Island]]
+
+====Dark Messenger====
+=-----=
+* [[Forgotten Village]]
+* [[Night's Domain]]
+* [[Arland New World]]
+
+====Gold-haired Ram====
+=-----=
+* [[Primordial Island]]
+
+====Scissor Bug====
+=-----=
+* [[Arland Great Plains]]
+
+====Spike Bug====
+=-----=
+* [[Grune Rainforest]]
+* [[Altmeier]]
+* [[Arland Wastelands]]
+
+====Giant Bug====
+=-----=
+* [[Grune Rainforest]]
+* [[Altmeier]]
+* [[Liechtein Soehnle]]
+* [[Outer Islets]]
+
+====Queen Guard====
+=-----=
+* [[Grune Rainforest]]
+* [[Liechtein Soehnle]]
+
+====Queen Bee====
+=-----=
+Boss
+
+* [[Grune Rainforest]]
+* [[Liechtein Soehnle]]
+
+====Wasteland Beast====
+=-----=
+Boss
+
+* [[Scorched Wasteland]]
+
+====Behemoth====
+=-----=
+* [[Primordial Island]]
+
+====Rage Beast====
+=-----=
+Boss
+
+* [[Liechtein Soehnle]]
+
+====Jewel Element====	
+=-----=
+Boss
+
+* [[Runestone Nest]]
+
+====Glass Element====
+=-----=
+Boss
+
+* [[Moonlight Forest]] (Galaxy Rank)
+
+====Flauschtraut====
+=-----=
+Boss
+
+* On the way to [[Altmeier]]
+
+====Ozean Kaiser====
+=-----=
+Boss
+
+* Sea Dragon Pool, next to [[Lost Island]]. Talk to the adventurer near Cory after you reach Galaxy Rank and a new point will appear on the map.
+
+====Evil Face====
+=-----=
+* [[Liechtein Soehnle]]
+
+====Mask d'P====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+====Mask d'R====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+====Mask d'A====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+====Cobalt Skull====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+====Guardian====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+====Blood Element====
+=-----=
+* [[Orthogalaxen]], Vita exclusive
+
+==Locations==
+
+===Initial Areas===
+
+====Western Plains====
+=-----=
+* ''Ingredient''
+** [[Magic Grass]]
+** [[Serenity Flower]]
+** [[Star Ladybug]]
+* ''Monster''
+** [[Blue Puni]]
+
+====Roaring Craggy Path====
+=-----=
+* ''Ingredient''
+** [[Distill Stone]]
+**  [[Some Egg]]
+** [[Rock Salt]]
+* ''Monster''
+** [[Audra]]
+
+====Nuse Grove====
+=-----=
+* ''Ingredient''
+** [[Eiche]]
+** [[Nuse]]
+** [[Beehive]]
+* ''Monster''
+** [[Barrel Squirrel]]
+
+===Glass Areas===
+
+====Abandoned Mine====
+=-----=
+* ''Ingredient''
+** [[Fest]]
+** [[Stim Stone]]
+** [[Snow Stone]]
+
+====Dry Sea====
+=-----=
+* ''Ingredient''
+** [[Rock Salt]]
+** [[Pretty Shell]]
+** [[Coco Fruit]]
+* ''Monster''
+** [[Coastal Penguin]]
+** [[Blue Puni]]
+
+====Hunter's Forest====
+=-----=
+* ''Ingredient''
+** [[Beehive]]
+** [[Chainweb]]
+** [[Goat Horn]]
+* ''Monster''
+** [[Green Puni]]
+** [[Barrel Squirrel]]
+
+====Natural Garden====
+=-----=
+* ''Ingredient''
+** [[Blue Fruit]]
+** [[Red Fruit]]
+** [[Purple Grape]]
+
+====Golden Plains====
+=-----=
+* ''Ingredient''
+** [[Wheat]]
+** [[Fuel Dirt]]
+** [[Purple Grape]]
+** [[Red Fruit]]
+** [[Blue Fruit]]
+** [[Chariot Milk]]
+
+* 11 gather points. (Milk doesn't count.)
+
+====Buried Ruins====
+=-----=
+* ''Ingredient''
+** [[Phlogiston]]
+** [[Bless Stone]]
+** [[Bounce Stone]]
+* ''Monster''
+** [[Wolf]]
+* First Marc recruitment event (Starting Year 1, 6/1)
+
+====Old Path====
+=-----=
+* ''Ingredient''
+** [[Med Tree Root]]
+** [[Cotton Flower]]
+** [[Quake Crystal]]
+
+====Traveler's Path====
+=-----=
+* ''Ingredient''
+** [[Mudhead]]
+** [[Distill Stone]]
+** [[Cotton Flower]]
+* ''Monster''
+** [[Ear Puni]]
+** [[Audra]]
+** [[Griffon]] (Bring bombs!)
+
+====Uni Grove====
+=-----=
+* ''Ingredient''
+** [[Eiche]]
+** [[Uni]]
+** [[Beehive]]
+* ''Monster''
+** [[Green Puni]]
+** [[Blue Puni]]
+
+===Iron Areas===
+
+====Sandy Wind Plains====
+=-----=
+* ''Ingredient''
+** [[Edge Aloe]]
+** [[Fest]]
+** [[Phlogiston]]
+* ''Monster''
+** [[Salamandra]]
+** [[Wolf]]
+
+====Nabel Lake====
+=-----=
+* ''Ingredient''
+** [[Pretty Shell]]
+** [[Swirly Shell]]
+** [[Mermaid Tear]]
+* ''Monster''
+** [[Coastal Penguin]]
+
+====Calamitous Mountain====
+=-----=
+* ''Ingredient''
+** [[Distill Stone]]
+** [[Stench Stone]]
+** [[Blue Sand]]
+* ''Monster''
+** [[Scissor Bug]]
+** [[Audra]]
+* Second Marc recruitment event. Chest is a bomb.
+* Cross bridge for landmark.
+
+====Fragrant Plains====
+=-----=
+* ''Ingredient''
+** [[Magic Grass]]
+** [[Serenity Flower]]
+** [[Fresh Mint]]
+
+====Vanishing Path====
+=-----=
+* ''Ingredient''
+** [[Magic Grass]]
+** [[Winding Grass]]
+** [[Strawberry Bug]]
+* ''Monster''
+** [[Ear Puni]]
+** [[Green Puni]]
+
+====Silent Path====
+=-----=
+* ''Ingredient''
+** [[Tar Fruit]]
+** [[Chainweb]]
+** [[Beast Stone]]
+
+===Bronze Areas===
+
+====Scorched Wasteland====
+=-----=
+* ''Ingredient''
+** [[Living Cactus]]
+** [[Cryptobotany]]
+** [[Coco Fruit]]
+** [[Forgotten Bone]]
+** [[Petrified Lizard]]
+* ''Monster''
+** [[Salamandra]]
+** [[Roc]]
+** [[Griffon]]
+** [[Wasteland Beast]]
+* Heat hurts. [[Heavenly Parasol]] would be lovely.
+* Bomb needed to blow up rock next to boss.
+* 13 Search points
+* Giant cactus is your landmark. Visit it!
+
+====Dragon Grave====
+=-----=
+* ''Ingredient''
+** [[Forgotten Bone]]
+** [[Petrified Lizard]]
+** [[Venom Gland]]
+* ''Monster''
+** [[Spike Bug]]
+
+====Pixie Dance Floor====
+=-----=
+* ''Ingredient''
+** [[Mudhead]]
+** [[Dizzy Cap Spore]]
+** [[Puni Mushroom]]
+* Landmark is a circle of mushrooms.
+
+====Holy Slumbering Tree====
+=-----=
+* ''Ingredient''
+** [[Incense Bark]]
+** [[Bamboo]]
+** [[Bitter Worm]]
+* ''Monster''
+** [[Pot Squirrel]]
+** [[Wolf]]
+
+====Herbal Plains====
+=-----=
+* ''Ingredient''
+** [[Edge Aloe]]
+** [[Med Tree Root]]
+** [[Bitter Worm]]
+* ''Monster''
+** [[Mandragora]]
+** [[Green Puni]]
+
+===Silver Areas===
+
+====Stein Hill====
+=-----=
+* ''Ingredient''
+** [[Star Piece]]
+** [[Gravistone]]
+** [[Quake Crystal]]
+** [[Strawberry Bug]]
+** [[Beast Stone]]
+* ''Monster''
+** [[Pot Squirrel]]
+** [[Fighting Goat]]
+** [[Ear Puni]]
+** [[Jagd Wolf]] (weak to fire)
+* Step on Monument by boss for License points.
+* 11 Search Points (start jumping!)
+
+====Crystal Hole====
+=-----=
+* ''Ingredient''
+** [[Bounce Stone]]
+** [[Snow Stone]]
+** [[Original Gem]]
+* ''Monster''
+** [[Aphostol]]
+
+====Drifter's Grave====
+=-----=
+* ''Ingredient''
+** [[Phlogiston]]
+** [[Forgotten Bone]]
+** [[Pendelook]]
+
+====Morning Mist River====
+=-----=
+* ''Ingredient''
+** [[Some Egg]]
+** [[Pretty Shell]]
+** [[Isle Amber]]
+
+====Holy Land Shortcut====
+=-----=
+* ''Ingredient''
+** [[Fest]]
+** [[Stim Stone]]
+** [[Bless Stone]]
+* Chest: [[Else Qulario]]
+
+===Gold Areas===
+
+====Ancient Monastery====
+=-----=
+* ''Ingredient''
+** [[Globe Sphere]]
+** [[Venom Gland]]
+** [[Pendelook]]
+** [[Flour]]
+** [[Chainweb]]
+* ''Monster''
+** [[Aphostol]]
+** [[Ghost]]
+** [[Ear Puni]]
+** [[Scarlet]]
+* Landmark is at the far end
+* 11 Search points
+
+====Promised Land====
+=-----=
+* ''Ingredient''
+** [[Fuel Dirt]]
+** [[Sunny Crystal]]
+** [[Metal Ore]]
+* ''Monster''
+** [[Scare Phantom]]
+** [[Ghost]]
+
+====Mountain Cave====
+=-----=
+* ''Ingredient''
+** [[Stench Stone]]
+** [[Stim Stone]]
+** [[Original Gem]]
+* ''Monster''
+** [[Ghost]]
+
+====Camp of the Defeated====
+=-----=
+* ''Ingredient''
+** [[Winding Grass]]
+** [[Honeypot Ant]]
+** [[Strawberry Bug]]
+* [[Normal Threads]] chest
+
+===Platinum Areas===
+
+====Seaside Hill====
+=-----=
+* ''Ingredient''
+** [[Cotton Flower]]
+** [[Some Egg]]
+** [[Isle Amber]]
+* ''Monster''
+** [[Isle Fish]]
+** [[Box Squirrel]]
+
+====Ancient Woods====
+=-----=
+* ''Ingredient''
+** [[Bamboo]]
+** [[Blacktree Lumber]]
+** [[World Tree Twig]]
+
+====Runestone Nest====
+=-----=
+* ''Ingredient''
+** [[Bless Stone]]
+** [[Black Runestone]]
+** [[Metal Ore]]
+** [[Original Gem]]
+** [[Star Piece]]
+* ''Monster''
+** [[Arctic Penguin]]
+** [[Basalt Dragon]]
+** [[Jewel Element]]
+* 11 Search Points (one is hard to see, you have to drop down to the walkway just above the boss)
+* Giant Crystal is beyond where the boss is.
+
+====Jade Ruins====
+=-----=
+* ''Ingredient''
+** [[Phlogiston]]
+** [[Wispstone]]
+** [[Bounce Stone]]
+
+====Rolling Hill====
+=-----=
+* ''Ingredient''
+** [[Gravistone]]
+** [[Star Piece]]
+** [[Sage Herb]]
+* ''Monster''
+** [[Ear Puni]]
+** [[Green Puni]]
+** [[Punincarnate]]
+
+====Forgotten Village====
+=-----=
+* ''Ingredient''
+** [[Serenity Flower]]
+** [[Fresh Mint]]
+** [[Fragrant Bug]]
+** [[Fertilizer]] (Houses)
+** [[Fluffy Fur]] (Houses)
+* ''Monster''
+** [[Ghost]]
+** [[Scare Phantom]]
+** [[Fighting Goat]]
+* Chest: [[World Spirits]] (both of them)
+* 6 Gather Points (outside only!)
+
+===Diamond Areas===
+
+====Hermit's Home====
+=-----=
+* ''Ingredient''
+** [[Tar Fruit]]
+** [[Stench Stone]]
+** [[Sea Puddle]]
+* Chest: [[Azure Wing]]
+
+====Mutant Forest====
+=-----=
+* ''Ingredient''
+** [[Mudhead]]
+** [[Uni]]
+** [[Sage Herb]]
+
+====Neumont Forest====
+=-----=
+* ''Ingredient''
+** [[Shining Saucer]]
+** [[Sage Herb]]
+** [[World Spirits]]
+** [[Dizzy Cap Spore]]
+** [[Star Ladybug]]
+* ''Monster''
+** [[Bunny Puni]]
+** [[Box Squirrel]]
+** [[Pot Squirrel]]
+** [[T. Bomb Squirrel]]
+* 11 gather points
+
+====Mist Ruins====
+=-----=
+* ''Ingredient''
+** [[Nuse]]
+** [[Goat Horn]]
+** [[Fragrant Bug]]
+* ''Monster''
+** [[Scare Phantom]]
+** [[Ear Puni]]
+* Landmark is at far end.
+
+====Crystal Spot====
+=-----=
+* ''Ingredient''
+** [[Sunny Crystal]]
+** [[Gravistone]]
+** [[Quake Crystal]]
+
+===Cobalt Areas===
+
+====Night's Domain====
+=-----=
+* ''Ingredient''
+** [[Wispstone]]
+** [[Black Runestone]]
+** [[Dark Dew]]
+* ''Monster''
+** [[Fresverg]]
+** [[Roc]]
+** [[Black Demon]]
+** [[Black Dragon]] (Galaxy Rank)
+* 13 gather points.
+
+====Dusk Throne====
+=-----=
+* ''Ingredient''
+** [[Black Runestone]]
+** [[Dark Dew]]
+** [[Shining Saucer]]
+* ''Monster''
+** [[Dark Messenger]]
+** [[Scarlet]]
+* Landmark at the end.
+
+====Moonlight Forest====
+=-----=
+* ''Ingredient''
+** [[Moonlight Flower]] (Galaxy Rank)
+** [[World Tree Twig]]
+** [[Forest Dew]]
+* ''Monster''
+** [[Bunny Puni]]
+** [[Witch Rose]]
+** [[Glass Element]] (Galaxy Rank)
+* Landmark is beyond Glass Element.
+
+====Old Sanctuary====
+=-----=
+* ''Ingredient''
+** [[Fuel Dirt]]
+** [[Metal Ore]]
+** [[Snow Stone]]
+* ''Monster''
+** [[Dragon]]
+* Landmark is just beyond dragon.
+
+===Boat Areas===
+
+====Island of Beginnings====
+=-----=
+* ''Ingredient''
+** [[Blue Sand]]
+** [[Seahorse]]
+** [[Small Sardine]]
+
+====Anchor Point====
+=-----=
+* ''Ingredient''
+** [[Edge Aloe]]
+** [[Sunny Crystal]]
+** [[Mermaid Tear]]
+
+====Himmel Way====
+=-----=
+* ''Ingredient''
+** [[Magic Grass]]
+** [[Fest]]
+** [[Venom Gland]]
+* ''Monster''
+** [[Fighting Goat]]
+** [[Gold-haired Ram]]
+
+====Grune Rainforest====
+=-----=
+* ''Ingredient''
+** [[Gold Scarab]]
+** [[Sonne Fruit]]
+** [[Azure Wing]]
+** [[Forest Dew]]
+** [[Incense Bark]]
+** [[Isle Amber]] (Carnivorous plant)
+** [[Dead Beast]] (Carnivorous plant)
+** [[Mandra Root]] (Carnivorous plant)
+* ''Monster''
+** [[Isle Fish]]
+** [[Spike Bug]]
+** [[Giant Bug]]
+** [[Queen Bee]] (Weak to Ice)
+** [[Queen Guard]]
+* 11 gather points. One is right behind where you start. 3 carnivorous plants.
+
+====Jungle Ruins====
+=-----=
+* ''Ingredient''
+** [[Gold Scarab]]
+** [[Puni Mushroom]]
+** [[Azure Wing]]
+* Two exits
+
+====Oceanic Hill====
+=-----=
+* ''Ingredient''
+** [[Distill Stone]]
+** [[Sea Puddle]]
+** [[Blacktree Lumber]]
+* ''Monster''
+** [[Roc]]
+** [[Scarlet]]
+
+====Beast's Den====
+=-----=
+* ''Ingredient''
+** [[Incense Bark]]
+** [[Bamboo]]
+** [[Dark Dew]]
+* ''Monster''
+** [[Behemoth]]
+* Two exits
+
+====Primordial Cave====
+=-----=
+* ''Ingredient''
+** [[Fuel Dirt]]
+** [[Rock Salt]]
+** [[Sea Puddle]]
+* ''Monster''
+** [[Griffonian]]
+* Landmark is behind Griffonian.
+
+====Himmel Gate====
+=-----=
+* ''Ingredient''
+** [[Sponge Fruit]]
+** [[Sonne Fruit]]
+** [[Bitter Worm]]
+
+====Grand Horn====
+=-----=
+* ''Ingredient''
+** [[Fairy World Tree]]
+** [[Some Egg]]
+** [[Tar Fruit]]
+** [[Living Cactus]]
+** [[Honeypot Ant]]
+* ''Monster''
+** [[Griffon]]
+** [[Griffonian]]
+** [[Elder Griffon]]
+* 11 gather points.
+* Landmark guarded by Elder Griffon. Bombs needed to get to it.
+
+====Rock Island====
+=-----=
+* ''Ingredient''
+** [[Sea Star]]
+** [[Butterfly Fish]]
+** [[Bomb Fish]]
+
+====Mushroom Island====
+=-----=
+* ''Ingredient''
+** [[Dizzy Cap Spore]]
+** [[Sea Grass]]
+** [[Sponge Fruit]]
+* ''Monster''
+** [[Witch Rose]]
+
+====Altmeier====
+=-----=
+* ''Ingredient''
+** [[Bomb Fish]]
+** [[Spike Tuna]]
+** [[Seahorse]]
+** [[Blue Sand]]
+** [[Sea Star]]
+* ''Monster''
+** [[Giant Bug]]
+** [[Tropical Penguin]]
+** [[Spike Bug]]
+** [[Valoshun]]
+** [[Basalt Dragon]]
+* 11 gather points
+
+====Tiny Island====
+=-----=
+* ''Ingredient''
+** [[Sea Grass]]
+** [[Spike Tuna]]
+** [[Living Fossil]]
+
+====Lost Island====
+=-----=
+* ''Ingredient''
+** [[Wheat]]
+** [[Blue Fruit]]
+** [[Red Fruit]]
+** [[Chariot Milk]]
+
+====Ruin Island====
+=-----=
+* ''Ingredient''
+** [[Cotton Flower]]
+** [[Petrified Lizard]]
+** [[Original Gem]]
+* Chest: [[Epic Poems]]
+
+====Jungle Island====
+=-----=
+* ''Ingredient''
+** [[Sponge Fruit]]
+** [[Coco Fruit]]
+** [[Honeypot Ant]]
+* ''Monster''
+** [[Giant Bug]]
+
+====Desolate Island====
+=-----=
+* ''Ingredient''
+** [[Wispstone]]
+** [[Pendelook]]
+** [[World Spirits]]
+* ''Monster''
+** [[Scare Phantom]]
+
+====Northern Lands====
+=-----=
+* ''Ingredient''
+** [[Cryptobotany]]
+** [[Swirly Shell]]
+** [[Mermaid Tear]]
+
+====Path of Oblivion====
+=-----=
+* ''Ingredient''
+** [[Chainweb]]
+** [[Forgotten Bone]]
+** [[Beast Stone]]
+* ''Monster''
+** [[Arctic Penguin]]
+
+====Mystic Snow Plains====
+=-----=
+* ''Ingredient''
+** [[Nuse]]
+** [[Winding Grass]]
+** [[Snow Stone]]
+* ''Monster''
+** [[Jagd Wolf]]
+** [[Raum Lizard]]
+
+====Prayer Forest====
+=-----=
+* ''Ingredient''
+** [[World Tree Twig]]
+** [[Purple Grape]]
+** [[World Spirits]]
+* Landmark is up the hill.
+
+====Liechtein Soehnle====
+=-----=
+* ''Ingredient''
+** Everything appears here. It's random. By this point, you really shouldn't care about ingredients.
+* ''Monster''
+** [[Fran Pfeil]]
+** [[Iron Giant Proto]]
+** [[Penguin Monk]]
+** [[Rage Beast]]
+** And, regardless of what the mooks look like, lots of other monsters from other areas appear here.
+
+===Galaxy Area===
+
+====Orthogalaxen====
+=-----=
+* Vita Exclusive
+* ''Ingredient''
+** Everything, really.
+* ''Monster''
+** [[Mask d'P]]
+** [[Mask d'R]]
+** [[Mask d'A]]
+** [[Cobalt Skull]]
+** [[Guardian]]
+** [[Blood Element]]
+** ...And about everything else.
+
+===Arland Area===
+
+AKA Outskirts of Arland
+
+* [[Traveler's Path]]
+* [[Holy Land Shortcut]]
+* [[Nabel Lake]]
+* [[Uni Grove]]
+* [[Old Path]]
+
+===Arland Great Plains===
+
+AKA Southern plains of Arland
+
+* [[Buried Ruins]]
+* [[Golden Plains]]
+* [[Natural Garden]]
+* [[Herbal Plains]]
+* [[Calamitous Mountain]]
+
+===Arland Wastelands===
+
+AKA Wasteland east of Arland
+
+* [[Dragon Grave]]
+* [[Scorched Wasteland]]
+* [[Hermit's Home]]
+* [[Mutant Forest]]
+* [[Sandy Wind Plains]]
+
+===Arland New World===
+
+* [[Morning Mist River]]
+* [[Moonlight Forest]]
+* [[Night's Domain]]
+* [[Dusk Throne]]
+* [[Old Sanctuary]]
+* [[Seaside Hill]]
+* [[Ancient Woods]]
+* [[Neumont Forest]]
+
+===Northern Ruins===
+
+* [[Promised Land]]
+* [[Ancient Monastery]]
+* [[Drifter's Grave]]
+* [[Mist Ruins]]
+* [[Forgotten Village]]
+
+===Alanya Area===
+
+AKA Outskirts of Alanya
+
+* [[Western Plains]]
+* [[Abandoned Mine]]
+* [[Dry Sea]]
+* [[Hunter's Forest]]
+* [[Silent Path]]
+* [[Nuse Grove]]
+
+===Continental Coastline===
+
+* [[Roaring Craggy Path]]
+* [[Fragrant Plains]]
+* [[Mountain Cave]]
+* [[Crystal Hole]]
+* [[Runestone Nest]]
+* [[Crystal Spot]]
+
+===Alanya West Ruins===
+
+* [[Vanishing Path]]
+* [[Stein Hill]]
+* [[Holy Slumbering Tree]]
+* [[Pixie Dance Floor]]
+
+===Southwest Peninsula===
+
+* [[Camp of the Defeated]]
+* [[Jade Ruins]]
+* [[Rolling Hill]]
+
+===Primordial Island===
+
+AKA Platinum Lands
+
+* [[Anchor Point]]
+* [[Himmel Way]]
+* [[Grune Rainforest]]
+* [[Jungle Ruins]]
+* [[Oceanic Hill]]
+* [[Beast's Den]]
+* [[Primordial Cave]]
+* [[Himmel Gate]]
+* [[Grand Horn]]
+
+===Inner Islets===
+
+* [[Island of Beginnings]]
+* [[Rock Island]]
+* [[Mushroom Island]]
+* [[Altmeier]]
+
+===Outer Islets===
+
+* [[Tiny Island]]
+* [[Jungle Island]]
+* [[Desolate Island]]
+* [[Lost Island]]
+* [[Ruin Island]]
+
+===Silver Lands===
+
+AKA Winter Lands
+
+* [[Northern Lands]]
+* [[Liechtein Soehnle]]
+* [[Path of Oblivion]]
+* [[Mystic Snow Plains]]
+* [[Prayer Forest]]
+
+==Legal==
+
+* drachenmeister13 at gmail dot com
+* Email is only if you create an account for me on your website or have some special thing you want to ask about.
+
+If you are a webmaster that wishes to host my guide, you can under the
+following conditions:
+
+* The guide is free to view
+* The guide is unaltered
+* Credit is given to me, Drache the Dork (*)
+
+I reserve the right to revoke permission to host my guide at any time. I will primarily revoke permission for three reasons.
+
+# Poor plagiarism checking
+# Guide theft (I assume innocence till other authors complain, though)
+# Altering text
+
+Sites forever denied permission:
+* scribd.com
+* CheatCC.com (Super scummy site. Do not support.)
+* cheatsguru.com
+
+If you display signs that you are reading this, I love you.
+
+%
+
+(*) I have gone under the following usernames in the past:
+## drachemeister
+## ridalnae_drache
+   
+Either username is an acceptable form of giving me credit. I prefer my new username going forward, however.

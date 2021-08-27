@@ -1,0 +1,4992 @@
+
+==Item List==
+
+
+===Weapons===
+
+====Break Rod====
+
+* ''Effect:'' STR +120 / RNG +1
+* ''Acquisition:'' Auto
+
+%
+
+====Fiber Rod====
+
+* ''Effect:'' STR +130 / RNG +1
+* ''Acquisition:'' Joan Arms & Guards
+
+%
+
+====Ebony Staff====
+
+* ''Effect:'' STR + 136 / RNG +1
+* ''Acquisition:'' [[Saphirl Tower: Sidequest]]
+
+%
+
+====Impact Rod====
+
+* ''Effect:'' STR + 150 / RNG +1
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Laundry Pole+====
+
+* ''Effect:''  STR +150 / RNG +2
+* ''Acquisition:'' [[Felicia's Hardware Store]]
+
+%
+
+====Five Rings Cane====
+
+* ''Effect:'' STR +160 / RNG +1
+* ''Acquisition:'' [[Carnelia Tower (Optional)]]
+
+%
+
+====Pole Weapon====
+
+* ''Effect:'' STR +180 / RNG +1
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Ceramic Rod====
+
+* ''Effect:'' STR +220 / RNG +1
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====Diamond Staff====
+
+* ''Effect:'' STR +240 / RNG +1
+* ''Acquisition:'' [[Esmelas Tower (Optional)]]
+
+%
+
+====Edel Staff====
+
+* ''Effect:'' Oops
+* ''Acquisition:'' [[Sein Arms & Guards]]
+; TODO: Edel Staff Stats
+%
+
+====Seven Rings Cane====
+
+* ''Effect:'' STR +295 / RNG +1
+* ''Acquisition:'' [[The Crimson Ark: Glorious]]
+
+%
+
+====Spiral Rod====
+
+* ''Effect:'' STR +320 / RNG +1
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Arhat's Staff====
+
+* ''Effect:'' STR +335 / RNG +1
+* ''Acquisition:'' [[Amberl Tower: Altered Space]]
+
+%
+
+====Valkyrie Rod====
+
+* ''Effect:'' STR +370 / RNG +1
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Brave Staff====
+
+* ''Effect:'' STR +415 / RNG +1
+* ''Acquisition:'' [[Axis Pillar]]
+
+%
+
+====Qilin Horn====
+
+* ''Effect:'' STR +480 / RNG +1
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Skinner====
+
+* ''Acquisition:'' Actually got this off the Wikia; apparently it's a default. You must lose it, because I don't have it.
+
+%
+
+====Folder====
+
+* ''Effect:'' STR +270
+* ''Acquisition:'' Default.
+
+%
+
+====Karambit====
+
+* ''Effect:'' Oops
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+; TODO: Karmabit stats
+%
+
+====Avenger====
+
+* ''Effect:'' STR +330
+* ''Acquisition:'' [[Sapphirl Tower: Altered Space]]
+
+%
+
+====All-Purpose Knife====
+
+* ''Effect:'' STR +350 / DEX +10
+* ''Acquisition:'' [[Felicia's Hardware Store]]
+
+%
+
+====Strider====
+
+* ''Effect:'' STR +370 (the description is a lie)
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Aura Fencer====
+
+* ''Effect:'' STR +415
+* ''Acquisition:'' [[Axis Pillar: Fifth Floor]]
+
+%
+
+====Phoenix Blades====
+
+* ''Effect:'' STR +480
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Python====
+
+* ''Effect:'' STR +130 / RNG +2
+* ''Acquisition:'' [[Joan Arms & Guards]]
+
+%
+
+====Air Glaive====
+
+* ''Effect:'' STR +150 / RNG +2
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Chain Gear====
+
+* ''Effect:'' Oops.
+* ''Acquisition:'' [[Weis Arms & Guards]]
+; TODO: Chain Gear stats
+%
+
+====Chain Belt====
+
+* ''Effect:'' STR +210 / RNG +3
+* ''Acquisition:'' [[Felicia's Hardware Store]]
+
+%
+
+====Eclair====
+
+* ''Effect:'' STR +220 / RNG +2
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====Wolf's Fang Whip====
+
+* ''Effect:'' STR +240 / RNG +2
+* ''Acquisition:'' [[Mistwald]]
+
+%
+
+====Sturm====
+
+* ''Effect:'' STR +270 / RNG +2
+* ''Acquisition:'' [[Sein Arms & Guards]]
+
+%
+
+====Galient Sword====
+
+* ''Effect:'' STR +320 / RNG +2
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Dragon's Fang Whip====
+
+* ''Effect:'' STR +340 / RNG +2
+* ''Acquisition:'' [[Sapphirl Tower: Altered Space]]
+
+%
+
+====Dendrobium====
+
+* ''Effect:'' STR +370 / RNG +2
+* ''Acquisition:''  [[Arseille Weapons Dispensary]]
+
+%
+
+====Rosenkrantz====
+
+* ''Effect:'' STR +415 / RNG +2
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Sirius Whip====
+
+* ''Effect:'' STR +480 / RNG +2
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Phantom====
+
+* ''Effect:'' STR + 122 / RNG +4
+* ''Acquisition:'' [[Joan Arms & Guards]]
+
+%
+
+====Stinger II====
+
+* ''Effect:'' STR +130 / RNG +4
+* ''Acquisition:'' [[Underground Ruins]]
+
+%
+
+====0-Type Orbal Gun alpha====
+
+* ''Effect:'' STR +135 / RNG +4
+* ''Acquisition:'' [[New Model Orbal Gun Test]]
+
+%
+
+====Gray Wolf====
+
+* ''Effect:'' STR +150 / RNG +4
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Salamander====
+
+* ''Effect:'' STR +180 / RNG +4
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Trickster====
+
+* ''Effect:'' STR +200 / RNG +4
+* ''Acquisition:'' [[Grancel Sewers: East Block (Optional)]]
+
+%
+
+====Dragoon====
+
+* ''Effect:'' STR +220 / RNG +4
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====0-Type Orbal Gun====
+
+* ''Effect:'' Oops
+* ''Acquisition:'' [[Sein Arms & Guards]]
+; TODO: 0-Type Orbal Gun
+%
+
+====Phantom II====
+
+* ''Effect:'' STR +285 / RNG +4
+* ''Acquisition:'' [[Amberl Tower]]
+
+%
+
+====Cyclops====
+
+* ''Effect:'' STR +370 / RNG +4
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Revolter====
+
+* ''Effect:'' STR +415 / RNG +4
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Eternity====
+
+* ''Effect:'' STR +480 / RNG +4
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Saber====
+
+* ''Effect:'' STR +130
+* ''Acquisition:''
+
+%
+
+====Sinclair====
+
+* ''Effect:'' STR +150
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Long Saber====
+
+* ''Effect:'' STR +180
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Vierge====
+
+* ''Effect:'' STR +220
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====Rune Blade====
+
+* ''Effect:'' STR +270
+* ''Acquisition:'' [[Sein Arms & Guards]]
+
+%
+
+====Aerondight====
+
+* ''Effect:'' STR +290
+* ''Acquisition:'' [[Ancient Dragon's Dwelling]]
+
+%
+
+====Battle Saber====
+
+* ''Effect:'' oops
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+; TODO: Battle Saber
+%
+
+====Caledfwlch====
+
+* ''Effect:'' STR +355
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]]
+
+Hey Welsh, how am I supposed to say all those consonants? Can't you just go with "Excalibur"?
+
+%
+
+====Celestial====
+
+* ''Effect:'' STR +370
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Seven Star Sword====
+
+* ''Effect:'' STR +415
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Moon Singer====
+
+* ''Effect:'' STR +480
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Claymore====
+
+* ''Effect:'' STR +140
+* ''Acquisition:'' [[Joan Arms & Guards]]
+
+%
+
+====Schweitzer====
+
+* ''Effect:'' STR +160
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Dynast Edge====
+
+* ''Effect:'' STR +190
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Blade Gear====
+
+* ''Effect:'' STR +230
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====Roaring Thunder====
+
+* ''Effect:'' STR +240
+* ''Acquisition:'' [[Milch Main Road]]
+
+%
+
+====Ogre Buster====
+
+* ''Effect:'' STR +280
+* ''Acquisition:'' [[Sein Arms & Guards]]
+
+%
+
+====Cleaver====
+
+* ''Effect:'' STR +300/ MOV -2 / SPD -3
+* ''Acquisition:'' [[Felicia's Hardware Store]]
+
+%
+
+====Grambringer====
+
+* ''Effect:'' STR +330
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Nohval Blade====
+
+* ''Effect:'' STR +345
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]]
+
+%
+
+====Zeno Breaker====
+
+* ''Effect:'' STR +380
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Lion King's Sword====
+
+* ''Effect:'' STR +435
+* ''Acquisition:'' [[Liber Ark Tunnels - 2]]
+
+%
+
+====Demon Eater====
+
+* ''Effect:'' STR +500
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====P-07====
+
+* ''Effect:'' STR +165 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Stain Arms & Guards]]
+
+%
+
+====Machine Planker====
+
+* ''Effect:'' STR +175 / RNG +3 / Area (M)
+* ''Acquisition:'' [[Hot Springs Fountainhead]]
+
+%
+
+====S Launcher====
+
+* ''Effect:'' STR +195 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====G-01====
+
+* ''Effect:'' STR +235 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====T Launcher====
+
+* ''Effect:'' STR +285 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Sein Arms & Guards]]
+
+%
+
+====Buster Gear====
+
+* ''Effect:'' STR +300 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Ancient Dragon's Dwelling]]
+
+%
+
+====G-02====
+
+* ''Effect:'' STR +335 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Tempest Cannon====
+
+* ''Effect:'' STR +350 / RNG +3 / Area (M)
+* ''Acquisition:'' [[Amberl Tower: Altered Space]]
+
+%
+
+====Meteo Buster====
+
+* ''Effect:'' STR +385 / RNG +3 / Area (S)
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Omega Craft====
+
+* ''Effect:'' STR +435 / RNG +3 / Area (M)
+* ''Acquisition:'' [[Industrial Block: Factoria]]
+
+%
+
+====Kowloon====
+
+* ''Effect:'' STR +500 / RNG +3 / Area (M)
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Heavy Cestus====
+
+* ''Effect:'' STR +190
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Silver Gauntlets====
+
+* ''Effect:'' STR +205
+* ''Acquisition:'' [[Grancel Sewers: West Block (Optional)]]
+
+%
+
+====Knuckle Gear====
+
+* ''Effect:'' STR +235
+* ''Acquisition:'' [[Elger Arms & Guards]]
+
+%
+
+====Blast Arm====
+
+* ''Effect:'' STR +290
+* ''Acquisition:'' [[Sein Arms & Guards]]
+
+%
+
+====Byakko's Claws====
+
+* ''Effect:'' STR +305
+* ''Acquisition:'' [[Ravennue Trail]]
+
+%
+
+====Gigant Arm====
+
+* ''Effect:'' STR +340
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Genbu Shell====
+
+* ''Effect:'' STR +355
+* ''Acquisition:'' [[Carnelia Tower: Altered Space]]
+
+%
+
+====Hecatonchire====
+
+* ''Effect:'' STR +395
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Briarios====
+
+* ''Effect:'' STR +445
+* ''Acquisition:'' [[Liber Ark Tunnels - 2]]
+
+%
+
+====Avalokiteshvara====
+
+* ''Effect:'' STR +510
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+* what is this name seriously
+
+%
+
+====Cross Gear====
+
+* ''Effect:'' STR +110 / RNG +3
+* ''Acquisition:''
+
+%
+
+====Air Shooter====
+
+* ''Effect:'' STR +180 / RNG +4
+* ''Acquisition:'' [[Weis Arms & Guards]]
+
+%
+
+====Arbalest====
+
+* ''Effect:'' STR +210 / RNG +4
+* ''Acquisition:''
+
+%
+
+====Windlass====
+
+* ''Effect:'' STR +270 / RNG +4
+* ''Acquisition:'' [[Lakeside Laboratory]]
+
+%
+
+====Composite Gear====
+
+* ''Effect:'' STR +320 / RNG +4
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Suzaku Bow====
+
+* ''Effect:'' STR +345 / RNG +5
+* ''Acquisition:'' [[Carnelia Tower: Altered Space]]
+
+%
+
+====Sylphid====
+
+* ''Effect:'' STR +370 / RNG +5
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Dominion====
+
+* ''Effect:'' STR +415 / RNG +5
+* ''Acquisition:'' [[Liber Ark Tunnels - 1]]
+
+%
+
+====Glittering Stars====
+
+* ''Effect:'' STR +480 / RNG +5
+* ''Acquisition:'' Professor Russell will make this out of [[Zemurian Ore]] in the finale.
+
+%
+
+====Fencer====
+
+* ''Effect:'' STR +120
+* ''Acquisition:'' Auto
+
+%
+
+====Seiryuu Sword====
+
+* ''Effect:'' STR +360
+* ''Acquisition:'' Auto
+
+%
+
+====Fujin-Raijin====
+
+* ''Effect:'' STR +340 / RNG +1
+* ''Acquisition:'' Auto
+
+%
+
++
++
++
+
+===Armor===
+
+====Cat Suit====
+
+* ''Effect:'' DEF +5 / SPD +5 / ???
+* ''Acquisition:'' [[Paul & Elke's Outlet]], [[Bell Station General Goods]]
+
+%
+
+====Enhanced Leather====
+
+* ''Effect:'' DEF +100
+* ''Acquisition:'' Auto
+
+%
+
+====Fiber Vest====
+
+* ''Effect:'' DEF +125
+* ''Acquisition:'' [[Joan Arms & Guards]], [[Stain Arms & Guards]]
+
+%
+
+====Jenis Blouse====
+
+* ''Effect:'' DEF +125/ADF +5/SPD +5/AGL +5/Women Only
+* ''Acquisition:'' [[Sapphirl Tower: Sidequest]]
+
+%
+
+====Jenis Blazer====
+
+* ''Effect:'' DEF +135/ATS +10/ADF +10/Men Only
+* ''Acquisition:'' [[Underground Ruins]], [[Manoria Byroad (Optional)]]
+
+%
+
+====Enhanced Jacket====
+
+* ''Effect:'' DEF +140/ADF +2
+* ''Acquisition:'' [[Weis Arms & Guards]], [[Stain Arms & Guards]]
+
+%
+
+====Red Jacket====
+
+* ''Effect:'' DEF +150/DEX +30/AGL +10/Men Only
+* ''Acquisition:'' [[Carnelia Tower (Optional)]]
+
+%
+
+====Blue Cashmere====
+
+* ''Effect:'' DEF +150/ADF +35/Women Only
+* ''Acquisition:'' [[Hot Springs Fountainhead]], [[Carnelia Tower (Optional)]]
+
+%
+
+====Holy Cloth====
+
+* ''Effect:'' DEF +155/ADF +50/ATS +50/AGL -10/Women
+* ''Acquisition:'' [[Grancel Sewers: North Block (Optional)]]
+
+%
+
+====Fiber Suit====
+
+* ''Effect:'' DEF +160/ADF +4
+* ''Acquisition:'' [[Weis Arms & Guards]], [[Elger Arms & Guards]]
+
+%
+
+====Ceram Coat====
+
+* ''Effect:'' DEF +200/ADF +6/SPD +5
+* ''Acquisition:'' [[Elger Arms & Guards]], [[Sein Arms & Guards]]
+
+%
+
+====Edel Armor====
+
+* ''Effect:'' DEF +200/ADF +15/ATS +15/Men
+* ''Acquisition:'' [[Grancel Sewers: West Block (Optional)]]
+
+%
+
+====Survival Vest====
+
+* ''Effect:'' DEF +210/ADF +10/SPD +5/AGL +20/Men
+* ''Acquisition:'' [[Mistwald]]
+
+%
+
+====Gypsy Queen====
+
+* ''Effect:'' DEF +210/ADF +30/SPD +5/AGL +10/Women
+* ''Acquisition:'' [[Esmelas Tower: Optional]]
+
+%
+
+====Protect Gear====
+
+* ''Effect:'' DEF +250/ADF +8
+* ''Acquisition:'' [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Ebony Suit====
+
+* ''Effect:'' DEF +260/ADF +35/Men
+* ''Acquisition:'' [[Lakeside Laboratory]]
+
+%
+
+====Misty Veil====
+
+* ''Effect:'' DEF +260/ADF +30/ATS +50/Women
+* ''Acquisition:'' [[Lakeside Laboratory]], [[The Crimson Ark: Glorious]], [[Ancient Dragon's Dwelling]]
+
+%
+
+====Ceram Armor====
+
+* ''Effect:'' DEF +310/ADF +12/AGL +10
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Taiji Garb====
+
+* ''Effect:'' DEF +320/ADF +20/ATS +20/SPD +5/AGL +20/Men
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]], [[Carnelia Tower: Altered Space]], [[Amberl Tower: Altered Space]]
+
+%
+
+====8 Divinations Garb====
+
+* ''Effect:'' DEF +320/ADF +40/SPD +5/AGL +20/Women
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]], [[Sapphirl Tower: Altered Space]]
+
+%
+
+====Dragon Skin Jumpsuit====
+
+* ''Effect:'' DEF +350/ADF +50
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Lavantar Bar & Casino)
+
+%
+
+====Armored Barbarossa====
+
+* ''Effect:'' DEF +360/ADF +35/STR +5/ATS -30/DEX +25/AGL +20/Men
+* ''Acquisition:'' [[Axis Pillar: Fifth Floor]]
+
+%
+
+====Reflector II====
+
+* ''Effect:'' DEF +350/ADF +50
+* ''Acquisition:'' [[Arseille Weapons Directory]]
+
+%
+
+====Aurelia Dress====
+
+* ''Effect:'' DEF +390/ADF +50/STR -30/ATS +100/Women
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Armored Sieglinde====
+
+* ''Effect:'' DEF +380/ADF +30/STR +50/ATS +30/DEX +20/AGL +15/Women
+* ''Acquisition:'' [[Axis Pillar: Fifth Floor]]
+
+%
+
+====Dark Messiah====
+
+* ''Effect:'' DEF +385/ADF +50/ATS +30/SPD +5/AGL +5/Men
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Gaia Suit====
+
+* ''Effect:'' DEF +425/ADF +25/STR +10/ATS +10/DEX +20/AGL +5
+* ''Acquisition:'' [[Axis Pillar: Fourth Floor]]
+
+%
+
+====Jagd Panzer====
+
+* ''Effect:'' DEF +455/ADF +40/AGL -5/MOV -1/SPD -5
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Aura Guard====
+
+* ''Effect:'' Oops
+* ''Acquisition:'' Bracer Rank A
+
+#
+
+====Jormungandr====
+
+* ''Effect:'' DEF +600/ADF +200/SPD -10/DEX +50/AGL -50/MOV -2
+* ''Acquisition:'' [[Axis Pillar]]
+
+%
+
+====Cat Foot Slippers====
+
+* ''Effect:'' DEF +1/MOV +2/AGL +2/???
+* ''Acquisition:'' [[O'Neil Duty-Free Shop]], [[Paul & Elke's Outlet]]
+
+%
+
+====Reinforced Boots====
+
+* ''Effect:'' DEF +30/MOV +1
+* ''Acquisition:'' [[Le Locle Canyon]], [[Saint Croix Forest]] x2
+
+%
+
+====Metal Spikes====
+
+* ''Effect:'' DEF +40/MOV +1
+* ''Acquisition:'' [[Joan Arms & Guards]], [[Stain Arms & Guards]]
+
+%
+
+====Clog Boots====
+
+* ''Effect:'' DEF +45/MOV -1/ATS +30/AGL -5/Men
+* ''Acquisition:'' [[Sapphirl Tower: Sidequest]]
+
+%
+
+====Hard Loafers====
+
+* ''Effect:'' DEF +45/MOV +2/SPD +2/AGL +2/Women
+* ''Acquisition:'' [[Underground Ruins]], [[Gull Seaside Way]]
+
+%
+
+====Fiber Boots====
+
+* ''Effect:'' DEF +50/MOV +1
+* ''Acquisition:'' [[Stain Arms & Guards]], [[Weis Arms & Guards]]
+
+%
+
+====Accel Gear====
+
+* ''Effect:'' DEF +50/MOV +2/SPD +5/Men
+* ''Acquisition:'' [[Carnelia Tower (Optional)]]
+
+%
+
+====Gemini Boots====
+
+* ''Effect:'' DEF +55/MOV +1/Women
+* ''Acquisition:'' [[Kaldia Tunnel]], [[Hot Springs Fountainhead]]
+
+%
+
+====Strega-F====
+
+* ''Effect:'' DEF +60/MOV +1
+* ''Acquisition:'' [[Weis Arms & Guards]], [[Elger Arms & Guards]]
+
+%
+
+====Crystal Heels====
+
+* ''Effect:'' DEF +70/MOV +2/SPD +5/AGL +10/Women
+* ''Acquisition:'' [[Grancel Sewers: East Block (Optional)]]
+
+%
+
+====Edel Guarders====
+
+* ''Effect:'' DEF +75/MOV +1/Men
+* ''Acquisition:'' [[Grancel Sewers: North Block (Optional)]]
+
+%
+
+====Spike Gear====
+
+* ''Effect:'' DEF +90/MOV +1
+* ''Acquisition:'' [[Elger Arms & Guards]], [[Sein Arms & Guards]]
+
+%
+
+====Duende Slippers====
+
+* ''Effect:'' DEF +90/MOV +1
+* ''Acquisition:'' [[Esmelas Tower (Optional)]]
+
+%
+
+====Haken Boots====
+
+* ''Effect:'' DEF +95/MOV +3/AGL +10/Men
+* ''Acquisition:'' [[Mistwald]]
+
+%
+
+====Star Rabbits====
+
+* ''Effect:'' DEF +95/MOV +5/AGL +15/Women
+* ''Acquisition:'' [[Amberl Tower]], [[Lakeside Laboratory]], [[The Crimson Ark: Glorious]]
+
+%
+
+====Ceramic Spikes====
+
+* ''Effect:'' DEF +130/MOV +1
+* ''Acquisition:'' [[Elger Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Ebony Shoes====
+
+* ''Effect:'' DEF +135/MOV +1/ATS +30/ADF +30/Men
+* ''Acquisition:'' [[Amberl Tower]], [[Ancient Dragon's Dwelling]], [[Lakeside Laboratory]]
+
+%
+
+====Strega-G====
+
+* ''Effect:'' DEF +150/MOV +2
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Regina Guarder====
+
+* ''Effect:'' oops
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]], [[Sapphirl Tower: Altered Space]]
+; TODO: Regina Guarder Stats
+%
+
+====Blue Falcons====
+
+* ''Effect:'' DEF +155/MOV +2/SPD +5/AGL +35/Men
+* ''Acquisition:'' [[Amberl Tower: Altered Space]], [[Esmelas Tower: Altered Space]], [[Carnelia Tower: Altered Space]]
+
+%
+
+====Strega MAX====
+
+* ''Effect:'' DEF +160/MOV +4
+* ''Acquisition:'' [[Paul & Elke's Outlet]]
+
+%
+
+====Dragon Skin Shoes====
+
+* ''Effect:'' DEF +170/MOV +5/SPD +3
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Lavantar Casino & Bar)
+
+%
+
+====Jagd Guarders====
+
+* ''Effect:'' DEF +180/MOV +5/SPD +5/DEX -10/AGL +5
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Parthenon Gear====
+
+* ''Effect:'' DEF +195/MOV +2/SPD +5/ATS +50/ADF +50/Women
+* ''Acquisition:'' [[Liber Ark Tunnels - 3]]
+
+%
+
+====Composites II====
+
+* ''Effect:'' DEF +200/MOV +2
+* ''Acquisition:'' [[Arseille Weapons Dispensary]]
+
+%
+
+====Strega B1====
+
+* ''Effect:'' DEF +200/MOV +10
+* ''Acquisition:'' Bracer Rank B+
+
+%
+
+====Hermes Gear====
+
+* ''Effect:'' DEF +200/MOV +4/DEX +50/AGL +15/Men
+* ''Acquisition:'' [[Liber Ark Tunnels - 2]]
+
+%
+
+====Persetear====
+
+* ''Effect:'' DEF +205/MOV +4/DEx +50/AGL +15/Women
+* ''Acquisition:'' [[Liber Ark Tunnels - 2]]
+
+%
+
+====Spiegel Shoes====
+
+* ''Effect:'' DEF +215/MOV +2/SPD +5/ATS +10/ADF +30/Men
+* ''Acquisition:'' [[Liber Ark Tunnels - 3]]
+
+%
+
+====Prometheus====
+
+* ''Effect:'' DEF +220/MOV +4/SPD +5/ATS +30/ADF +10/AGL +5
+* ''Acquisition:'' [[Axis Pillar: Fourth Floor]]
+
+%
+
+====Glove Gear====
+
+* ''Acquisition:'' FC Full BP Bonus. Drache doesn't have this so it's going here in the appendix; it has a proper place somewhere else.
+
+%
+
+====Zero Field Generator====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Night Goggles====
+
+* ''Effect:'' Lets you see in dark places in ugly green.
+* ''Acquisition:'' [[Grimsel Fortress]], [[Lakeside Laboratory]]
+
+%
+
+====Eisenritter's Medal====
+
+* ''Effect:'' DEF +20 / Prevents seal+mute
+* ''Acquisition:'' [[Imperial Request]]
+
+%
+
+====Emergency Puppet====
+
+* ''Effect:'' Fully revives after KO, breaks after.
+* ''Acquisition:'' Reward for perfect FC file, [[Liber Ark Tunnels - 3]], [[Axis Pillar]]
+
+%
+
+====Proxy Puppet====
+
+* ''Effect:'' Prevents KO once, breaks after.
+* ''Acquisition:'' [[Edel Market - Accessory Shop]], [[Balstar Channel]], [[Amberl Tower]], [[The Crimson Ark: Glorious]], [[Carnelia Tower: Altered Space]]
+
+%
+
+====Gladiator Headband====
+
+* ''Effect:'' STR+5/DEF+5/CP Up +10%
+* ''Acquisition:'' [[Training Assistance]], [[Amberl Tower]]
+
+%
+
+====Gladiator Belt====
+
+* ''Effect:'' STR+10/DEF+10/Auto-CP Up
+* ''Acquisition:'' Auto, Bracer Rank B
+
+%
+
+====Anti-Cold Helmet====
+
+* ''Effect:'' DEF +15/Prevents Freeze
+* ''Acquisition:'' [[Edel Market - Sundries Corner]]
+
+%
+
+====Cotton-Stuffed Vest====
+
+* ''Effect:'' DEF +15/Prevents petrify
+* ''Acquisition:'' [[Paul & Elke's Outlet]]
+
+%
+
+====Topaz Talisman====
+
+* ''Effect:'' Attack/Defense become earth pased.
+* ''Acquisition:'' [[Amberl Tower]], [[Amberl Tower: Altered Space]]
+
+%
+
+====Sapphire Talisman====
+
+* ''Effect:'' Attack/Defense become water pased.
+* ''Acquisition:'' [[Sapphirl Tower: Sidequest]], [[Sapphirl Tower: Altered Space]]
+
+%
+
+====Ruby Talisman====
+
+* ''Effect:'' Attack/Defense become fire pased.
+* ''Acquisition:'' [[Carnelia Tower (Optional)]], [[Carnelia Tower: Altered Space]]
+
+%
+
+====Emerald Talisman====
+
+* ''Effect:'' Attack/Defense become wind pased.
+* ''Acquisition:'' [[Esmelas Tower (Optional)]], [[Esmelas Tower: Altered Space]]
+
+%
+
+====Power Orb====
+
+* ''Effect:'' STR +50/MOV +3/SPD +5
+* ''Acquisition:'' [[Liberl: Zeiss Region]] (Dimensional Bug)
+
+%
+
+====Shield Orb====
+
+* ''Effect:'' DEF +50/MOV +3/SPD +5
+* ''Acquisition:'' [[Liberl: Bose Region]] (Dimensional Bug)
+
+%
+
+====Mind Orb====
+
+* ''Effect:'' ATS +50/MOV +3/SPD +5
+* ''Acquisition:'' [[Liberl: Ruan Region]] (Dimensional Bug)
+
+%
+
+====Soul Orb====
+
+* ''Effect:'' ADF +50/MOV +3/SPD +5
+* ''Acquisition:'' [[Liberl: Rolent Region]] (Dimensional Bug)
+
+%
+
+====Cat Ears Band====
+
+* ''Effect:'' AGL +2/???
+* ''Acquisition:'' [[Paul & Elke's Outlet]]
+
+%
+
+====Cat Tail====
+
+* ''Effect:'' MOV +2/???
+* ''Acquisition:'' [[Paul & Elke's Outlet]], [[Edel Market - Accessory Shop]]
+
+%
+
+====Soft Knit Cap====
+
+* ''Effect:'' DEF+8/Prevents freeze
+* ''Acquisition:'' [[Bell Station General Goods]]
+
+%
+
+====Silver Earring====
+
+* ''Effect:'' Prevents poison
+* ''Acquisition:'' [[Balstar Channel]], [[Tratt Plains Road]], [[Stain Arms & Guards]], [[Elger Arms & Guards]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Lighter====
+
+* ''Effect:'' Prevents Freeze
+* ''Acquisition:'' [[Edel Market - Accessory Shop]], [[Sein Arms & Guards]], [[Arseill Weapons Dispensary]]
+
+%
+
+====Mirage Ring====
+
+* ''Effect:'' Prevents petrify
+* ''Acquisition:'' [[Edel Market - Accessory Shop]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]], [[Kaldia Tunnel]], [[Amberl Tower: Altered Space]]
+
+%
+
+====Black Bangle====
+
+* ''Effect:'' Prevents sleep
+* ''Acquisition:'' [[Mistwald]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Glam Choker====
+
+* ''Effect:'' Prevents mute
+* ''Acquisition:'' [[Esmelas Tower: Altered Space]], [[Weis Arms & Guards]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====White Bracelet====
+
+* ''Effect:'' Prevents blind
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Laventar Bar & Casino), [[Stain Arms & Guards]], [[Weis Arms & Guards]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Pearl Earring====
+
+* ''Effect:'' Prevents seal
+* ''Acquisition:'' [[Sapphirl Tower: Sidequest]], [[Joan Arms & Guards]],  [[Stain Arms & Guards]], [[Weis Arms & Guards]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Lily Necklace====
+
+* ''Effect:'' Prevents confuse
+* ''Acquisition:'' [[Limestone Cave]], [[Mistwald]], [[Axis Pillar: Fourth Floor]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Feather Brooch====
+
+* ''Effect:'' Prevents faint
+* ''Acquisition:'' [[Underground Ruin]], [[Sky Bandit Stronghold]], [[Joan Arms & Guards]], [[Medal - Gift Exchange]] (Lavantar Bar & Casino), [[Stain Arms & Guards]], [[Weis Arms & Guards]], [[Edel Market - Accessory Shop]], [[Elger Arms & Guards]], [[Sein Arms & Guards]], [[Arseille Weapons Dispensary]]
+
+%
+
+====Skull Pendant====
+
+* ''Effect:'' Prevents deathblows
+* ''Acquisition:'' [[Amberl Tower: Altered Space]], [[Edel Market - Accessories Shop]], [[Arseille Weapons Dispensary]]
+
+%
+
+====T-Anklet====
+
+* ''Effect:'' Prevents freeze/petrify
+* ''Acquisition:'' [[Shining Pom]]. Any of them. Good luck.
+
+%
+
+====Crest Charm====
+
+* ''Effect:'' Prevents sleep/faint
+* ''Acquisition:'' [[Shining Pom]]. Any of them. Good luck.
+
+%
+
+====Grail Locket====
+
+* ''Effect:'' Prevents all abnorlal Status (except KO)
+* ''Acquisition:'' [[Industrial Block: Glorious]]
+
+%
+
+====Silver Chain====
+
+* ''Effect:'' Prevents poison/DEF +15
+* ''Acquisition:'' Bracer Rank G+
+
+%
+
+====Shine Sphere====
+
+* ''Effect:'' Prevents sleep/blind/freeze / STR+20
+* ''Acquisition:'' [[Axis Pillar: Fourth Floor]]
+
+%
+
+====Moonglasses====
+
+* ''Effect:'' Prevents poison+blind
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Laventar Bar & Casino)
+
+%
+
+====Buzzer====
+
+* ''Effect:'' Prevents sleep+faint/ATS+30/ADF+30
+* ''Acquisition:'' [[Lakeside Laboratory]], [[Medal - Gift Exchange]] (Laventar Bar & Casino)
+
+%
+
+====Master Beads====
+
+* ''Effect:'' Prevents sleep+confuse
+* ''Acquisition:'' [[Sapphirl Tower: Altered Space]], [[Search for the Lost Cat]]
+
+%
+
+====Tornado Fan====
+
+* ''Effect:'' Prevents poison+freeze
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Lavantar Bar & Casino)
+
+%
+
+====Vajra====
+
+* ''Effect:'' Prevents seal+mute
+* ''Acquisition:'' [[The Crimson Ark: Glorious]]
+
+%
+
+====Lebensborn====
+
+* ''Effect:'' Prevents petrification+deathblows
+* ''Acquisition:'' [[Amberl Tower: Altered Space]]
+
+%
+
+====Tiger Heart====
+
+* ''Effect:'' STR +50/DEF +50/ATS -50/ADF -50/Prevents seal
+* ''Acquisition:'' [[Axis Pillar]]
+
+%
+
+====Crimson Eye====
+
+* ''Effect:'' ATS +50/ADF +50/MOV -1/SPD -5/Prevents mute
+* ''Acquisition:'' [[Abandoned Mine]]
+
+%
+
+====Divine Cross====
+
+* ''Effect:'' All Abilities Up Except RNG
+* ''Acquisition:'' [[Divine Penguin 2]]
+
+%
+
+====Long Barrel====
+
+* ''Effect:'' RNG +2 for guns/cannons/crossbows
+* ''Acquisition:'' [[Limestone Cave]]
+
+%
+
+====Long Barrel II====
+
+* ''Effect:'' RNG +3 for guns/cannons/crossbows
+* ''Acquisition:'' [[Grancel Sewers: North Block (Optional)]], [[Amberl Tower]]
+
+%
+
+====Long Barrel III====
+
+* ''Effect:'' RNG +4 for guns/cannons/crossbows
+* ''Acquisition:'' [[Carnelia Tower: Altered Space]], [[Axis Pillar]], [[Medal - Gift Exchange]] (Lavantar Bar & Casino)
+
+%
+
+====Silver Ring====
+
+* ''Effect:'' ATS +2 / ADF +2
+* ''Acquisition:'' Top of Esmelas Tower, part of [[The Ring That Flew Away]] sidequest.
+
+%
+
++
++
++
+
+===Healing===
+
+====Tear Balm====
+
+* ''Effect:'' Heals 800 HP
+
+%
+
+====Teara Balm====
+
+* ''Effect:'' Heals 2000 HP
+
+%
+
+====Tearal Balm====
+
+* ''Effect:'' Heals 5000 HP
+
+%
+
+====Tear All Balm====
+
+* ''Effect:'' Heals all HP
+
+%
+
+====Reviving Balm====
+
+* ''Effect:'' Cures KO / Heals 1000 HP
+
+%
+
+====Celestial Balm====
+
+* ''Effect:'' Cures KO / Healls all HP
+
+%
+
+====Zeram Powder====
+
+* ''Effect:'' Cures KO / Healls all HP / Restores 100 CP
+* ''Acquisition:'' [[Underground Ruins]], [[Tratt Plains Road]], [[Milch Main Road]], [[Carnelia Tower: Altered Space]], etc. Only in chests.
+
+%
+
+====Zeram Capsule====
+
+* ''Effect:'' Cures KO / Healls all HP / Restores 200 CP
+* ''Acquisition:'' [[Grancel Sewers: West Block (Optional)]], [[Amberl Tower: Altered Space]], [[Axis Pillar]]
+
+%
+
+====Purging Balm====
+
+* ''Effect:'' Heals 100 HP / Cures poison/seal/blind
+
+%
+
+====Softening Balm====
+
+* ''Effect:'' Heals 100 HP / Cures freeze/petrify
+
+%
+
+====Smelling Salts====
+
+* ''Effect:'' Cures confuse/sleep/faint
+
+%
+
+====Curia Balm====
+
+* ''Effect:'' Heals 100 HP / Cures abnormal status
+
+%
+
+====S-Tablet====
+
+* ''Effect:'' Cures lowered statuses / Heals 500 HP
+
+%
+
+====Insulating Tape====
+
+* ''Effect:'' Heals 100 HP / Cures mute
+
+%
+
+====EP Charge====
+
+* ''Effect:'' Restores 100 EP
+
+%
+
+====EP Charge II====
+
+* ''Effect:'' Restores 300 EP
+
+%
+
+====EP Charge III====
+
+* ''Effect:'' Restores 500 EP
+
+
++
++
++
+
+
+===Recipes===
+''NOTE: The recipes in this section will be in this particular order: Sit-in. To go. Attack.''
+====Recipes found in Prologue====
+
+=====Nature's Bounty=====
+* ''Ingredients:'' [[Maple Sugar]] x1, [[Fresh Herb]] x3, [[Royal Leaf]] x2 and [[Clear Gelatin]] x2
+* ''Description:'' '''A refreshing soda infused with extract of scented grasses'''
+* ''Type:'' To go. Restores 500 HP and cures KO
+* ''Acquisition'': Can be purchased at [[Phyllis' Kitchen]] or can be found in [[Saint Croix Forest]]
+** It can also be found in [[Lavantar Casino & Bar]], or [[Priam's Drink Stand]]
+%
+
+=====Herb Sandwich=====
+* ''Ingredients:'' [[Milled Flour]] x1, [[Flaky Potato]] x1, [[Crisp Onion]] x1, and [[Fresh Herb]] x2
+* ''Description:'' '''A [[Fresh Herb]]-scented sandwich. Perfect for a light meal.'''
+* ''Type:'' To go. Restores 700 HP and cures poison
+* ''Acquisition'': Can be purchased at [[Phyllis' Kitchen]] in prologue
+** It can also be found in [[Air-Letten Mess Hall]], [[Academy Cafeteria]], [[Haken Gate - Rest Stop]], or [[Baral Coffee House]]
+%
+
+=====Surprise Cookie=====
+* ''Ingredients:'' [[Fresh Milk]] x1, [[Fresh Eggs]] x1, [[Milled Flour]] x1, [[Olive Oil]] x1, [[[[Prickly Seed]]]] x1, and [[Savory Pinion]] x1
+* ''Description:'' '''A rock hard ballistic biscuit. Who baked this thing?!'''
+* ''Type:'' Attack. STR 500.
+* ''Acquisition'': It can be found in [[Balstar Channel]]
+** It can also be found in [[Gull Seaside Way]]
+%
+
+====Recipes found in Chapter I====
+
+=====Azelia Kiss=====
+* ''Ingredients:'' [[Vintage Wine]] x1, [[Azelia Fruit]] x5, [[Maple Sugar]] x2, and [[Savory Pinion]] x1
+* ''Description:'' '''A cocktail with a lip-tingling hint of Azelia.'''
+* ''Type:'' To go. Restores 1500HP and cures KO.
+* ''Acquisition'': Can be purchased at [[Lavantar Casino & Bar]]
+** It can be also be bought in [[Priam's Drink Stand]]
+%
+
+
+=====Sea Breeze Soup=====
+* ''Ingredients:''  [[Milled Flour]] x3, [[Tender Whitefish]] x2, and [[Olive Oil]] x1
+* ''Description:'' '''A simple pasta soup seasoned with a kiss of ocean brine'''
+* ''Type:'' Sit-in. Restores 1000HP to everyone.
+* ''Acquisition'': Can be purchased at [[Aqua Rossa Bar]]
+%
+
+=====Prime Salmon Grill=====
+* ''Ingredients:'' [[Olive Oil]] x2, [[Fresh Herb]] x2, [[Tender Whitefish]] x2, and [[Fish Fillet]] x1
+* ''Description:'' '''A luxurious dish of premium steaks, drizzled in oil.'''
+* ''Type:'' To go. Restores 1800 HP.
+* ''Acquisition'': Can be purchased at [[Aqua Rossa Bar]]
+%
+
+=====Salt-Roasted Fish=====
+* ''Ingredients:''  [[Ironbone Fish]] x2, [[Tender Whitefish]] x2, [[Kibbled Salt]] x2, and [[Monster Carapace]] x1
+* ''Description:'' '''A small fish cooked in moist perfection in a crust of salt.'''
+* ''Type:'' To go. Restores 1100 HP and raises DEF by 10%.
+* ''Acquisition'': Can be purchased at [[Air-Letten Mess Hall]]
+%
+
+=====Perilous Meatballs=====
+* ''Ingredients:'' [[Marbled Steak]] x1, [[Kibbled Salt]] x2, [[Black Pepper]] x2, [[[[Red Pepper]]]] x2, and [[Beast Flesh]] x1, [[Leathery Tail]] x1
+* ''Description:'' '''A meatball so spicy one bite'll make you breath fire.'''
+* ''Type:'' Attack. STR 600.
+* ''Acquisition'': It can be found in [[Sapphirl Tower]]
+** It can also be found in [[Soldat Army Road]]
+%
+
+=====Garden of Seaden=====
+* ''Ingredients:'' [[Tri-Colored Rice]] x1, [[Ironbone Fish]] x1, [[Fresh Eggs]] x1, [[Tender Whitefish]] x1, [[Monster Carapace]] x1, and [[Fish Fillet]] x1
+* ''Description:'' '''A paella feast heaped with high jewels of the sea'''
+* ''Type:'' Sit-in. Restores 600 HP and 20 CP to everyone
+* ''Acquisition'': Can be purchased at [[White Manoria Inn]]
+%
+
+=====Sea 'Bubbles'=====
+* ''Ingredients:'' [[Gummy Eyeball]] x1, [[Fish Egg]] x1, and [[Vintage Wine]] x1
+* ''Description:'' '''A rare egg fish dish with an irresistable poppable egg texture'''
+* ''Type:'' To go. Restores 2100 HP and cures faint.
+* ''Acquisition'': Can be purchased at [[White Manoria Inn]]
+
+%
+=====Miso-Stewed Fish=====
+* ''Ingredients:'' [[Aged Miso]] x1, [[Maple Sugar]] x1, [[Kibbled Salt]] x1, and [[Tender Whitefish]] x2
+* ''Description:'' '''Eastern style fish cooked in miso. Subtlu sweet and sour.'''
+* ''Type:'' To go. Restores 1400 HP and cures seal.
+* ''Acquisition'': Can be purchased at [[White Manoria Inn]]
+
+%
+=====Crimson Platter=====
+* ''Ingredients: [[Tender Whitefish]] x2 and [[Fish Fillet]] x2''
+* ''Description:'' '''Eastern style raw fish. An exotic delicacy.'''
+* ''Type:'' To go. Restores 1500 HP and cures faint.
+* ''Acquisition'': Can be found at [[Krone Trail (Optional)]]
+
+%
+
+=====Young Lady Plate=====
+* ''Ingredients:'' [[Milled Flour]] x2, [[Fresh Eggs]] x1, [[Sharp Cheese]] x1, and [[Marbled Steak]] x3
+* ''Description:'' '''A somewhat fancy school lunch'''
+* ''Type:'' To go. Restores 1500 HP and cures KO.
+* ''Acquisition'': Can be purchased at [[White Manoria Inn]]
+%
+
+=====Royal Gelato=====
+* ''Ingredients:'' [[Fresh Eggs]] x1, [[Fresh Milk]] x2, [[Maple Sugar]] x2, [[Dragon Beans]] x2, and [[Royal Leaf]] x2
+* ''Description:'' '''A classy dessert with subtle sweetness and velvety texture'''
+* ''Type:'' To go. Restores 1700 HP and cures KO.
+* ''Acquisition'': Can be purchased at [[Academy Cafeteria]]
+** It can also be purchased in [[Sorbet's Ice Scream Stand]]
+%
+
+=====Hot-Hot Potato Fry=====
+* ''Ingredients:'' [[Flaky Potato]] x2, [[Kibbled Salt]] x1, and [[Olive Oil]] x1
+* ''Description:'' '''Golden tater skewers. Crispy outside, blazing hot on the inside.'''
+* ''Type:'' To go. Restores 400 HP and cures freeze
+* ''Acquisition'': Can be purchased at [[Academy Cafeteria]]
+
+%
+
+====Recipes found in chapter II====
+
+=====Mountain Man Stew=====
+* ''Ingredients:''  [[Firefly Fungus]] x3, [[Juicy Bone]] x1, and [[Aged Miso]] x1
+* ''Description:'' '''Mushroom stew made out of miso. Beefcake not included'''
+* ''Type:'' Sit-in. Restores 3000 HP to everyone.
+* ''Acquisition'': Can be purchased at [[The Maple Leaf Inn]]
+
+%
+
+=====Macho Meat Stew=====
+* ''Ingredients:'' [[Aged Miso]] x1, [[Vintage Wine]] x1, [[Black Pepper]] x3, [[[[Red Pepper]]]] x3, [[Marbled Steak]] x2, [[Beast Flesh]] x2, [[Fish Fillet]] x2, and [[Tender Poultry]] x2,
+* ''Description:'' '''A pot full of meat. Lots of meat. Stupid amounts of meat'''
+* ''Type:'' Sit-in. Restores 1800 HP and 35 CP to everyone.
+* ''Acquisition'': Can be purchased at [[Sanktheim Gate - Mess Hall]]
+
+%
+=====Flower Milkshake=====
+* ''Ingredients:'' [[Fresh Milk]] x2, [[Fresh Eggs]] x2, and [[Maple Sugar]] x2
+* ''Description:'' '''Creamy treat with a simple, gentle taste.'''
+* ''Type:'' To go. Restores 1600 HP and cures poison, blind, and freeze
+* ''Acquisition'': Can be purchased at [[The Maple Leaf Inn]]
+
+%
+=====Ambrosial Egg=====
+* ''Ingredients:'' [[Firefly Fungus]] x1, [[Vintage Wine]] x1, [[Sharp Cheese]] x1, [[Dragon Beans]] x1, [[Gummy Eyeball]] x1, and [[Bird Egg]] x1
+* ''Description:'' '''Delicately smoked and spiced soft-boiled egg.'''
+* ''Type:'' To go. Restores 3000 HP and cures poison, blind, and freeze
+* ''Acquisition'': Can be purchased at [[The Maple Leaf Inn]]
+** It can also be purchased at [[Gurune Gate - Mess Hall]]
+%
+=====Premium Herb Tea=====
+* ''Ingredients:'' [[Azelia Fruit]] x8, [[Fresh Herb]] x8, and [[Royal Leaf]] x8
+* ''Description:'' ''' '''
+* ''Type:'' To go. Restores 4500 HP and cures seal, mute, and confuse.
+* ''Acquisition'': Can be purchased at [[Priam's Drink Stand]]
+** You can also find it by talking to Hannah in Perzel's Farm after the end of chapter IV
+(Thanks Silverleaf for the second location)
+%
+=====Fruit Kingdom=====
+* ''Ingredients:'' [[Milled Flour]] x5, [[Bear Claw]] x2, [[Luscious Orange]] x2, [[Ripe Apple]] x2, and [[Azelia Fruit]] x2
+* ''Description:'' '''Regal tart piled high with luscious berries.'''
+* ''Type:'' To go. Restores 800 HP and cures poison
+* ''Acquisition'': Can be purchased at [[Forgel Bar]]
+%
+=====Tomatrio Sandwich=====
+* ''Ingredients:'' [[Acerbic Tomato]] x3, [[Milled Flour]] x1, [[Kibbled Salt]] x1, [[Fresh Herb]] x1, [[Black Pepper]] x1, and [[Tender Poultry]] x1
+* ''Description:'' '''stuffed with 3 slices of Acerbic Tomatoes. The epitome of bitter.'''
+* ''Type:'' To go. Restores 500 HP and 50 CP
+* ''Acquisition'': Can be purchased at [[Forgel Bar]]
+** It can also be found in [[Sunnybell Inn]]
+%
+=====Fowl Magma Roast=====
+* ''Ingredients:'' [[Kibbled Salt]] x1, [[Olive Oil]] x1, [[[[Red Pepper]]]] x2, and [[Tender Poultry]] x2
+* ''Description:'' '''Crispy outside, juicy inside. The spice crust is perfection.'''
+* ''Type:'' Restores 900 HP and increases STR by 20%
+* ''Acquisition'': To go. Can be purchased at [[Forgel Bar]]
+** It can also be found in [[Wolf Fort - Rest Stop]]
+%
+
+=====Passion Omelet=====
+* ''Ingredients:'' [[Fresh Eggs]] x2, [[Kibbled Salt]] x3, [[Black Pepper]] x4, [[[[Red Pepper]]]] x4, and [[Bird Egg]] x1
+* ''Description:'' '''Egg dish with intense flavor. Excites the eye nerves.'''
+* ''Type:'' To go. Restores 2200 HP and cures blind.
+* ''Acquisition'': Can be purchased at [[Sanktheim Gate - Mess Hall]]
+
+%
+=====Seafood Jelly=====
+* ''Ingredients:'' [[Ironbone Fish]] x1, [[Crisp Onion]] x1, [[Dirty Carrot]] x1, [[[[Red Pepper]]]] x1, [[Tender Whitefish]] x1, [[Fish Egg]] x1, and [[Clear Gelatin]] x1
+* ''Description:'' '''Seafood encased with jelly. Jiggles fetchingly.'''
+* ''Type:'' To go. Restores 3600 HP and cures seal, mute, and confuse.
+* ''Acquisition'': Can be found at [[Carnelia Tower (Optional)]]
+
+%
+
+=====Rainbow Surprise=====
+* ''Ingredients:'' [[Firefly Fungus]] x3, [[Maple Sugar]] x1, [[Clear Gelatin]] x2, and [[Lucky Fang]] x1
+* ''Description:'' '''Mysterious lights, mysterious effects...'''
+* ''Type:'' Attack. STR700 and 50% chance of inflicting a random status effect.
+* ''Acquisition'': Can be found at [[Hot Springs Fountainhead]]
+** It can also be found in [[Ancient Dragon's Dwellings]]
+
+%
+
+====Recipes found in Chapter III====
+
+
+=====Sweeeeet Crepe=====
+* ''Ingredients:'' [[Firefly Fungus]] x1, [[Fresh Milk]] x1, [[Fresh Eggs]] x1, [[Azelia Fruit]] x1, [[Milled Flour]] x1, [[Maple Sugar]] x1, and [[Savory Pinion]] x1
+* ''Description:'' '''A saccharine dessert brimming with cream.'''
+* ''Type:''  To go. Restores 1300 HP and increases SPD by 10% and MOV+1
+* ''Acquisition'': Can be purchased at [[Nonna's Crepe Stand]]
+
+%
+=====Mystery Crepe=====
+* ''Ingredients:'' [[Firefly Fungus]] x2, [[Fresh Milk]] x2, [[Fresh Eggs]] x2, [[Luscious Orange]] x2, [[Ripe Apple]] x2, [[Azelia Fruit]] x2, [[Milled Flour]] x2, and [[Dragon Beans]] x2
+* ''Description:'' '''Low-calorie despite of contents. Truly a mystery.'''
+* ''Type:'' To go. Restores 3200 HP and cures seal, mute, and confuse.
+* ''Acquisition'': Can be purchased at [[Nonna's Crepe Stand]]
+
+%
+=====Mobility Popcorn=====
+* ''Ingredients:'' [[[[Prickly Seed]]]] x1, [[Olive Oil]] x2, and [[Kibbled Salt]] x2
+* ''Description:'' '''A popular snack so airy you'll feel lighter if you eat it.'''
+* ''Type:'' To go. Restores 1200 HP and increases MOV+2
+* ''Acquisition'': Can be purchased at [[Gaspard's Popcorn Stand]]
+%
+
+=====Ultima Ice Cream=====
+* ''Ingredients:'' [[Firefly Fungus]] x2, [[Acerbic Tomato]] x1, [[Fresh Milk]] x3, [[Fresh Eggs]] x2, [[Maple Sugar]] x3, [[Fresh Herb]] x2, [[Dragon Beans]] x2, and [[Royal Leaf]] x2
+* ''Description:'' '''The ultimate ice cream: three flavors in harmony'''
+* ''Type:'' To go. Restores 2200 HP and 20 CP
+* ''Acquisition'': Can be purchased at [[Sorbet's Ice Scream Stand]]
+
+%
+=====Sunshine Ice=====
+* ''Ingredients:'' [[Fresh Milk]] x2, [[Fresh Eggs]] x2, [[Luscious Orange]] x2, [[Dirty Carrot]] x2, and [[Maple Sugar]] x2
+* ''Description:'' '''High-class ice cream made with sun soaked oranges'''
+* ''Type:'' To go. Restores 2500 HP and Increases STR by 15%
+* ''Acquisition'': Can be purchased at [[Sorbet's Ice Scream Stand]]
+** It can also be found in [[The Moonlight Path]], [[Finel's Ice Cream Stand]] and [[K & F Sweets]]
+
+%
+=====Moonlight Ice=====
+* ''Ingredients:'' [[Fresh Milk]] x2, [[Fresh Eggs]] x2, [[Ripe Apple]] x2, [[Crisp Onion]] x2, and [[Maple Sugar]] x2
+* ''Description:'' '''High-class ice cream using moonlight drenched apples'''
+* ''Type:'' To go. Restores 2500 HP and Increases DEF by 15%
+* ''Acquisition'': Can be purchased at [[Sorbet's Ice Scream Stand]]
+** It can also be found in [[The Moonlight Path]], [[Finel's Ice Cream Stand]] and [[K & F Sweets]]
+
+%
+
+=====Seafood Hotpot=====
+* ''Ingredients:'' [[Firefly Fungus]] x2, [[Fresh Milk]] x2, [[Fresh Eggs]] x2, [[Luscious Orange]] x2, [[Ripe Apple]] x2, [[Azelia Fruit]] x2, [[Milled Flour]] x2, and [[Dragon Beans]] x2
+* ''Description:'' '''Soup overflowing with ocean extracts. Warms the cockles'''
+* ''Type:'' Sit-in. Restores 3500 HP and 10 CP to everyone.
+* ''Acquisition'': Can be purchased at [[Sunnybell Inn]]
+
+%
+=====Mocking Pie=====
+* ''Ingredients:'' [[Fresh Eggs]] x3, [[Sharp Cheese]] x2, [[Milled Flour]] x2, [[Fresh Herb]] x2, and [[Gummy Eyeball]] x1
+* ''Description:'' ''' '''
+* ''Type:'' To go. Restores 1900 HP and cures confuse
+* ''Acquisition'': Can be purchased at [[Sunnybell Inn]]
+
+%
+
+=====Curry of Dreams=====
+* ''Ingredients:'' [[Tri-Colored Rice]] x1, [[Milled Flour]] x5, [[Marbled Steak]] x2, [[Flaky Potato]] x2, [[Crisp Onion]] x2, and [[Dirty Carrot]] x3
+* ''Description:'' '''Potent curry. Ripened to perfection. Flavor Bomb!'''
+* ''Type:'' Sit-in. Restores 2200 HP to everyone
+* ''Acquisition'': Can be purchased at [[Baral Coffee House]]
+%
+=====Nap Killer=====
+* ''Ingredients:'' [[Fresh Herb]] x1, [[Dragon Beans]] x5, and [[Black Pepper]] x1
+* ''Description:'' '''Just one sip and.... FEEL THE POWER OF CAFFEINE'''
+* ''Type:'' To go. Restores 1000 HP and cures sleep
+* ''Acquisition'': Can be purchased at [[Baral Coffee House]]
+%
+=====Mystery Paste=====
+* ''Ingredients:'' [[Firefly Fungus]] x1, [[Bear Claw]] x1, [[Vintage Wine]] x1, [[Azelia Fruit]] x1, [[Fresh Herb]] x1, and [[Curative Horn]] x1
+* ''Description:'' '''The real mystery is why anyone would eat this.'''
+* ''Type:''  To go. Restores 2400 HP and cures all status ailments
+* ''Acquisition'': Can be found at [[Grancel Sewers: West Block (Optional)]]
+%
+
+=====Got Some Spine=====
+* ''Ingredients:'' [[Marbled Steak]] x2, [[Kibbled Salt]] x1, [[Black Pepper]] x1, [[[[Red Pepper]]]] x1, [[Juicy Bone]] x1, and [[Beast Flesh]] x1
+* ''Description:'' '''A hearty bone-in meat dish. The perfect survival food.'''
+* ''Type:''  To go. Restores 3800 HP and increases DEF by 20%
+* ''Acquisition'': Can be found at [[Grancel Sewers: East Block (Optional)]]
+%
+=====Shellful Dish=====
+* ''Ingredients:'' [[Firefly Fungus]] x1, [[Aged Miso]] x1, [[Vintage Wine]] x1, [[Tender Whitefish]] x2, [[Monster Carapace]] x2, and [[Fish Fillet]] x1
+* ''Description:'' '''A dish utilizing even flavor extracts from the shell'''
+* ''Type:''  To go. Restores 5000 HP and increases DEF by 20%
+* ''Acquisition'': Can be purchased at [[Gurune Gate - Mess Hall]]
+%
+=====Turnin' Tempura=====
+* ''Ingredients:'' [[Milled Flour]] x2, [[Ironbone Fish]] x2, [[Olive Oil]] x2, [[Kibbled Salt]] x2, and [[[[Red Pepper]]]] x2
+* ''Description:'' '''An Eastern style fish, with a light, flaky coating'''
+* ''Type:''  To go. Restores 2000 HP and Increases SPD +10% as well as MOV+1
+* ''Acquisition'': Can be purchased at [[Gurune Gate - Mess Hall]]
+%
+=====Anarchy Soup=====
+* ''Ingredients:'' [[Firefly Fungus]] x1, [[Aged Miso]] x1, [[Sharp Cheese]] x3, [[Tender Whitefish]] x2, [[Kibbled Salt]] x2, [[Dragon Beans]] x2, [[Black Pepper]] x2, and [[Juicy Bone]] x1
+* ''Description:'' '''A radical dish using miso AND cheese. Lunacy!'''
+* ''Type:''  To go. Restores 2300 HP and cures faint, sleep, and petrify
+* ''Acquisition'': Can be purchased at [[Gurune Gate - Mess Hall]]
+
+====Recipes found in Chapter IV====
+
+=====Ten-Stack Crepe=====
+* ''Ingredients:'' [[Bear Claw]] x1, [[Fresh Milk]] x3, [[Fresh Eggs]] x3, [[Milled Flour]] x3, and [[Maple Sugar]] x3
+* ''Description:'' '''A decadent cake of alternating crepe and cream layers'''
+* ''Type:'' To go. Restores 3000 HP
+* ''Acquisition'': Can be purchased at [[Abend Bar]]
+%
+=====Spiral Noodles=====
+* ''Ingredients:'' [[Bear Claw]] x2, [[Sharp Cheese]] x2, [[Milled Flour]] x2, [[Olive Oil]] x2, [[Fresh Herb]] x2, and [[Leathery Tail]] x1
+* ''Description:'' '''A fresh pasta using herbs that invoke a sense of spring'''
+* ''Type:'' To go. Restores 2700 HP and increases STR and DEF by 5%
+* ''Acquisition'': Can be purchased at [[Abend Bar]]
+%
+
+=====Three-Eyed Soup=====
+* ''Ingredients:'' [[Tri-Colored Rice]] x2, [[Fresh Eggs]] x3, [[Sharp Cheese]] x3, [[Tender Whitefish]] x1, [[Gummy Eyeball]] x1, [[Bird Egg]] x1, and [[Fish Egg]] x1
+* ''Description:'' '''A rice soup with melty-soft eggs. A feast of the eyes.'''
+* ''Type:'' Sit-in. Restores 2500 HP and 25 CP to everyone
+* ''Acquisition'': Can be purchased at [[Abend Bar]]
+%
+
+=====Bone Boullion=====
+* ''Ingredients:'' [[Curative Horn]] x1, [[Juicy Bone]] x1, [[Monster Carapace]] x1, [[Tender Poultry]] x1, [[Kibbled Salt]] x2, and [[Crisp Onion]] x2
+* ''Description:'' '''Soup filled several times for a clean, golden broth.'''
+* ''Type:'' To go. Restores 1700 HP increases STR and DEF by 10%
+* ''Acquisition'': Can be purchased at [[Abend Bar]]
+%
+=====Mighty Juice=====
+* ''Ingredients:'' [[Luscious Orange]] x4, [[Ripe Apple]] x4, [[Azelia Fruit]] x2, [[Dragon Beans]] x2, [[Lucky Fang]] x1, and [[Monster Carapace]] x1
+* ''Description:'' '''A pungent mixed juice that assaults the taste buds.'''
+* ''Type:'' To go. Restores 2000 HP increases STR and DEF by 20%
+* ''Acquisition'': Can be found in [[Esmeldas Tower (Optional)]]
+%
+=====Pepper Pottage=====
+* ''Ingredients:'' [[Aged Miso]] x1, [[Vintage Wine]] x1, [[Maple Sugar]] x2, [[Kibbled Salt]] x5, [[Fresh Herb]] x5, [[Dragon Beans]] x2, [[Black Pepper]] x4, and [[Juicy Bone]] x2
+* ''Description:'' '''Stew recipe using piquant spices to enhance appetite.'''
+* ''Type:'' To go. Restores 4000 HP and cures KO
+* ''Acquisition'': Complete the sidequest, [[Nostalgic Recipe]] after finishing Mistwald
+%
+
+====Recipes found in Chapter V====
+
+=====Golden Risotto=====
+* ''Ingredients:'' [[Tri-Colored Rice]] x2, [[Fresh Eggs]] x2, [[Sharp Cheese]] x2, [[Crisp Onion]] x2, [[Dirty Carrot]] x2, [[Maple Sugar]] x2, [[Olive Oil]] x2,and [[Tender Whitefish]] x2
+* ''Description:'' '''A rice dish loaded with cheese. Rich and creamy'''
+* ''Type:'' Sit-in. Restores 5000 HP and cures KO to everyone.
+* ''Acquisition'': Can be purchased at [[Kirsche Bar]]
+%
+=====Corner Castella=====
+* ''Ingredients:'' [[Fresh Eggs]] x2, [[Milled Flour]] x2, [[Maple Sugar]] x2, and [[Royal Leaf]] x1
+* ''Description:'' '''A fluffy sponge cake cut into clean right angles.'''
+* ''Type:'' To go. Restores 1500 HP and cures Petrify
+* ''Acquisition'': Can be purchased at [[Katrina's Confectionery]]
+%
+=====Refresh Jelly=====
+* ''Ingredients:'' [[Bear Claw]] x3, [[Fresh Herb]] x3, [[Dragon Beans]] x3, [[Royal Leaf]] x3, [[Black Pepper]] x3, [[[[Red Pepper]]]] x3, [[Clear Gelatin]] x1, and [[[[Prickly Seed]]]] x1
+* ''Description:'' '''Has a clean aftertaste that energizes and restores.'''
+* ''Type:'' To go. Restores 5400 HP and cures KO
+* ''Acquisition'': Can be purchased at [[Katrina's Confectionery]]
+** It can also be found in [[Amberl Tower (Optional)]]
+%
+
+=====Flame Tongue Stew=====
+* ''Ingredients:'' [[Marbled Steak]] x2, [[Kibbled Salt]] x2, [[Black Pepper]] x2, [[[[Red Pepper]]]] x5, [[Beast Flesh]] x1, and [[Leathery Tail]] x1
+* ''Description:'' '''A fiery meat soup. Heaven and hell in your mouth.'''
+* ''Type:'' To go. Restores 4000 HP and cures seal, mute, and confuse.
+* ''Acquisition'': Can be purchased at [[Kirsche Bar]]
+
+%
+=====Rampage Fish=====
+* ''Ingredients:'' [[Fish Fillet]] x2, [[Ironbone Fish]] x2, [[Kibbled Salt]] x2, and [[Black Pepper]] x2
+* ''Description:'' '''Campfire grilled fish on a stick. Simple and satisfying.'''
+* ''Type:'' To go. Restores 3400 HP and increases SPD by 20%
+* ''Acquisition'': Can be purchased at [[Kingfisher Inn]]
+%
+
+=====Roast Fish=====
+* ''Ingredients:'' [[Kibbled Salt]] x1, [[Black Pepper]] x3, and [[Tender Whitefish]] x2
+* ''Description:'' '''Eastern style grilled fish. Lavishly salted.'''
+* ''Type:'' To go. Restores 4000 HP and cures faint, sleep, and petrify.
+* ''Acquisition'': Can be purchased at [[Kingfisher Inn]]
+%
+
+=====Fevered Gaze=====
+* ''Ingredients:'' [[Fresh Eggs]] x3, [[Sharp Cheese]] x1, [[Olive Oil]] x1, [[[[Red Pepper]]]] x2, [[Gummy Eyeball]] x1, and [[Bird Egg]] x1
+* ''Description:'' '''A manly dish so manly it has...an eyeball in it.'''
+* ''Type:'' To go. Restores 2600 HP and cures poison, blind, and freeze.
+* ''Acquisition'': Can be purchased at [[Haken Gate - Rest Stop]]
+%
+=====Paradise Cooler=====
+* ''Ingredients:'' [[Bear Claw]] x3, [[Luscious Orange]] x3, [[Ripe Apple]] x3, [[Azelia Fruit]] x3, [[Fresh Herb]] x3, [[Royal Leaf]] x3, [[Curative Horn]] x1, and [[[[Prickly Seed]]]] x1
+* ''Description:'' '''Overflowing with fruit. Truly Parasidical.'''
+* ''Type:'' To go. Restores 4000 HP and cures all status ailments.
+* ''Acquisition'': Can be purchased at [[The Moonlight Path]]
+%
+=====100 Victories Steak=====
+* ''Ingredients:'' [[Kibbled Salt]] x5, [[Olive Oil]] x5, [[Black Pepper]] x5, and [[Beast Flesh]] x4
+* ''Description:'' ''':	No. 1 stamina snack for fighters. Replenishes the blood.'''
+* ''Type:'' To go. Restores 10000 HP and increases STR by 10%
+* ''Acquisition'': Can be found at the [[Abandoned Mine]]
+
+%
+
+====Recipes found in Chapter VI====
+
+=====Dark Stew=====
+* ''Ingredients:'' [[Aged Miso]] x1, [[Vintage Wine]] x1, [[[[Red Pepper]]]] x5, [[Black Pepper]] x5, [[Curative Horn]] x2, [[Juicy Bone]] x2, [[Lucky Fang]] x2, and [[[[Prickly Seed]]]] x2
+* ''Description:'' '''The work of a madman... Dangerously good'''
+* ''Type:'' Sit-in. Restores 100CP to three party members at a cost of one lucky party member getting 1HP and depleted CP.
+* ''Acquisition'': After Ludgen gives you the Overnight Ticket at the start of Chapter VI, go to Nebel Valley and talk to Whelmer at his cabin.
+** ''WARNING: YOU HAVE A SMALL TIME FRAME TO GET THIS RECIPE. IT'S A MISSABLE ITEM.''
+%
+=====Naptime Cookie=====
+* ''Ingredients:'' [[Vintage Wine]] x1, [[Fresh Milk]] x1, [[Fresh Eggs]] x1, [[Milled Flour]] x1, [[Olive Oil]] x1, [[Bird Egg]] x1, [[[[Prickly Seed]]]] x1, and [[Savory Pinion]] x1
+* ''Description:'' '''A sedative soaked baked treat(?). Does drowsy damage.'''
+* ''Type:'' Attack. STR 800 and inflicts sleep (80% chance)
+* ''Acquisition'': Can be found at [[Lakeside Laboratory]]
+%
+=====Knockout Meatball=====
+* ''Ingredients:'' [[Marbled Steak]] x1, [[Kibbled Salt]] x5, [[Black Pepper]] x5, [[[[Red Pepper]]]] x5, [[Curative Horn]] x1, [[Lucky Fang]] x1, [[Beast Flesh]] x1, and [[Leathery Tail]] x1
+* ''Description:'' '''A chili-packed ball of meat. One bite and lights out.'''
+* ''Type:'' Attack. STR 800 and inflicts faint (80% chance)
+* ''Acquisition'': Can be found at [[The Crimson Ark: Glorius]] or [[Industrial Block: Glorius]] if you missed it the first time.
+%
+
+====Recipes found in Chapter VIII====
+
+=====Heavenly Tempura=====
+* ''Ingredients:'' [[Milled Flour]] x2, [[Ironbone Fish]] x2, [[Olive Oil]] x2, [[Kibbled Salt]] x2, [[[[Red Pepper]]]] x2, [[Beast Flesh]] x2, [[Curative Horn]] x2, and [[Gummy Eyeball]] x2
+* ''Description:'' '''An eastern fried food with a delectable crunch. Divine.'''
+* ''Type:'' To go. Restores 7200 HP and increases SPD by 10% and MOV+1
+* ''Acquisition'': Can be purchased at [[Abend Bar]]. You can get it after the wedding ceremony!
+%
+
+=====Mighty Essence=====
+* ''Ingredients:'' [[Luscious Orange]] x3, [[Ripe Apple]] x3, [[Azelia Fruit]] x3, [[Dragon Beans]] x3, [[Lucky Fang]] x1, [[Monster Carapace]] x1, [[Savory Pinion]] x1, and [[[[Prickly Seed]]]] x1
+* ''Description:'' '''Nutrient-packed mixed juice. So rich, it's almost chewy'''
+* ''Type:'' To go. Restores 4800 HP and increases STR and DEF by 20%
+* ''Acquisition'': Rescue Deborah during the hidden sidequest [[The Occupation of Jenis]] and she'll give it to you
+%
+=====Nirvana Tea=====
+* ''Ingredients:'' [[Vintage Wine]] x3, [[Bear Claw]] x3, [[Ripe Apple]] x3, [[Fresh Herb]] x3, [[Royal Leaf]] x3, [[Gummy Eyeball]] x2, [[Clear Gelatin]] x2, and [[[[Prickly Seed]]]] x2
+* ''Description:'' '''Herbaceous tea suffused with nutrients'''
+* ''Type:'' To go. Full HP restoration and cures all status ailments
+* ''Acquisition'': Complete the sidequest, [[Hot Spring Restoration]] to get the recipe
+%
+
+=====Mystery Paste Plus=====
+* ''Ingredients:'' [[Firefly Fungus]] x2, [[Bear Claw]] x2, [[Vintage Wine]] x2, [[Fresh Herb]] x2, [[Curative Horn]] x2, [[Gummy Eyeball]] x2, [[Clear Gelatin]] x2, and [[[[Prickly Seed]]]] x2
+* ''Description:'' '''Mysterious Paste. That's right. Paste. Enjoy!'''
+* ''Type:'' To go. Restores 6000 HP and cures all status ailments
+* ''Acquisition'': After delivering the ZFGs to the bracer guilds in Ruan, Zeiss, and Rolent, head over to Bose department store and purchase the item from
+** [[Katrina's Confectionary]]
+
+%
+=====Worldly Stew=====
+* ''Ingredients:'' [[Acerbic Tomato]] x5, [[Marbled Steak]] x5, [[[[Red Pepper]]]] x5, [[Juicy Bone]] x2, [[Beast Flesh]] x2, [[Tender Poultry]] x2, [[Fish Fillet]] x2, and [[Leathery Tail]] x2
+* ''Description:'' '''Bitter, spicy beast stew that galvanizes the whole body'''
+* ''Type:'' To go. Restores 9000 HP and 60 CP
+* ''Acquisition'': After delivering the ZFGs to the bracer guilds in Ruan, Zeiss, and Rolent, head over to Bose department store and purchase the item from
+** [[Buck's Greengrocery]]
+%
+=====Rustic Bone=====
+* ''Ingredients:'' [[Marbled Steak]] x4, [[Kibbled Salt]] x4, [[Black Pepper]] x4, [[[[Red Pepper]]]] x4, [[Juicy Bone]] x2, and [[Beast Flesh]] x2
+* ''Description:'' '''The ultimate bone-in meat. A battle just to eat'''
+* ''Type:'' To go. Restores 12000 HP and increases DEF by 20%
+* ''Acquisition'': After delivering the ZFGs to the bracer guilds in Ruan, Zeiss, and Rolent, head over to Bose department store and purchase the item from
+** [[Trayton Foods]]
+%
+
+=====Aurora Ball=====
+* ''Ingredients:'' [[Firefly Fungus]] x3, [[Maple Sugar]] x10, [[Clear Gelatin]] x2, [[Lucky Fang]] x2, [[Curative Horn]] x1, and [[Savory Pinion]] x1
+* ''Description:'' '''Mysterious lights, powerful effects...'''
+* ''Type:'' Attack. Inflicts a random status effect.
+* ''Acquisition'': At [[Krone Pass: Bose Region]] checkpoint, talk to Ray right by the inactive restoration point.
+%
+
+====Final Chapter Recipes====
+
+(Thanks to Arty-chan for the correction!)
+
+=====Bitter Omelet=====
+* ''Ingredients:'' [[Acerbic Tomato]] x4, [[Fresh Eggs]] x5, [[Sharp Cheese]] x4, [[Flaky Potato]] x2, [[Crisp Onion]] x2, [[Olive Oil]] x2, [[Tender Poultry]] x1, and [[Bird Egg]] x1
+* ''Description:'' '''An essence of [[Acerbic Tomato]] gives it a stimulating flavor'''
+* ''Type:'' Sit In. Restores 4000 HP and 40 CP to everyone
+* ''Acquisition'': Can be purchased at [[Arseille Tools Dispensary]]
+%
+=====Resurrect Jelly=====
+* ''Ingredients:'' [[Bear Claw]] x5, [[Fresh Herb]] x5, [[Dragon Beans]] x5, [[Royal Leaf]] x5, [[Savory Pinion]] x1, [[Gummy Eyeball]] x1, [[Clear Gelatin]] x4, and [[[[Prickly Seed]]]] x1
+* ''Description:'' '''A revolutionary jelly that disappears on the tongue'''
+* ''Type:'' To go. Restores 15000 HP and cures KO
+* ''Acquisition'': At [[Residental Block Cradle]], Examine the computer, and it'll give you the recipe
+
+%
++
++
++
+
+===Quartz===
+
+====Earth Quartz====
+
+====Septium Vein====
+* ''Effect:'' Increases all types of sepith dropped by monsters by 1-2
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must achieve F+ Rank
+* ''Elemental Value:'' ''Earth x5 and Water x3''
+
+%
+
+
+====Defense 1====
+* ''Effect:'' DEF+3% / STR-1%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Earth x1''
+
+%
+
+====Defense 2====
+* ''Effect:'' DEF +6%/STR -3%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Earth x3''
+
+%
+
+====Defense 3====
+* ''Effect:'' DEF+ 9%/STR -5%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Earth x5''
+
+%
+
+====Defense 4====
+* ''Effect:'' DEF+ 12%/STR -7%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Earth x8''
+
+%
+
+====Topaz Gem====
+* ''Effect:'' DEF+ 15%/STR -9% (Defense 5)
+* ''Slots:'' 3
+* ''Sepith:'' 1000 Earth Sepith
+* ''Acquisition:'' Can be made in online shop in Residental Cradle or Item drop from Armored Hydra in [[Save the Miners]]
+* ''Elemental Value:'' ''Earth x12''
+
+%
+
+====Poison====
+* ''Effect:'' Poison enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 100 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Earth x3''
+
+%
+====Poison 2====
+* ''Effect:'' Poison enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Can be made in online shop in Residental Cradle or Item drop from Armored Hydra in [[Save the Miners]]
+* ''Elemental Value:'' ''Earth x8''
+
+%
+====Petrify====
+* ''Effect:'' Petrify enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' -
+* ''Elemental Value:'' ''Earth x3''
+
+%
+====Petrify 2====
+
+* ''Effect:'' Petrify enemy with 20% success
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Elize Highway Monster: Redux]]
+* ''Elemental Value:'' ''Earth x8''
+
+%
+====Mute====
+
+* ''Effect:'' Mute enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Earth Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Earth x3''
+
+%
+====Mute 2====
+
+* ''Effect:'' Mute enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Krone Pass Monster: Redux]]
+* ''Elemental Value:'' ''Earth x8''
+
+%
+
+====Fire Quartz====
+
+====Ingenuity====
+* ''Effect:'' Recover small amounts of EP while walking
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must attain E+ Rank
+* ''Elemental Value:'' ''Water x2, Fire x5, and Time x2''
+
+%
+
+
+====Attack 1====
+* ''Effect:'' STR +3%/ DEF -1%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Fire Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Fire x1''
+
+%
+
+====Attack 2====
+* ''Effect:'' STR +6%/ DEF -3%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Fire Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Fire x3''
+
+%
+
+====Attack 3====
+* ''Effect:'' STR +9% / DEF -5%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Fire Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Fire x5''
+
+%
+
+====Attack 4====
+* ''Effect:'' STR +12%/DEF -7%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Fire Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Fire x8''
+
+%
+
+====Ruby Gem====
+* ''Effect:'' STR +15%/DEF -9% (Attack 5)
+* ''Slots:'' 3
+* ''Sepith:'' 1000 Fire Sepith
+* ''Acquisition:'' Can be made in online shop in Residental Cradle or can be found in [[Sapphirl Tower: Altered Space]]
+* ''Elemental Value:'' ''Fire x12''
+
+%
+
+====Seal====
+
+* ''Effect:'' Seal enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Fire Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Fire x3''
+
+%
+====Seal 2====
+
+* ''Effect:'' Seal enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Fire x8''
+
+%
+
+
+====Wind Quartz====
+
+====Scent====
+* ''Effect:'' Enemies become aware of presence
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must attain E+ Rank
+* ''Elemental Value:'' ''Water x2, Earth x2, Fire x2, and Wind x4''
+
+%
+
+
+====Absorb====
+* ''Effect:'' Recover 2% of user's max HP when defeating an enemy
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must attain E+ Rank
+* ''Elemental Value:'' ''Water x2, Wind x4, and Space x2''
+
+%
+
+====Shield 1====
+* ''Effect:'' ADF +30 / ATS -1%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x1''
+
+%
+
+====Shield 2====
+* ''Effect:'' ADF +40 / ATS -3%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x3''
+
+%
+
+====Shield 3====
+* ''Effect:'' ADF +50 / ATS -5%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x5''
+
+%
+
+====Shield 4====
+* ''Effect:'' ADF +75% / ATS -7%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x8''
+
+%
+
+
+====Emerald Gem====
+* ''Effect:'' ADF +150 / ATS -9%
+* ''Slots:'' 3
+* ''Sepith:'' 300 Wind Sepith
+* ''Acquisition:''
+* ''Elemental Value:'' ''Wind x12''
+
+
+%
+
+====Evade 1====
+* ''Effect:'' AGL +1
+* ''Slots:'' 1
+* ''Sepith:'' 20 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x1''
+
+%
+
+====Evade 2====
+* ''Effect:'' AGL +2
+* ''Slots:'' 1
+* ''Sepith:'' 100 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x3''
+
+%
+
+====Evade 3====
+* ''Effect:'' AGL +3
+* ''Slots:'' 1
+* ''Sepith:'' 200 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x5''
+
+%
+
+====Evade 4====
+* ''Effect:'' AGL +4
+* ''Slots:'' 2
+* ''Sepith:'' 300 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x8''
+
+%
+
+====Wind Gem====
+* ''Effect:'' AGL +5
+* ''Slots:'' 3
+* ''Sepith:'' 300 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Wind x12''
+
+%
+%
+
+====Sleep====
+
+* ''Effect:'' Put enemy to sleep with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Wind x3''
+
+%
+====Sleep 2====
+
+* ''Effect:'' Put enemy to sleep with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Wind x8''
+
+%
+
+====Impede====
+* ''Effect:'' Prevent enemy craft and arts with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' -
+* ''Elemental Value:'' ''Wind x1''
+
+%
+====Impede 2====
+
+* ''Effect:'' Prevent enemy craft and arts with 15% success
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' ADFeat the monster mob in [[Elize Highway Monster: Redux]]
+* ''Elemental Value:'' ''Wind x3''
+
+%
+
+====Impede 3====
+* ''Effect:'' Prevent enemy craft and arts with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' -
+* ''Elemental Value:'' ''Wind x5''
+
+%
+====Impede 4====
+
+* ''Effect:'' Prevent enemy craft and arts with 25% success
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' ADFeat the monster mob in [[Elize Highway Monster: Redux]]
+* ''Elemental Value:'' ''Wind x8''
+
+%
+====Wood Gem====
+
+* ''Effect:'' Prevent enemy craft and arts with 25% success
+* ''Slots:'' 3
+* ''Sepith:'' -
+* ''Acquisition:'' ADFeat the monster mob in [[Elize Highway Monster: Redux]]
+* ''Elemental Value:'' ''Wind x12''
+
+%
+
+====Water Quartz====
+
+====Heal====
+* ''Effect:'' Enemies become aware of presence
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Water x5, and Time x2''
+
+%
+
+
+====Yin-Yang====
+* ''Effect:'' Combine the effects of Haze and Information (Ememy will not approach you and know information about your opponent)
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Space x2, Water x5, and Mirage x2''
+
+%
+
+====HP 1====
+* ''Effect:'' Max HP +3%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x1''
+
+%
+
+====HP 2====
+* ''Effect:'' Max HP +6%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x3''
+
+%
+
+====HP 3====
+* ''Effect:'' Max HP +9%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x5''
+
+%
+
+====HP 4====
+* ''Effect:'' Max HP +12%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x8''
+
+%
+
+====Water Gem====
+* ''Effect:'' Max HP +15%
+* ''Slots:'' 3
+* ''Sepith:'' 300 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x12''
+
+%
+
+====Mind 1====
+* ''Effect:'' ATS +3% / ADF -1
+* ''Slots:'' 1
+* ''Sepith:'' 20 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x1''
+
+%
+
+====Mind 2====
+* ''Effect:'' ATS +6% / ADF -2
+* ''Slots:'' 1
+* ''Sepith:'' 100 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x3''
+
+%
+
+====Mind 3====
+* ''Effect:'' ATS +9% / ADF -3
+* ''Slots:'' 1
+* ''Sepith:'' 200 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x5''
+
+%
+
+====Mind 4====
+* ''Effect:'' ATS +12% / ADF -4
+* ''Slots:'' 2
+* ''Sepith:'' 300 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Water x8''
+
+%
+
+
+====Sapphire Gem====
+* ''Effect:'' ATS +15% / ADF -5
+* ''Slots:'' 3
+* ''Sepith:'' 300 Water Sepith
+* ''Acquisition:'' [[Online Shop]]
+* ''Elemental Value:'' ''Water x12''
+
+
+%
+
+
+====Freeze====
+
+* ''Effect:'' Freeze enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Water Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Water x3''
+
+%
+====Freeze 2====
+
+* ''Effect:'' Freeze enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Water x8''
+
+%
+
+====Time Quartz====
+
+====Luck====
+* ''Effect:'' Increases enemy item drop rate
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must attain E+ Rank
+* ''Elemental Value:'' ''Earth x1, Space x1, and Time x3''
+
+%
+
+
+====Action 1====
+* ''Effect:'' SPD +10%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Time x1''
+
+%
+
+====Action 2====
+* ''Effect:'' SPD +20%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Time x3''
+
+%
+
+====Action 3====
+* ''Effect:'' SPD +30%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Time x5''
+
+%
+
+====Action 4====
+* ''Effect:'' SPD +40% / MOV -1
+* ''Slots:'' 2
+* ''Sepith:'' 300 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Time x8''
+
+%
+
+====Onyx Gem====
+* ''Effect:'' SPD +50%  / MOV -2
+* ''Slots:'' 3
+* ''Sepith:'' 300 Time Sepith
+* ''Acquisition:''
+* ''Elemental Value:'' ''Time x12''
+
+%
+
+
+====Blind====
+
+* ''Effect:'' Blind enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Time x3''
+
+%
+====Blind 2====
+
+* ''Effect:'' Blind enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Time x8''
+
+%
+
+====Deathblow 1====
+
+* ''Effect:'' Kill enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Time x3''
+
+%
+====Deathblow 2====
+
+* ''Effect:'' Guaranteed kill against foe but quartz breaks after successive hit
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' None
+
+%
+====Death====
+
+* ''Effect:'' Kill enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Time x8''
+
+%
+
+
+====Cast 1====
+
+* ''Effect:'' Time to cast arts is cut
+* ''Slots:'' 1
+* ''Sepith:'' 50 Time Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Time x3''
+
+%
+
+====Cast 2====
+
+* ''Effect:'' Time to cast arts is greatly cut
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Time x8''
+
+%
+
+====Time Gem====
+
+* ''Effect:'' STR -14% /DEF -14% / ATS -14% (Cast 3)
+* ''Slots:'' 3
+* ''Sepith:'' -
+* ''Acquisition:'' Defeat the monster mob in [[Erbe Scenic Route Monster: Redux]]
+* ''Elemental Value:'' ''Time x12''
+
+====Space Quartz====
+
+====Eagle Eye====
+* ''Effect:'' Can see enemies from a distance
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Space x3, Mirage x2''
+
+%
+
+====Heaven's Eye====
+* ''Effect:'' Combine the effects of Eagle Eye and Information (Can see enemy placement on the minimap and know information about your opponent)
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:'' Must attain E+ Rank
+* ''Elemental Value:'' ''Fire x2, Space x3, and Mirage x1''
+
+%
+
+====Move 1====
+* ''Effect:'' MOV +1
+* ''Slots:'' 1
+* ''Sepith:'' 20 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x1''
+
+%
+
+====Move 2====
+* ''Effect:'' MOV +2
+* ''Slots:'' 1
+* ''Sepith:'' 100 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x3''
+
+%
+
+====Move 3====
+* ''Effect:'' MOV +3
+* ''Slots:'' 1
+* ''Sepith:'' 200 Wind Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x5''
+
+%
+
+====EP Cut 1====
+* ''Effect:'' Art's EP cost -10%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Space Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x2, Mirage x1 and Time x1''
+
+%
+
+====EP Cut 2====
+* ''Effect:'' Art's EP cost -20%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Space Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x3, Mirage x2 and Time x2''
+
+%
+
+====EP Cut 3====
+* ''Effect:'' Art's EP cost -30%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Space Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Space x5, Mirage x3 and Time x3''
+
+%
+
+====EP Cut 4====
+* ''Effect:'' Art's EP cost -40%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Space Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''''Space x8, Mirage x5 and Time x5''''
+
+%
+
+====Gold Gem====
+* ''Effect:'' Art's EP cost -50%
+* ''Slots:'' 3
+* ''Sepith:'' 300 Space Sepith
+* ''Acquisition:''
+* ''Elemental Value:'' ''Space x10, Mirage x7 and Time x7''
+
+%
+
+
+====Strike====
+
+* ''Effect:'' Critically strike the enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Space Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Space x3''
+
+%
+
+====Strike 2====
+
+* ''Effect:'' Critically strike the enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Space x8''
+
+%
+
+====Range 1====
+
+* ''Effect:'' Art's effect range +1
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Space x8''
+
+====Mirage Quartz====
+
+====Information====
+* ''Effect:'' Can see enemies from a distance
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:''
+
+%
+
+====Haze====
+* ''Effect:'' Enemy become unaware of presence
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:''
+
+%
+
+====Cloak====
+* ''Effect:'' You will pass through the enemy (No encounter)
+* ''Slots:'' 2
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:''
+
+%
+
+====EP 1====
+* ''Effect:'' Max EP +3%
+* ''Slots:'' 1
+* ''Sepith:'' 20 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x1''
+
+%
+
+====EP 2====
+* ''Effect:'' Max EP +6%
+* ''Slots:'' 1
+* ''Sepith:'' 100 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x3''
+
+%
+
+====EP 3====
+* ''Effect:'' Max EP +9%
+* ''Slots:'' 1
+* ''Sepith:'' 200 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x5''
+
+%
+
+====EP 4====
+* ''Effect:'' Max EP +12%
+* ''Slots:'' 2
+* ''Sepith:'' 300 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''\Mirage x8''
+
+%
+
+====Silver Gem====
+* ''Effect:'' Max EP +15%
+* ''Slots:'' 3
+* ''Sepith:'' 300 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x12''
+
+%
+
+====Hit 1====
+* ''Effect:'' DEX +5 / AGL -1
+* ''Slots:'' 1
+* ''Sepith:'' 20 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x1''
+
+%
+
+====Hit 2====
+* ''Effect:'' DEX +10 / AGL -2
+* ''Slots:'' 1
+* ''Sepith:'' 100 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x3''
+
+%
+
+====Hit 3====
+* ''Effect:'' DEX +15 / AGL -3
+* ''Slots:'' 1
+* ''Sepith:'' 200 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x5''
+
+%
+
+====Hit 4====
+* ''Effect:'' DEX +20 / AGL -4
+* ''Slots:'' 2
+* ''Sepith:'' 300 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factories
+* ''Elemental Value:'' ''Mirage x8''
+
+%
+
+====Mirage Gem====
+* ''Effect:'' DEX +25 / AGL -5
+* ''Slots:'' 3
+* ''Sepith:'' 300 Mirage Sepith
+* ''Acquisition:''
+* ''Elemental Value:'' ''Mirage x8''
+
+%
+
+
+====Confuse====
+
+* ''Effect:'' Confuse the enemy with 10% success
+* ''Slots:'' 1
+* ''Sepith:'' 50 Mirage Sepith
+* ''Acquisition:'' Can be made in any Orbal Factory
+* ''Elemental Value:'' ''Mirage x3''
+
+%
+
+====Confuse 2====
+
+* ''Effect:'' Confuse the enemy with 20% success
+* ''Slots:'' 1
+* ''Sepith:'' -
+* ''Acquisition:''
+* ''Elemental Value:'' ''Mirage x8''
+
+
+%
++
++
++
+
+===Items===
+
+
+====ID Unit====
+
+* ''Acquisition:'' [[Grimsel Fortress]]
+
+%
+
+====Orbal Camera====
+
+* ''Acquisition:'' [[Sapphirl Tower Photo]] sidequest
+
+%
+
+====Metal Detector====
+
+* ''Acquisition:'' [[Parts Search]] sidequest
+
+%
+
+====Original Gospel====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Orbment Parts====
+
+* ''Acquisition:'' [[Parts Search]] sidequest
+
+%
+
+====Bracer Emblem====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Photo of Joshua====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Photograph of Raini====
+
+* ''Acquisition:''
+
+%
+
+====Dark Chocolate====
+
+* ''Acquisition:'' Extremely narrow time limit. In Chapter 4, after sleeping at Estelle's house but before going to the guild, visit the general goods shop.
+
+%
+
+====Boarding Pass====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Back Gate Key====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Rusted Key====
+
+* ''Acquisition:'' Auto, and later during [[Mine Commission]] because Bleublanc is an ass.
+
+%
+
+====Wooden Gate Key====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Storage Room Key====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Security Card====
+
+* ''Acquisition:''
+
+%
+
+====Harmonica====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Joshua's Harmonica====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Zemurian Ore====
+
+* ''Acquisition:'' Acquire all Gambler Jacks and cough them up to the man on the third (?) floor of Grancel's guild at the end of chapter 8.
+
+%
+
+====Overnight Ticket====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Master Fisher Card====
+
+* ''Acquisition:'' Catch [[Dynatrad]] at Valleria Lakeshore and show Lloyd.
+
+%
+
++
++
++
+
+===Ingredients===
+
+====Firefly Fungus====
+
+* Can be bought about anywhere
+
+%
+
+====Acerbic Tomato====
+
+* Can be bought about anywhere
+
+%
+
+====Bear Claw====
+
+* Can be bought about anywhere
+
+%
+
+====Tri-Colored Rice====
+
+* Can be bought about anywhere
+
+%
+
+====Aged Miso====
+
+* Can be bought about anywhere
+
+%
+
+====Vintage Wine====
+
+* Can be bought about anywhere
+
+%
+
+====Fresh Milk====
+
+* Can be bought about anywhere
+
+%
+
+====Fresh Eggs====
+
+* Can be bought about anywhere
+
+%
+
+====Sharp Cheese====
+
+* Can be bought about anywhere
+
+%
+
+====Luscious Orange====
+
+* Can be bought about anywhere
+
+%
+
+====Ripe Apple====
+
+* Can be bought about anywhere
+
+%
+
+====Azelia Fruit====
+
+* Can be bought about anywhere
+
+%
+
+====Milled Flour====
+
+* Can be bought about anywhere
+
+%
+
+====Ironbone Fish====
+
+* Can be bought about anywhere
+
+%
+
+====Marbled Steak====
+
+* Can be bought about anywhere
+
+%
+
+====Flaky Potato====
+
+* Can be bought about anywhere
+
+%
+
+====Crisp Onion====
+
+* Can be bought about anywhere
+
+%
+
+====Dirty Carrot====
+
+* Can be bought about anywhere
+
+%
+
+====Maple Sugar====
+
+* Can be bought about anywhere
+
+%
+
+====Kibbled Salt====
+
+* Can be bought about anywhere
+
+%
+
+====Olive Oil====
+
+* Can be bought about anywhere
+
+%
+
+====Fresh Herb====
+
+* Can be bought about anywhere
+
+%
+
+====Dragon Beans====
+
+* Can be bought about anywhere
+
+%
+
+====Royal Leaf====
+
+* Can be bought about anywhere
+
+%
+
+====Black Pepper====
+
+* Can be bought about anywhere
+
+%
+
+====Red Pepper====
+
+* Can be bought about anywhere
+
+%
+
+====Tender Whitefish====
+
+* Can be bought about anywhere
+
+%
+
+====Curative Horn====
+
+* ''Dropped By:'' [[Helmet Crab]] (Ruan), [[Cronocider]] (Grancel), [[Rhinocider]] (Rolent), [[Roly Poly]] / [[Fate Spinner]] (Bose), [[Ebony Scale 3]] (endgame)
+
+%
+
+====Savory Pinion====
+
+* ''Dropped By:'' [[Flying Moth]] (Ruan), [[Parasite Prima]] / [[Ya-Kah]] (Zeiss), [[Great Moth]] (Grancel), [[Red Insectos]] (Rolent), [[Green Insectos]] (Bose), [[Kemoshy]] (endgame)
+
+%
+
+====Leathery Tail====
+
+* ''Dropped By:'' [[Helmet Crab]] / [[Mint Pom]] (Ruan), [[Pink Sheep]] (and sheep in general) (Zeiss), [[Crop Muncher]] (Rolent), [[King Scorpion]] / [[Roly Poly]] (Bose), [[Knuckle Spider]] (endgame)
+
+%
+
+====Juicy Bone====
+
+* ''Dropped By:'' [[Seahorse Demon]] (Ruan), [[Bubble Blower]] (Zeiss), [[Scissor Hands]] (Grancel), [[Dirty Rat]] / [[Giantfoot]] (Rolent), [[Giantfoot 2]] (Bose), [[Dark Zone]] (endgame)
+
+%
+
+====Gummy Eyeball====
+
+* ''Dropped By:'' [[Parasite Prima]] (Zeiss), [[Forest Mist]] (Rolent), [[Boiled Egger G]] / [[Dust Geist 2]] (Bose), [[Dimension Bug 5]] / [[Weatherseed 5]] / [[Weatherseed 6]] (endgame)
+
+%
+
+====Lucky Fang====
+
+* ''Dropped By:'' [[Gourd Boar]] (Ruan), [[Damp Cralwer]] (Zeiss), [[Bone Fish]] / [[Dinedile]] (Grancel), [[Rhinocider]] (Rolent), [[Queen Scorpion]] / [[Fate Spinner]] (Bose), [[Dark Lamp]] (endgame)
+
+%
+
+====Monster Carapace====
+
+* ''Dropped By:'' [[Flying Shrimp]] (Ruan), [[Bubble Blower]] / [[Faerie Epitaph]] (Zeiss), [[Mad Snail]] / [[Scissor Hands]] (Grancel), [[Halo Mole]] (Bose), [[Dimension Bug 5]] / [[Ebony Scale 3]] / [[Estrian Quatre]] (endgame)
+
+%
+
+====Beast Flesh====
+
+* ''Dropped By:'' [[Baby Gourd Boars]] (Ruan), [[Armored Rabbit]] / [[Bane Cobra]] (Zeiss), [[War Bat]] (Grancel), [[Flying Feline]] (Rolent), [[Mushroom Snake]] (Bose), [[Bearmarith]] (endgame)
+
+%
+
+====Fish Fillet====
+
+* ''Dropped By:'' [[Crocodark]] / [[Hammerhead]] (Ruan), [[Cave Ray]] (Zeiss), [[Dinedile]] / [[Sharkodile]] (Grancel), [[Fly SKipper 2]] (Rolent), [[Brute Angler]] (endgame)
+
+%
+
+====Tender Poultry====
+
+* ''Dropped By:'' [[Roadrunner]] (Ruan), [[Flame Velgr]] / Penguins (Zeiss), [[Hell Mars]] (Grancel), [[Mars Sparrow]] (Rolent), [[Rimera]] (Bose), [[Artiball]] (endgame)
+
+%
+
+====Clear Gelatin====
+
+* ''Dropped By:'' [[Mars Shell]] (Ruan), [[Spike Jellyfish]] (Zeiss), [[Boiled Egger O]] (Grancel), [[Mantrap]] (Rolent), [[Amber Turtle]] (Bose), [[Phenomenon]] (endgame)
+
+%
+
+====Bird Egg====
+
+* ''Dropped By:'' [[Roadrunner]] (Ruan), Penguins (Zeiss), [[Primera]] (Grancel), [[Mars Sparrow]] (Rolent), [[Rock Pecker]] (Bose), [[Artiball]] (endgame)
+
+%
+
+====Fish Egg====
+
+* ''Dropped By:'' [[Crocodark]] (Ruan), [[Cave Ray]] (Zeiss), [[Sharkodile]] (Grancel), [[Fly SKipper 2]] (Rolent), [[Cryon Bit 2]] (Bose), [[Brute Angler]] (endgame)
+
+%
+
+====Prickly Seed====
+
+* ''Dropped By:'' [[Introllmuumuu]] / [[Stove Plant]] (Ruan), [[Lark Cactus]] / [[War Mantis]] (Zeiss), [[Flame Plant]] / [[Marsh Chupacabra]] (Grancel), [[Lily Mover]] / [[Mad Roper]] (Rolent), [[Kailash Gray]] (endgame)
+* ''Shops:''
+
+%
+
++
++
++
+
+===Books===
+
+====Bracer Notebook====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Recipe Book====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Fishing Book====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Monster Guide====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Liberl Kingdom Map====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Map of Le Locle====
+
+* ''Acquisition:'' Auto
+
+%
+
+====Liberl News - Issue 1====
+
+* ''Acquisition:'' Buy from [[Phyllis' Kitchen]]
+
+%
+
+====Liberl News - Issue 2====
+
+* ''Acquisition:'' Buy from [[O'Neil Duty-Free Shop]] or [[Landing Port Waiting Room]]
+
+%
+
+====Liberl News - Issue 3====
+
+* ''Acquisition:'' Buy from [[Bell Station General Goods]]
+
+%
+
+====Liberl News - Issue 4====
+
+* ''Acquisition:'' Buy from [[Landing Port Waiting Room]] or [[Edel Market - Sundries Corner]]
+
+%
+
+====Liberl News - Issue 5====
+
+* ''Acquisition:'' Buy from [[Landing Port Waiting Room]]
+
+%
+
+====Liberl News - Issue 6====
+
+* ''Acquisition:'' Buy from [[Rinon General Goods]]
+
+%
+
+====Liberl News - Issue 7====
+
+* ''Acquisition:'' Buy from [[Minuet's Magazine Stand]]
+
+%
+
+====Liberl News - Special====
+
+* ''Acquisition:'' Buy from [[Minuet's Magazine Stand]]
+
+%
+
+====Liberl News - Issue 8====
+
+* ''Acquisition:'' Buy from [[Minuet's Magazine Stand]]
+
+%
+
+====Liberl News - Issue 9====
+
+* ''Acquisition:'' Buy from [[Arseille Tools Dispensary]]
+
+%
+
+====Liberl News - Issue 10====
+
+* ''Acquisition:'' Buy from [[Landing Port Waiting Room]] or [[Edel Market - Sundries Corner]]
+
+%
+
+====Liberl News - Issue 11====
+
+* ''Acquisition:'' Buy from [[Arseille Tools Dispensary]]
+
+%
+
+====Recipe Copy====
+
+* ''Acquisition:'' Nostalgic Recipe sidequest
+
+%
+
+====Gambler Jack - Vol. 1====
+
+* ''Acquisition:'' After Saint Croix forest, enter the previously locked room at the lodge. Short time period in the prologue.
+
+%
+
+====Gambler Jack - Vol. 2====
+
+* ''Acquisition:'' At Lavantar Casino on the second floor, trade-in 100 medals at the prize booth
+
+%
+
+====Gambler Jack - Vol. 3====
+
+* ''Acquisition:'' While you are on the Airliner Cecilia in Chapter II, talk to Olivier --u--TWICE!!--u--
+
+%
+
+====Gambler Jack - Vol. 4====
+
+* ''Acquisition:'' It's located at the Erebonian Embassy library in Grancel on the left side. --u--Mueller must accompany you when speaking to Nathan!--u--
+
+%
+
+====Gambler Jack - Vol. 5====
+
+* ''Acquisition:'' It's located Baral Coffee House on Grancel: West Block. Talk to Connor on the right side of the coffee house
+
+%
+
+====Gambler Jack - Vol. 6====
+
+* ''Acquisition:'' At Rolent, there's a house next door to Abend Bar. Talk to Serra inside her husband's private library collection on the second floor or Buy from [[Minuet's Magazine Stand]] in chapter VI
+
+%
+
+====Gambler Jack - Vol. 7====
+
+* ''Acquisition:'' At Krone Pass - Checkpoint, speak to  Private Mikey at the first room on your right
+
+%
+
+====Gambler Jack - Vol. 8====
+
+* ''Acquisition:'' In Chapter VI,  Next, talk to Lewey at Ravennue Village. He should be standing right by the inn with the other children
+
+%
+====Gambler Jack - Vol. 9====
+
+* ''Acquisition:'' At the start of Chapter VI, go to Haken Gate and talk to Carlos. He should be standing right by the gate!
+
+%
+====Gambler Jack - Vol. 10====
+
+* ''Acquisition:'' After conquering the Carnelia Tower: Altered Space in chapter VII, head over to the tail end of the Ariselle, and talk to the cat. --u--BE SURE TO HAVE KLOE WITH YOU--u--
+
+%
+====Gambler Jack - Vol. 11====
+
+* ''Acquisition:'' After finishing the sidequest [[Save the Miners]] in chapter VIII, attend the wedding ceremony and then go to Abend Bar. Talk to Serra on the table on the first floor.
+
+%
+====Gambler Jack - Vol. 12====
+
+* ''Acquisition:'' After finishing the sidequest [[Occupation of Jenis]] in chapter VIII, go to the Humanities Classroom inside the academy and go talk to Purity.
+
+%
+====Gambler Jack - Vol. 13====
+
+* ''Acquisition:'' After finishing the [[Hot Spring Restoration]] in chapter VIII, go to Wolf Fort and talk to CWO Pace at the barracks.
+
+%
+====Gambler Jack - Vol. 14====
+
+* ''Acquisition:'' After delivering the ZFGs to the guilds in Ruan, Zeiss, and Rolent, head over to the Bose department store and talk to Minuet at [[Minuet's Magazine Stand]] in chapter VIII
+%
++
++
++
+
+===Fish===
+
+====Earthworm====
+
+* ''Dropped By:'' [[Corn Mover]] / [[Sasa Panda]] (Ruan), [[Creepy Sheep]] / [[Pink Sheep]] / [[Red Penguin]] (Zeiss), [[Great Moth]] / [[Marsh Chupacabra]] / [[Primera]] (Grancel), [[Flying Feline]] / [[Pine Plant]] (Rolent), [[Rimera]], [[Rock Pecker]] (Bose)
+
+%
+
+====River Bug====
+
+* ''Dropped By:'' [[Baby Gourd Boars]] / [[Gourd Boar]] / [[Introllmuumuu]] (Ruan), [[Grass Hopper]] / [[Blue Penguin]] (Zeiss), [[Hell Mars]] (Grancel), [[Red Insectos]] (Rolent), [[Green Insectos]] / [[White Insectos]] (Bose)
+
+%
+
+====Dumplings====
+
+* ''Dropped By:'' [[Hopper Chief]] / [[Baby Penguins]] (Zeiss), [[Black Sheep]] / [[Hillside Bee]] (Grancel), [[Giant Crop Muncher]] / [[Pom]] (Rolent), [[Halo Mole]] (Bose)
+
+%
+
+====Roe====
+
+* ''Dropped By:''[[Yellow Penguin]] (Zeiss), [[War Bat]] (Grancel), [[Lily Mover]] (Rolent), [[Hresvelgr]] (Bose)
+
+%
+
+====River Snail====
+
+* ''Dropped By:'' [[Jet Tortoise]] / [[Pink Penguin]] (Zeiss), [[Mad Snail]] (Grancel), [[Coral Shell]] (Rolent)
+
+%
+
+====Frog====
+
+* ''Dropped By:'' [[Armored Rabbit]] / [[Green Penguin]] (Zeiss), [[Amber Turtle]] / [[Chupacabra]] (Bose)
+
+%
+
+====Red Flies====
+
+* ''Dropped By:'' [[War Mantis]] / [[White Penguin]] (Zeiss), [[Flame Plant]] (Grancel), [[Crop Muncher]] (Rolent)
+
+%
+
+====Polychaete====
+
+* ''Dropped By:'' [[Hammerhead]] / [[Hyurstamper]] / [[Jabba]] (Ruan), [[Moth Cluster]] (Rolent)
+
+%
+
+====Shrimplet====
+
+* ''Dropped By:'' [[Flying Shrimp]] / [[Red Hammerhead]] (Ruan), [[Faerie Epitaph]] (Zeiss)
+
+%
+
+====Crab====
+
+* ''Caught At:'' Grancel Queen's Terrace, Grancel Port (rear), Scenic Route - Romal Pond, Tratt Plains Road Pool, Air-Letten Waterfall
+* ''Bait:'' [[Earthworm]], [[Polychaete]], [[Shrimplet]]
+
+%
+
+====Dace====
+
+* ''Caught At:'' Grancel Queen's Terrace, Kaldia Tunnel River, Tratt Plains Road Pool
+* ''Bait:'' [[River Bug]], [[Red Flies]]
+
+%
+
+====Gold Angelfish====
+
+* ''Caught At:'' Sapphirl Tower - 5F, Air-Letten Waterfall, Gull Seaside Way Beach
+* ''Bait:'' [[Polychaete]]
+
+%
+
+====Yamany====
+
+* ''Caught At:'' Verte Bringe, Grancel Sewers - N Block
+* ''Bait:'' [[River Bug]], [[Red Flies]]
+
+%
+
+====Liberl Carp====
+
+* ''Caught At:''Elize Highway River, Rolent Sewers, Milch Road Pool, Grancel Sewers - W Block, Scenic Route
+* ''Bait:'' [[River Bug]], [[Dumplings]], [[Red Flies]]
+
+%
+
+====Kasago====
+
+* ''Caught At:'' Ruan - Roubine River North, Ruan - Roubine River South
+* ''Bait:'' [[Polychate]], [[Shrimplet]]
+
+%
+
+====Valleria Bass====
+
+* ''Caught At:'' Tratt Plains Road Pool
+* ''Bait:'' [[Dace]]
+
+%
+
+====Rockeater====
+
+* ''Caught At:'' Scenic Route - Romal Pond, Ravennue Village Pond, Lakeshore Inn, Bright Family Pond
+* ''Bait:'' [[Crab]], [[Earthworm]], [[River Snail]], [[Frog]]
+
+%
+
+====Great Blackfish====
+
+* ''Caught At:'' Gull Seaside Way Shoals, Ruan - Roubine River South
+* ''Bait:'' [[Polychaete]]
+
+%
+
+====Carp====
+
+* ''Caught At:'' Grancel Queen's Terrace, Erbe Royal Villa Canal, Underground Lake Depths, West Bose Highway Pond,  Mistwald Clear Stream
+* ''Bait:''[[Crab]], [[Earthworm]], [[Dumplings]], [[River Snail]]
+
+%
+
+====Sea Bass====
+
+* ''Caught At:'' Ruan - Roubine River North, Gull Seaside Way Beach, Gull Seaside Way Shoals
+* ''Bait:'' [[Polychate]], [[Kasago]]
+
+%
+
+====Tiger Rockfish====
+
+* ''Caught At:'' Verte Bridge
+* ''Bait:'' [[Earthrorm]], [[Red Flies]]
+
+%
+
+====Octopus====
+
+* ''Caught At:'' Sapphirl Tower - 5F, Gull Seaside Way Beach
+* ''Bait:'' [[Shrimplet]], [[Kasago]], [[Crab]]
+
+%
+
+====Rainbow Trout====
+
+* ''Caught At:'' Lakeshore Inn
+* ''Bait:'' [[Earthworm]], [[Roe]]
+
+%
+
+====Trout====
+
+* ''Caught At:'' Ravennue Village Pond, Lakeshore Inn
+* ''Bait:'' [[Earthworm]]
+
+%
+
+====Eel====
+
+* ''Caught At:'' Grancel Queen's Terrace, Air-Letten Waterfall
+* ''Bait:'' [[Earthworm]]
+
+%
+
+====Salmon====
+
+* ''Caught At:'' Grancel Queen's Terrace, Grancel Port (Rear)
+* ''Bait:'' [[Dace]], [[Roe]]
+
+%
+
+====Claudine====
+
+* ''Caught At:'' Ruan - Roubine River North
+* ''Bait:'' [[Kasago]], [[Crab]]
+
+%
+
+====Snakehead====
+
+* ''Caught At:'' Underground Lake Depths, Lakeshore Inn, West Bose Highway Pond, Elize Highway River
+* ''Bait:'' [[Carp]], [[Frog]]
+
+%
+
+====Mahi-Mahi====
+
+* ''Caught At:'' Gull Seaside Way Beach, Gull Seaside Way Shoals
+* ''Bait:'' [[Salmon]], [[Dace]], [[Sea Bass]]
+
+%
+
+====Pearlglass====
+
+* ''Caught At:'' West Bose Highway Pond, Elize Highway River
+* ''Bait:'' [[Dumplings]], [[River Snail]]
+
+%
+
+====Garvelze====
+
+* ''Caught At:'' Grancel Port (Rear), Lakeshore Inn
+* ''Bait:'' [[Carp]]
+
+%
+
+====Grakanor====
+
+* ''Caught At:'' Kaldia Underground Lake, Sapphirl Tower - 5F
+* ''Bait:'' [[Crab]]
+
+%
+
+====Gigangora====
+
+* ''Caught At:'' Gull Seaside Way Beach, Gull Seaside Way Shoals
+* ''Bait:'' [[Kasago]],  [[Sea Bass]] or [[Salmon]]
+
+%
+
+====Blue Marlin====
+
+* ''Caught At:'' Gull Seaside Way Beach, Gull Seaside Way Shoals
+* ''Bait:'' [[Sea Bass]], [[Salmon]]
+
+%
+
+====Dynatrad====
+
+* ''Caught At:'' Lakeshore Inn
+* ''Bait:'' [[Trout]]
+
+%
+
+====Progress Rod====
+
+* ''Acquisition:'' At the beginning of Chapter I, talk to Lloyd during your flight.
+
+%
+
+====Marine Star====
+
+* ''Acquisition:'' [[Medal - Gift Exchange]] (Lavantar Bar & Casino)
+
+%
+
+====Piscis Heart====
+
+* ''Acquisition:'' [[Tratt Plains Road]]
+
+%
+
+====Bamboo Fishing Rod====
+
+* ''Acquisition:'' See [[Grancel: The Embassy Mission]]
+
+%
+
+====Metal Trident Rod====
+
+* ''Acquisition:'' [[Fishing Spot Search]]
+
+%
+
+====Lakelord II====
+
+* ''Acquisition:'' See [[Post-Chapter V Sidequests]]
+
+%
+
+====Aqua Master====
+
+* ''Acquisition:'' Bracer Rank C
+
+%
+
+
+
++
++
++
+
+==Shops==
+
+===Le Locle===
+
+====Phyllis' Kitchen====
+
+|* Item |* Price |
+| [[Liberl News - Issue 1]] | 100 |
+| [[Herb Sandwich]] | 150 |
+| [[Nature's Bounty]] | 150 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Milled Flour]] | 4 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+
+====Le Locle Orbal Factory====
+
+|* Item |* Price |
+| [[Tear Balm]] | 100 |
+| [[Purging Balm]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[EP Charge]] | 500 |
+| [[Silver Earring]] | 500 |
++
+|* Quartz |
+| [[Defense 1]] |
+| [[HP 1]] |
+| [[Attack 1]] |
+| [[Evade 1]] |
+| [[Impede 1]] |
+| [[Action 1]] |
+| [[EP Cut 1]] |
+| [[Hit 1]] |
+
+===Ruan Area===
+
+====Joan Arms & Guards====
+
+|* Item |* Price |
+| [[Fiber Rod]] | 300 |
+| [[Python]] | 300 |
+| [[Claymore]] | 400 |
+| [[Phantom]] | 300 |
+| [[Fiber Vest]] | 300 |
+| [[Metal Spikes]] | 150 |
+| [[Silver Earring]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Feather Brooch]] | 1000 |
+
+====O'Neil Duty-Free Shop====
+
+|* Item |* Price |
+| [[Liberl News - Issue 2]] | 100 |
+| [[Tear Balm]] | 100 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Cat Foot Slippers]] | 100 |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+
+====Lavantar Casino & Bar====
+
+|* Item |* Price |
+| [[Nature's Bounty]] | 150 |
+| [[Azelia Kiss]] | 550 |
+
+====Medal - Gift Exchange====
+
+Second floor of Lavantar.
+
+|* Item |* Medals |
+| [[Gambler Jack - Vol. 2]] | 100 |
+| [[Marine Star]] | 200 |
+| [[Silver Earring]] | 500 |
+| [[White Bracelet]] | 500 |
+| [[Feather Brooch]] | 1000 |
+| [[Long Barrel]] | 1000 |
+| [[Surprise Cookie]] | 2000 |
+| [[Perilous Meatballs]] | 3000 |
+| [[Rainbow Surprise]] | 4000 |
+| [[Moonglasses]] | 3000 |
+| [[Buzzer]] | 3000 |
+| [[Tornado Fan]] | 3000 |
+| [[Long Barrel III]] | 5000 |
+| [[Dragon Skin Shoes]] | 5000 |
+| [[Dragon Skin Jumpsuit]] | 5000 |
+
+The expensive items are available in chapter 8.
+
+====Granate Orbal Factory====
+
+|* Quartz |
+| [[Defense 1]] |
+| [[HP 1]] |
+| [[Mind 1]] |
+| [[Attack 1]] |
+| [[Shield 1]] |
+| [[Evade 1]] |
+| [[Impede 1]] |
+| [[Action 1]] |
+| [[Blind]] |
+| [[Cast 1]] |
+| [[EP Cut 1]] |
+| [[EP 1]] |
+| [[Hit 1]] |
+
+====Aqua Rossa Bar====
+
+|* Item |* Price |
+| [[Prime Salmon Grill]] | 350 |
+| [[Sea Breeze Soup]] | 400 |
+
+
+====Air-Letten Mess Hall====
+
+|* Item |* Price |
+| [[Salt-Roasted Fish]] | 350 |
+| [[Herb Sandwich]] | 150 |
+
+====Fiore General Goods====
+
+|* Item |* Price |
+| [[Tear Balm]] | 100 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+
+====Sadie's Flower Shop====
+
+|* Item |* Price |
+| [[Bear Claw]] | 10 |
+| [[Azelia Fruit]] | 20 |
+| [[Fresh Herb]] | 10 |
+
+====The White Magnolia====
+
+|* Item |* Price |
+| [[Sea 'Bubbles']] | 550 |
+| [[Miso-Stewed Fish]] | 300 |
+| [[Garden of Seaden]] | 600 |
+
+
+====Academy Cafeteria====
+
+|* Item |* Price |
+| [[Hot-Hot Potato Fry]] | 100 |
+| [[Royal Gelato]] | 350 |
+| [[Herb Sandwich]] | 150 |
+| [[Young Lady Plate]] | 800 |
+
+===Zeiss Region===
+
+====Bell Station General Goods====
+
+|* Item |* Price |
+| [[Liberl News - Issue 3]] | 100 |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Soft Knit Cap]] | 1500 |
+| [[Cat Suit]] | 500 |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+
+====Stain Arms & Guards====
+
+|* Item |* Price |
+| [[Impact Rod]] | 800 |
+| [[Air Glaive]] | 760 |
+| [[Gray Wolf]] | 700 |
+| [[Sinclair]] | 800 |
+| [[Schweitzer]] | 800 |
+| [[P-07]] | 700 |
+| [[Fiber Vest]] | 300 |
+| [[Enhanced Jacket]] | 700 |
+| [[Metal Spikes]] | 150 |
+| [[Fiber Boots]] | 380 |
+| [[Silver Earring]] | 500 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Feather Brooch]] | 1000 |
+
+
+====Forgel Bar====
+
+|* Item |* Price |
+| [[Fruit Kingdom]] | 200 |
+| [[Tomatrio Sandwich]] | 1400 |
+| [[Fowl Magma Roast]] | 350 |
+
+====Priam's Drink Stand====
+
+|* Item |* Price |
+| [[Azelia Kiss]] | 550 |
+| [[Nature's Bounty]] | 150 |
+| [[Premium Herb Tea]] | 1000 |
+
+====Central Factory - Repairs Desk====
+
+|* Quartz |
+| [[Defense 1]] |
+| [[Defense 2]] |
+| [[Poison]] |
+| [[Mute]] |
+| [[HP 1]] |
+| [[HP 2]] |
+| [[Mind 1]] |
+| [[Mind 2]] |
+| [[Attack 1]] |
+| [[Attack 2]] |
+| [[Seal]] |
+| [[Evade 1]] |
+| [[Evade 2]] |
+| [[Sleep]] |
+| [[Impede 2]] |
+| [[Action 1]] |
+| [[Action 2]] |
+| [[Blind]] |
+| [[Cast 1]] |
+| [[Cast 2]] |
+| [[EP Cut 1]] |
+| [[EP Cut 2]] |
+| [[EP 1]] |
+| [[EP 2]] |
+| [[Hit 1]] |
+| [[Hit 2]] |
+
+====Irene's Flower Stand====
+
+|* Item |* Price |
+| [[Bear Claw]] | 10 |
+| [[Azelia Fruit]] | 20 |
+| [[Fresh Herb]] | 10 |
+
+
+====Sanktheim Gate - Mess Hall====
+
+|* Item |* Price |
+| [[Passion Omelet]] | 200 |
+| [[Macho Meat Stew]] | 1200 |
+
+====Wolf Fort - Rest Stop====
+
+|* Item |* Price |
+| [[Fowl Magma Roast]] | 350 |
+
+====Autumn Souvenirs====
+
+|* Item |* Price |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+====The Maple Leaf Inn====
+
+|* Item |* Price |
+| [[Passion Omelet]] | 200 |
+| [[Flower Milkshake]] | 250 |
+| [[Ambrosial Egg]] | 750 |
+| [[Mountain Man Stew]] | 1000 |
+
+===Grancel Region===
+
+====Weis Arms & Guards====
+
+|* Item |* Price |
+| [[Pole Weapon]] | 1500 |
+| [[Chain Gear]] | 1380 |
+| [[Salamander]] | 1400 |
+| [[Long Saber]] | 1500 |
+| [[Dynast Edge]] | 1500 |
+| [[S Launcher]] | 1400 |
+| [[Heavy Cestus]] | 1500 |
+| [[Air Shooter]] | 1500 |
+| [[Enhanced Jacket]] | 700 |
+| [[Fiber Suit]] | 1100 |
+| [[Fiber Boots]] | 380 |
+| [[Strega-F]] | 800 |
+| [[Silver Earring]] | 500 |
+| [[Glam Choker]] | 1000 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Feather Brooch]] | 1000 |
+
+====Gaspard's Popcorn Stand====
+
+|* Item |* Price |
+| [[Mobility Popcorn]] | 250 |
+
+====Nonna's Crepe Stand====
+
+|* Item |* Price |
+| [[Sweeeeet Crepe]] | 350 |
+| [[Mystery Crepe]] | 750 |
+
+====Sunnybell Inn====
+
+|* Item |* Price |
+| [[Mocking Pie]] | 400 |
+| [[Tomatrio Sandwich]] | 1400 |
+| [[Seafood Hotpot]] | 1600 |
+
+
+====Baral Coffee House====
+
+|* Item |* Price |
+| [[Nap Killer]] | 250 |
+| [[Herb Sandwich]] | 150 |
+| [[Curry of Dreams]] | 900 |
+
+
+====Landing Port Waiting Room====
+
+|* Item |* Price |
+| [[Liberl News - Issue 2]] | 100 |
+| [[Liberl News - Issue 4]] | 100 |
+| [[Liberl News - Issue 5]] | 100 |
+| [[Liberl News - Issue 10]] | 100 |
+
+====Edel Market - Food Counter====
+
+|* Item |* Price |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+====Edel Market - Sundries Corner====
+
+|* Item |* Price |
+| [[Liberl News - Issue 4]] | 100 |
+| [[Liberl News - Issue 10]] | 100 |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Anti-Cold Helmet]] | 2000 |
+
+====Edel Market - Accessory Shop====
+
+|* Item |* Price |
+| [[Silver Earring]] | 500 |
+| [[Lighter]] | 500 |
+| [[Mirage Ring]] | 1000 |
+| [[Black Bangle]] | 500 |
+| [[Glam Choker]] | 1000 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Lily Necklace]] | 1000 |
+| [[Feather Brooch]] | 1000 |
+| [[Skull Pendant]] | 1000 |
+| [[Proxy Puppet]] | 1000 |
+| [[Cat Tail]] | 1500 |
+
+====Gurune Gate - Mess Hall====
+
+|* Item |* Price |
+| [[Ambrosial Egg]] |  750|
+| [[Shellful Dish]] | 1400 |
+| [[Turnin' Tempura]] | 650 |
+| [[Anarchy Soup]] | 650 |
+
+====Sorbet's Ice Cream Stand====
+
+|* Item |* Price |
+| [[Ultima Ice Cream]] | 1200 |
+| [[Royal Gelato]] | 350 |
+| [[Sunshine Ice]] | 600 |
+| [[Moonlight Ice]] | 550 |
+
+====Dalmore Firm====
+
+|* Item |* Price |
+| Earth Sepith x100 | 3000 |
+| Water Sepith x100 | 3000 |
+| Fire Sepith x100 | 3000 |
+| Wind Sepith x100 | 3000 |
+| Time Sepith x100 | 3000 |
+| Space Sepith x100 | 9000 |
+| Mirage Sepith x100 | 6000 |
+
+Available in chapter 8.
+
+====Fisherman's Guild====
+
+| [[Earthworm]]       | 100 |
+| [[River Bug]]       | 100 |
+| [[Dumplings]]       | 100 |
+| [[Roe]]             | 100 |
+| [[River Snail]]     | 100 |
+| [[Frog]]            | 100 |
+| [[Red Flies]]       | 100 |
+| [[Polychaete]]      | 100 |
+| [[Shrimplet]]       | 100 |
+
+Must have caught [[Dynatrad]]
+
+===Rolent Region===
+
+====Abend Bar====
+
+|* Item |* Price |
+| [[Spiral Noodles]] | 600 |
+| [[Ten-Stack Crepe]] | 550 |
+| [[Bone Boullon]] | 650 |
+| [[Heavenly Tempura]] | 2400 |
+| [[Three-Eyed Soup]] | 1600 |
+
+====Melder's Orbal Factory====
+
+|* Quartz |
+| [[Defense 1]] |
+| [[Defense 2]] |
+| [[Defense 3]] |
+| [[Poison]] |
+| [[Mute]] |
+| [[HP 1]] |
+| [[HP 2]] |
+| [[HP 3]] |
+| [[Mind 1]] |
+| [[Mind 2]] |
+| [[Mind 3]] |
+| [[Freeze]] |
+| [[Attack 1]] |
+| [[Attack 2]] |
+| [[Attack 3]] |
+| [[Seal]] |
+| [[Shield 1]] |
+| [[Shield 2]] |
+| [[Shield 3]] |
+| [[Evade 1]] |
+| [[Evade 2]] |
+| [[Evade 3] |
+| [[Sleep]] |
+| [[Impede]] |
+| [[Impede 2]] |
+| [[Action 1]] |
+| [[Action 2]] |
+| [[Action 3]] |
+| [[Blind]] |
+| [[Cast 1]] |
+| [[Cast 2]] |
+| [[Move 1]] |
+| [[Move 2]] |
+| [[Strike]] |
+| [[EP Cut 1]] |
+| [[EP Cut 2]] |
+| [[EP Cut 3]] |
+| [[EP 1]] |
+| [[EP 2]] |
+| [[EP 3]] |
+| [[Hit 1]] |
+| [[Hit 2]] |
+| [[Hit 3]] |
+| [[Confuse]] |
+
+====Rinon General Goods====
+
+|* Item |* Price |
+| [[Liberl News - Issue 6]] | 100 |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+
+====Elger Arms & Guards====
+
+|* Item |* Price |
+| [[Ceramic Rod]] | 3000 |
+| [[Eclair]] | 2600 |
+| [[Dragoon]] | 2800 |
+| [[Vierge]] | 3000 |
+| [[Blade Gear]] | 3000 |
+| [[G-01]] | 2800 |
+| [[Knuckle Gear]] | 3000 |
+| [[Fiber Suit]] | 1100 |
+| [[Ceram Coat]] | 2000 |
+| [[Strega-F]] | 800 |
+| [[Spike Gear]] | 1500 |
+| [[Silver Earring]] | 500 |
+| [[Black Bangle]] | 500 |
+| [[Glam Choker]] | 1000 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Lily Necklace]] | 1000 |
+| [[Feather Brooch]] | 1000 |
+
+===Bose Region===
+
+====Kirsche Bar====
+
+|* Item |* Price |
+| [[Mystery Paste]] | 750 |
+| [[Flame Tongue Stew]] | 650 |
+| [[Golden Risotto]] | 1400 |
+
+
+====Buck's Greengrocery====
+
+|* Item |* Price |
+| [[Worldly Stew]] | 4800 |
+| [[Firefly Fungus]] | 200 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+
+====Trayton Foods====
+
+|* Item |* Price |
+| [[Rustic Bone]] | 2600 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Tender Whitefish]] | 40 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+
+====Spence Pharmacy====
+
+
+|* Item |* Price |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Curia Balm]] | 300 |
+| [[Reviving Balm]] | 200 |
+
+
+====Felicia's Hardware Store====
+
+|* Item |* Price |
+| [[Laundry Pole+]] | 2000 |
+| [[All-Purpose Knife]] | 2000 |
+| [[Chain Belt]] | 3000 |
+| [[Cleaver]] | 3000 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+
+
+====Finel's Ice Cream Stand====
+
+|* Item |* Price |
+| [[Sunshine Ice]] | 600 |
+| [[Moonlight Ice]] | 550 |
+
+
+====Minuet's Magazine Stand====
+
+|* Item |* Price |
+| [[Gambler Jack - Vol. 6]] | 1000 |
+| [[Liberl News - Issue 7]] | 100 |
+| [[Liberl News - Special]] | 100 |
+| [[Liberl News - Issue 8]] | 100 |
+
+====Katrina's Confectionery====
+
+|* Item |* Price |
+| [[Corner Castella]] | 350 |
+| [[Refresh Jelly]] | 1300 |
+| [[Mystery Paste Plus]] | 1600 |
+
+====Paul & Elke's Outlet====
+
+|* Item |* Price |
+| [[Strega MAX]] | 6000 |
+| [[Cotton-Stuffed Vest]] | 2000 |
+| [[Cat Ears Band]] | 1500 |
+| [[Cat Foot Slippers]] | 100 |
+| [[Cat Tail]] | 1500 |
+| [[Cat Suit]] | 500 |
+
+====Lucir Orbal Factory====
+
+|* Quartz |
+| [[Defense 1]] |
+| [[Defense 2]] |
+| [[Defense 3]] |
+| [[Defense 4]] |
+| [[Poison]] |
+| [[Mute]] |
+| [[HP 1]] |
+| [[HP 2]] |
+| [[HP 3]] |
+| [[HP 4]] |
+| [[Mind 1]] |
+| [[Mind 2]] |
+| [[Mind 3]] |
+| [[Mind 4]] |
+| [[Freeze]] |
+| [[Attack 1]] |
+| [[Attack 2]] |
+| [[Attack 3]] |
+| [[Attack 4]] |
+| [[Seal]] |
+| [[Shield 1]] |
+| [[Shield 2]] |
+| [[Shield 3]] |
+| [[Shield 4]] |
+| [[Evade 1]] |
+| [[Evade 2]] |
+| [[Evade 3]] |
+| [[Evade 4]] |
+| [[Sleep]] |
+| [[Impede 1]] |
+| [[Impede 2]] |
+| [[Action 1]] |
+| [[Action 2]] |
+| [[Action 3]] |
+| [[Action 4]] |
+| [[Blind]] |
+| [[Cast 1]] |
+| [[Cast 2]] |
+| [[Move 1]] |
+| [[Move 2]] |
+| [[Strike]] |
+| [[EP Cut 1]] |
+| [[EP Cut 2]] |
+| [[EP Cut 3]] |
+| [[EP Cut 4]] |
+| [[EP 1]] |
+| [[EP 2]] |
+| [[EP 3]] |
+| [[EP 4]] |
+| [[Hit 1]] |
+| [[Hit 2]] |
+| [[Hit 3]] |
+| [[Hit 4]] |
+| [[Confuse]] |
+
+
+====Sein Arms & Guards====
+
+|* Item |* Price |
+| [[Edel Staff]] | 5000 |
+| [[Sturm]] | 2450 |
+| [[0-Type Orbal Gun]] | 4800 |
+| [[Rune Blade]] | 5000 |
+| [[Ogre Buster]] | 5000 |
+| [[T Launcher]] | 4500 |
+| [[Blast Arm]] | 5000 |
+| [[Ceram Coat]] | 2000 |
+| [[Protect Gear]] | 3200 |
+| [[Spike Gear]] | 1500 |
+| [[Ceramic Spikes]] | 2600 |
+| [[Silver Earring]] | 500 |
+| [[Lighter]] | 500 |
+| [[Mirage Ring]] | 1000 |
+| [[Black Bangle]] | 500 |
+| [[Glam Choker]] | 1000 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Lily Necklace]] | 1000 |
+| [[Feather Brooch]] | 1000 |
+
+====Haken Gate - Rest Stop====
+
+|* Item |* Price |
+| [[Herb Sandwich]] | 150 |
+| [[Fevered Gaze]] | 550 |
+
+====The Kingfisher Inn====
+
+|* Item |* Price |
+| [[Roast Fish]] | 150 |
+| [[Rampage Fish]] | 1150 |
+
+
+====Emile General Goods====
+
+|* Item |* Price |
+| [[Teara Balm]] | 800 |
+| [[Purging Balm]] | 100 |
+| [[Reviving Balm]] | 200 |
+| [[EP Charge]] | 500 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+
+
+====The Moonlight Path====
+
+|* Item |* Price |
+| [[Sunshine Ice]] | 600 |
+| [[Moonlight Ice]] | 550 |
+| [[Paradise Cooler]] | 1300 |
+
+====Ovrid Co., Ltd.====
+
+|* Item |* Price |
+| [[Firefly Fungus]] | 299 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+====Other====
+
+
+====Arseille Orbal Dispensary====
+
+|* Quartz |
+| [[Defense 1]] |
+| [[Defense 2]] |
+| [[Defense 3]] |
+| [[Defense 4]] |
+| [[Poison]] |
+| [[Mute]] |
+| [[HP 1]] |
+| [[HP 2]] |
+| [[HP 3]] |
+| [[HP 4]] |
+| [[Mind 1]] |
+| [[Mind 2]] |
+| [[Mind 3]] |
+| [[Mind 4]] |
+| [[Freeze]] |
+| [[Attack 1]] |
+| [[Attack 2]] |
+| [[Attack 3]] |
+| [[Attack 4]] |
+| [[Seal]] |
+| [[Shield 1]] |
+| [[Shield 2]] |
+| [[Shield 3]] |
+| [[Shield 4]] |
+| [[Evade 1]] |
+| [[Evade 2]] |
+| [[Evade 3]] |
+| [[Evade 4]] |
+| [[Sleep]] |
+| [[Impede 1]] |
+| [[Impede 2]] |
+| [[Impede 3]] |
+| [[Impede 4]] |
+| [[Action 1]] |
+| [[Action 2]] |
+| [[Action 3]] |
+| [[Action 4]] |
+| [[Blind]] |
+| [[Cast 1]] |
+| [[Cast 2]] |
+| [[Move 1]] |
+| [[Move 2]] |
+| [[Move 3]] |
+| [[Strike]] |
+| [[EP Cut 1]] |
+| [[EP Cut 2]] |
+| [[EP Cut 3]] |
+| [[EP Cut 4]] |
+| [[EP 1]] |
+| [[EP 2]] |
+| [[EP 3]] |
+| [[EP 4]] |
+| [[Hit 1]] |
+| [[Hit 2]] |
+| [[Hit 3]] |
+| [[Hit 4]] |
+| [[Confuse]] |
+
+
+====Arseille Weapons Dispensary====
+
+|* Item |* Price |
+| [[Spiral Rod]] | 7000 |
+| [[Valkyrie Rod]] | 9000 |
+| [[Karambit]] | 6800 |
+| [[Strider]] | 9000 |
+| [[Galient Sword]] | 6800 |
+| [[Dendrobium]] | 8800 |
+| [[Cyclops]] | 9000 |
+| [[Battle Saber]] | 7000 |
+| [[Celestial]] | 9000 |
+| [[Grambringer]] | 7000 |
+| [[Zeno Breaker]] | 9000 |
+| [[G-02]] | 7200 |
+| [[Meteo Buster]] | 9200 |
+| [[Gigant Arm]] | 7000 |
+| [[Hecatonchire]] | 9000 |
+| [[Composite Gear]] | 7000 |
+| [[Sylphid]] | 9000 |
+| [[Protect Gear]] | 3200 |
+| [[Ceram Armor]] | 7800 |
+| [[Ceramic Spikes]] | 2600 |
+| [[Strega-G]] | 5400 |
+| [[Reflector II]] | 9500 |
+| [[Composites II]] | 7500 |
+| [[Silver Earring]] | 500 |
+| [[Lighter]] | 500 |
+| [[Mirage Ring]] | 1000 |
+| [[Black Bangle]] | 500 |
+| [[Glam Choker]] | 1000 |
+| [[White Bracelet]] | 500 |
+| [[Pearl Earring]] | 500 |
+| [[Lily Necklace]] | 1000 |
+| [[Feather Brooch]] | 1000 |
+| [[Skull Pendant]] | 1000 |
+
+====Arseille Tools Dispensary====
+
+|* Item |* Price |
+| [[Liberl News - Issue 9]] | 100 |
+| [[Liberl News - Issue 11]] | 100 |
+| [[Tear Balm]] | 100 |
+| [[Teara Balm]] | 800 |
+| [[Tearal Balm]] | 2000 |
+| [[Purging Balm]] | 100 |
+| [[Softening Balm]] | 100 |
+| [[Smelling Salts]] | 100 |
+| [[Curia Balm]] | 300 |
+| [[S-Tablet]] | 500 |
+| [[Reviving Balm]] | 200 |
+| [[Insulating Tape]] | 100 |
+| [[EP Charge]] | 500 |
+| [[EP Charge II]] | 1000 |
+
+====Arseille Food Dispensary====
+
+|* Item |* Price |
+| [[Bitter Omelet]] | 1800 |
+| [[Firefly Fungus]] | 200 |
+| [[Acerbic Tomato]] | 400 |
+| [[Bear Claw]] | 10 |
+| [[Tri-Colored Rice]] | 200 |
+| [[Aged Miso]] | 300 |
+| [[Vintage Wine]] | 300 |
+| [[Fresh Milk]] | 50 |
+| [[Fresh Eggs]] | 10 |
+| [[Sharp Cheese]] | 30 |
+| [[Luscious Orange]] | 20 |
+| [[Ripe Apple]] | 20 |
+| [[Azelia Fruit]] | 20 |
+| [[Milled Flour]] | 4 |
+| [[Ironbone Fish]] | 10 |
+| [[Marbled Steak]] | 100 |
+| [[Flaky Potato]] | 10 |
+| [[Crisp Onion]] | 10 |
+| [[Dirty Carrot]] | 10 |
+| [[Maple Sugar]] | 4 |
+| [[Kibbled Salt]] | 4 |
+| [[Olive Oil]] | 16 |
+| [[Fresh Herb]] | 10 |
+| [[Dragon Beans]] | 20 |
+| [[Royal Leaf]] | 20 |
+| [[Black Pepper]] | 10 |
+| [[Red Pepper]] | 10 |
+| [[Tender Whitefish]] | 40 |
+
+====Online Shop====
+
+|* West Calmare |
+| [[Sapphire Gem]] |
+| [[Ruby Gem]] |
+|* Cradle |
+| [[Topaz Gem]] |
+| [[Emerald Gem]] |
+|* Factoria |
+| [[Onyx Gem]] |
+| [[Gold Gem]] |
+| [[Silver Gem]] |
+|* Axis Pillar |
+| [[Water Gem]] |
+| [[Wind Gem]] |
+| [[Wood Gem]] |
+| [[Mirage Gem]] |
+
++
++
++
++

@@ -1,0 +1,2231 @@
+ _____            _____ _____          _   _ _______ 
+|  __ \     /\   |  __ \_   _|   /\   | \ | |__   __|
+| |__) |   /  \  | |  | || |    /  \  |  \| |  | |   
+|  _  /   / /\ \ | |  | || |   / /\ \ | . ` |  | |   
+| | \ \  / ____ \| |__| || |_ / ____ \| |\  |  | |   
+|_|  \_\/_/    \_\_____/_____/_/    \_\_| \_|  |_|   
+ _    _ _____  _____ _______ ____  _____  _____          
+| |  | |_   _|/ ____|__   __/ __ \|  __ \|_   _|   /\    
+| |__| | | | | (___    | | | |  | | |__) | | |    /  \   
+|  __  | | |  \___ \   | | | |  | |  _  /  | |   / /\ \  
+| |  | |_| |_ ____) |  | | | |__| | | \ \ _| |_ / ____ \ 
+|_|  |_|_____|_____/   |_|  \____/|_|  \_\_____/_/    \_\
+                                                         
+
+ASCII provided by network-science.de/ascii
+
+Because my attempt was pretty fail. XD
+
+------------------------------
+       Radiant Historia              Latest Update: GameFAQs.com
+        FAQ/Walkthrough                             Neoseeker.com
+   Chloe B./Drache the Dork
+        Copyright 2013
+------------------------------
+
+
+Version - 1.17
+        - Legal, new email, and updating username.
+
+
+Contact
+————————————
+Email:        drachenmeister13 at gmail dot com     (poor response rate)
+GameFAQs PM:  Drache_the_Dork                       (underscores are important!)
+Twitter:      @drachenmeister
+
+The reality of email is that I don't respond to it often. I advise against
+asking me questions, as chances are I'll see them a week later or so and I will
+assume you either figured it out or moved on by that point.
+
+Feel free to leave a note if you want me to respond no matter how late I get
+to it. This does not guarantee response, but it makes it MUCH more likely.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                               Table of Contents
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Ctrl + F and enter the codes to find the section you like.
+
+As for the walkthrough part, this is how you should interpret it:
+
+AH = Alternate History; SH = Standard History; Ch = Chapter
+
+The quotations indicate the last node I take you to within the section.
+
+
+ (1)   Introduction.................................................[00001]
+ (2)   Roadblocks...................................................[00002]
+ (3)   Gameplay.....................................................[00003]
+
+ (4)   Walkthrough
+                     Prologue                              [WLK01]
+                     The First Decision: Rosch             [WLK02]
+                     The First Decision: Heiss             [WLK03]
+                     AH Ch 1:   To "The Valkyrie"          [WLK04]
+
+                     SH Ch 1+2: To "Castle Sewers"         [WLK05]
+                     AH Ch 1+2                             [WLK06]
+                     AH Ch 3:   To "Shattered Steel Arm"   [WLK07]
+                     SH Ch 2+3: To "Death of a Friend"     [WLK08]
+
+                     AH Ch 3+4: To "A New Alliance"        [WLK09]
+                     SH Ch 3+4                             [WLK10]
+                     SH Ch 5                               [WLK11]
+                     SH Ch 6                               [WLK12]
+
+                     AH Ch 5                               [WLK13]
+                     AH Ch 6                               [WLK14]
+                     AH Final Chapter                      [WLK15]
+                     SH Final Chapter                      [WLK16]
+ (5)   Thanks.......................................................[00005]
+ (6)   Contact......................................................[00006]
+ (7)   Legal Information............................................[00007]
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                 Introduction                          [00001]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This guide is written with the assumption that you are following it from the
+beginning.
+
+You should be able to find your place should you not be. But if you decide to
+follow the guide at some point in the middle of your playthrough, you may have
+to hop around a bit to find a lot of sidequest information. I try to maximize
+playthroughs so that you won't be doing a ton of time traveling.
+
+Sidequests will get tedious if you decide to do them at the end of the game.
+
+Completionists, I will not help you with items you acquire from monsters. Don't
+even ask.
+
+Furthermore, special thanks to OLDHAG for listing the sidequests. It helped me
+get quite a few of the ones I missed on my first run.
+
+http://www.gamefaqs.com/boards/604160-radiant-historia/58266464
+
+And if all you want is a plain sidequest list, I suggest you look at that.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                  Roadblocks                           [00002]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+    Can't pass a guard? Other timeline, Kiel will teach you! (Sand Fortress,
+                        second floor.)
+
+     Can't find a bomb? Other timeline, Aht will teach you!
+
+  Need to sneak around? Other timeline, Heiss will teach you!
+
+    Rosch got you down? Other timeline. Or you may simply need to repeat events
+                        with new knowledge... after talking to Viola.
+
+          Got Gauntlet? Go to the prologue and find Sonja.
+
+              Need Chi? Talk to Gafka in Celestia.
+
+    Someone betray you? Go back to where you killed the spiders. The rest is
+                        automatic.
+
+Can't get into Granorg? Save a sister in the sewers and go to the event where a
+                        particular person betrays you. Get a Sand Sword in
+                        Skalla, and give it to the proper person in the Granorg
+                        bar. Then head to Chapter 3, "The Resistance" and keep
+                        going till you see the changes you needed.
+
+         Need Etherion? Other timeline.
+
+         Historica get? Elm will help you in chapter 4.
+
+ Problem not mentioned? OTHER TIMELINE. Probably. If I forgot something
+                        important: ask on GFAQs, PM me, or email me.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                   Gameplay                            [00003]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This game is pretty straightforward, but still fun.
+
+Grid
+¯¯¯¯
+Your enemies will be on any of 9 squares, sometimes occupying more than one.
+Pushing them in the back will reduce the damage they dish out, and the damage
+you give to them. This is actually more important than it sounds.
+
+You can play offensively and drag your enemy to the front to kill them as fast
+as possible -- at the risk of getting hit harder and dying -- or you can shove
+'em in the back and try healing.
+
+Launching into the Sky
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+There are a couple attacks that allow you knock your enemy up -- twice. I don't
+find these very useful over left/right/up/down techniques, but if you hit your
+enemies after they're in the air, they take damage upon landing. In fact, they
+take half the damage from landing as they get while hit in the sky.
+
+If you use a mana break while they're floating, you can get deal impressive
+damage.
+
+Knock Enemies into Each Other
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+There are many techniques that allow you to move your enemies around. Use that
+to knock them into each other, and you'll hit them all at once!
+
+Combo!
+¯¯¯¯¯¯
+You chain your attacks together. In other words, have everyone attack the same
+enemy or group of enemies to increase the chain. Some skills have multiple
+hits associated with them.
+
+This doesn't sound like much, but really, the more you chain, the more damage
+you dish out. So have a big magic nuke attack at the end and you'll see some
+impressive amounts of HP flowing out of the enemy.
+
+Change
+¯¯¯¯¯¯
+You can change turns with enemies. This will enable you to create better combos
+at the risk of taking more damage before your turn comes back up.
+
+Mana Burst
+¯¯¯¯¯¯¯¯¯¯
+You can also use these to delete enemy turn panels or unleash devastating
+attacks. Well, they may be fairly useless attacks as well. You have to get hit
+a lot to fill the gague enough. :P
+
+Poison
+¯¯¯¯¯¯
+This deserves its own section.
+
+USE. IT. In the form of the item, Poison Wing, or the skills you get. It won't
+work on a few bosses, sure, but it helps with a lot of the difficult ones.
+
+Stocke
+¯¯¯¯¯¯
+  Push Assault - LV 1
+  Left Assault - LV 2
+    Power Wave - LV 4
+          Heal - LV 5
+      Recovery - LV 7
+ Right Assault - LV 9
+          Fire - LV 10
+   Air Assault - LV 13
+  Resurrection - LV 14
+ Weakness Scan - LV 17
+  Double Slash - LV 21
+         Steal - LV 23
+  Greater Heal - LV 25
+     Area Heal - LV 31
+    Head Crush - LV 37
+    Heat Blade - LV 42
+        G-Fire - LV 50
+    Fire Storm - LV 60
+Dullahan Sword - The Blades Trial sidequest
+  Will o' Wisp - The Blades Trial sidequest
+   Shadow Arts - The Blades Trial sidequest
+  Wraith Blade - The Blades Trial sidequest
+
+Marco
+¯¯¯¯¯
+         Heal - LV 2
+      Grapple - LV 3
+Weakness Scan - LV 4
+  Magic Boost - LV 8
+  Guard Boost - LV 11
+ Push Assault - LV 15
+    Area Heal - LV 19
+  Speed Break - LV 23
+   Trans-Turn - LV 26
+ Resurrection - LV 29
+ All Recovery - LV 33
+ Greater Heal - LV 37
+   Guard Rise - LV 42
+   Magic Rise - LV 47
+   Super Heal - LV 52
+  Area G-Heal - LV 60
+Right Assault - Marco the Calm sidequest
+ Left Assault - Marco the Calm sidequest
+  Sleep Cloud - Marco the Calm sidequest
+   Spin Slash - Marco the Calm sidequest
+
+Raynie
+¯¯¯¯¯¯
+ Push Assault - LV 2
+      Thunder - LV 4
+ Poison Break - LV 8
+        Frost - LV 11
+         Fire - LV 15
+   Regenerate - LV 20
+         Rush - LV 25
+       G-Fire - LV 30
+   Mana Regen - LV 35
+    G-Thunder - LV 41
+      G-Frost - LV 47
+     Backfire - LV 53
+Cross Thunder - LV 60
+ Resist Boost - Raynie the Active sidequest
+  Sleep Break - Raynie the Active sidequest
+  Armor Break - Raynie the Active sidequest
+ Poison Blast - Raynie the Active sidequest
+
+Eruca
+¯¯¯¯¯
+    Mana-Shot - LV 21
+   Aim Bullet - LV 21
+Weakness Scan - LV 21
+   Power Rise - LV 21
+   Regenerate - LV 21
+   Trans-turn - LV 21
+    Hard Shot - LV 21
+   Holy Arrow - LV 28
+      G-Frost - LV 32
+     Deadline - LV 35
+     Blizzard - LV 38
+    Judgement - LV 42
+  Magic Boost - LV 45
+ Push Assault - LV 51
+   Chain Rave - LV 54
+ Resist Boost - LV 57
+  Area G-Heal - LV 60
+  Burst Light - The Light Trial Sidequest
+ Divine Light - The Light Trial Sidequest
+   Holy Light - The Light Trial Sidequest
+        Shine - The Light Trial Sidequest
+
+
+Gafka
+¯¯¯¯¯
+    Air Assault - LV 18
+         Mushin - LV 18
+Elemental Beads - LV 20
+   Push Assault - LV 24
+    Qigong Wave - LV 28
+  Divine Spirit - LV 33
+Echoing Impulse - LV 39
+         Qijong - LV 45
+     Dohatsuten - LV 50
+  Bedrock Smash - LV 55
+    Waxing Rage - LV 60
+          Musou - The Ultimate Skill sidequest
+  Triple Strike - The Ultimate Skill sidequest
+Wind God Strike - The Ultimate Skill sidequest
+         Cosmos - The Ultimate Skill sidequest
+
+Rosch
+¯¯¯¯¯
+  Grave Tuck - LV 7
+Left Assault - LV 7
+  Gull Swing - LV 9
+     Grapple - LV 13
+ Belial Claw - LV 17
+ Cross Spike - LV 20
+     Big Air - LV 24
+    Power Up - LV 29
+   Stun Blow - LV 40
+ Wind Thrust - LV 47
+  Giant Push - LV 55
+  Spiral End - LV 60
+Burn Knuckle - Automatic, AH Chapter 3
+ Impale Mode - Conversion sidequest
+  Blast Pain - Conversion sidequest
+  Haste Mode - Conversion sidequest
+
+Aht
+¯¯¯
+          Steal - LV 12
+  Weakness Scan - LV 12
+        Polaris - LV 12
+  Electric Trap - LV 12
+   Greater Heal - LV 14
+      Bomb Trap - LV 17
+       Ice Trap - LV 20
+      Starlight - LV 23
+    Poison Trap - LV 26
+        Meteora - LV 30
+    Area G-Heal - LV 33
+   Push Assault - LV 36
+     Cross Star - LV 39
+     Sleep Trap - LV 42
+     Super Heal - LV 45
+        Lunatic - LV 48
+    Air Assault - LV 51
+     Mana Regen - LV 54
+    Guard Break - LV 57
+    Speed Break - LV 60
+      Dreamless - LV 62
+  Dancing Death - The Starlit Trial sidequest
+ Volt Star Trap - The Starlit Trial sidequest
+ Fire Star Trap - The Starlit Trial sidequest
+Frost Star Trap - The Starlit Trial sidequest
+
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                   Prologue                            [WLK01]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+                                 .----------.
+   .----------------------------(    NOTE    )-------------------------------.
+  |                              `----------´                                 |
+  | I personally cannot stand stealing very often, so here's a reference for  |
+  | those of you who care:                                                    |
+  | http://www.gamefaqs.com/boards/604160-radiant-historia/58806085           |
+  |                                                                           |
+  | And, for about everything else a mega-completionist may desire:           |
+  | http://www.gamefaqs.com/ds/604160-radiant-historia/faqs/61986             |
+   `-------------------------------------------------------------------------´
+
+Woohoo, 500g. Oh, right. Grab the Soothing Balm x2 from the chest to the left,
+take the elevator to the third floor to grab the Charm on the right, and go
+down to 1F. Enter the door to the right to claim Holy Water and Herbal Tea x2.
+
+Run south to the next screen, the Second Ward. Up all the stairs to the right
+and follow the path to the Herbal Tea chest. To the next south screen. Again
+up the stairs to the right for a chest of 300G. Check the Inn's rooms for Beast
+Skins. South again to exit.
+
+
+================
+  Lazvil Hills
+================
+
+You'll be forced into where you go and what you fight for a while. So go ahead
+and do the tutorials.
+
+Go ahead and leave to the east when you gain control. South of the dead tree is
+Soothing Balm x3. You'll come to another scene. Get the Royal Jelly x3 from the
+south and head back north for another battle. Continue north to learn how to
+attack enemies before encounters.
+
+Put them to sleep to gain the advantage. This makes the game soooo much easier.
+
+Anyway, head east to the next screen. You can't kill those trees yet for that
+chest, so head to the bridge. Scene, unwinnable fight, scene.
+
+Do-over time. Head south and through the barricade. Fight, then you'll be at
+the exit. Ouch.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                           The First Decision: Rosch                   [WLK02]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You're at the major split. It is from here that history separates into
+Alternate and Standard. Don't be afraid to use the Mana Crystals you'll get,
+but don't overuse them. Buying them is expensive.
+
+Find Rosch up the stairs. Can't miss him. Choose to work with Rosch for now.
+You'll be coming back to Heiss soon.
+
+                                 .----------.
+   .----------------------------(    NOTE    )-------------------------------.
+  |                              `----------´                                 |
+  | Do sidequests, get true end. There are 10 in particular you have to do    |
+  | for it. Here: http://www.gamefaqs.com/ds/604160-radiant-historia/cheats   |
+   `-------------------------------------------------------------------------´
+   _________________
+  | Soldier Recruit \__________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the girl behind the counter on 1F. Rush to the inn and talk to
+      the two people in front of you. Then back to the lady for money.
+   ______________________
+  | Night Watch ~ Part 1 \_____________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the soldier behind the item shop. You'll come back later to give
+      his items.
+
+
+================
+  Lazvil Hills
+================
+
+Follow the path west, then take the southwest path to the next screen. Then go
+across the bridge and take the southwest path. You'll be by the barricades.
+Head north to the next screen and enter the cave for Bronze Mail. Up to the
+road now, where you'll find a merchant. West to exit.
+
+
+=============
+  Alma Mine
+=============
+
+You'll enter to a scene with an informant.
+
+Wait in ambush -> Bad End
+Send Scouts ----> Continue
+
+There's no penalty for seeing the bad end. You can always go back and redo your
+decision. This applies for sidequests too. It doesn't matter which you do first
+either.
+
+Anyway, you won't be able to do much else in this time because you need to save
+the merchant in the other one. And you have to meet the informant here to
+continue the story in the other time, so it goes both ways.
+
+Poke around the area for 200G and Soothing Balm x3, but it's to Historia with
+you.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                           The First Decision: Heiss                   [WLK03]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+To the first node!
+                                 .----------.
+   .----------------------------(    NOTE    )-------------------------------.
+  |                              `----------´                                 |
+  | Hit start. Skip scenes. This isn't as obvious as you'd think.             |
+   `-------------------------------------------------------------------------´
+
+Talk to Rosch and choose Heiss. Head up to his office on 2F. To the item shop!
+Then to the bar. Fight. Power Waves should do him in. Back to Heiss.
+
+Down to 1F to start SH Chapter 1.
+   ______________________________
+  | The King's Daughter ~ Part 1 \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   • Talk to the little girl to the left of the bar. Always do favors when
+     asked. Always. She'll ask you for Eruca's ring.
+   _____________________________
+  | What Was Inherited ~ Part 1 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   • Talk to the two kids by the weapon shop. Then enter the open house nearby
+     to meet the botanist.
+
+Find Raynie just outside the bar, then leave.
+
+
+================
+  Lazvil Hills
+================
+
+You finally get to explore this place properly. Follow the path to the west
+screen, then take the southwest path for a scene. Now south to the next screen.
+Across the bridge, then north.
+
+Wait for Informant -> Continue (in a bit)
+Go to Alma Mine ----> Bad End
+
+And then head south. Twice, to arrive at the barricades. You'll come to a boss
+fight.
+   ___________________________________________________________________________
+  | BOSS : Bram and Hertz                                                     |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Use Grapple to bring them together and then combine with Thunder and      |
+  | Power Wave. That'll make short work of one of them. Once Kiai is used,    | 
+  | you might want to push him to the back, as the buff makes him hurt a lot  |
+  | more.                                                                     |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You'll be taught how to use bombs. Yay. Head west then south to leave. You
+probably want to go back to Alistel's Inn to heal beforehand.
+
+
+===================
+  Judgement Cliff
+===================
+
+Talk to the guy as you enter. He explains that some enemies cannot be moved.
+There isn't all that much to do in this area, so head north, north, north.
+You'll exit.
+
+
+=================
+  Sand Fortress
+=================
+
+There are traps in the middle of the road. Buy two Anti-Sleeps from the
+merchant for a sidequest.
+
+I'll be guiding you through the treasure of this place when there aren't enemies
+crawling all over it. So for now, you can look on your own or rush to
+the boss. For the boss, head up to the third floor and follow the very obvious
+eastern path. You'll find him.
+   ___________________________________________________________________________
+  | BOSS : Granorg Defender + 4 minions                                       |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Do not let them stay in formation. Kill the small fry first, especially   |
+  | the archers. You would do well to use Magic Boost on Raynie, possibly     |
+  | Guard Boost if you feel someone needs extra help. Once you get rid of the |
+  | archers, the battle goes smoothly. My level was 12, btw.                  |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Exit to the north.
+
+
+==============
+  Gran Plain
+==============
+
+Save before entry. Just in case. :)
+
+Keep heading north to the next screen. Head northwest to see some guards
+talking. Then a cry for help. Go northeast for a boss fight.
+   ___________________________
+  | At Journey's End ~ Part 1 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Save yourself some trouble. Choose to save the girl.
+
+    • You'll fight either way, but choosing the right option leads to a very
+      hidden sidequest.
+   ___________________________________________________________________________
+  | BOSS : Sabretooth Tiger x2                                                |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | The typical pushing tactic works here too. If you want to use Magic Boost,|
+  | do so. It can only help. You'll make short work of these two.             |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Aht will join you. After Raynie and Marco, she's in your party the most. She's
+also quite possibly the best character in the game except for a couple enemies,
+the final boss included.
+
+Approach the gate now. You won't be able to continue for the time being.
+
+Abandon the idea -------> Continue (in a bit)
+Force your way through -> Bad end
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                          AH Ch 1: To "The Valkyrie"                   [WLK04]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Proceed to "The Closed Mine" in the prologue. Note that if you don't move
+forward, you can avoid the scenes. This is very handy for sidequests.
+   ________________________________________________
+  | Accident in the Cave / Marco the Calm ~ Part 1 \___________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Before you do anything, go back to Lazvil Hills West, go south, through
+      the barricade to the east, and continue north to the cave. Talk to the
+      soldier. If you wait, he dies. Right-Cut Scroll get.
+
+    • Go ahead and get the Breeze Armlet and Holy Water chests you see behind
+      rocks.
+   ____________________
+  | Nightwatch ~ Final \_______________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • In Alistel, talk to the soldier in the first ward and hand over the Anti-
+      Sleeps. You get Alistel Edge.
+
+Ok, back to the mine. You'll get a couple scenes.
+
+Once you can control, go west for a scene. You see them barrels? Blow up the
+rocks in front of you. Then drag a barrel to the east and blow up those rocks.
+Grab your Heavy Mail and back to the west, then north to the next screen.
+
+Follow the path to the shiny. You can get Mana Shards and Crystals from those
+sometimes when you hit them. Head north, then northwest for some barrels. Push
+those northeast, then scene. Le gasp, cave in.
+
+Northwest with ya. Grab 800G, then back to the initial path. Head all the way
+west, grab Royal Jelly x4, save, and blast your way through the rocks. Then
+blast your way through the next set for a Healing Herb. Boss in the next room.
+
+Well, I say boss, but it's really a bunch of mooks. Group a few of them
+together at a time and wipe them out.
+
+
+===========
+  Alistel
+===========
+
+Ok, we're finally in chapter 1. Before running to Sonja... take the high south
+path for Seed Ring and 1500G.
+   _______________________________
+  | A Letter to Tomorrow ~ Part 1 \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the guy south of the bar, next to the high south exit.
+   __________________
+  | Engineer Recruit \_________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+     • Talk to the lady behind the counter, then travel back to "The Closed
+       Mine" to talk to the guy in the only house. Return to the lady for
+       3000G.
+   ________________
+  | Red-Letter Day \___________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the guy in the room next to Sonja's place, then to Sonja herself.
+      Back to node "The Beginning". Find Rosch and talk to him about Sonja.
+
+      Send after --> Continue
+      Chase after -> Bad End
+
+    • Return to Meese to finish. You get the P. Thauma Spear.
+   ____________________________
+  | Flower of Promise ~ Part 1 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the girl on the southeast part of 1F.
+   ______________________________________________________
+  | Marco the Calm ~ Part 2 / Raynie the Active ~ Part 1 \_____________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Find the soldier in blue in the other right room on 1F. You can learn a
+      skill for Marco right now.
+
+To 3F, right side.
+
+==================================================
+  Lazvil Hills + Judgement Cliff + Sand Fortress
+==================================================
+
+After the scene, head west, west, south, west, then you'll come to a scene at
+the exit.
+
+In Judgement Cliff, keep heading north.
+   ___________________________________________________________________________
+  | BOSS : Shadow                                                             |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | He'll make a heal zone. Kick him out. But give him all you got and he     |
+  | goes down quick.                                                          |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+At Sand Fortress...
+   _______________________________
+  | A Letter To Tomorrow ~ Part 2 \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to Viola in one of the back rooms on the first floor.
+
+There are beds in the left room of the second floor. Follow the west path till
+you find Kiel. You'll be able to chop down some obstacles now, as well as hit
+those shiny objects for Mana Crystals/Shards. You can't do anything else in
+this timeline, so to node "Stocke's Display" in the other one.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        SH Ch 1+2: To "Castle Sewers"                  [WLK05]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before doing anything, go back to where you saved Aht and do some plant killing
+for a First Aid Kit.
+
+Approach the gate and make your way through. Take the southwest path to reach
+Gran Plain W (not South Hill), then south from there to Forest Clearing for a
+scene. You'll be roped into finding food and firewood.
+
+To the north screen to learn Mana Sight, so now you can see invisible things.
+You have walked over invisible treasure already, lol.
+
+Head west and whack your way through the giant weeds. You'll find a second
+Withered Branch here. Claim the Holy Water and continue to the east. To the
+north of the Gran Plain area, drag the barrel to the east to claim a Bishop's
+Stud. Futher north under the tree root is another Withered Branch. Follow the
+northwest path, then cling to the east side of the new area for your fourth
+branch.
+
+Aht will tell you to go to South Hill. Proceed south twice, but save before
+the second screen. By a tree to the south is the fifth. Then you have a scene
+and fight.
+   ___________________________________________________________________________
+  | BOSS : Fumble + 2 minions                                                 |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Fumble takes up four spaces. You can still use Aht's traps. In fact, you  |
+  | can put two down and push him in for more damage. Since he resummons      |
+  | mushrooms once you kill them, it'd be best to leave one alive and focus   |
+  | on the big guy. Poison first, then give your best attacks to him.         |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You now have fresh meat. Back to the forest clearing. On the west side is a
+chest of Anti-Poison x3. Talk to Vanoss. You'll get the White Page from Aht,
+and later, Mana Burst.
+
+Head north, east, northwest, and north to get to Granorg. You'll hit a scene
+along the way.
+
+
+===========
+  Granorg
+===========
+
+Once inside, head north for a scene.
+   ____________________________
+  | The Ultimate Dish ~ Part 1 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • In the Downtown area (west), talk to the man in green in front of the
+      produce.
+
+    • He asks for meat, but you need the veggies too.
+
+   _____________________________
+  | What Was Inherited ~ Part 2 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Next to the man in green, talk to one of the sellers for info on conuts.
+
+Your informant is in the east side. You'll be launched into chapter 2.
+Continue.
+
+Next to the item shop is Might Herb x2.
+   ______________________________
+  | The King's Daughter ~ Part 2 \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man inside the item shop. They don't have the replica.
+   ______________________________
+  | Mankind & Beastkind ~ Part 1 \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Approach the save point to have a soldier approach you.
+
+    • Speak to him again, then to Liese in Downtown (near the Inn), then back
+      to the soldier.
+
+Check out the rooms in the Inn for Anti-Paralytic.
+
+From Downtown, head north for a scene. Check out the alley, then enter the bar
+and talk to the barkeep.
+   _______________________
+  | One and Only ~ Part 1 \____________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man inside one of the Inn's rooms. He'll make you hunt for
+      paint.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                   AH Ch 1+2                          [WLK06]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Head to node "The Valkyrie".
+
+To proceed, you have to disarm bombs. If you don't, they'll explode and you'll
+be forced to repeat this node. This is why Mana Sight is needed. To the east of
+1F is a hidden chest with Emerald, and the eastern room has a bomb. Next to the
+third room is another bomb. Move the barricade within the room for a hidden
+chest of 2000G.
+
+On 2F, take the west door to find a hidden Panacea Plus. Behind that room is
+the third bomb. Keep following the path to the barricade, and claim the hidden
+Mana Crystal x2 behind it. The next room along the path has the fourth bomb.
+
+On 3F, head west to disarm the final bomb. Go east and keep going till you find
+more barricades and a hidden Leaf Ring.
+   ____________________________
+  | Raynie the Active ~ Part 2 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Through the door to the north on the right side for a hidden Darkshield
+      Scroll.
+
+Go outside to the northwest, kill some plants, and claim the Wisp Blade and
+Herbal Tea x2. All the way southeast for a hidden 2000G.
+
+Time for Rosch. You should know where he is by now.
+
+Prioritize the mission -> Continue
+Send reinforcements ----> Bad End
+
+The one you need to find is where the last boss was; 3F. Before that, however,
+go outside and buy a couple Sleep Wings.
+   ___________________________________________________________________________
+  | BOSS : Grey Shadow + 4 minions                                            |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Put the boss to sleep and deal with the mooks first. Prioritize the       |
+  | buffing archers, then the ones in the front. Kick anyone who gets into    |
+  | the power zone out, as it hurts a lot. Once they're done with, change     |
+  | turns with the boss till it's all your turn and kick his ass. You should  | 
+  | be able to kill him in his sleep.                                         |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Chapter 2!
+   _______________________________
+  | A Letter to Tomorrow ~ Part 3 \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to Viola to get her diary.
+
+
+==============
+  Gran Plain
+==============
+
+You enter to a scene. Head north, west, and west again. You'll come to a fight
+in one of the screens.
+
+Look for Rosch -> Continue
+Go north -------> Bad end
+   ___________________________________________________________________________
+  | BOSS : Paelzen + 3 Shields + 3 Archers                                    |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Burn the shields, then kill the archers. Paelzen is cake on his own.      |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You acquire a secret document. Go back to "Alistel's Offensive" and take the
+document to Viola. Now fast foward to "A Meeting Too Late".
+   ___________________________
+  | At Journey's End ~ Part 2 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Choose "I leave it to you." Otherwise, you're making things harder for
+      yourself later.
+
+    • The same thing happens either way.
+
+Once you regain control, don't go directly to Hugo.
+   _________________________________________________________
+  | Swordsman Recruit ~ Part 1 / Mercenary Recruit ~ Part 1 \__________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the lady behind the counter on 1F.
+
+Go into every other office to find the following hidden items: Shield Seed,
+Rhapsody, Panacea Plus. Now to Hugo. The fight is easy, just be sure to change
+with him a lot and plow through him with a bunch of strong attacks. I hit him
+with five Power Waves in a row. You get Vanish, which is awesome. And needed.
+
+As you leave Alistel, you'll be roped into more fighting. They're pretty easy.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                       AH Ch 3: To "Shattered Steel Arm"              [WLK07]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ____________________________
+  | Flower of Promise ~ Part 2 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+      Near the save point is a sparkling patch of flowers. Talk to the person
+      there and get a flowering bud.
+
+Snoop around on the west side of town to find a hidden Crystal Charm. Then go
+north for Rosch. After the scenes, go back to where Rosch is for hidden Anti-
+Paralytic x2.
+
+And because I really can't remember this area well enough and my game is shoved
+deep in my closet, here's a mostly direct quote from someone else:
+
+"In the small screen outside Celestia on the west side, there's a hidden 3000G.
+
+North of the Celestia exit to Lasvil, there's a ramp, and a bunch of slashable
+trees to the left. There's a Celestial Tea in a chest on the right side,
+completley obscured by background."
+
+
+================
+  Lazvil Hills
+================
+Go to the south of the area for Herbal Tea x2. Head north and come to some
+rocks and an invisible barrel. On the west side is a hidden Rune Claw. Past the
+plants is Healing Herb x2. Go north for another set of rocks, then west. You
+can't take the bridge, so south. There, you'll have a scene next to the save
+point.
+   ___________________________________________________________________________
+  | BOSS : Forest Bear + 2 minions                                            |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Set lots of traps; you're going to be knocking Mr. Bear around a lot. Set |
+  | two, when you can, and knock the bear into them. Use your Mana Bursts to  |
+  | kill his turns, as he hurts a lot. If you do it right, the bear shouldn't |
+  | get more than a hit in. Gafka, btw, should take care of the minions, and  |
+  | you'll have to abuse changing to get Aht to set two traps.                |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Afterward, go to the inn and speak with Vanoss.
+
+
+===========
+  Alistel
+===========
+
+You won't make it far before you meet up with Vanoss. To the east of the weapon
+shop, up the stairs, is a hidden 2000G. In the higher part of the First Ward is
+another hidden 2000G. Up the stairs and north of the inn is Mana Crystal x2.
+   _________________________
+  | Wandering Soul ~ Part 1 \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to Vanoss. You'll be asked to look for the former shaman.
+   ___________________________
+  | The Blades Trial ~ Part 1 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Behind and to the west of the item shop is a hidden Fire Pact.
+   ______________________________
+  | Battlefield Missive ~ Part 1 \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Speak to the boy in front of the weapon shop. He'll ask you to give
+      something to his dad.
+   _________________________
+  | Second Opinion ~ Part 1 \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the lady in front of the home by the bar. You'll be saving her
+      husband soon.
+
+After all that, go all the way north for a scene. When you can move, head south
+for a fight. They're more challenging than your average mook, but beatable.
+
+By now, you know Lazvil Hills in and out. I'll spare you the direction. :P
+
+
+============
+  Celestia
+============
+
+You enter to a fight. This is one I recommend Gafka for, due to his high
+attack. Get rid of the defenders first and the rest of the fight goes somewhat
+smoothly. I beat them in the early 20's, if you want a number.
+
+Once you gain control, speak with Rosch, Raul, then Barranca.
+
+Nominate Raul --> Bad end
+Nominate Rosch -> Continue (in a bit)
+
+Talk to Sonja, then to "Castle Sewers" in the other timeline.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                       SH Ch 2+3: To "Death of a Friend"              [WLK08]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Head out of the bar and back to the alley. You found your next dungeon. You'll
+find the two thieves soon after entry.
+
+North to the next screen, cross the ramp, then the other one, and go to the
+east screen. Follow that walkway to a switch. Back to the second screen, and
+take the south exit that the thieves came from. Follow that path east, and
+you'll see the thieves again. Go where they came from to get Herbal Tea x2.
+
+Take the southern east path for Special Tea x2. Then go back and take the
+northern one. Flip the switch in the second north path. South, then west. Go
+down the eastern south path to a switch. Then go down the other one. Go down
+both west paths for a Mail Vest and hidden 2000G, then to the east screen.
+
+Talk to the little girl. THIS IS NOT A SIDEQUEST. Saving her now saves you
+the trouble of doing it later.
+
+Take the two eastern paths to a hidden Panacea x2 and Wind Armlet. Back to
+where you came from.
+
+From the second screen, head east twice. Take the eastern north path for Mana
+Crystal x2. Take the other north path and cling to the south side for a hidden
+Medicloth. Toward the light, and follow the path to another part of the sewer.
+
+Hit the switch and take the southern east path for hidden 2000G. Then go for
+the ladder to be done with this place.
+
+
+==========
+  Castle
+==========
+
+Exit the area for a scene. Since you know Vanish, you can overcome this
+obstacle.
+
+Stick to stealth --> Continue
+I'll be the decoy -> Bad end
+
+Go up the stairs and to the right. In there is 2000G, hidden. Back down, and
+go in the west door. Follow the path outside, and check out the west side of
+the area for hidden 2000G. Save and approach the vines~
+
+It's a bunch of mooks. Kill the archers, as always. Run out the way you came.
+
+Before entering the jail, get the Cocktail Dress and hidden Mana Crystal x3
+from the adjacent room. Once inside jail, you'll automatically be taken out.
+   ______________________________
+  | The King's Daughter ~ Part 3 \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the person standing next to the tree Downtown. You'll get the
+      ring. The real ring.
+
+      Don't push yourself -> Bad end
+      Fulfill your duty ---> Continue
+   _______________________________
+  | Despairing Young Man ~ Part 1 \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go near the castle entrance (the official one) to find a crowd behind a
+      dead man. Talk to someone in the crowd to start the quest.
+
+Go to Gran Plain, then take the northeast exit to get to your destination.
+
+====================================
+  Cornet + Granorg + Sand Fortress
+====================================
+
+Once inside, sidequesting. Get the hidden Fang Charm from the west part of the
+crops, and a First Aid Kit from the east.
+   ____________________________
+  | The Ultimate Dish ~ Part 2 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go to the left side of the crops and pick up the hidden object.
+   _____________________________
+  | What Was Inherited ~ Part 3 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the guy next to the visible chest about Conuts.
+   _________________________
+  | Marco the Calm ~ Part 3 \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • North of the Conuts dude is a hidden chest; Sleep Gas Scroll.
+
+After all that, go north for a scene. Drag the barrel to its obvious
+destination for a Sprig Ring. To the elder. Then out of town.
+
+Once in Granorg, keep heading north. Eventually you'll see Will dying. To the
+bar. On the way, you'll save Aht from a bunch of mooks. You'll get the Black
+Page and a new Mana Burst with it.
+
+In the bar, Eruca joins your party. Remember saving that girl? This is when it
+comes into play, and at one future point. Time to get out.
+   ________________________________
+  | Assassination of Dias ~ Part 1 \___________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man on the bridge as you leave.
+
+To Sand Fortress. If you don't know your way around, shame on you. :P
+
+
+===================
+  Judgement Cliff
+===================
+
+Enter to a scene, then head south twice. You can finally take the west path.
+Rocks will be falling. You'll come across a hidden barrel. Blow up the rocks to
+the south for a Healing Fruit, then continue west. In the next screen, go north
+till you find a hidden barrel on the west side, and blow up the rocks for Life
+Robe.
+
+Proceed to the west path now. To the south are a bunch of hidden traps. You can
+go around them to get Sniper Rounds. You can't get the treasure to the west
+right now, so go north. The cave has a Power Down Plus. Outside is your camping
+ground. Investigate the area for hidden 2000G. Might as well save before
+continuing.
+
+Leave it to Marco --> Bad end
+Deal with the Fire -> Continue (after a hiccup)
+
+You'll have an easy one on one fight. You get a particular item that you need
+in the other timeline. The solution to his guard tech is to use Fire.
+
+To "The Closed Mine" in the prologue. While there, sidequests! Be sure to read
+a little ahead. If you don't, you'll be going back and forth. I grouped them
+together for your convenience.
+                      __________
+During the first few, find Sonja. She'll give you what you need.
+                      ¯¯¯¯¯¯¯¯¯¯
+   _____________________
+  | Conversion ~ Part 1 \______________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Start the scenes, then snoop around in the only house for a hidden chest.
+      It holds the Impale Core.
+
+    • Coincidentally, there's another hidden Mana Crystal x2 on the right side
+      of the Material Storage room.
+   ___________________________________________________
+  | One and Only ~ Final / The Starlit Trial ~ Part 1 \________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Within that house, talk to the man inside the house about paint
+
+    • As nuts as this sounds, go back (again) to "The Closed Mine", but leave
+      the cave.
+
+    • Head to Alistel's inn to find Kaizan. Then go back to the same man using
+      SH Chapter 2's "Castle Sewers". Then back AGAIN to find him in Alistel.
+      And again to Granorg's inn for the Firestar Pact.
+   ______________________________________________________
+  | The Ultimate Dish ~ Final / The Light Trial ~ Part 1 \_____________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Enter Lazvil Hills West while in "The Closed Mine", then go south to
+      arrive in Woodland Path.
+
+    • Save, then fight the boar you see sitting there. Be sure to have Trans-
+      turn for Marco and have your Mana Bursts ready. Let him use Kiai Charge
+      twice, then delete his turns and FIRE, because it's his weakness. Use
+      Trans-turn to get more fire in. It took about 10 hits for me to kill him,
+      Magic boosted by Marco.
+
+    • Then back to "Castle Sewers" and talk to the guy by the produce again. He
+      gives you Firelight Pact.
+   ___________________________
+  | Flower of Promise ~ Final \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the girl who asked for the flowers (on 1F) while still in "The
+      Closed Mine".
+
+    • Then to "A New Mission", AH Chapter 1. Talk to her again for Thaumatech
+      Orb.
+   ______________________________
+  | A Letter to Tomorrow ~ Final \_____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • While in "A New Mission", talk to the man up the stairs next to the bar.
+      You'll get a Noah Amulet.
+
+      Don't show journal -> Bad end
+      Show journal -------> Continue
+   _____________________________________________________
+  | Second Opinion ~ Final / Raynie The Active ~ Part 3 \______________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Still in "A New Mission", talk to the guy in front of the house by the
+      bar. Give the medicine.
+
+    • Then to AH Chapter 3, "The Beastkind Forest". Keep going till you get to
+      Alistel. Talk to the guy again.
+
+    • Might as well go to the guy in the room next to the elevator to learn
+      more techniques for Raynie and Marco.
+   _________________________________________________________
+  | Battlefield Missive ~ Final / The Blades Trial ~ Part 2 \__________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • AH Chapter 1, "The Valkyrie". Go to the room where Viola is and talk to
+      the soldier sitting at the table. You'll get a Death Pact.
+
+    • To "The Beastkind Forest" till you get back to Alistel. Talk to the boy
+      by the weapon shop for Celestial Oil.
+   ________________________________
+  | Assassination of Dias ~ Part 2 \___________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go to SH Chapter 1, "Aht's Prayer", then to the Granorg Inn for a scene.
+      You'll get the sword.
+
+      Leave -------------> Continue
+      Accept invitation -> Bad end
+
+    • You can finish this now, but I'm going to have you do the final part
+      later. You'll be going there anyway.
+   _______________________________
+  | Despairing Young Man ~ Part 2 \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • While still in "Aht's Prayer", talk to the man in brown in the crowd in
+      front of the castle.
+   _____________________________
+  | The King's Daughter ~ Final \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • To to SH Chapter 1, "To Granorg", and talk to the little girl near the
+      bar to finish the quest. You'll get Rabbit's Foot.
+   ____________________________
+  | What Was Inherited ~ Final \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • In "To Granorg", go to the open home (same ward as the bar) to find the
+      botanist.
+
+      Tell -------> Bad end
+      Don't tell -> Continue, opens up a third option when you try again
+
+      You get Pandur.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        AH Ch 3+4: To "A New Alliance"                 [WLK09]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+With all that sidequesting over with, go to "Shattered Steel Arm" of AH Chapter
+3. Talk to Sonja. Save. Now to Rosch, then Raul, then Barranca.
+
+One on one fight. Again.
+
+   ___________________________________________________________________________
+  | BOSS : Rosch                                                              |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | This is tougher than the last time. Throw a Poison Wing on him, then hit  |
+  | him with Fire when you can. Keep pushing him out of the front row and     |
+  | Heal Zone and the poison will slowly take him.                            |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Since it's a good idea to grind a little, I'm keeping you in this timeline for
+a while longer.
+
+   _____________________
+  | Conversion ~ Part 2 \______________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go back in the house and talk to Sonja. You can learn one of the skills
+      now.
+
+Talk to Elm. This is actually required.
+
+Ok, Lazvil Hills. You know the drill... right? I actually grinded a little
+here because the enemies were kicking my ass. I got up to level 31 with Stocke.
+Anyway, just keep going north.
+
+   ___________________________________________________________________________
+  | BOSS : Thaumachine + Clockwork Thunders                                   |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Everything is weak to lightning. However, the Clockworks will self        |
+  | destruct each and every turn, then the Thaumachine summons more. Defend   |
+  | through the first four bombings to survive. You can level Rosch up to the |
+  | point where he takes out the entire row in one hit with Gull Swing, or    |
+  | you can push/pull the Thaumachine into two of them, zap, then take out    |
+  | the third. At the end, he'll spam Bull Crash a lot, which can easily kill |
+  | someone. BTW, if you have G-Fire with Raynie, that should do more damage. |
+  |                                                                           |
+  | In any case, the easiest way to do this is to have everyone alive after   |
+  | killing some Clockworks, then to turn break with everyone and use G-Fire  |
+  | as much as possible (which, ideally, includes Marco using Trans-Turn).    |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+That's one of the harder boss battles. Anyway, you'll be back in Celestia.
+Talk to Raul to keep going.
+
+Team up with Forgia -> Continue (in a while)
+Join someone else ---> Bad end (after choosing Granorg)
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                   SH Ch 3+4                           [WLK10]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+To "Death of a Friend", SH Chapter 3. Take off all the nice accessories you
+have on non-Aht people so that Aht can have them. And give her the nice stuff
+now. Make sure you have a supply of Poison Wings and some healing items.
+
+Talk to Aht to continue, this time Rosch doesn't die. Instead, you get taken
+to Cygnus by a jerkface.
+
+Chapter 4!
+
+Save. You're getting into a fight after you sleep. Save after that fight too.
+
+   ___________________________________________________________________________
+  | BOSS : Gladiator                                                          |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Poison. But don't use up your Poison Wings. If you run out, reset. After  |
+  | that, just pound him.                                                     |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ___________________________________________________________________________
+  | BOSS : Garland                                                            |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Poison. lol. This guy is more deadly. If need be, resort to defending and |
+  | letting the poison take him. He'll buff himself up to where you need good |
+  | healing items to survive.                                                 |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Ok, time to explore town. Within the inn is First Aid Kit x4. To the east just
+outside the inn is a hidden (gasp!) 2000G. Behind the barricades to the west
+are Healing Fruit and Special Tea x2. To the west screen. Check on the east
+and west sides of the area for hidden barrels. Drag those to the western rocks
+for a hidden Feather Armlet.
+
+Back to the east screen, then to the north screen. Be sure to save before going
+that way.
+   __________________________
+  | The Light Trial ~ Part 2 \_________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • In that north screen, hug the wall to the south and keep going west. You
+      will eventually run into a hidden chest for a Protection Pact.
+
+In the building (bar, really), you get to save Aht.
+   ___________________________________________________________________________
+  | BOSS : Bodyguard                                                          |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Use Poison Trap or a Poison Wing, then keep knocking him left and right   |
+  | into other types of traps. The poison should keep Breath from restoring   |
+  | any of his HP. You probably will have to revive Aht, but try to kill      |
+  | quickly.                                                                  |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Head south for a scene. Go to the Central Plaza, then north. Talk to the guy by
+the torch. He'll rope you into, OMG, more fighting. This is why I wanted Aht to
+have all the best stuff. In fact, if you have trouble, try upgrading her
+equipment first. Head south, then talk to the man standing by the two who are
+arguing.
+
+First fight is, essentially, a bunch of mooks. Easy ones.
+
+Second fight is with Bram and Hertz. Take 'em out one at a time, but don't let
+them stay in formation. You may want to use your turn breaks to keep Bram from
+killing you.
+
+Third fight is against the guy in charge.
+
+Stop Aht -----------> Continue (in a bit)
+Go with Aht's plan -> Bad end
+
+Go to AH Chapter 4, "A New Alliance" to learn the skill you need. Then return
+to "Chi-Clad Warrior" and kick his ass.
+
+Poison him, and hit as many times as possible before he buffs himself up. But
+he'll go down real quick, even with the buffs.
+
+Prizes: Emerald, Madre Blade, Gospel Armor.
+
+Don't attempt the next two fights (sidequests, really). You might be able to
+do the first one with some turn breaks, but the second? Oh hell no.
+
+(Or rather, it is possible to do the second, but I very strongly don't
+recommend it, as it's a very tedious process.)
+
+Go back to the guy by the torch to get your info. Then talk to the guard in
+front of the door and find Eruca... and Marco and Raynie.
+
+Take Aht out of your party. Now. She's useless against giant enemies. Fetch
+Eruca, save, and head south till you fight.
+   ___________________________________________________________________________
+  | BOSS : Hell Spider                                                        |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | See why Aht's useless? Even Eruca is a better fit. Poison, boost          |
+  | everyone's defense, and just try to survive. Get a G-Fire in when you can.|
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Once you can move, head south to meet Garland.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    SH Ch 5                            [WLK11]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Exit the inn to a scene.
+   _____________________
+  | An Unwanted Reunion \______________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go to the Central Plaza and find Ricky. Then go to the bar and talk to
+      the green haired lady.
+
+    • Go to "A New Battle" back in chapter 4 and talk to the barkeep. Then back
+      to "Scorching Battlefield" and talk to Mimel.
+
+      Capture Mimel -> Bad end, and quite worth seeing!
+      Let Mimel Go --> Continue
+
+    • Back to Ricky to finish. You get Sable Larme.
+
+To Garland.
+
+Stay in Cygnus -> Bad end
+Lead the Way ---> Continue
+
+Even though I said continue, you'll come across a problem. Even so, the
+solution is quite simple. You get an armlet, so you take it back to the owner.
+Go to Chapter 4 "Desert City Messiah", go south, and all will be fixed.
+
+When you're taken to the White Chronicle, skip to "Warlord's Request".
+
+
+====================
+  Itolia Wasteland
+====================
+
+Go north for an arrow storm. Move quickly. On the east side of the area is
+Special Tea x2. Head west and go straight for the ballistas here. They're weak
+to fire, like pretty much all shield types. You'll get a scene; two more to
+the east.
+
+So east you go to meet Garland. Push a barrel to the eastern rocks and cross
+to the next screen. Go east again and check the north side for a hidden 3000G.
+Back west and north into the cave. Go west for an Iron Charm, then go back to
+the north path.
+
+Go straight for the ballistas again.
+   ____________________________
+  | Raynie the Active ~ Part 4 \
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Check out the north side of the area for a Poisoner's Scroll.
+
+Back to Garland. Save first. 
+   ___________________________________________________________________________
+  | BOSS : Palomides + Gardner                                                |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Both are weak to lightning. They're easily pushed into each other, so you |
+  | can easily go for Aht or Raynie in this fight. You're going to be         |
+  | fighting over a Heal Zone. Just keep pushing him out. They're also quite  |
+  | fond of curse, which keeps you from using items. Stocke is good for that. |
+  | Gardner seems more resistant to magic, so keep that in mind.              |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Afterward, leave Cygnus for a scene.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    SH Ch 6                            [WLK12]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+I could have you go to Skalla... or I could have you do sidequests. Hm~
+
+Well, head north twice, then west. Check out the south side for a hidden barrel
+and blow up the rocks to make a path to Tungsten Mail. Back east and blow up
+the rocks to the north. Skalla is north of there. As you do that... :P
+
+You're intended to do some sidequests at the same time, so read a little ahead.
+   ____________________________
+  | The Living Legend ~ Part 1 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • North, west, north from where you started in Itolia. Go into the well you
+      see. Might as well get the Celestial Oil x3 there, then talk to the man.
+   _____________
+  | Moon Armlet \______________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Back to Cygnus. Talk to Garland, then back to Itolia. Go all the way
+      north to where Skalla's exit is, but head east at the end.
+
+    • Hidden next to the rocks in the middle is what you're looking for. Back
+      to Garland for Suna-Watari.
+   ___________________________________________________
+  | The Good Thief's Way / Raynie the Active ~ Part 5 \________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • In the Moon Mall part of Cygnus, talk to Hertz on the west side near the
+      shops. Then to Bram.
+
+    • Go to "The Closed Mine" in the prologue and head for Alistel. Talk to the
+      kid by the bar.
+
+    • Now off to "Castle Sewers" in chapter 2 and talk to the kid by the inn.
+
+    • Go back to Bram and give him the items. You get Raynie's final scroll.
+   ___________________________
+  | The Blades Trial ~ Part 3 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the kid in the weapon shop during "The Closed Mine". Answer is
+      "hope".
+
+    • I hope you know where that cave in Lazvil Hills is by now. The Shade Pact
+      is hidden just outside it.
+   __________________________
+  | The Light Trial ~ Part 3 \_________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • While in "Castle Sewers", talk to one of the people in the bar. Answer
+      "The past".
+
+    • Go to "How to Disappear" (the next node you can travel to) and head back
+      down to the sewers. Go west and check out the north side for a hidden
+      Sunlight Pact.
+   ____________________________
+  | The Starlit Trial ~ Part 2 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go to Chapter 3, "The Beastkind Forest" and talk to the person south of
+      the item shop. Answer "All things", then look in the bush for the
+      Meteorite Pact.
+   ___________________________
+  | The Living Legend ~ Final \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • After doing the Trials above, go back to the man in the well. Mainly so
+      you have a node opened up to you. Go ahead and learn the techs you have.
+      Eruca should learn Divine Light. Eruca is a thousand times more useful.
+      Aht will be, once you get more of her traps.
+
+
+==========
+  Skalla
+==========
+
+Upon entry, you'll meet a familar merchant. Go inside the building and talk to
+him. You get a Sand Sword. Not a sidequest.
+   ____________________________
+  | Mercenary Recruit ~ Part 2 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to Tarquin again. Go back to Chapter 1, "Echoing Hills" and save
+      Tarquin again. Talk to him about Ditto. Head back to Skalla and talk to
+      Tarquin yet again.
+   ____________________________
+  | The Starlit Trial ~ Part 3 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Just south of the weapon shop is the Thunderstar Pact.
+
+Head to the inn now. It doesn't matter how you get there, just keep heading
+toward the east exit in Itolia.
+
+
+==================
+  Abyssia Forest
+==================
+Go east twice.
+   ________________________________
+  | Mankind and Beastkind ~ Part 2 \___________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to Liese, then go back to the first screen, north, and find the
+      corpse. Bring the item you find back to Liese.
+
+    • You cannot find the corpse first. Liese comes first.
+   _________________________
+  | Marco the Calm ~ Part 4 \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • On the east side, near the corpse, is a hidden Roll-Cut Scroll.
+
+Grab the Beast Charm in the area too before returning to Liese. From there,
+west, then north. Go northwest and grab the Healing Fruit, then return and take
+the northeast path.
+
+Exit is to the north, but before that... Right next to where you're standing
+is a barrel. You can't see it, but it's there, just hug the south wall. Blow
+up the obstacle for a hidden Gaia Blade. Head east and do some bush whacking
+for Tourniquet x2. Leave.
+
+
+===============
+  Holff Ruins
+===============
+
+Go ahead and enter the ruins. It's quite jarring to see a bunch of gorillas
+chase after you. There is a switch in the floor to the north. Hit it and
+proceed through the door.
+
+Head east for a hidden 4000G, then go through the nearby door. Follow that path
+to Snow White. Back to the hidden chest and to the north exit for a hidden
+Expert Fist. Now west to a hidden Celestial Dew and another door. Head north.
+   _________________________
+  | The Light Trial ~ Final \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Check out the center of the circular pattern for a hidden Divine Pact.
+      Be sure to learn the skills soon!
+
+Through the door to the southeast for Divine Water.
+
+Back, then take the northeast path and go down the stairs. Skip the save point
+and go west, south, south for Special Tea x2. North, north, east, north to
+push the switch. Back to the save point and through the doors.
+   ___________________________________________________________________________
+  | BOSS : Shadow                                                             |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | He's fond of poison. Marco is good for that, or Stocke. You can actually  |
+  | poison him back. Anyway, just kill it with fire. :)                       |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Go back to the save point. Use a Mana Crystal or something. Take Aht out of
+your party.
+   ___________________________________________________________________________
+  | BOSS : Guardian                                                           |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Giant ass spider. First order of business? Poison. Second? Surviving.     |
+  | You want at least one person nailing at all times, and everyone else      |
+  | ensuring you have enough HP. As always, against these things. He's slow   |
+  | enough to where you can get some pretty decent combos on him.             |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You'll get the Beast Mark and your final Mana Burst.
+
+
+==========
+  Detour
+==========
+
+And here is where I have you do a little detour. But it's important. Go back
+to Chapter 3, "The Resistance". Talk to Will by the bar to give him the Sand
+Sword.
+   ________________________________________________________
+  | Despairing Young Man ~ Final / Marco the Calm ~ Part 5 \___________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • While in "The Resistance", go to the the castle and talk to the man
+      behind the crowd. You get Left-Cut Scroll.
+
+Head to Cornet, advance the story till you find Will in Granorg again.
+   _______________________________
+  | Assassination of Dias ~ Final \____________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • As you leave Granorg, talk to the man by the bridge for a Rose Ring.
+
+Head for Sand Fortress now. Keep going till you see Will and Otto.
+   ____________________________________________________
+  | Marco the Calm ~ Final / Raynie the Active ~ Final \_______________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Might as well head on back to chapter 1, "A New Mission" and learn the
+      skills.
+   _____________________________
+  | Mankind & Beastkind ~ Final \
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Thought you were done? Head to chapter 2, "Castle Sewers" and find Liese.
+
+      Believe in him --> Continue
+      Leave it to her -> Bad end
+
+    • Then go find the soldier for a Promised Knife.
+
+Back to the main show. Head all the way over to "Overcoming the Trial" and talk
+to Bergas.
+
+Wait for the Gutrals -> Continue
+Lead the way ---------> Bad end
+
+Since you saved Pierre's sister and ensured the survival of Will and Otto, you
+can now proceed without hitting a wall.
+
+You can go straight for the castle for once, then to the throne.
+   ___________________________________________________________________________
+  | BOSS : 2 Protea Guards + 2 Heavy Granorgites                              |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Damn Heal Zones. Kill one of the Protea Guards first, then focus on the   |
+  | Heavy Granorgites (unless the heal zone is still up). As they die, they   |
+  | cast annoying shield magic, but the Protea Guards are cake on their own.  |
+  | Aht isn't the most useful here due to the lack of pushing room...         |
+  | although using Dullahan Sword and magic isn't a bad combo.                |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You now have Etherion, and you can pass an obstacle you didn't know you had. It
+comes later in AH. Speaking of which, you can't progress to the final SH
+chapter yet. So it's time to run through the rest of AH.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    AH Ch 5                            [WLK13]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Go to chapter 4, "A New Alliance".
+
+Just keep going till you hit Judgement Cliff, then take the west exit there.
+Be sure to blow up the rocks by the soldier for Herbal Tea x3.
+   _________________________
+  | Wandering Soul ~ Part 2 \__________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Drop by Skalla and go to the northern house to find a hidden item.
+
+      Don't do anything ----> Bad end
+      Send soul to heavens -> Continue
+
+From Skalla, the path to Forgia is easy. Keep taking the eastern exits. :)
+
+Once in Forgia, check out the west side where you start for hidden 4000G.
+   _____________________________
+  | The Ultimate Skill ~ Part 1 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Then check out the east side for a hidden Strongman Book.
+
+Before going onto the ramp to the Elder's place, you'll find a hard-to-see
+barrel to the east. Drag it to the west for Tourniquet x2. Next to the Elder's
+home is a hidden Giant Cape.
+
+Talk to the elder for Chapter 5.
+
+You'll automatically be in Skalla. Go in the inn, then talk to the three
+soldiers west of the inn for a fight.
+
+They're mooks, but strong mooks. So save, juuuust in case. Btw, the weapon you
+can steal isn't half bad. Talk to Rosch to continue.
+   ________________________________
+  | The Beast God's Birth ~ Part 1 \___________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go back and speak to the Elder.
+   _____________________________
+  | The Ultimate Skill ~ Part 2 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Speak to Bergas by the entrance to Forgia. New node created.
+
+    • Go ahead and fight him for your first tech; if you have Qigong Wave, it
+      shouldn't take more than a couple hits.
+
+Back to Skalla with ya.
+   ________________________
+  | Wandering Soul ~ Final \___________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Find Vanoss to the west. You get Cleansing Cape.
+
+Afterward, save and talk to Rosch.
+
+Personally, I'd simply charge for the boss. Head outside of Sand Fortress to
+face him.
+   ___________________________________________________________________________
+  | BOSS : Thautomaton + 2 Cannons                                            |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Fire on the Cannons, then lightning on the Thautomaton. Aht isn't a bad   |
+  | choice after you get the cannons down. She has Polaris and a great trap.  |
+  | If you don't have G-Thunder with Raynie (I didn't), Aht is probably       |
+  | superior. Use G-Fire instead of Thunder if you insist on Raynie. Once his |
+  | HP is down quite a bit, he'll use Bull Crash, which hurts like hell.      |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ___________________________
+  | At Journey's End ~ Part 3 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Choose "Bring back now". DO. IT.
+
+After choosing the correct option, head to Gran Plain.
+
+Stooooop. SAVE.
+
+Then talk to Rosch.
+
+Accept the truce -> Bad end
+Reject the truce -> Continue
+   ___________________________________________________________________________
+  | BOSS : Shadow x3                                                          |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Thanks for the warning, game. Since you have done sidequests, you should  |
+  | have techs to get you through this: Aht's traps, Divine Light. Cast       |
+  | Divine Light on Eruca if she's underleveled and unprepared (yay!) and     |
+  | focus on hitting enemies into Aht's best traps. Trans-Turn isn't a bad    |
+  | thing to use either.                                                      |
+  |                                                                           |
+  | If you didn't do sidequests and you're coming here saying "Heeeeelp me    |
+  | Drache", well you're SOL. I managed to get by without doing sidequests on |
+  | my first run, but damn it was hard. Aht is your friend. Eruca is not.     |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                    AH Ch 6                            [WLK14]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   _____________________________________________________________
+  | The Beast God's Birth ~ Final / The Ultimate Skill ~ Part 3 \______________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go to South Hill of Gran Plain and check the south end for a grave. Go
+      to chapter 5, "Gafka & the Scrolls" and talk to the elder.
+
+      Don't say anything -> Bad end
+      Wait ---------------> Continue
+
+    • You get Magic Fist Forza and Tristrike book. Might as well take the book
+      to Bergas, btw. You can kill him pretty easy changing and using Musou.
+   __________________________
+  | At Journey's End ~ Final \_________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Don't change time. Go to Skalla. Talk to Marco, then Raynie.
+
+      I can't give up ----> Continue
+      I'll stop fighting -> Bad end
+
+    • Then go back and talk to Marco. You get Priere Bonheur.
+
+Back to where you were in time, then to the alley by the bar in Granorg. Rush
+to the Castle part, you should have a good idea of how to get there. You don't
+need to mess with the switches.
+
+Once inside, proceed west twice. Save, and proceed.
+   ___________________________________________________________________________
+  | BOSS : Heavy Thautomaton + Floating Stones                                |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Thautomaton is weak to lightning. The stones are obnoxious in that they   |
+  | have Whiteout, which heavily damage everyone. Aht is great for her        |
+  | lightning traps (though she'll die easy, so you have to act fast and      |
+  | abuse changing). Or you can push everyone together and zap 'em with       |
+  | Raynie. Overall, Aht is better. Third party member? I recommend Marco.    |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Once you leave the room, you'll come to a scene. This area is good for grinding
+because you can stay at the inn. lol. I had Stocke at 42, everyone else was 32
+or above. Anyway, keep going out till...
+   ___________________________________________________________________________
+  | BOSS : Gold + Sapphire + 2 Dias Knights                                   |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Dias Knights must die. Gold is weak to Ice, Sapphire to Fire. Push        |
+  | Assault to take out Gold first, and the knight behind him. Use Marco or   |
+  | Gafka to pull them back into a trap, or you can simply use Raynie to hit  |
+  | them. Eruca would be fine if she knew more than G-Frost, but you may be   |
+  | able to make a use for her anyway. Watch out for Sapphire if it's the     |
+  | last one though. Ouch. Might want to turn break that sucker.              |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Go into the castle, use a Mana Crystal to recover, save, and continue onward.
+   ___________________________________________________________________________
+  | BOSS : Viola + 2 Auto Defenders                                           |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Aht may not be the best for this because you can't push around the Auto   |
+  | Defenders. Eruca is cool because of Divine Light and her all-hitting      |
+  | spells. Raynie works, as always. Push Viola on top of the Auto Defenders  |
+  | and do your best to get around Divine Light (alternatively, boost Eruca's |
+  | magic and hit everyone at once; ignore the moving). However, do not let   |
+  | her be in the middle of the back row. If you use Eruca and Marco, you can |
+  | use trans-turn to give yourself the opportunity to use Divine Light.      |
+  | Further, you can use Spin Slash and Double Attack to get through the      |
+  | Divine Light your enemy uses. Gafka also has Musou in place of Spin Slash.|
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+After all this, head straight for the throne. You'll be sent to Alistel.
+   ___________________________
+  | Mercenary Recruit ~ Final \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the lady behind the counter for 15000G.
+   ___________________________
+  | Thaumatech's End ~ Part 1 \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the old man next to Sonja's place.
+
+    • It's important to do Mercenary Recruit before this.
+
+Go through the main path of that area to reach a warp. Go down to enter...
+
+
+===================
+  Underground Lab
+===================
+
+After the scene, grap the Superior Tea x2 and continue to B2. Take the
+southeast ramp to Divine Water, then go to B3. Take the southeast for a hidden
+Mana Cape and then to B4.
+   _____________________________
+  | The Ultimate Skill ~ Part 4 \______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Look to the north for the Wind God Book.
+
+Take the Mythril Mail out from the southwest barricades and to B5. Check to the
+southeast for a hidden switch.
+   _________________________________________________
+  | Thaumatech's End ~ Part 2 / Conversion ~ Part 3 \__________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Fight the red thaumachine. Weak to lightning, and Raynie/Aht will do well
+      here so long as they aren't busy being killed in one shot.
+
+    • You could go back to the old man, but that's a perfectly fine waste of
+      time right now. I'll take you back there later.
+
+Time for B6. Take the barrels in the area and blow up the obstacles. B7.
+   ____________________________
+  | A Scholar's Creed ~ Part 1 \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man to the west.
+
+Take the barrel to the southeast to blow up the obstacle to the south.
+
+B8 has a save point.  The southeast ramp has the switch, the southwest has
+Tourniquet x2, and the south path has hidden Celestial Dew. B9 you're going to
+be making a return trip to. At the east and west are hidden barrels. Blow up
+the east obstacles for a hidden Medibranch. Blow up the west obstacles for
+the switch and final floor.
+
+Take the power --> Bad end
+Draw your sword -> Continue (after a roadbump)
+
+Don't worry about the "boss". He's intentionally easy. Talk to Fennel, grab the
+blade, and head back in time...
+   ________________________________________________
+  | A Scholar's Creed ~ Final / Conversion ~ Final \___________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Go back to "The Closed Mine" in the prologue. Go to Fennel there (next to
+      Sonja's place) for the Haste Core. If I had to guess, Fennel is talking
+      about Sonja's brother.
+
+    • Be sure to upgrade Rosch when you're in chapter 4!
+
+Go to chapter 4, "Celestian War" and talk to Elm for Historica. You don't have
+to equip it, btw. Save, then all the way back to "Demigod".
+   ___________________________________________________________________________
+  | BOSS : Hugo + Alistel Officers                                            |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | He'll summon mooks to give you a hard time. On the good side, all your    |
+  | mages will work in this battle. On the other hand, he actually hurts this |
+  | time. Will o' Wisp could work for the mooks, if they're in the corners.   |
+  | Main thing to watch out for is Wrath of God, which hurts everyone for a   |
+  | lot. Since the mooks like Anti-Magic, having a heavy hitter isn't a bad   |
+  | idea. So poison Hugo, keep trying to steal from him, and hit him hard. Oh,|
+  | and Aht's Polaris is very nice.                                           |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                               AH Final Chapter                        [WLK15]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ________________________________________________
+  | A Timely Warning / The Ultimate Skill ~ Part 5 \___________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man to the south of the Weapon Shop. Go back to chapter 6,
+      "Flux War" and talk to him again. Find him in the final chapter again for
+      Omnipedia, Gafka's last book. I don't recommend fighting quite yet.
+
+To the queen, then to Judgement Cliff. Take the northern exit by that giant
+face and the boulders.
+
+
+==================
+  Imperial Ruins
+==================
+
+Ignore everything (you're not missing anything anyway) and run north for a
+scene and fight.
+   ___________________________________________________________________________
+  | BOSS : Shadow x3                                                          |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | The blocks should die first; they're easier. However, the tiger will use  |
+  | Wild Shout when alone. So try to hit them all at once, then take out the  |
+  | tiger as fast as possible. Aht's traps are the best method, since you can |
+  | push the tiger into two at once sometimes, just be sure to use Flame Star.|
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Go north for a Panacea Plus. Then back to the first room and west. On the north
+side is a hidden Freikugel Mercy. Again to the first room, but east this time.
+Down the vine, grab the Nirvana Plate, and go east for another vine. Keep going
+till you hit a save point. Continue up the vines till you find a hidden Der
+Lowe, then back to the save point.
+
+Keep going west for a scene. Go northwest, down the vine, and grab Shield Seed
+Plus x2. Take the west exit in the save point room now, grab the Divine Water,
+and head up the vine. Follow the path all the way north for a hidden Wing
+Armlet and continue for another scene.
+
+Climb up the vine for a Superior Tea, then back down and east. Down the vines
+to the next room, where you'll find another vine. And another, and another...
+
+Once down and out, go east. You can't see it, but there's a door there. Grab
+the Tourniquet...
+   ___________________________
+  | The Starlit Trial ~ Final \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • And the hidden Icestar Pact as well.
+
+Save, use a Mana Crystal, then proceed north to Mr. Bossy.
+   ___________________________________________________________________________
+  | BOSS : Heiss + 2 Shadows                                                  |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | You want to get rid of the shadows, and quick. Aht is the easiest way,    |
+  | though she'll probably die right after managing to get rid of them. Heiss |
+  | has Dark World, which hurts everyone for a lot. I recommend Marco as your |
+  | other person, though Rosch also works. In any case, right after you have  |
+  | the blocks dealt with, turn break Heiss and start shoving him into traps. |
+  | He'll spam Dark World like crazy if you don't.                            |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+If you need items and whatnot, this is the time to do it. Go to "Aht's Prayer"
+in chapter 1 and...
+   ___________________________________________________________________________
+  | BOSS : Heiss + Shadow                                                     |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Can't get enough of him, eh? This is another good day for Aht. Heiss has  |
+  | a new, powerful move called Shadow Kill. It can easily kill one person.   |
+  | When he's alone, he'll start using Dark World again. Otherwise, however,  |
+  | he's actually a little less obnoxious and will go down easier.            |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                               SH Final Chapter                        [WLK16]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You can leave the castle if you need anything.
+
+There's a hidden barrel to the northwest, and another to the northeast. Use
+them to get through to the north and the Luminous Dress in the middle of the
+room. The next room has a block.
+
+Something cute. It'll change its weakness. Fire Change makes it ice, Ice Change
+makes it lightning.
+
+Fight it and push to the north. You'll find crystals in your way. I always ran;
+they're obnoxious. Now you have two blocks. Fight one and push it to the east.
+Grab the Celestial Oil and fight your new block. Push it north, then fight the
+other block on the island. Take that block and make another eastern path. Fight
+the block to the north and drag it to make yet another eastern path for
+Superior Tea. Next block, then north with it.
+   __________________________
+  | The Blades Trial ~ Final \_________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Drag a northern hidden barrel alllll the way back to the rocks. Blow up
+      the northern-most rock for a Soul Pact.
+
+Furthermore, if you drag the both hidden barrel to the south side of the
+rocks and make your way east with them, you should find a hidden Sky Armlet.
+Yes, it's annoying.
+
+Find the final block to the north and drag it west for Panacea Plus x2. Now
+take the northern path.
+
+Node created, save point availible. You can and should go back to any point in
+time to get items, etc. between battles.
+
+"Gafka & the Scrolls" has Healing Fruit, if you are desperate for them like I
+was. Also check it out for some nice accessories, if you need some good ones.
+
+But first, check out the southwest for hidden barrels. Drag one to the
+northwest for Tourniquet x2. Drag the other northeast, then south for Superior
+Tea x2.
+   ___________________________________________________________________________
+  | BOSS : Palomides + 2 Pure Ice                                             |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | You can kill Palomides easy with just a couple Volt Stars from Aht. Make  |
+  | sure two get set down, and push him into both at once. He'll die QUICK.   |
+  | While you can't move the Pure Ice, you can lift them. Cross Star is good  |
+  | for that.                                                                 |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ___________________________________________________________________________
+  | BOSS : Garland + 2 Silent Souls                                           |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Aht will save the day again. Similar strategy to last time.               |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ___________________________________________________________________________
+  | BOSS : Guardian                                                           |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Aht may not be the best this time... but she works, assuming the spider   |
+  | doesn't stomp on her first. You can poison still, but there isn't much    |
+  | else you can do. Just revive the dead (Marco and Stocke are best because  |
+  | of this) and have someone else attack.                                    |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   ___________________________________________________________________________
+  | BOSS : Viola + 2 Floating Stones + 2 Noble Flames                         |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Finally, a real boss. You can take Aht, but you have to be fast in        |
+  | killing the Stones. A few Will o' Wisps should take them out. You could   |
+  | also use someone like Gafka to take out the Flames, though you don't have |
+  | to. Try to use Cross Star on Viola and one or two of the flames. Once you |
+  | get the freedom to push Viola around into traps, she'll die really fast.  |
+  | I recommend Marco as the third for Trans-Turn. It's just that awesome.    |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Go north to find... Eruca! Finally. You'll also get the final node.
+
+
+=============================
+  To Grind, or Not to Grind
+=============================
+
+If you just wanna beat the final boss and ignore the rest of the sidequests,
+52 is a decent level to do so... with Raynie and Marco, which is far from the
+best of teams. You could get by with lower with a different setup.
+
+If you want to do sidequests, you'll want to grind. If they're far below Stocke
+in level, they'll gain more exp.
+
+Where to grind? Well, you have to do it without Eruca, but go to Sand Fortress
+North in AH Final Chapter and fight the flies. It's fantastic; weak enemies,
+tons of EXP. Thanks to Silverdrake of GFAQs for figuring this out.
+
+If you want to level Eruca, go to Sand Fortress anyway, then grind on the
+crystals in the final dungeon.
+
+Take the opportunity to learn what skills you haven't from Vainqueur.
+   ____________________________
+  | The Ultimate Skill ~ Final \_______________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Now is a good opportunity to finish what you started with Bergas in
+      chapter 5, "Gafka & the Scrolls". I did this at level 42.
+
+    • First battle, I changed to where Gafka could hit three times in a row and
+      used Triple Strike each time.
+
+    • Second battle, I changed so he could have two strikes, and used Musou and
+      Sky Hammer (his Mana Burst).
+   ______________
+  | The Next Foe \_____________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • To chapter 4, "A New Battle" and talk the the nearby swordsman for a
+      battle against a bear. At your level it should be easy. You'll get a
+      Pieti Edge.
+   _____________________
+  | The Road to Victory \______________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to him again for a... SPIDER. ;_; Poison, have a bunch of Holy
+      Waters, and just goddamn survive. I used 7 Holy Waters and 1 Divine
+      Water. I used Resurrection all other times. You get Moirae Manteau for
+      winning.
+   ___________________________
+  | Swordsman Recruit ~ Final \________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Talk to the man again, then go to "Demigod" of chapter 6. Go all the way
+      back up to Alistel and talk to the lady behind the counter for 8000G.
+   __________________________
+  | Thaumatech's End ~ Final \_________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • Since you're back in Alistel, talk to the old man in the Special Lab
+      again for a Medibranch.
+   _________________
+  | The Final Trial \__________________________________________________________
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    • You can do this after the final boss. Like everything else, really.
+
+    • To chapter 6, "The Three Contracts" for the hardest boss battle in the
+      game. Up your MDF as much as possible, even at the expense of DEF.
+
+      My party was Stocke 59, Aht 58, Eruca 45.
+
+    • You start out fighting the Master's House. A spider. If you survive the
+      first couple rounds, you should be able to turn break the spider with
+      everyone and NUKE with magic. Use Dancing Death with Aht a couple times,
+      then hit him with everything you have. G-Frost works great. You might
+      want to restart till his first attack isn't a damaging one, because the
+      next battle's going to hit you hard.
+
+    • The second part is against the master... four of him. They're so fond of
+      power down that you aren't getting far with physical attacks. Use Polaris
+      and Lunatic with Aht to deal with this guy, though you still need Noah
+      Amulet and Sky Drops (from Forgia) as accessories. It's not a bad idea to
+      throw a Magic Herb on Eruca, then Dancing Death + Burst Light. But this
+      may not work if Eruca is always sleeping or dead. So the other way it to
+      take them one at a time, but using more powerful techs. I recommend the
+      other way; takes longer, but it has a higher chance of working.
+
+      Start out using Shield Seed Plus, if you have them, crossing your fingers
+      qnd Dancing Death + Double Strike + G-Frost to kill one of them. Or
+      G-Frost + any Star trap + left/right assault (or Trans-turn so you can do
+      it twice, depending on the space you have). Then focus on keeping Divine
+      Light up with Eruca as Stocke and Aht go at it.
+
+      The battle gets easier as you chip away at their numbers.
+
+    • Give up Historica for True Historica.
+
+Ok, time for the final boss. If I can manage with Marco/Raynie, you can manage
+with anyone. Only one I can't recommend is Aht, though you could probably
+manage.
+   ___________________________________________________________________________
+  | BOSS : Black Chronicle + Shadows                                          |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | You must push the Shadows into the Chronicle to damage it. As you kill    |
+  | the Shadows, the Chronicle will summon more. Before finishing the battle, |
+  | you want to touch up on HP/MP.                                            |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   ___________________________________________________________________________
+  | FINAL BOSS : Apocrypha                                                    |
+  |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+  | Thought you were done? THIS is why Aht isn't a great idea. Marco isn't so |
+  | bad so long as he has Super Heal. Everyone else will work fine. The boss  |
+  | has three parts: bottom, middle, top.                                     |
+  |                                                                           |
+  | First form is very easy; hits hard, but goes down real fast. You might as |
+  | well use all your turn breaks on the second form, as form three will      |
+  | destroy your mana gauge. Anyway, the second form adds status effects to   |
+  | the mix. Just before he dies, he'll use Fallout on you, maybe twice. It   |
+  | HURTS.                                                                    |
+  |                                                                           |
+  | Then form three. This one is deadlier. Don't be afraid to use Celestial   |
+  | Oil or something if your MP is out. Panacea Plus is a must if you don't   |
+  | have Marco. If you use Eruca, use G-Frost and keep a Divine Shield on     |
+  | everyone at all times. Easier than it sounds.                             |
+  |                                                                           |
+  | If you see him use Dark Matter, DEFEND. Or Shield Seed Plus. Or Divine    |
+  | Light. The next attack is going to be one of the worst things you've ever |
+  | seen if you don't.                                                        |
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Did you do all the sidequests? There are about 10 of 'em that lead to the true
+end. You'll get an event node for each one you've done.
+
+The final choice doesn't matter.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                   Thanks                              [00005]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+FF_4ever    - Told me about the Sky Armlet I missed
+
+DigiDude77  - Told me about Mana Crystal x2 in Alistel.
+
+Arkia       - Proved that I am totally fail with east/west... XD I will forever
+              remain directionally confused, so I actually appreciate minor
+              corrections such as this more than you'd think.
+
+RUNNERSHIGH - Corrected the level at which you learn Head Crush.
+
+Spencer M.  - Corrected a sidequest reward
+
+Fwahm       - Gave the location of chests in Celestia
+
+hasone      - Told me how much damage enemies receive when they land.
+
+Ben R.      - Corrected the level at which Marco learns Trans-turn. Props to
+              Alexeon L. for being second to tell me about this.
+
+OLDHAG      - Much help when I was compiling sidequest info!
+              http://www.gamefaqs.com/boards/604160-radiant-historia/58266464
+
+And, of course, those of you who have sent me kind words as well <3
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                               Legal Information                       [00007]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+drachenmeister13 at gmail dot com
+
+Email is only if you create an account for me on your website or have some
+special thing you want to ask about.
+
+If you are a webmaster that wishes to host my guide, you can under the
+following conditions:
+
+ * The guide is free to view
+ * The guide is unaltered
+ * Credit is given to me, Drache the Dork. (*)
+
+I reserve the right to revoke permission to host my guide at any time.
+
+Sites forever denied permission:
+  * scribd.com
+  * CheatCC.com (Super scummy site. Do not support.)
+  * cheatsguru.com
+
+If you display signs that you are reading this, I love you.
+
+----
+
+(*) I have gone under the following usernames in the past:
+    - drachemeister
+    - ridalnae_drache
+   
+    Either username is an acceptable form of giving me credit. I prefer my new
+    username going forward, however.
